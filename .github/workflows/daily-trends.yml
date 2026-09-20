@@ -7,14 +7,21 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: 'Parse only, do not post to Discord'
+        description: 'Collect and print only, do not post or commit'
         type: boolean
         default: false
+
+permissions:
+  contents: write
 
 jobs:
   send:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -22,8 +29,29 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Send trends to Discord
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+      # Only needed for the Korean annotation; without ANTHROPIC_API_KEY the
+      # pipeline still runs and just shows the original text.
+      - name: Install optional deps
+        run: pip install --quiet anthropic
+
+      - name: Google Trends keywords
         run: python3 trends_to_discord.py
+
+      - name: App Store charts, reviews and signals
+        run: python3 app_charts.py
+
+      # Committing the daily snapshot is what makes day-over-day signals
+      # possible at all, and it doubles as the activity that stops GitHub
+      # disabling the schedule after 60 idle days.
+      - name: Commit today's snapshot
+        if: ${{ !inputs.dry_run }}
+        run: |
+          if [ -z "$(git status --porcelain data)" ]; then
+            echo "no data changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "data: snapshot $(date -u -d '+9 hours' +%Y-%m-%d)"
+          git push

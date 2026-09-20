@@ -20,6 +20,8 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
+import korean
+
 RSS_URL = "https://trends.google.com/trending/rss?geo={geo}"
 
 # geo code, flag, display name
@@ -29,11 +31,7 @@ COUNTRIES = [
     ("JP", "\U0001F1EF\U0001F1F5", "Japan"),
     ("GB", "\U0001F1EC\U0001F1E7", "United Kingdom"),
     ("DE", "\U0001F1E9\U0001F1EA", "Germany"),
-    ("FR", "\U0001F1EB\U0001F1F7", "France"),
-    ("IN", "\U0001F1EE\U0001F1F3", "India"),
     ("BR", "\U0001F1E7\U0001F1F7", "Brazil"),
-    ("CA", "\U0001F1E8\U0001F1E6", "Canada"),
-    ("AU", "\U0001F1E6\U0001F1FA", "Australia"),
 ]
 
 USER_AGENT = (
@@ -52,6 +50,9 @@ EMBEDS_PER_MESSAGE = 3
 MAX_MESSAGE_CHARS = 5500
 
 EMBED_COLOR = 0x4285F4
+
+# {keyword: korean}, filled in once per run by main().
+KOREAN = {}
 
 
 def localname(tag):
@@ -138,7 +139,7 @@ def build_description(country):
 
     lines = []
     for i, t in enumerate(country["trends"], 1):
-        line = "`%2d.` **%s**" % (i, clip(t["title"], 80))
+        line = "`%2d.` **%s**" % (i, clip(korean.label(t["title"], KOREAN), 80))
         if t["traffic"]:
             line += " · %s" % t["traffic"]
         news = t.get("news") or {}
@@ -241,6 +242,10 @@ def main():
         countries = COUNTRIES
 
     results = collect(countries, top_n)
+
+    global KOREAN
+    KOREAN = korean.annotate([t["title"] for c in results for t in c["trends"]])
+
     header = "\U0001F310 **World Trending Keywords** — %s KST" % datetime.now(KST).strftime(
         "%Y-%m-%d %H:%M"
     )

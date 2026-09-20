@@ -6,3 +6,5 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+
+# data/ is intentionally committed - the day-over-day signals depend on it
