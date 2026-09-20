@@ -38,10 +38,20 @@ DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/..." python3 trends_to_dis
 
 ## GitHub Actions 설정
 
-```bash
-# Secret 등록 (값은 프롬프트로 입력 → 히스토리에 안 남음)
-gh secret set DISCORD_WEBHOOK_URL
+### 1) 웹훅 URL을 저장소 Secret으로 등록
 
+웹 UI: 저장소 → **Settings → Secrets and variables → Actions →
+New repository secret** → Name `DISCORD_WEBHOOK_URL`, Secret에 웹훅 URL 붙여넣기.
+
+또는 gh CLI (값은 프롬프트로 입력되므로 셸 히스토리에 안 남는다):
+
+```bash
+gh secret set DISCORD_WEBHOOK_URL
+```
+
+### 2) 실행 / 확인
+
+```bash
 # 수동 실행 & 확인
 gh workflow run "Daily Trends to Discord"
 gh run watch
