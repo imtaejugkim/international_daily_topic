@@ -40,6 +40,10 @@ jobs:
       - name: App Store charts, reviews and signals
         run: python3 app_charts.py
 
+      # Needs ANTHROPIC_API_KEY; without it the step says so and exits 0.
+      - name: Idea brief
+        run: python3 ideas.py
+
       # Committing the daily snapshot is what makes day-over-day signals
       # possible at all, and it doubles as the activity that stops GitHub
       # disabling the schedule after 60 idle days.
