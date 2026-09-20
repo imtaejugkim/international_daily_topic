@@ -44,10 +44,12 @@ USER_AGENT = (
 KST = timezone(timedelta(hours=9))
 
 # Discord hard limits: embed title 256, description 4096, 10 embeds per
-# message, 6000 chars total per message. We stay well under all of them.
+# message, 6000 chars total per message. chunk() packs embeds by measured
+# size so the per-message total can never be reached.
 MAX_TITLE = 240
-MAX_DESC = 1000
-EMBEDS_PER_MESSAGE = 5
+MAX_DESC = 1900
+EMBEDS_PER_MESSAGE = 3
+MAX_MESSAGE_CHARS = 5500
 
 EMBED_COLOR = 0x4285F4
 
@@ -189,15 +191,35 @@ def post(webhook, payload):
         raise RuntimeError("Discord %s: %s" % (exc.code, body)) from exc
 
 
+def embed_len(embed):
+    return len(embed["title"]) + len(embed["description"])
+
+
+def chunk(embeds):
+    """Group embeds into messages that fit Discord's per-message limits."""
+    out, current, size = [], [], 0
+    for embed in embeds:
+        grows_too_big = current and (
+            len(current) >= EMBEDS_PER_MESSAGE
+            or size + embed_len(embed) > MAX_MESSAGE_CHARS
+        )
+        if grows_too_big:
+            out.append(current)
+            current, size = [], 0
+        current.append(embed)
+        size += embed_len(embed)
+    if current:
+        out.append(current)
+    return out
+
+
 def send(webhook, results, header):
-    embeds = build_embeds(results)
-    for i in range(0, len(embeds), EMBEDS_PER_MESSAGE):
-        chunk = embeds[i : i + EMBEDS_PER_MESSAGE]
-        payload = {"embeds": chunk}
+    for i, group in enumerate(chunk(build_embeds(results))):
+        payload = {"embeds": group}
         if i == 0:
             payload["content"] = header
         status = post(webhook, payload)
-        print("[discord] sent %d embeds (HTTP %s)" % (len(chunk), status), file=sys.stderr)
+        print("[discord] sent %d embeds (HTTP %s)" % (len(group), status), file=sys.stderr)
         time.sleep(1)
 
 
