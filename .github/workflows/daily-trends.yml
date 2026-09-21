@@ -24,6 +24,8 @@ jobs:
       DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
       # '0' once the brief reads well - the raw data is kept in data/ either way.
       SEND_RAW: '1'
+      # A step `if` cannot read `secrets`, but it can read `env`.
+      HAS_CLAUDE_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -45,7 +47,7 @@ jobs:
       # Runs on the Claude subscription via CLAUDE_CODE_OAUTH_TOKEN, so this
       # costs no API credit. The skill reads data/ and writes brief.json.
       - name: Write the brief
-        if: ${{ !inputs.dry_run && secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+        if: ${{ !inputs.dry_run && env.HAS_CLAUDE_TOKEN == 'true' }}
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
