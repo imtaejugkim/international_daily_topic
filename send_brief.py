@@ -6,9 +6,14 @@ Code GitHub Action, which reads the snapshots under data/ and writes
 brief.json. This file only turns that into embeds and posts them, so the
 model call and the delivery stay independent of each other.
 
+Also archives each brief under data/briefs/ and echoes it to the log. The
+brief is the part that needs tuning, so it has to stay readable after the
+run: without a copy there is no way to see what was written, and the root
+brief.json is a scratch handoff that does not survive.
+
 Environment variables:
   DISCORD_WEBHOOK_URL  Discord webhook (required unless DRY_RUN=1)
-  DRY_RUN              "1" to print instead of sending
+  DRY_RUN              "1" to print instead of sending or archiving
   BRIEF_PATH           path to the brief (default brief.json)
 """
 
@@ -16,8 +21,9 @@ import json
 import os
 import sys
 import time
+from datetime import datetime
 
-from trends_to_discord import MAX_DESC, chunk, clip, post
+from trends_to_discord import KST, MAX_DESC, chunk, clip, post
 
 FLAGS = {"KR": "\U0001F1F0\U0001F1F7", "US": "\U0001F1FA\U0001F1F8", "JP": "\U0001F1EF\U0001F1F5",
          "GB": "\U0001F1EC\U0001F1E7", "DE": "\U0001F1E9\U0001F1EA", "BR": "\U0001F1E7\U0001F1F7"}
@@ -96,19 +102,27 @@ def main():
         print("[brief] could not read %s: %s" % (path, exc), file=sys.stderr)
         return 0
 
-    date = brief.get("date", "")
+    date = brief.get("date", "") or datetime.now(KST).strftime("%Y-%m-%d")
     embeds = build_embeds(brief, date)
     print("[brief] %d themes, %d ideas -> %d embeds"
           % (len(brief.get("themes") or []), len(brief.get("ideas") or []), len(embeds)),
           file=sys.stderr)
 
+    # Echo the rendered brief so a run's output is legible in the job log.
+    for e in embeds:
+        print("\n=== %s ===" % e["title"])
+        print(e["description"])
+
+    if os.environ.get("DRY_RUN") != "1":
+        archive = os.path.join("data", "briefs", "%s.json" % date)
+        os.makedirs(os.path.dirname(archive), exist_ok=True)
+        with open(archive, "w", encoding="utf-8") as f:
+            json.dump(brief, f, ensure_ascii=False, indent=1, sort_keys=True)
+        print("[saved] %s" % archive, file=sys.stderr)
+
     header = "\U0001F9E0 **오늘의 브리프** — 뉴스·검색어·앱차트·리뷰를 읽은 결과"
 
     if os.environ.get("DRY_RUN") == "1":
-        print(header)
-        for e in embeds:
-            print("\n=== %s ===" % e["title"])
-            print(e["description"])
         return 0
 
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
