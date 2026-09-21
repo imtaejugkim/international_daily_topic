@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 """Optional Korean annotation for foreign keywords and app names.
 
+Only the raw SEND_RAW dumps use this. The daily brief is written in Korean
+by the `daily-brief` skill, which annotates foreign names itself, so nothing
+here is needed on that path.
+
 Uses the Anthropic API when ANTHROPIC_API_KEY is set and the `anthropic`
-package is installed. Without either, every lookup returns nothing and callers
-fall back to the original text. Nothing here raises: a missing translation
-must never take the daily run down with it.
+package is installed - that is separate, metered billing, unrelated to the
+subscription the brief runs on. Without the key every lookup returns nothing
+and callers fall back to the original text. Nothing here raises: a missing
+translation must never take the daily run down with it.
 """
 
 import json

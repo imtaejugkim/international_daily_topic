@@ -8,3 +8,6 @@ venv/
 .DS_Store
 
 # data/ is intentionally committed - the day-over-day signals depend on it
+
+# per-run artifact written by the daily-brief skill, not state
+brief.json

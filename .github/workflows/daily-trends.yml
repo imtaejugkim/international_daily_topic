@@ -13,16 +13,16 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 jobs:
   send:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     env:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
-      # '0' once the brief is running - the raw dumps stay in data/ either way.
+      # '0' once the brief reads well - the raw data is kept in data/ either way.
       SEND_RAW: '1'
     steps:
       - uses: actions/checkout@v4
@@ -31,11 +31,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      # Only needed for the Korean annotation; without ANTHROPIC_API_KEY the
-      # pipeline still runs and just shows the original text.
-      - name: Install optional deps
-        run: pip install --quiet anthropic
-
+      # --- collect ---------------------------------------------------------
       - name: Google Trends keywords
         run: python3 trends_to_discord.py
 
@@ -45,13 +41,28 @@ jobs:
       - name: App Store charts, reviews and signals
         run: python3 app_charts.py
 
-      # Needs ANTHROPIC_API_KEY; without it the step says so and exits 0.
-      - name: Idea brief
-        run: python3 ideas.py
+      # --- read ------------------------------------------------------------
+      # Runs on the Claude subscription via CLAUDE_CODE_OAUTH_TOKEN, so this
+      # costs no API credit. The skill reads data/ and writes brief.json.
+      - name: Write the brief
+        if: ${{ !inputs.dry_run && secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: '/daily-brief'
+          claude_args: |
+            --allowedTools "Read,Write,Glob,Grep,Bash"
+            --max-turns 40
 
+      - name: Send the brief
+        if: ${{ !inputs.dry_run }}
+        run: python3 send_brief.py
+
+      # --- keep ------------------------------------------------------------
       # Committing the daily snapshot is what makes day-over-day signals
       # possible at all, and it doubles as the activity that stops GitHub
-      # disabling the schedule after 60 idle days.
+      # disabling the schedule after 60 idle days. brief.json is a per-run
+      # artifact, not state, so it stays out of the commit.
       - name: Commit today's snapshot
         if: ${{ !inputs.dry_run }}
         run: |
