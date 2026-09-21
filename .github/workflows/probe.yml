@@ -12,5 +12,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Probe
-        run: python3 tools/probe_sources.py
+      - name: Google News headlines
+        env:
+          DRY_RUN: '1'
+        run: python3 news.py
