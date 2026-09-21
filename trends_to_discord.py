@@ -231,6 +231,25 @@ def dump(results, header):
         print(build_description(c))
 
 
+def save(results, date):
+    path = os.path.join("data", "trends", "%s.json" % date)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    payload = {
+        "date": date,
+        "trends": {
+            c["geo"]: [
+                {"title": t["title"], "traffic": t["traffic"],
+                 "news": (t.get("news") or {}).get("title", "")}
+                for t in c["trends"]
+            ]
+            for c in results
+        },
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=1, sort_keys=True)
+    print("[saved] %s" % path, file=sys.stderr)
+
+
 def main():
     top_n = int(os.environ.get("TOP_N", "10"))
     geos = os.environ.get("TREND_GEOS", "").strip()
@@ -245,6 +264,9 @@ def main():
 
     global KOREAN
     KOREAN = korean.annotate([t["title"] for c in results for t in c["trends"]])
+
+    if os.environ.get("DRY_RUN") != "1":
+        save(results, datetime.now(KST).strftime("%Y-%m-%d"))
 
     header = "\U0001F310 **World Trending Keywords** — %s KST" % datetime.now(KST).strftime(
         "%Y-%m-%d %H:%M"
@@ -264,6 +286,12 @@ def main():
     if not ok:
         print("no country returned data; not sending", file=sys.stderr)
         return 1
+
+    # Once the brief is running it is the thing worth reading; the raw dump
+    # stays available behind SEND_RAW=1 and in data/.
+    if os.environ.get("SEND_RAW", "1") != "1":
+        print("[skip] SEND_RAW is off - collected and saved only", file=sys.stderr)
+        return 0
 
     send(webhook, results, header)
     print("[done] %d/%d countries" % (ok, len(results)), file=sys.stderr)

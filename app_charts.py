@@ -302,6 +302,10 @@ def main():
         print("DISCORD_WEBHOOK_URL is not set (use DRY_RUN=1 to test)", file=sys.stderr)
         return 2
 
+    if os.environ.get("SEND_RAW", "1") != "1":
+        print("[skip] SEND_RAW is off - collected and saved only", file=sys.stderr)
+        return 0
+
     for i, group in enumerate(chunk(embeds)):
         payload = {"embeds": group}
         if i == 0:

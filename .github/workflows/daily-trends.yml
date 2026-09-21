@@ -22,6 +22,8 @@ jobs:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+      # '0' once the brief is running - the raw dumps stay in data/ either way.
+      SEND_RAW: '1'
     steps:
       - uses: actions/checkout@v4
 
@@ -36,6 +38,9 @@ jobs:
 
       - name: Google Trends keywords
         run: python3 trends_to_discord.py
+
+      - name: Google News headlines
+        run: python3 news.py
 
       - name: App Store charts, reviews and signals
         run: python3 app_charts.py
