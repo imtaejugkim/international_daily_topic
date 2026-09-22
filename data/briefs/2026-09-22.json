@@ -1,0 +1,89 @@
+{
+ "counter": "오늘은 정치·재난·지정학 뉴스 비중이 유독 높아 상품 신호로 쓸 재료가 적었다. 리뷰 표본도 앱당 6~44건으로 얇아서 '반복되는 불만'처럼 보이는 것이 실제로는 화난 소수의 과대표집일 수 있다. 특히 숏드라마 앱의 기만적 구독 문제는 이미 널리 알려진 다크패턴이라 새로운 신호라기보다 재확인에 가깝고, Vinted 계정정지 문제도 회사가 자체 개선하면 기회가 곧바로 사라지는 종속적 문제다.",
+ "countries": {
+  "BR": "룰라·보우소나루 진영 간 선거 갈등, Caixa 파업이 정치·경제 뉴스를 채운다. e-Título(전자 선거인증) 앱은 선거를 코앞에 두고 '먹통' 불만이 쏟아지고, StoryReel·ReelShort 등 숏드라마 앱은 '무료라더니 사실상 강제결제'라는 리뷰가 반복된다.",
+  "DE": "메클렌부르크포어포메른·베를린 지방선거 이후 메르츠 총리의 정치적 위기, 자동차 업계 17만5천명 규모 구조조정 반대 시위가 핵심이다. Untis(학사일정)·AusweisApp(전자신분증)·Doctolib(병원예약) 등 필수 앱이 학기 초/가을 맞아 급등했는데, 로그인 오류와 구형 OS 미지원 불만이 압도적이다.",
+  "GB": "2주 새 두 번째 항공관제 장애로 공항 대란이 반복되고, 트럼프 미디어 통제 반발 기사가 겹쳤다. GOV.UK One Login·HMRC 등 정부 앱이 차트 상위권으로 신규 진입했지만 여권 스캔 실패, 반복 신원확인 불만이 지배적이다.",
+  "JP": "치바현 산사태·태풍 25호 수해가 압도적 1면을 차지해 재난 뉴스 국가다. NHK ONE은 10월 수신료 의무화를 앞두고 반복 로그인 요구에 대한 불만이 크고, GOタクシー(택시 호출)는 배차 지연·취소 관련 불만이 많다.",
+  "KR": "대법원장 임명 갈등, 부동산 투기 억제 정책 등 국내정치가 최상위를 채웠고, 코스피 7천선 회복·반도체 무역흑자 사상 최대 등 훈풍도 있다. 앱차트에서는 아시안게임 중계로 치지직(Chzzk)이 1위로 급등했지만, 리뷰는 온통 버퍼링 오류와 '돈 안 내면 화질 제한'에 대한 분노로 채워져 있다.",
+  "US": "트럼프의 언론 통제 논란과 미중 정상회담을 둘러싼 긴장이 정치면을 지배하고, AI 데이터센터 붐에 대한 회의론(\"Wall Street Is Growing Skeptical of the Data Center Boom\")이 동시에 등장했다. 차트 1위는 메타의 AI 에이전트 'Muse'. Vinted·Depop 리뷰는 부당 계정정지 불만으로 가득하다."
+ },
+ "date": "2026-09-22",
+ "ideas": [
+  {
+   "evidence": "Vinted(US) \"banned...even though I included image proof of all of the tags\", Vinted(GB) \"sent evidence in image format don't think it was checked\", Vinted(DE) \"willkürliche Sperren...Support...tagelang im Regen stehen gelassen\"(며칠씩 방치), Depop(US) \"banned...never received my money\".",
+   "money": "이의제기 성공 시 수수료 또는 파워셀러 대상 월 구독.",
+   "one_liner": "물건을 올리기 전에 정품 태그·시리얼·상태를 타임스탬프와 함께 찍어두고, 플랫폼이 '위조품 의심'으로 계정을 막으면 즉시 이의제기 패키지를 자동 생성해주는 앱.",
+   "risk": "Vinted·Depop이 자체 이의제기 프로세스를 개선하면 무력화된다. 또한 플랫폼 정책 변경(약관 위반 판정 기준)은 외부에서 통제 불가능한 영역이라 근본 해결책은 아니다.",
+   "shape": "화면1: 리스팅 전 사진/영상 촬영(태그·시리얼·영수증)과 타임스탬프 자동 서명, 화면2: 계정정지 통보 캡처를 붙이면 보관된 증거로 이의제기 문서 자동 작성, 화면3: 제출 이력·플랫폼별 응답 추적.",
+   "test": "레딧 r/vinted, r/Depop에 '계정정지 당했을 때 어떤 증거가 통했나' 설문 글을 올리고 반응·DM 수요 확인.",
+   "title": "중고거래 판매자용 '증거 보관함'",
+   "who": "빈티드·디팝에서 명품·한정판 운동화를 되팔다가 갑자기 '위조품 의심'으로 계정이 막히고 정산금이 묶인 판매자"
+  },
+  {
+   "evidence": "StoryReel(US) \"Multiple daily attempts to debit money from my account\" / \"Cannot Cancel Subscription...does not show under Apple subscriptions\", StoryReel(BR) \"não aparece nas configurações de assinatura\"(애플 구독설정에 안 뜸), ReelShort(BR) \"Anunciam como se fosse gratuito...anúncio enganosa\"(기만광고). 같은 날 KR 차트 3위도 동일 계열 앱 NetShort.",
+   "money": "환불 성공 시 성과 수수료.",
+   "one_liner": "'무료'라고 광고하지만 애플 구독 목록에도 안 뜨는 자동결제로 돈을 빼가는 숏드라마 앱 피해자를 위해, 결제 캡처만 올리면 표준 환불·차지백 요청서를 만들어주는 서비스.",
+   "risk": "Rocket Money 같은 구독관리 앱이 이미 존재하고, 애플·구글이 구독 관리 정책을 강화하면 시장 자체가 줄어든다. 또한 개별 환불 성공률이 낮으면 사업성이 약하다.",
+   "shape": "화면1: 결제 캡처/명세서 업로드하면 앱 식별, 화면2: 해당 앱의 알려진 취소 경로(App Store 구독관리 우회 여부 포함)와 카드사 차지백용 문구 자동 생성, 화면3: 환불 진행 상태 추적.",
+   "test": "'StoryReel/ReelShort 환불 어떻게 했나' 제목으로 레딧·디시 스레드를 만들어 실제 피해 사례와 반응 수 확인.",
+   "title": "숏드라마 앱 강제결제 환불 대행",
+   "who": "숏드라마 앱을 '무료'인 줄 알고 받았다가 카드 명세서에서 반복 결제를 발견한 사람"
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "US",
+    "GB",
+    "DE"
+   ],
+   "evidence": "Vinted 리뷰: (US) \"banned for trying to sell shoes...even though I included image proof\", (GB) \"banned straight away...after I sent evidence in image format don't think it was checked\", (DE) \"Absolute Enttäuschung. Inkompetenter Support und willkürliche Sperren\"(불합리한 계정 정지). Depop(US)도 \"banned...never received my money\" 동일 패턴.",
+   "so_what": "위조·사기 방지 알고리즘이 정상 판매자까지 오탐하고, 이의제기 창구는 AI 자동응답이라 사람이 안 본다는 불만이 3개국에서 똑같이 나온다.",
+   "theme": "중고거래 플랫폼의 '묻지마 계정정지'가 미·영·독에서 동시에 터졌다"
+  },
+  {
+   "countries": [
+    "KR",
+    "US",
+    "DE",
+    "BR"
+   ],
+   "evidence": "KR \"AI가 인류 죽인다?…'2030년 종말론'에 젠슨 황 한 말\", US \"Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world'\", DE \"KI-Apokalypse: 이 자산에 투자하라는 전문가 조언\", BR \"A IA pode ter vontade própria ou se revoltar contra humanos?\"",
+   "so_what": "같은 하루에 한 발언이 번역·재가공되어 4개국 매체를 동시에 돌았다는 것 자체가, AI 불안이 이제 로컬 뉴스 소재가 아니라 표준 클릭기사 포맷이 됐다는 뜻이다.",
+   "theme": "젠슨 황 vs 'AI 종말론' 논쟁이 4개국 헤드라인에 동시에 떴다"
+  },
+  {
+   "countries": [
+    "US",
+    "JP",
+    "GB",
+    "BR"
+   ],
+   "evidence": "US \"Google opens pre-orders for $899 Googlebook laptops built around Gemini AI\", GB \"The long dream of the Googlebook\", BR \"Google lança notebook com IA para competir com MacBooks\", JP도 동일 소식 보도. 같은 날 KR 검색어는 '제미나이'가 10000+로 최상위.",
+   "so_what": "애플 맥북 대항마로 나온 AI 내장 노트북에 대한 관심이 검색(KR)과 보도(US/JP/GB/BR) 양쪽에서 동시에 확인된다.",
+   "theme": "구글 Googlebook($899) 노트북 출시가 미·일·영·브 테크면을 장악"
+  },
+  {
+   "countries": [
+    "GB",
+    "DE",
+    "JP"
+   ],
+   "evidence": "GB GOV.UK One Login \"Proving who I am again...previously carried out this painful procedure for my passport\", DE Doctolib \"Ständige Abmeldung, sodass man sich ständig neu anmelden muss\"(4~5시간마다 강제 로그아웃), JP NHK ONE \"何度も何度も...登録して下さいと言ってくる\"(계속 계정등록 요구).",
+   "so_what": "서로 다른 나라의 서로 다른 필수 앱(신원인증/병원예약/공영방송)이 같은 날 같은 불만—세션이 너무 자주 끊겨 반복 인증을 시킨다—으로 몸살을 앓고 있다.",
+   "theme": "정부·필수 서비스 앱이 차트에서 급등하는데, 반복 로그인 피로가 리뷰를 뒤덮는다"
+  },
+  {
+   "countries": [
+    "US",
+    "GB",
+    "DE",
+    "BR"
+   ],
+   "evidence": "US \"Trump inaugurates new White House helipad, but networks skip coverage during First Amendment fight\", GB \"US TV networks suspend White House pool coverage over Trump media ban\", DE \"Trump schmeißt Presse aus dem Weißen Haus – jetzt schlagen mehrere US-Sender zurück\", BR \"veículos de imprensa reagem ao banimento de Trump e suspendem cobertura em conjunto\".",
+   "so_what": "미국 언론자유 이슈가 국내 정치 사안을 넘어 4개국 모두의 1면 뉴스가 될 만큼 국제적 파장을 낳고 있다.",
+   "theme": "트럼프의 '백악관 취재 보이콧'이 4개국 정치면 1면을 차지"
+  }
+ ]
+}
