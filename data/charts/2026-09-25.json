@@ -1,0 +1,1709 @@
+{
+ "charts": {
+  "br": [
+   {
+    "artist": "Tribunal Superior Eleitoral",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1320338088",
+    "name": "e-Título",
+    "rank": 1
+   },
+   {
+    "artist": "OpenAI OpCo, LLC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6448311069",
+    "name": "ChatGPT",
+    "rank": 2
+   },
+   {
+    "artist": "NewLeaf Publishing",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1636235979",
+    "name": "ReelShort - Stream Drama & TV",
+    "rank": 3
+   },
+   {
+    "artist": "TikTok Ltd.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6754134922",
+    "name": "PineDrama - Séries Curtas",
+    "rank": 4
+   },
+   {
+    "artist": "Temu",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1641486558",
+    "name": "Temu: Compre como bilionário",
+    "rank": 5
+   },
+   {
+    "artist": "MercadoLibre",
+    "genre_ids": [],
+    "genres": [],
+    "id": "463624852",
+    "name": "Mercado Livre: Fazer Compritta",
+    "rank": 6
+   },
+   {
+    "artist": "CloudWalk, Inc.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1506929912",
+    "name": "InfinitePay Tap, Conta, Cartão",
+    "rank": 7
+   },
+   {
+    "artist": "Meta Platforms, Inc.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1558240027",
+    "name": "Meta AI",
+    "rank": 8
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6477489729",
+    "name": "Google Gemini",
+    "rank": 9
+   },
+   {
+    "artist": "SPRING(SG)PTE.LTD.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6451431247",
+    "name": "Dola: assist. inteligente (IA)",
+    "rank": 10
+   },
+   {
+    "artist": "SHPS I Private Limited",
+    "genre_ids": [
+     "6024"
+    ],
+    "genres": [
+     "Compras"
+    ],
+    "id": "1481812175",
+    "name": "Shopee: Compre de Tudo Online",
+    "rank": 11
+   },
+   {
+    "artist": "Servicos e Informacoes do Brasil",
+    "genre_ids": [
+     "6002"
+    ],
+    "genres": [
+     "Utilidades"
+    ],
+    "id": "1506827551",
+    "name": "gov.br",
+    "rank": 12
+   },
+   {
+    "artist": "Equinox Enterprises‌ Technology Limited",
+    "genre_ids": [
+     "6016"
+    ],
+    "genres": [
+     "Entreteni­mento"
+    ],
+    "id": "6761538521",
+    "name": "StoryReel: Dramas Curtos e TV",
+    "rank": 13
+   },
+   {
+    "artist": "99 TECNOLOGIA LTDA",
+    "genre_ids": [
+     "6003",
+     "6023"
+    ],
+    "genres": [
+     "Viagens",
+     "Gastronomia e bebidas"
+    ],
+    "id": "553663691",
+    "name": "99: Corridas, Food, Pay",
+    "rank": 14
+   },
+   {
+    "artist": "Instagram, Inc.",
+    "genre_ids": [
+     "6008",
+     "6007"
+    ],
+    "genres": [
+     "Foto e vídeo",
+     "Produtividade"
+    ],
+    "id": "6738967378",
+    "name": "Edits: Editor de Vídeo",
+    "rank": 15
+   },
+   {
+    "artist": "Bytedance Pte. Ltd",
+    "genre_ids": [
+     "6008"
+    ],
+    "genres": [
+     "Foto e vídeo"
+    ],
+    "id": "1500855883",
+    "name": "CapCut - Editor de vídeo",
+    "rank": 16
+   },
+   {
+    "artist": "TikTok Ltd.",
+    "genre_ids": [
+     "6016",
+     "6008"
+    ],
+    "genres": [
+     "Entreteni­mento",
+     "Foto e vídeo"
+    ],
+    "id": "835599320",
+    "name": "TikTok: Vídeos, Músicas & LIVE",
+    "rank": 17
+   },
+   {
+    "artist": "MercadoLibre",
+    "genre_ids": [
+     "6015"
+    ],
+    "genres": [
+     "Finanças"
+    ],
+    "id": "925436649",
+    "name": "Mercado Pago: banco digital",
+    "rank": 18
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [
+     "6010",
+     "6023"
+    ],
+    "genres": [
+     "Navegação",
+     "Gastronomia e bebidas"
+    ],
+    "id": "585027354",
+    "name": "Google Maps",
+    "rank": 19
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [
+     "6002",
+     "6006"
+    ],
+    "genres": [
+     "Utilidades",
+     "Referência"
+    ],
+    "id": "284815942",
+    "name": "Google",
+    "rank": 20
+   },
+   {
+    "artist": "PicPay Apps",
+    "genre_ids": [
+     "6015",
+     "6000"
+    ],
+    "genres": [
+     "Finanças",
+     "Negócios"
+    ],
+    "id": "561524792",
+    "name": "PicPay: Conta, Cartão e Pix",
+    "rank": 21
+   },
+   {
+    "artist": "Meta Platforms, Inc.",
+    "genre_ids": [
+     "6005"
+    ],
+    "genres": [
+     "Redes sociais"
+    ],
+    "id": "284882215",
+    "name": "Facebook",
+    "rank": 22
+   },
+   {
+    "artist": "NU PAGAMENTOS S/A INSTITUICAO DE PAGAMENTO",
+    "genre_ids": [
+     "6015",
+     "6007"
+    ],
+    "genres": [
+     "Finanças",
+     "Produtividade"
+    ],
+    "id": "814456780",
+    "name": "Nubank: Conta, Cartão e mais",
+    "rank": 23
+   },
+   {
+    "artist": "Caixa Econômica Federal",
+    "genre_ids": [
+     "6015"
+    ],
+    "genres": [
+     "Finanças"
+    ],
+    "id": "1485424267",
+    "name": "CAIXA Tem",
+    "rank": 24
+   },
+   {
+    "artist": "iFood",
+    "genre_ids": [
+     "6023",
+     "6012"
+    ],
+    "genres": [
+     "Gastronomia e bebidas",
+     "Estilo de vida"
+    ],
+    "id": "483017239",
+    "name": "iFood: pedir delivery em casa",
+    "rank": 25
+   }
+  ],
+  "de": [
+   {
+    "artist": "RTL interactive",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1057991212",
+    "name": "RTL+",
+    "rank": 1
+   },
+   {
+    "artist": "OpenAI OpCo, LLC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6448311069",
+    "name": "ChatGPT",
+    "rank": 2
+   },
+   {
+    "artist": "CouponBirds Inc",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1625279562",
+    "name": "CouponBirds: Deals, Gutscheine",
+    "rank": 3
+   },
+   {
+    "artist": "Deutsche Post AG",
+    "genre_ids": [],
+    "genres": [],
+    "id": "329315203",
+    "name": "Post & DHL",
+    "rank": 4
+   },
+   {
+    "artist": "Anthropic PBC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6473753684",
+    "name": "Claude by Anthropic",
+    "rank": 5
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6477489729",
+    "name": "Google Gemini",
+    "rank": 6
+   },
+   {
+    "artist": "Vinted Limited",
+    "genre_ids": [],
+    "genres": [],
+    "id": "632064380",
+    "name": "Vinted: Secondhand-Marktplatz",
+    "rank": 7
+   },
+   {
+    "artist": "Untis GmbH",
+    "genre_ids": [],
+    "genres": [],
+    "id": "926186904",
+    "name": "Untis Mobile",
+    "rank": 8
+   },
+   {
+    "artist": "Abbott Labs",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6790581098",
+    "name": "Libre von Abbott - DE",
+    "rank": 9
+   },
+   {
+    "artist": "Governikus Service GmbH",
+    "genre_ids": [],
+    "genres": [],
+    "id": "948660805",
+    "name": "AusweisApp Bund",
+    "rank": 10
+   },
+   {
+    "artist": "Microsoft Corporation",
+    "genre_ids": [
+     "6000",
+     "6007"
+    ],
+    "genres": [
+     "Wirtschaft",
+     "Produktivität"
+    ],
+    "id": "1113153706",
+    "name": "Microsoft Teams",
+    "rank": 11
+   },
+   {
+    "artist": "Nect",
+    "genre_ids": [
+     "6007",
+     "6015"
+    ],
+    "genres": [
+     "Produktivität",
+     "Finanzen"
+    ],
+    "id": "1331065474",
+    "name": "Nect Wallet",
+    "rank": 12
+   },
+   {
+    "artist": "Bundesagentur für Arbeit",
+    "genre_ids": [
+     "6002",
+     "6007"
+    ],
+    "genres": [
+     "Dienst­programme",
+     "Produktivität"
+    ],
+    "id": "6759037657",
+    "name": "BA-Secure",
+    "rank": 13
+   },
+   {
+    "artist": "Microsoft Corporation",
+    "genre_ids": [
+     "6007",
+     "6002"
+    ],
+    "genres": [
+     "Produktivität",
+     "Dienst­programme"
+    ],
+    "id": "983156458",
+    "name": "Microsoft Authenticator",
+    "rank": 14
+   },
+   {
+    "artist": "Shopify Inc.",
+    "genre_ids": [
+     "6024",
+     "6002"
+    ],
+    "genres": [
+     "Shopping",
+     "Dienst­programme"
+    ],
+    "id": "1223471316",
+    "name": "Shop: Tracken, Zahlen, Finden",
+    "rank": 15
+   },
+   {
+    "artist": "Doctolib",
+    "genre_ids": [
+     "6020",
+     "6013"
+    ],
+    "genres": [
+     "Medizin",
+     "Gesundheit und Fitness"
+    ],
+    "id": "925339063",
+    "name": "Doctolib - Die Gesundheits-App",
+    "rank": 16
+   },
+   {
+    "artist": "Meta Platforms, Inc.",
+    "genre_ids": [
+     "6007",
+     "6008"
+    ],
+    "genres": [
+     "Produktivität",
+     "Foto und Video"
+    ],
+    "id": "1558240027",
+    "name": "Meta AI",
+    "rank": 17
+   },
+   {
+    "artist": "Duolingo",
+    "genre_ids": [
+     "6017",
+     "6005"
+    ],
+    "genres": [
+     "Bildung",
+     "Soziale Netze"
+    ],
+    "id": "570060128",
+    "name": "Duolingo: Sprachen und Schach",
+    "rank": 18
+   },
+   {
+    "artist": "Star Finanz GmbH",
+    "genre_ids": [
+     "6015",
+     "6007"
+    ],
+    "genres": [
+     "Finanzen",
+     "Produktivität"
+    ],
+    "id": "563488727",
+    "name": "S-pushTAN",
+    "rank": 19
+   },
+   {
+    "artist": "Bytedance Pte. Ltd",
+    "genre_ids": [
+     "6008"
+    ],
+    "genres": [
+     "Foto und Video"
+    ],
+    "id": "1500855883",
+    "name": "CapCut: Foto- und Video-Editor",
+    "rank": 20
+   },
+   {
+    "artist": "Lidl Digital International GmbH & Co. KG",
+    "genre_ids": [
+     "6024",
+     "6012"
+    ],
+    "genres": [
+     "Shopping",
+     "Lifestyle"
+    ],
+    "id": "1238611143",
+    "name": "Lidl Plus",
+    "rank": 21
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [
+     "6002",
+     "6006"
+    ],
+    "genres": [
+     "Dienst­programme",
+     "Nachschlagewerke"
+    ],
+    "id": "284815942",
+    "name": "Google",
+    "rank": 22
+   },
+   {
+    "artist": "Uber Technologies, Inc.",
+    "genre_ids": [
+     "6003",
+     "6012"
+    ],
+    "genres": [
+     "Reisen",
+     "Lifestyle"
+    ],
+    "id": "368677368",
+    "name": "Uber: Ride-Hailing & Taxis",
+    "rank": 23
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [
+     "6010",
+     "6023"
+    ],
+    "genres": [
+     "Navigation",
+     "Essen und Trinken"
+    ],
+    "id": "585027354",
+    "name": "Google Maps",
+    "rank": 24
+   },
+   {
+    "artist": "Star Finanz GmbH",
+    "genre_ids": [
+     "6015",
+     "6000"
+    ],
+    "genres": [
+     "Finanzen",
+     "Wirtschaft"
+    ],
+    "id": "320599923",
+    "name": "Sparkasse Ihre mobile Filiale",
+    "rank": 25
+   }
+  ],
+  "gb": [
+   {
+    "artist": "Lloyds Banking Group",
+    "genre_ids": [],
+    "genres": [],
+    "id": "469964520",
+    "name": "Lloyds Mobile Banking",
+    "rank": 1
+   },
+   {
+    "artist": "Government Digital Service",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6737119425",
+    "name": "GOV.UK One Login",
+    "rank": 2
+   },
+   {
+    "artist": "OpenAI OpCo, LLC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6448311069",
+    "name": "ChatGPT",
+    "rank": 3
+   },
+   {
+    "artist": "Playful Rewards",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1631584032",
+    "name": "PLAYFUL REWARDS: Earn Rewards",
+    "rank": 4
+   },
+   {
+    "artist": "InPost UK Ltd",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1591214233",
+    "name": "InPost UK",
+    "rank": 5
+   },
+   {
+    "artist": "Meta Platforms, Inc.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1558240027",
+    "name": "Meta AI",
+    "rank": 6
+   },
+   {
+    "artist": "Microsoft Corporation",
+    "genre_ids": [],
+    "genres": [],
+    "id": "983156458",
+    "name": "Microsoft Authenticator",
+    "rank": 7
+   },
+   {
+    "artist": "Microsoft Corporation",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1113153706",
+    "name": "Microsoft Teams",
+    "rank": 8
+   },
+   {
+    "artist": "Ticketmaster",
+    "genre_ids": [],
+    "genres": [],
+    "id": "500003565",
+    "name": "Ticketmaster－Buy, Sell Tickets",
+    "rank": 9
+   },
+   {
+    "artist": "Freecash - Get Paid Real Money",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1673567402",
+    "name": "Freecash - Earn Money",
+    "rank": 10
+   },
+   {
+    "artist": "Too Good To Go",
+    "genre_ids": [
+     "6023",
+     "6012"
+    ],
+    "genres": [
+     "Food & Drink",
+     "Lifestyle"
+    ],
+    "id": "1060683933",
+    "name": "Too Good To Go: End Food Waste",
+    "rank": 11
+   },
+   {
+    "artist": "Whatnot Inc.",
+    "genre_ids": [
+     "6024",
+     "6012"
+    ],
+    "genres": [
+     "Shopping",
+     "Lifestyle"
+    ],
+    "id": "1488269261",
+    "name": "Whatnot: Shop, Sell, Connect",
+    "rank": 12
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [
+     "6010",
+     "6023"
+    ],
+    "genres": [
+     "Navigation",
+     "Food & Drink"
+    ],
+    "id": "585027354",
+    "name": "Google Maps",
+    "rank": 13
+   },
+   {
+    "artist": "Tesco",
+    "genre_ids": [
+     "6024",
+     "6023"
+    ],
+    "genres": [
+     "Shopping",
+     "Food & Drink"
+    ],
+    "id": "389581236",
+    "name": "Tesco Grocery & Clubcard",
+    "rank": 14
+   },
+   {
+    "artist": "HMRC",
+    "genre_ids": [
+     "6015"
+    ],
+    "genres": [
+     "Finance"
+    ],
+    "id": "514561561",
+    "name": "HMRC",
+    "rank": 15
+   },
+   {
+    "artist": "WhatsApp Inc.",
+    "genre_ids": [
+     "6005",
+     "6002"
+    ],
+    "genres": [
+     "Social Networking",
+     "Utilities"
+    ],
+    "id": "310633997",
+    "name": "WhatsApp Messenger",
+    "rank": 16
+   },
+   {
+    "artist": "Equinox Enterprises‌ Technology Limited",
+    "genre_ids": [
+     "6016"
+    ],
+    "genres": [
+     "Entertainment"
+    ],
+    "id": "6761538521",
+    "name": "StoryReel: Drama Shorts & TV",
+    "rank": 17
+   },
+   {
+    "artist": "Vinted Limited",
+    "genre_ids": [
+     "6024",
+     "6012"
+    ],
+    "genres": [
+     "Shopping",
+     "Lifestyle"
+    ],
+    "id": "632064380",
+    "name": "Vinted: Shop & sell pre-loved",
+    "rank": 18
+   },
+   {
+    "artist": "Amazon",
+    "genre_ids": [
+     "6024",
+     "6012"
+    ],
+    "genres": [
+     "Shopping",
+     "Lifestyle"
+    ],
+    "id": "335187483",
+    "name": "Amazon Shopping",
+    "rank": 19
+   },
+   {
+    "artist": "Anthropic PBC",
+    "genre_ids": [
+     "6007",
+     "6000"
+    ],
+    "genres": [
+     "Productivity",
+     "Business"
+    ],
+    "id": "6473753684",
+    "name": "Claude by Anthropic",
+    "rank": 20
+   },
+   {
+    "artist": "Monzo Bank Limited",
+    "genre_ids": [
+     "6015"
+    ],
+    "genres": [
+     "Finance"
+    ],
+    "id": "1052238659",
+    "name": "Monzo Bank - Mobile Banking",
+    "rank": 21
+   },
+   {
+    "artist": "Bytedance Pte. Ltd",
+    "genre_ids": [
+     "6008"
+    ],
+    "genres": [
+     "Photo & Video"
+    ],
+    "id": "1500855883",
+    "name": "CapCut: Photo & Video Editor",
+    "rank": 22
+   },
+   {
+    "artist": "Instagram, Inc.",
+    "genre_ids": [
+     "6008",
+     "6005"
+    ],
+    "genres": [
+     "Photo & Video",
+     "Social Networking"
+    ],
+    "id": "389801252",
+    "name": "Instagram",
+    "rank": 23
+   },
+   {
+    "artist": "Microsoft Corporation",
+    "genre_ids": [
+     "6007",
+     "6000"
+    ],
+    "genres": [
+     "Productivity",
+     "Business"
+    ],
+    "id": "541164041",
+    "name": "Microsoft Copilot",
+    "rank": 24
+   },
+   {
+    "artist": "UNiDAYS",
+    "genre_ids": [
+     "6024",
+     "6012"
+    ],
+    "genres": [
+     "Shopping",
+     "Lifestyle"
+    ],
+    "id": "599608562",
+    "name": "UNiDAYS: Student Discount App",
+    "rank": 25
+   }
+  ],
+  "jp": [
+   {
+    "artist": "new chat",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6587576438",
+    "name": "setlog",
+    "rank": 1
+   },
+   {
+    "artist": "OpenAI OpCo, LLC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6448311069",
+    "name": "ChatGPT",
+    "rank": 2
+   },
+   {
+    "artist": "amo",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6471519217",
+    "name": "Bump（旧Zenly）",
+    "rank": 3
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6477489729",
+    "name": "Google Gemini",
+    "rank": 4
+   },
+   {
+    "artist": "FLEXTECH INC.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1509453185",
+    "name": "TeraBox: 1TB クラウド & AI スペース",
+    "rank": 5
+   },
+   {
+    "artist": "NETSTORY PTE. LTD.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6504849169",
+    "name": "NetShort - 人気短編ドラマ",
+    "rank": 6
+   },
+   {
+    "artist": "SUNTORY BEVERAGE SOLUTION LIMITED",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6667104573",
+    "name": "ジハンピ",
+    "rank": 7
+   },
+   {
+    "artist": "デジタル庁",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1476359069",
+    "name": "マイナアプリ（旧マイナポータルアプリ）",
+    "rank": 8
+   },
+   {
+    "artist": "TVer INC.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "830340223",
+    "name": "TVer(ティーバー) 民放公式テレビ配信サービス",
+    "rank": 9
+   },
+   {
+    "artist": "TikTok Ltd.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6447160980",
+    "name": "TikTok Lite",
+    "rank": 10
+   },
+   {
+    "artist": "U-NEXT Co.,Ltd.",
+    "genre_ids": [
+     "6016",
+     "6012"
+    ],
+    "genres": [
+     "エンターテインメント",
+     "ライフスタイル"
+    ],
+    "id": "882477693",
+    "name": "U-NEXT - 映画やドラマ、アニメなどの動画が見放題",
+    "rank": 11
+   },
+   {
+    "artist": "Recruit Co.,Ltd.",
+    "genre_ids": [
+     "6023",
+     "6012"
+    ],
+    "genres": [
+     "フード／ドリンク",
+     "ライフスタイル"
+    ],
+    "id": "290033990",
+    "name": "ホットペッパーグルメ",
+    "rank": 12
+   },
+   {
+    "artist": "Microsoft Corporation",
+    "genre_ids": [
+     "6007",
+     "6000"
+    ],
+    "genres": [
+     "仕事効率化",
+     "ビジネス"
+    ],
+    "id": "541164041",
+    "name": "Microsoft Copilot",
+    "rank": 13
+   },
+   {
+    "artist": "Rakuten Travel Inc.",
+    "genre_ids": [
+     "6003",
+     "6000"
+    ],
+    "genres": [
+     "旅行",
+     "ビジネス"
+    ],
+    "id": "300815151",
+    "name": "楽天トラベル-ホテル予約や航空券,宿泊の予約できる旅行アプリ",
+    "rank": 14
+   },
+   {
+    "artist": "CP One Japan G.K.",
+    "genre_ids": [
+     "6023"
+    ],
+    "genres": [
+     "フード／ドリンク"
+    ],
+    "id": "6739188587",
+    "name": "Rocket Now : 出前/フードデリバリー",
+    "rank": 15
+   },
+   {
+    "artist": "PAN PACIFIC INTERNATIONAL HOLDINGS CORPORATION",
+    "genre_ids": [
+     "6012",
+     "6015"
+    ],
+    "genres": [
+     "ライフスタイル",
+     "ファイナンス"
+    ],
+    "id": "1001883210",
+    "name": "majica～電子マネー公式アプリ～",
+    "rank": 16
+   },
+   {
+    "artist": "Instagram, Inc.",
+    "genre_ids": [
+     "6005",
+     "6016"
+    ],
+    "genres": [
+     "ソーシャルネットワーキング",
+     "エンターテインメント"
+    ],
+    "id": "6446901002",
+    "name": "Threads",
+    "rank": 17
+   },
+   {
+    "artist": "Recruit Co.,Ltd.",
+    "genre_ids": [
+     "6003",
+     "6012"
+    ],
+    "genres": [
+     "旅行",
+     "ライフスタイル"
+    ],
+    "id": "366264405",
+    "name": "じゃらん",
+    "rank": 18
+   },
+   {
+    "artist": "Netflix, Inc.",
+    "genre_ids": [
+     "6016",
+     "6012"
+    ],
+    "genres": [
+     "エンターテインメント",
+     "ライフスタイル"
+    ],
+    "id": "363590051",
+    "name": "Netflix",
+    "rank": 19
+   },
+   {
+    "artist": "Duolingo",
+    "genre_ids": [
+     "6017",
+     "6005"
+    ],
+    "genres": [
+     "教育",
+     "ソーシャルネットワーキング"
+    ],
+    "id": "570060128",
+    "name": "Duolingo-英語/韓国語などのリスニングや英単語の練習",
+    "rank": 20
+   },
+   {
+    "artist": "DigiKar, Inc",
+    "genre_ids": [
+     "6020",
+     "6013"
+    ],
+    "genres": [
+     "メディカル",
+     "ヘルスケア／フィットネス"
+    ],
+    "id": "1563102530",
+    "name": "M3デジカルスマート診察券",
+    "rank": 21
+   },
+   {
+    "artist": "Starbucks Coffee Company",
+    "genre_ids": [
+     "6023",
+     "6012"
+    ],
+    "genres": [
+     "フード／ドリンク",
+     "ライフスタイル"
+    ],
+    "id": "1113037275",
+    "name": "スターバックス ジャパン公式モバイルアプリ",
+    "rank": 22
+   },
+   {
+    "artist": "RECRUIT MUFG BUSINESS, CO., LTD.",
+    "genre_ids": [
+     "6015"
+    ],
+    "genres": [
+     "ファイナンス"
+    ],
+    "id": "1549123889",
+    "name": "エアウォレット",
+    "rank": 23
+   },
+   {
+    "artist": "Shopify Inc.",
+    "genre_ids": [
+     "6024",
+     "6002"
+    ],
+    "genres": [
+     "ショッピング",
+     "ユーティリティ"
+    ],
+    "id": "1223471316",
+    "name": "Shop：追跡・購入・発見",
+    "rank": 24
+   },
+   {
+    "artist": "Scatter Lab, Inc.",
+    "genre_ids": [
+     "6016"
+    ],
+    "genres": [
+     "エンターテインメント"
+    ],
+    "id": "1619030760",
+    "name": "zeta - AIキャラ・あなたの推しとロールプレイチャット",
+    "rank": 25
+   }
+  ],
+  "kr": [
+   {
+    "artist": "NETSTORY PTE. LTD.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6504849169",
+    "name": "NetShort - 인기 드라마 및 TV 프로그램",
+    "rank": 1
+   },
+   {
+    "artist": "ironpig Inc.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6783366739",
+    "name": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
+    "rank": 2
+   },
+   {
+    "artist": "SNOW Corporation",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6781998623",
+    "name": "101cam - 필름 & 디지털 카메라",
+    "rank": 3
+   },
+   {
+    "artist": "Hana Bank",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6743190232",
+    "name": "하나은행, 새로워진 하나원큐를 경험해 보세요",
+    "rank": 4
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6477489729",
+    "name": "Google Gemini",
+    "rank": 5
+   },
+   {
+    "artist": "NAVER Corp.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6738063154",
+    "name": "네이버플러스 스토어",
+    "rank": 6
+   },
+   {
+    "artist": "CJ CGV Co.ltd",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6738896323",
+    "name": "CGV",
+    "rank": 7
+   },
+   {
+    "artist": "Duolingo",
+    "genre_ids": [],
+    "genres": [],
+    "id": "570060128",
+    "name": "듀오링고(Duolingo): 언어 학습",
+    "rank": 8
+   },
+   {
+    "artist": "Anthropic PBC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6473753684",
+    "name": "Claude by Anthropic",
+    "rank": 9
+   },
+   {
+    "artist": "OpenAI OpCo, LLC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6448311069",
+    "name": "ChatGPT",
+    "rank": 10
+   },
+   {
+    "artist": "BGFretail Co., Ltd.",
+    "genre_ids": [
+     "6012",
+     "6002"
+    ],
+    "genres": [
+     "라이프스타일",
+     "유틸리티"
+    ],
+    "id": "573144133",
+    "name": "포켓CU",
+    "rank": 11
+   },
+   {
+    "artist": "Meta Platforms, Inc.",
+    "genre_ids": [
+     "6007",
+     "6008"
+    ],
+    "genres": [
+     "생산성",
+     "사진 및 비디오"
+    ],
+    "id": "1558240027",
+    "name": "Meta AI",
+    "rank": 12
+   },
+   {
+    "artist": "Viva Republica",
+    "genre_ids": [
+     "6015",
+     "6012"
+    ],
+    "genres": [
+     "금융",
+     "라이프스타일"
+    ],
+    "id": "839333328",
+    "name": "토스",
+    "rank": 13
+   },
+   {
+    "artist": "Naver Financial Corporation",
+    "genre_ids": [
+     "6015"
+    ],
+    "genres": [
+     "금융"
+    ],
+    "id": "1554807824",
+    "name": "네이버페이",
+    "rank": 14
+   },
+   {
+    "artist": "YANOLJA CO.,LTD",
+    "genre_ids": [
+     "6003",
+     "6012"
+    ],
+    "genres": [
+     "여행",
+     "라이프스타일"
+    ],
+    "id": "436731843",
+    "name": "NOL : 야놀자와 인터파크의 새로운 이름",
+    "rank": 15
+   },
+   {
+    "artist": "Kakao Mobility Corp.",
+    "genre_ids": [
+     "6010"
+    ],
+    "genres": [
+     "내비게이션"
+    ],
+    "id": "417698849",
+    "name": "카카오내비 - 주차,발렛,전기차충전,세차,보험,중고차",
+    "rank": 16
+   },
+   {
+    "artist": "Tabling.inc",
+    "genre_ids": [
+     "6023",
+     "6012"
+    ],
+    "genres": [
+     "음식 및 음료",
+     "라이프스타일"
+    ],
+    "id": "1388891287",
+    "name": "테이블링",
+    "rank": 17
+   },
+   {
+    "artist": "Annhouse Co., Ltd",
+    "genre_ids": [
+     "6023"
+    ],
+    "genres": [
+     "음식 및 음료"
+    ],
+    "id": "1473428031",
+    "name": "메가MGC커피",
+    "rank": 18
+   },
+   {
+    "artist": "STORYMATRIX PTE. LTD.",
+    "genre_ids": [
+     "6016"
+    ],
+    "genres": [
+     "엔터테인먼트"
+    ],
+    "id": "6445905219",
+    "name": "DramaBox - 영화와 숏폼 드라마",
+    "rank": 19
+   },
+   {
+    "artist": "인천국제공항공사",
+    "genre_ids": [
+     "6002",
+     "6012"
+    ],
+    "genres": [
+     "유틸리티",
+     "라이프스타일"
+    ],
+    "id": "6443837919",
+    "name": "ICN SMARTPASS (인천공항 스마트패스)",
+    "rank": 20
+   },
+   {
+    "artist": "SKYWORK AI PTE LTD",
+    "genre_ids": [
+     "6016"
+    ],
+    "genres": [
+     "엔터테인먼트"
+    ],
+    "id": "6670430706",
+    "name": "DramaWave -일본 / 한국 / 인기 단편 드라마",
+    "rank": 21
+   },
+   {
+    "artist": "NAVER Corp.",
+    "genre_ids": [
+     "6016",
+     "6005"
+    ],
+    "genres": [
+     "엔터테인먼트",
+     "소셜 네트워킹"
+    ],
+    "id": "1585297308",
+    "name": "치지직",
+    "rank": 22
+   },
+   {
+    "artist": "FLEXTECH INC.",
+    "genre_ids": [
+     "6007",
+     "6002"
+    ],
+    "genres": [
+     "생산성",
+     "유틸리티"
+    ],
+    "id": "1509453185",
+    "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간",
+    "rank": 23
+   },
+   {
+    "artist": "Disney",
+    "genre_ids": [
+     "6016"
+    ],
+    "genres": [
+     "엔터테인먼트"
+    ],
+    "id": "1446075923",
+    "name": "Disney+",
+    "rank": 24
+   },
+   {
+    "artist": "kakaopay corp.",
+    "genre_ids": [
+     "6015",
+     "6012"
+    ],
+    "genres": [
+     "금융",
+     "라이프스타일"
+    ],
+    "id": "1464496236",
+    "name": "카카오페이",
+    "rank": 25
+   }
+  ],
+  "us": [
+   {
+    "artist": "Meta Platforms, Inc.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6760173601",
+    "name": "Muse from Meta",
+    "rank": 1
+   },
+   {
+    "artist": "OpenAI OpCo, LLC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6448311069",
+    "name": "ChatGPT",
+    "rank": 2
+   },
+   {
+    "artist": "SCALEUP YAZILIM HIZMETLERI",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1658822260",
+    "name": "Momo: AI Photo & Video Maker",
+    "rank": 3
+   },
+   {
+    "artist": "Vinted Limited",
+    "genre_ids": [],
+    "genres": [],
+    "id": "632064380",
+    "name": "Vinted: Pre-loved marketplace",
+    "rank": 4
+   },
+   {
+    "artist": "Equinox Enterprises‌ Technology Limited",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6761538521",
+    "name": "StoryReel: Drama Shorts & TV",
+    "rank": 5
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6477489729",
+    "name": "Google Gemini",
+    "rank": 6
+   },
+   {
+    "artist": "DeePix AI",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6745820631",
+    "name": "Shots: Photo & Video Generator",
+    "rank": 7
+   },
+   {
+    "artist": "TikTok Ltd.",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6754134922",
+    "name": "PineDrama - Short Dramas",
+    "rank": 8
+   },
+   {
+    "artist": "Bytedance Pte. Ltd",
+    "genre_ids": [],
+    "genres": [],
+    "id": "1500855883",
+    "name": "CapCut: Photo & Video Editor",
+    "rank": 9
+   },
+   {
+    "artist": "Anthropic PBC",
+    "genre_ids": [],
+    "genres": [],
+    "id": "6473753684",
+    "name": "Claude by Anthropic",
+    "rank": 10
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [
+     "6002",
+     "6006"
+    ],
+    "genres": [
+     "Utilities",
+     "Reference"
+    ],
+    "id": "284815942",
+    "name": "Google",
+    "rank": 11
+   },
+   {
+    "artist": "Depop Ltd",
+    "genre_ids": [
+     "6024",
+     "6012"
+    ],
+    "genres": [
+     "Shopping",
+     "Lifestyle"
+    ],
+    "id": "518684914",
+    "name": "Depop - Buy & Sell Clothes",
+    "rank": 12
+   },
+   {
+    "artist": "WhatsApp Inc.",
+    "genre_ids": [
+     "6005",
+     "6002"
+    ],
+    "genres": [
+     "Social Networking",
+     "Utilities"
+    ],
+    "id": "310633997",
+    "name": "WhatsApp Messenger",
+    "rank": 13
+   },
+   {
+    "artist": "TikTok Ltd.",
+    "genre_ids": [
+     "6016"
+    ],
+    "genres": [
+     "Entertainment"
+    ],
+    "id": "6741796873",
+    "name": "TikTok Pro - Events",
+    "rank": 14
+   },
+   {
+    "artist": "KalshiEX LLC",
+    "genre_ids": [
+     "6015",
+     "6004"
+    ],
+    "genres": [
+     "Finance",
+     "Sports"
+    ],
+    "id": "1632713844",
+    "name": "Kalshi: Trade Football & more",
+    "rank": 15
+   },
+   {
+    "artist": "Microsoft Corporation",
+    "genre_ids": [
+     "6000",
+     "6007"
+    ],
+    "genres": [
+     "Business",
+     "Productivity"
+    ],
+    "id": "1113153706",
+    "name": "Microsoft Teams",
+    "rank": 16
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [
+     "6007",
+     "6005"
+    ],
+    "genres": [
+     "Productivity",
+     "Social Networking"
+    ],
+    "id": "422689480",
+    "name": "Gmail - Email by Google",
+    "rank": 17
+   },
+   {
+    "artist": "TikTok Ltd.",
+    "genre_ids": [
+     "6016",
+     "6008"
+    ],
+    "genres": [
+     "Entertainment",
+     "Photo & Video"
+    ],
+    "id": "835599320",
+    "name": "TikTok - Videos, Shop & LIVE",
+    "rank": 18
+   },
+   {
+    "artist": "Instagram, Inc.",
+    "genre_ids": [
+     "6005",
+     "6016"
+    ],
+    "genres": [
+     "Social Networking",
+     "Entertainment"
+    ],
+    "id": "6446901002",
+    "name": "Threads",
+    "rank": 19
+   },
+   {
+    "artist": "Google",
+    "genre_ids": [
+     "6010",
+     "6023"
+    ],
+    "genres": [
+     "Navigation",
+     "Food & Drink"
+    ],
+    "id": "585027354",
+    "name": "Google Maps",
+    "rank": 20
+   },
+   {
+    "artist": "Microsoft Corporation",
+    "genre_ids": [
+     "6007",
+     "6002"
+    ],
+    "genres": [
+     "Productivity",
+     "Utilities"
+    ],
+    "id": "983156458",
+    "name": "Microsoft Authenticator",
+    "rank": 21
+   },
+   {
+    "artist": "Polymarket",
+    "genre_ids": [
+     "6015",
+     "6004"
+    ],
+    "genres": [
+     "Finance",
+     "Sports"
+    ],
+    "id": "6648798962",
+    "name": "Polymarket: Trade Live Sports",
+    "rank": 22
+   },
+   {
+    "artist": "Instagram, Inc.",
+    "genre_ids": [
+     "6008",
+     "6005"
+    ],
+    "genres": [
+     "Photo & Video",
+     "Social Networking"
+    ],
+    "id": "389801252",
+    "name": "Instagram",
+    "rank": 23
+   },
+   {
+    "artist": "Temu",
+    "genre_ids": [
+     "6024"
+    ],
+    "genres": [
+     "Shopping"
+    ],
+    "id": "1641486558",
+    "name": "Temu: Shop Like a Billionaire",
+    "rank": 24
+   },
+   {
+    "artist": "Dunkin' Donuts",
+    "genre_ids": [
+     "6023"
+    ],
+    "genres": [
+     "Food & Drink"
+    ],
+    "id": "1056813463",
+    "name": "Dunkin'",
+    "rank": 25
+   }
+  ]
+ },
+ "date": "2026-09-25"
+}

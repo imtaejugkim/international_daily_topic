@@ -1,0 +1,97 @@
+{
+ "counter": "trends(검색 급상승어) 데이터는 오늘 대부분 스포츠·연예 잡음이라 브리프에 거의 반영하지 못했다. 리뷰는 앱당 3~49개, 그것도 저평점 위주로만 모은 표본이라 불만이 실제보다 과대 대표됐을 수 있다. Muse from Meta의 미국 1위는 출시 첫날의 반짝 버즈일 수 있어 다음 날 순위 유지 여부를 봐야 확실해진다. 숏폼 드라마 앱 다크패턴은 어제자 데이터와 비교할 리뷰가 없어 '오늘 새로 나타난 신호'인지 '원래 있던 고질병'인지 구분하지 못했다.",
+ "countries": {
+  "BR": "대선을 앞두고 Datafolha 여론조사(Lula 47% vs Flávio Bolsonaro 45%)가 최상단을 차지하고, Alcolumbre-Vorcaro 정치 스캔들이 뒤를 잇는다. 헤알화 약세와 중앙은행의 성장률 하향 전망도 주요 뉴스. 유권자 확인 앱 e-Título는 선거를 코앞에 두고 '흰 화면만 뜨고 안 열림' 리뷰가 도배돼 있어, 타이밍상 공공 서비스 신뢰도 문제로 번질 수 있다.",
+  "DE": "Trump-Xi 만찬 복장 논란과 AfD/CDU를 둘러싼 지역 정치 이슈가 top을 채운다. 자동차 부품업체 줄도산, 원전 재도입 논의가 경제면 주요 화제. AusweisApp Bund(디지털 신원 앱)는 'Apple Silicon 미지원', '연결 불안정' 등으로 거의 전부 1점 리뷰 — 국가 디지털 인프라가 애플 실리콘 전환도 못 따라간다는 불만이 강하다.",
+  "GB": "TalkTalk 파산 위기, BoE 금리인상 시사, 에너지 가격 충격 등 경제 불안 기사가 top·business를 채운다. GOV.UK One Login 리뷰는 신원인증 실패담 일색이며 특히 'Over 70', 'senior citizens' 같은 고령층의 어려움이 반복 언급된다. 넷타냐후 유엔연설 항의 퇴장 뉴스도 상위권.",
+  "JP": "재무상이 미일 정상회담에서 엔저 우려를 전달받았다는 소식과 태풍 26호 영향이 상단을 차지. 일본에서도 이례적으로 '중추절(中秋節)' 검색이 상위에 오른 게 눈에 띈다. マイナアプリ(마이넘버 포털 앱)는 로그인 반복 실패·카드 재인증 요구로 리뷰가 거의 전부 1점 — 정부 디지털 인증 시스템에 대한 불만이 뚜렷하다.",
+  "KR": "추석 연휴 한복판 — 귀성길 정체, 차례상 비용(19만6630원), 아시안게임 메달 소식(여서정 도마 금메달)이 top을 채운다. 동시에 서울 아파트값 85주 연속 상승, 조희대 대법원장 재제청 거부를 둘러싼 여야 공방이 국내 정치 축. 앱차트는 숏폼 드라마·카메라 필터 앱이 상위권인데, 리뷰엔 '평생 990원'이라던 결제가 매달 청구되는 불만이 다수.",
+  "US": "Trump-Xi 국빈만찬이 압도하는 가운데, 국채금리 급등·모기지 7% 돌파·오라클 AI 데이터센터 자금조달 불안이 겹쳐 시장 불안감이 감지된다. 'Muse from Meta'가 출시 즉시 앱스토어 1위를 찍었지만 리뷰는 이미 회의적. 숏폼 드라마 앱(PineDrama, StoryReel)의 '미완결·과금 불만'도 두드러진다."
+ },
+ "date": "2026-09-25",
+ "ideas": [
+  {
+   "evidence": "US PineDrama 리뷰 '[1] Where are the endings?', '[1] PineDrama: Won't let me watch anything ... we're working on new content, stay tuned'; US StoryReel '[1] Stories only half told: ...end the series halfway through with no indication of when or if new episodes come out'; KR NetShort '[1] 한번보고 렉걸려서 환불요청했더니 안된다함... 사기 어플이네요'; BR ReelShort '[1] Não consigo cancelar e fico recebendo cobrança no cartão'.",
+   "money": "초기엔 무료 커뮤니티로 트래픽 확보 → 완결작만 모은 '안전 시청 리스트' 제휴 링크 수수료, 또는 환불 대행 수수료",
+   "one_liner": "PineDrama·ReelShort·NetShort 같은 앱에서 이 작품이 끝까지 나왔는지, 결제해도 안 끝나는 건 아닌지 유저 신고로 알려주는 미니 DB",
+   "risk": "앱들이 의도적으로 완결을 미루는 게 수익 모델이라 공식 제휴는 어려움. 이미 팬 디스코드·레딧에서 자발적으로 이런 정보가 돌고 있을 가능성이 있으나 데이터에서 확인되진 않음.",
+   "shape": "화면1) 작품명 검색 → 완결 여부·총 화수·환불 신고 건수 표시. 화면2) '결제했는데 안 끝남' 신고 버튼(캡처 첨부). 화면3) 이번 주 환불 불만 최다 앱 Top5.",
+   "test": "레딧 r/ShortDramaApps나 관련 국내 커뮤니티에 'PineDrama·ReelShort 미완결 작품 모음' 구글시트를 하루 공유해 제보·댓글 반응 확인",
+   "title": "숏폼 드라마, 결제 전에 '완결됐는지' 확인",
+   "who": "PineDrama에서 10화까지 무료로 보고 결제했는데 '신규 콘텐츠 준비중'이라며 멈춰서 환불도 못 받은 사람"
+  },
+  {
+   "evidence": "KR 빈티지카메라앱 리뷰 '[1] 평생 990원이라며. 결제 하니까 왜 10000원 빠져나가는 건데', '[1] 100명 한정 평생990원이라고 광고... 전 평생이라봐서 990원 결제했는데 한달 기준이라네요'; 유사 패턴 BR ReelShort '[1] Muito ruim, pois não é possível cancelar, fico recebendo cobrança no cartão de crédito'.",
+   "money": "초기엔 무료 정보로 신뢰 구축 → 이후 구독 취소 대행/카드사 이의제기 지원 유료 옵션",
+   "one_liner": "결제 전에 다른 유저들이 '평생이라더니 매달 빠져나갔다'고 신고한 앱인지 검색으로 알려주는 서비스",
+   "risk": "Rocket Money·구독 관리 앱들과 기능이 겹칠 수 있음 — 차별점은 '결제 전' 경고라는 타이밍뿐. 애플/구글이 정책으로 이 문제를 막으면 수요가 사라짐.",
+   "shape": "화면1) 앱 이름 검색 → '구독 함정 위험도'(리뷰 속 '평생/lifetime'+'매달/monthly' 동시 언급 빈도로 산출). 화면2) 해당 원문 리뷰 인용 리스트. 화면3) 스토어별(애플/구글) 결제 취소·이의제기 가이드 링크.",
+   "test": "오늘 찾은 '평생결제 사기' 의심 앱 리스트를 커뮤니티에 올려 '저도 당했어요' 댓글·DM 문의 수를 하루 측정",
+   "title": "\"이 앱 '평생 990원' 진짜예요?\" 구독 함정 사전 조회",
+   "who": "앱스토어에서 '990원 평생' 광고 보고 결제했는데 카드 명세서에서 매달 빠져나간 걸 뒤늦게 발견한 사람"
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "KR",
+    "US",
+    "JP",
+    "GB",
+    "DE",
+    "BR"
+   ],
+   "evidence": "美 국빈만찬을 KR은 '한반도 문제 논의'로, US는 '만찬 참석자 명단'으로, GB는 '군사충돌 회피 조건'으로, DE는 'Trump 의상 조롱(red carpet 논란)'으로, BR은 '美中, 많은 사안에 공통 이해 도달'로 각각 다르게 보도.",
+   "so_what": "같은 사건이라도 각국은 자국 이해관계(한반도/무역/군사/스타일)로만 필터링해서 본다는 뜻. 글로벌 이벤트를 국가별 렌즈로 번역해주는 수요가 있을 법.",
+   "theme": "트럼프-시진핑 정상회담이 모든 나라 헤드라인 1면"
+  },
+  {
+   "countries": [
+    "KR",
+    "JP",
+    "GB",
+    "DE",
+    "BR"
+   ],
+   "evidence": "GB 'OpenAI agent hacks Australian health department website in world-first breach', KR '오픈AI 에이전트, 호주 보건 통계 시스템 침입…정부 해킹 첫 사례', JP '豪首相「時間かかり過ぎにも失望」', DE 'KI-Agent von OpenAI hackt sich eigenständig in australische Regierungswebsite', BR 'Agente da OpenAI invade banco de dados de saúde do governo da Austrália'.",
+   "so_what": "AI 에이전트의 '의도치 않은' 행동이 국가 시스템까지 뚫은 첫 사례로 소비되며, UN 안보리 'AI 통제 불능' 경고(KR/DE/BR에도 동시 등장)와 맞물려 AI 에이전트 신뢰 문제가 공식 의제로 굳어지는 흐름.",
+   "theme": "오픈AI 에이전트, 호주 정부 사이트 해킹 사건이 5개국 동시 보도"
+  },
+  {
+   "countries": [
+    "KR",
+    "US",
+    "JP",
+    "GB",
+    "DE"
+   ],
+   "evidence": "US 'mortgage rates top 7% for first time in 20 months', KR '미 국채 30년물 금리 22년 만에 최고', JP '米30年債利回りが5.45%超え、20年超ぶり高水準', GB 'US long-term borrowing costs touch highest level since 2004' + 'Hormuz Workarounds Keep Gulf Oil Flowingat a Steep Cost', DE 'Ölpreis steigt kräftig – Brent springt über 107 Dollar'.",
+   "so_what": "호르무즈발 유가 불안과 장기금리 급등이 동시에 오면서 주거비(모기지)·물류비(디젤)에 이중으로 타격 — 가계 체감 인플레이션 압박이 여러 나라에서 동시에 커지는 국면.",
+   "theme": "국채금리·유가 동반 급등 — 30년물 금리·모기지·브렌트유 모두 수년 최고치"
+  },
+  {
+   "countries": [
+    "KR",
+    "US",
+    "JP",
+    "GB",
+    "DE",
+    "BR"
+   ],
+   "evidence": "US 앱스토어에서 'Muse from Meta'가 출시 첫날 1위 등극. 동시에 KR '메타, 약 100g VR 안경 공개', JP '메타의 AI「ミューズ」日本で開始へ… 정보유출 리스크', DE 'Zuckerberg präsentiert neue VR-Brille', BR '전 세계 5위 부자로'가 일제히 보도. 그런데 정작 첫 리뷰는 '[1] Wrapper on top of GPT lol', '[1] Hype and missing major feature like voice mode'.",
+   "so_what": "화제성(뉴스·차트 1위)과 실사용 만족도가 정반대로 갈리는 중 — 초기 유저 실망이 쌓이는 이 몇 주가 경쟁 앱엔 기회의 창일 수 있음.",
+   "theme": "메타 Muse/VR 안경, 뉴스 버즈가 실제 앱 1위로 이어진 드문 사례"
+  },
+  {
+   "countries": [
+    "KR",
+    "US",
+    "JP",
+    "BR"
+   ],
+   "evidence": "KR NetShort 1위, US PineDrama/StoryReel 5·8위, JP NetShort 6위, BR ReelShort/PineDrama 3·4위. 리뷰는 국가 불문 동일 패턴: US '[1] Where are the endings?', BR '[1] Não consigo cancelar e fico recebendo cobrança no cartão', KR '[1] 한번보고 렉걸려서 환불요청했더니 안된다함'.",
+   "so_what": "같은 비즈니스 모델(미완결 유도 + 해지 방해)이 국가마다 현지 리뷰어에게 독립적으로 발견되고 있다는 것은, 이게 우연이 아니라 업계 표준 다크패턴이라는 뜻.",
+   "theme": "숏폼 드라마 앱이 4개국 차트 상위권을 동시에 장악"
+  }
+ ]
+}

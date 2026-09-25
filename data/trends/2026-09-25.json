@@ -1,0 +1,317 @@
+{
+ "date": "2026-09-25",
+ "trends": {
+  "BR": [
+   {
+    "news": "Taylor Swift Announces Encore Version of The Life of a Showgirl , Including New Song with a Nod to Travis Kelce’s Roots",
+    "title": "patient zero",
+    "traffic": "200+"
+   },
+   {
+    "news": "Seu Ratinho: vô de Bontempo vendia queijo na Vila e ajudou neto e Jair no caminho à Seleção",
+    "title": "brasil fc",
+    "traffic": "500+"
+   },
+   {
+    "news": "Stephanie Gomes é eliminada de A Fazenda 18, com 19,71% dos votos",
+    "title": "solange gomes",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Final do Estrelas da Casa: grupos mistos do Pop e Pagode se apresentam em busca de prêmio",
+    "title": "estrelas da casa",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Mensagens apontam relação de proximidade entre Alcolumbre e Vorcaro",
+    "title": "alcolumbre",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Thursday, Sept. 24: An All-Star Cast Returns for FX’s ‘American Horror Story: 13’",
+    "title": "american horror story",
+    "traffic": "1000+"
+   },
+   {
+    "news": "'Delegado de elite' que combatia tráfico é preso suspeito de desviar cocaína para facção usando cargo em MS",
+    "title": "suspeito",
+    "traffic": "500+"
+   },
+   {
+    "news": "iPhone 17 Pro Max está em queda com 37% OFF para quem busca topo de linha",
+    "title": "apple iphone 17 pro max",
+    "traffic": "500+"
+   },
+   {
+    "news": "Nacional y Millonarios se repartieron puntos en la Liga BetPlay",
+    "title": "atlético nacional",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Datafolha, 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião",
+    "title": "última pesquisa para presidente 2022 datafolha 1 turno",
+    "traffic": "20000+"
+   }
+  ],
+  "DE": [
+   {
+    "news": "Spannungen mit Marokko: Rechte fordern Bruch – sogar Fussball-WM betroffen",
+    "title": "fussball wm",
+    "traffic": "100+"
+   },
+   {
+    "news": "Tagesschau: Sendetermin tagesschau24 29.09.2026 00:35 Uhr: Nachrichten, BRD 2026",
+    "title": "nachrichten",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Pre-Order The Goodtime State – Vice City Collection Now While Supplies Last",
+    "title": "grand theft auto vi",
+    "traffic": "200+"
+   },
+   {
+    "news": "Flammenmeer zerstört Wohnhaus und Scheune: So lief der Großeinsatz in Manching",
+    "title": "niederstimm",
+    "traffic": "100+"
+   },
+   {
+    "news": "VW passt Produktion in drei Werken an: Diese Veränderungen sind geplant",
+    "title": "vw",
+    "traffic": "100+"
+   },
+   {
+    "news": "Ein Jahr nach 75. Jubiläum: Deutscher Fenster-Hersteller meldet Insolvenz an",
+    "title": "höhbauer gmbh",
+    "traffic": "200+"
+   },
+   {
+    "news": "Autoposer am Dom und Durchgangsverkehr in der Altstadt: Regensburg sucht eine Lösung",
+    "title": "regensburg",
+    "traffic": "100+"
+   },
+   {
+    "news": "Die Ukraine stellt ihren neuen gepanzerten Bagger „UAT-Spider“ vor, der dafür ausgelegt ist, unter feindlichem Beschuss zu graben",
+    "title": "bagger",
+    "traffic": "100+"
+   },
+   {
+    "news": "FC Bayern: Harry Kanes Zukunfts-Entscheidung steht dicht bevor",
+    "title": "fc bayern news",
+    "traffic": "500+"
+   },
+   {
+    "news": "Falcons trample punchless Packers as Bijan Robinson runs riot in Penix return",
+    "title": "packers – falcons",
+    "traffic": "1000+"
+   }
+  ],
+  "GB": [
+   {
+    "news": "Costa Rica vs Curaçao: Concacaf Nations League stats & head-to-head",
+    "title": "costa rica vs curaçao",
+    "traffic": "200+"
+   },
+   {
+    "news": "Ex-mistress of former 'American Idol' contestant charged in wife's murder takes stand",
+    "title": "caleb flynn",
+    "traffic": "200+"
+   },
+   {
+    "news": "Watch: UN delegates walk out of Netanyahu speech",
+    "title": "benjamin netanyahu",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Green Bay Packers' woes mount among NFC North challenges",
+    "title": "green bay packers",
+    "traffic": "200+"
+   },
+   {
+    "news": "Falcons trample punchless Packers as Bijan Robinson runs riot in Penix return",
+    "title": "packers vs falcons",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Lynx clinch WNBA No 1 seed despite ‘embarrassing’ loss to Fever and Olivia Miles injury",
+    "title": "lynx vs fever",
+    "traffic": "500+"
+   },
+   {
+    "news": "New Betfred Sign Up Offer (Bet £10 Get £50 in Free Bets) in the UK this Autumn",
+    "title": "betfred",
+    "traffic": "500+"
+   },
+   {
+    "news": "In 1956, One Actress’ Departure Led to the First TV Character Death. There Wouldn’t Be Another On-Screen Death for 15 Years",
+    "title": "danny thomas",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Not The 100, Not The Last Of Us: This Post-Apocalyptic Sci-Fi Series Deserves More Attention",
+    "title": "the last of us",
+    "traffic": "200+"
+   },
+   {
+    "news": "Dan Aykroyd Wishes Bill Murray a Happy Birthday, Shares Wild Ghostbusters II Story",
+    "title": "aykroyd",
+    "traffic": "2000+"
+   }
+  ],
+  "JP": [
+   {
+    "news": "「つまみ出せ」高安、激勝の直後…熱戦に水を差す“残念な行為”に「やめろ」「本当に品がない」憤りの声（ABEMA TIMES）",
+    "title": "相撲",
+    "traffic": "2000+"
+   },
+   {
+    "news": "パドレスの松井裕樹がピンチで３球三振、ドジャース戦で２連投 今季５３試合目登板（スポーツ報知）",
+    "title": "松井裕樹",
+    "traffic": "1000+"
+   },
+   {
+    "news": "楽天トラベル、宮崎・大分の「九州ふっこう応援割」9月25日予約スタート。佐賀もこのあと12時から受付開始",
+    "title": "じゃらん",
+    "traffic": "20000+"
+   },
+   {
+    "news": "",
+    "title": "田中真美子",
+    "traffic": "5000+"
+   },
+   {
+    "news": "",
+    "title": "2026 中秋の名月",
+    "traffic": "200000+"
+   },
+   {
+    "news": "",
+    "title": "2026 年中秋節",
+    "traffic": "20000+"
+   },
+   {
+    "news": "ドジャース、ワイルドカードシリーズ免除が決定…ブレーブスが敗れてシード権獲得、日本時間10月4日開幕の地区シリーズから参戦（中日スポーツ）",
+    "title": "ブレーブス 対 レッズ",
+    "traffic": "5000+"
+   },
+   {
+    "news": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送（オリコン）",
+    "title": "ちいかわ",
+    "traffic": "2000+"
+   },
+   {
+    "news": "マーベラス、同社初となるMRタイトル『牧場物語 Your ワンダフルライフ』を2027年春に発売！",
+    "title": "牧場物語",
+    "traffic": "1000+"
+   },
+   {
+    "news": "レッドソックスの右腕グレイがア・リーグ最多18勝目 14年目で悲願のタイトル獲得が決定的に（ベースボールキング）",
+    "title": "レッドソックス 対 ガーディアンズ",
+    "traffic": "1000+"
+   }
+  ],
+  "KR": [
+   {
+    "news": "‘엉성 운영’에 ‘말끔 뒷정리’로 답한 야구대표팀…내일 슈퍼라운드",
+    "title": "김지찬",
+    "traffic": "500+"
+   },
+   {
+    "news": "장윤정 父 \"가세 기울고 서해대교 2번 가…딸 쌍욕에 끌어안고 펑펑 울어\"",
+    "title": "장윤정",
+    "traffic": "10000+"
+   },
+   {
+    "news": "민주당 “조희대 출근기록 없다? 윤석열 ‘가짜 출근’ 떠올라”",
+    "title": "조희대",
+    "traffic": "2000+"
+   },
+   {
+    "news": "'고지용 저격' 소재원, '이혼 이유' 밝혔다 \"내 펜=칼날..전처 상처\"",
+    "title": "이혼",
+    "traffic": "2000+"
+   },
+   {
+    "news": "\"노출병 걸렸냐\" 한국서 욕 먹었는데...신지은, 대만선 '비치발리볼 여신' 조명 \"8년 버텨 AG 첫 승 거뒀다\"",
+    "title": "비치발리볼",
+    "traffic": "2000+"
+   },
+   {
+    "news": "美금리 악재에 버티기…숏청산에 8.4만달러 회복",
+    "title": "도지코인",
+    "traffic": "200+"
+   },
+   {
+    "news": "Hong Kong, China vs Oman Live Cricket Score:: Match 3 Full Scorecard & Commentary",
+    "title": "hong kong vs oman",
+    "traffic": "100+"
+   },
+   {
+    "news": "‘최강 콤비’ 임종훈-신유빈, 동메달 확보…대만 넘고 준결승 진출",
+    "title": "신유빈",
+    "traffic": "5000+"
+   },
+   {
+    "news": "대학 통폐합에 정원·학생수 줄었지만…교원·학과는 다시 늘어",
+    "title": "한국대학신문",
+    "traffic": "1000+"
+   },
+   {
+    "news": "ONEWE(원위), 따스한 추석 인사 “배부른 추석 되시길, 남은 올해도 건강과 행복이 함께하기를 기원”",
+    "title": "추석 인사",
+    "traffic": "1000+"
+   }
+  ],
+  "US": [
+   {
+    "news": "Dodgers earn first-round bye after securing Top 2 seed in NL",
+    "title": "dodgers",
+    "traffic": "10000+"
+   },
+   {
+    "news": "Merritt Wever Would Do Anything to Get Out of This Interview",
+    "title": "merritt wever",
+    "traffic": "500+"
+   },
+   {
+    "news": "Meeting the Padres in the last home game before the playoffs",
+    "title": "padres",
+    "traffic": "10000+"
+   },
+   {
+    "news": "Daulton Varsho lands on injured list with left wrist inflammation",
+    "title": "astros",
+    "traffic": "5000+"
+   },
+   {
+    "news": "Machado's HR sets tone as Padres move one step closer to postseason berth",
+    "title": "padres game today",
+    "traffic": "2000+"
+   },
+   {
+    "news": "How length could give Falcons’ defense an advantage over Packers’ pass game",
+    "title": "falcons defensive coordinator",
+    "traffic": "1000+"
+   },
+   {
+    "news": "NFL fines 49ers' Kyle Juszczyk for imitating 'chugging a beer'",
+    "title": "kyle juszczyk",
+    "traffic": "500+"
+   },
+   {
+    "news": "Why Bijan Robinson Wears Number 7 For Falcons Despite Michael Vick History",
+    "title": "michael vick",
+    "traffic": "500+"
+   },
+   {
+    "news": "Valkyries need one more win to secure perfect first-round matchup",
+    "title": "valkyries",
+    "traffic": "1000+"
+   },
+   {
+    "news": "MLB betting tips for Thursday: Will Padres and Pivetta punch playoff ticket?",
+    "title": "nick pivetta",
+    "traffic": "1000+"
+   }
+  ]
+ }
+}
