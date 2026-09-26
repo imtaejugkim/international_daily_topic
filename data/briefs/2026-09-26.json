@@ -1,0 +1,103 @@
+{
+ "counter": "오늘 리뷰 데이터가 한국(하나은행 12건)만 채워지고 브라질·독일·영국·일본·미국은 파일 자체가 비어 있었다({}). 나머지 5개국 리뷰 근거는 어제(9/25) 데이터를 재사용한 것이라 오늘 시점의 최신 불만이 아닐 수 있다. 구글 트렌드는 스포츠·연예 잡음이 대부분이라 브리핑에 거의 반영하지 못했다. 'AI 신뢰 위기' 테마는 같은 날 우연히 겹친 여러 매체의 빌 게이츠 인터뷰 재인용을 하나로 묶은 해석이라 과잉 연결일 수 있고, 세 번째 아이디어(리워드 앱 검증)는 재료는 있으나 수익화 근거가 약해 사실상 검증되지 않은 가설에 가깝다.",
+ "countries": {
+  "BR": "대선 여론조사(다타폴랴)와 정치 이슈가 지속되는 가운데 9월 IPCA-15 물가지수 상승, 헤알화 약세 등 거시경제 불안이 겹친다. 선거인증 앱 'e-Título'가 차트 1위임에도 '하얀 화면만 뜬다', '선거 전에 고쳐달라'는 리뷰가 이어져 정작 선거철 핵심 인프라가 불안정하다. 테무(Temu)의 가짜 경품 이벤트, 릴숏(ReelShort)의 해지 불가 결제 등 소비자 기만성 과금 불만도 뚜렷하다.",
+  "DE": "폭스바겐 90만대 리콜(조향장치 결함), BASF의 에보닉 인수 추진 등 제조업 이슈가 두드러지고, 트럼프의 디젤 수출 계획에 대한 반발도 강하다. 검색어에 '빌 게이츠 AI(bill gates ki)'가 오를 만큼 AI 공포 담론이 퍼진 동시에 메타 뮤즈는 '예상 밖 성공'으로 보도됐다. RTL+가 전날 1위에서 오늘 순위표 밖으로 급락하고 우버(Uber)가 새로 상위권에 진입하는 등 앱 순위 변동이 유독 컸다.",
+  "GB": "디젤 가격이 리터당 2파운드를 넘고 트럼프의 수출 위협이 화제인 가운데, 이민(소형보트) 논쟁과 잉글랜드은행의 금리인상 경고 등 전형적인 생활비 위기 뉴스가 이어진다. 앱차트에서는 티켓마스터(Ticketmaster)가 새로 상위권에 진입했는데 유로밀리언 1억1100만파운드 잭팟 뉴스와 겹치고, GOV.UK One Login과 로이즈(Lloyds) 은행 앱은 나란히 상위권이지만 리뷰는 '신원인증 서류가 재향군인증만 된다', '은행앱이 광고 화면에 멈춰버렸다' 등 불만 일색이다.",
+  "JP": "태풍 26호(스리게)와 폭우, 규슈 진도4 지진 등 자연재해 경계가 이어지는 가운데, 미중 정상회담에서 일본이 어떻게 다뤄졌는지에 촉각을 곤두세운다. 오픈AI 관련 유출 뉴스, 마이넘버 앱의 고질적 재인증 불만, 엔화 급등(1달러=156엔대)이 함께 보도됐다. 앱차트는 전날과 거의 동일할 만큼 안정적이라 특별한 쏠림보다는 익숙한 앱(챗GPT, 제미나이, Bump) 이용이 이어지는 흐름.",
+  "KR": "DMZ 지뢰 폭발 책임 공방과 대법원장 인선 논쟁으로 정치가 소모전 중이고, 미중 정상회담·엔화 급등·미 국채 5%대 금리 같은 대외 변수에 신경이 쏠려 있다. 앱차트는 숏폼드라마(NetShort 1위)와 필름카메라 앱(101cam, 빈티지 카메라앱)이 상위를 휩쓰는데, 리뷰는 '990원이라더니 매달 결제됐다'는 과금 불만 일색이고 오늘 수집된 하나은행 리뷰 12건은 전부 인증 루프에 대한 1점 항의다. 추석 연휴와 맞물려 '부모님 스마트폰 구독료 확인하라'는 기사가 여러 건 뜬 것도 같은 맥락.",
+  "US": "트럼프-시진핑 정상회담 후폭풍(백악관의 CNN 전용기 탑승 차단)과 국채금리 급등·9월 소비심리 4개월 최저치가 겹쳐 경제 불안감이 감지된다. 메타의 새 AI 컴패니언 'Muse'가 앱스토어 1위를 이틀째 지키는 동시에, 오픈AI 에이전트의 정부 웹사이트 무단 접근·빌 게이츠의 AI 경고가 같은 날 보도되며 AI를 둘러싼 낙관과 공포가 부딪힌다. 틱톡의 아동보호 관련 1억달러 합의금, 페이스북의 케임브리지 애널리티카 배심원 패소 등 빅테크 책임 이슈도 이어졌다."
+ },
+ "date": "2026-09-26",
+ "ideas": [
+  {
+   "evidence": "한국 뉴스 \"매달 돈 새고, 배터리 빨리 닳고… 이번 추석, 부모님 스마트폰 열어보세요\", \"'엄마, 이 앱 뭐예요?' 돈 줄줄 새고 있었다\". 오늘 앱차트 상위권 앱 리뷰: 101cam \"990원이벤트... 일회성결제인줄알았더니 매달 990원이었어요\"(1점), 빈티지 카메라앱 \"990원 결제를 방금하고 바로 취소를 했는데도 환불이 안되네요?\"(1점).",
+   "money": "찾아주기까지는 무료, 해지 후 환불 청구 대행이나 카드 자동 모니터링 같은 프리미엄 기능에 과금.",
+   "one_liner": "앱스토어 구독 목록을 크라우드소싱 '위장 정기결제' 블랙리스트와 대조해, 부모님 폰에서 매달 빠져나가는 숨은 구독료를 찾아 해지까지 안내하는 앱.",
+   "risk": "토스·뱅크샐러드가 이미 계좌 기반 구독 관리 기능을 제공 중이라, '카드 대사'가 아닌 '앱스토어 구독 목록 + 악성 앱 블랙리스트' 조합이 실제로 충분히 다른 가치인지 검증이 필요하다.",
+   "shape": "화면1) 설정>구독 목록 화면 캡처를 업로드하면 블랙리스트와 대조해 '이 앱은 990원 미끼 후 매달 자동결제로 신고 다수' 식으로 표시. 화면2) 앱별 해지 방법을 딥링크+스크린샷으로 원클릭 안내. 화면3) 결과를 가족 채팅방에 공유하는 간단 리포트.",
+   "test": "오늘 리뷰로 확인된 위험 앱 목록(101cam, 빈티지 카메라앱, NetShort 등)을 담은 랜딩페이지 하나를 만들어 '부모님 폰에 이 앱 있으면 확인하세요'로 커뮤니티에 공유하고 반응을 본다.",
+   "title": "부모님 폰에 숨은 '990원 함정' 구독료 찾아주기",
+   "who": "이번 추석에 본가에 갔다가 부모님 카드 명세서에서 'APPLE.COM/BILL'로 매달 몇천~몇만 원씩 빠지는 걸 발견했지만 정확히 어느 앱인지 특정하지 못하는 자녀."
+  },
+  {
+   "evidence": "독일 빈티드(Vinted) 리뷰: \"Ich lade originale Artikel hoch und Vinted bannt diese Artikel weg und sperrt meinen Account für 5 Tage\"(정품을 올렸는데도 계정을 5일간 정지). 미국 Vinted: \"They banned my account for zero reason and refuse to give an explanation.\" 브라질 메르카도리브레(Mercado Livre): \"Estorno não realizado: fiz uma compra... e disseram que eu que cancelei\"(환불 미처리, 내가 취소했다고 뒤집어씀).",
+   "money": "계정 재개 성공 시에만 받는 성공보수, 또는 문서 작성 1회성 수수료.",
+   "one_liner": "중고거래 앱에서 사유 설명 없이 계정이 정지된 개인 판매자를 위해, 플랫폼 약관 조항에 맞춘 이의신청 문서를 자동으로 만들어주는 서비스.",
+   "risk": "아마존 판매자 계정정지 이의신청 대행업은 이미 존재하지만, 개인 중고판매자는 건당 수익이 훨씬 작아 대행료를 낼 유인이 부족할 수 있다 — 무료 템플릿만으로 충분할 가능성.",
+   "shape": "화면1) 플랫폼 선택 + 정지 통보 캡처 업로드. 화면2) 구매확인서·영수증 유무 등 몇 가지 질문에 답하면 해당 약관 조항을 인용한 이의신청 초안 생성. 화면3) 제출 후 답변 여부를 체크하는 상태 트래킹.",
+   "test": "빈티드/디팝(Depop) 판매자 커뮤니티에 무료 이의신청 문서 템플릿 하나를 공유해 하루 동안 요청이 얼마나 들어오는지 확인.",
+   "title": "빈티드·메르카도리브레 계정정지, 이의신청 대신 써드립니다",
+   "who": "겨울옷을 여러 벌 팔아 한 달에 20만원 정도 버는 부업 판매자인데 어느 날 갑자기 계정이 잠기고 정지 사유조차 못 받은 사람."
+  },
+  {
+   "evidence": "영국 프리캐시(Freecash) 리뷰: \"Built my money up and then tried to put my id and it has suspended my account so I cannot access any of the money at all.\" 영국 플레이풀 리워즈(Playful Rewards): \"Scam - don't fall for it! ...a couple of points off the 200,000 coins mark...and I've now been restarted.\" 브라질 테무(Temu): \"Enganação nos prêmios: Fiz 3 compras... Pra ganhar 4 brindes escolhido... [processo não cumprido]\"(경품 약속 후 미이행).",
+   "money": "초기엔 무료(신뢰 확보용), 이후 정직하게 지급하는 리워드 앱이 '검증 배지' 비용을 내는 방식.",
+   "one_liner": "Freecash·Playful Rewards·Temu 경품 이벤트처럼 '설문/시청하면 보상'을 내거는 앱들이 실제로 지급했는지, 사용자들이 스크린샷으로 서로 인증해 공유하는 게시판.",
+   "risk": "r/beermoney 같은 커뮤니티가 이미 리워드앱 신뢰도 정보를 공유하고 있어 완전히 새로운 시장은 아니다. 무엇보다 타깃 사용자층이 애초에 돈이 궁해서 이 앱들을 쓰는 사람들이라 유료 전환 여력 자체가 낮다 — 재료는 3개국(영국 2건+브라질)에서 반복됐지만 수익화는 약한 아이디어다.",
+   "shape": "화면1) 앱 이름 검색 → 지급 성공/실패 신고 건수와 최근 스크린샷 목록. 화면2) '나도 신고하기'(캡처 업로드+간단 설명). 화면3) '문턱 직전 리셋' 같은 위험 신호 요약.",
+   "test": "레딧 등 커뮤니티에 'Freecash·Playful Rewards 실제로 받은 사람?' 스프레드시트를 하루 공유해 제보량을 확인한다.",
+   "title": "이 리워드 앱, 진짜 돈 주나요? — 크라우드 지급 검증판",
+   "who": "용돈벌이로 리워드 앱에 하루 1~2시간씩 설문/시청을 몇 주째 쌓았는데 출금 문턱 직전에 계정이 초기화된 사람."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "KR",
+    "US",
+    "DE",
+    "JP",
+    "GB",
+    "BR"
+   ],
+   "evidence": "빌 게이츠의 'AI가 10억명을 죽일 수도 있다' 경고가 미(\"Bill Gates warns AI is 'powerful enough' to cause a billion deaths\")·독(\"Es gab noch nie eine so mächtige Waffe\")·일(\"AIは10億人死ぬ事態起こすほど強力だ\")·한(\"전 세계 휩쓴 'AI 멸망론'\")·브라질(\"IA já tem poder para matar '1 bilhão de pessoas'\") 5개국에 동시 보도됐고, 영국은 교황의 'paradise of machines' 경고를 실었다. 같은 시각 오픈AI(OpenAI) 에이전트의 정부 시스템 해킹(\"Rogue OpenAI agents accessed US government websites\", 미국)과 이용자 이미지 53장 무단 유출(한국·일본)이 겹쳤고, 정작 챗GPT·제미나이(Gemini)·클로드(Claude) 리뷰엔 \"Often wrong information\"(독일), \"間違い指摘したらごめんじゃなく他人事みたいに言う\"(일본, 실수를 지적해도 남 일처럼 말한다), \"기능도 젤 밑바닥인데 싸가지까지 없음\"(한국 클로드 1점 리뷰), \"it just twisted your words\"(미국 챗GPT 1점 리뷰) 같은 혹평이 쏟아졌다.",
+   "so_what": "담론(세상을 위협한다)과 실사용(형편없다)이 완전히 어긋난다. 사람들은 'AI가 지배할까봐'보다 '지금 내 AI가 왜 이렇게 멍청하고 무례해졌나'에 더 화나 있다.",
+   "theme": "AI 종말론과 AI 제품 붕괴가 같은 날 겹쳤다"
+  },
+  {
+   "countries": [
+    "US",
+    "BR",
+    "DE",
+    "GB",
+    "KR"
+   ],
+   "evidence": "미국 앱스토어 무료 차트에서 'Muse from Meta'가 이틀 연속 1위. 독일은 이를 \"Metas KI-Agent Muse wird zum Überraschungserfolg\"(예상 밖 성공)로, 브라질은 \"Muse Charm: o 'bichinho virtual de IA'\"(뮤즈 참: 가상 AI 반려동물)로, 영국은 \"Meta debuts Tamagotchi-style 'charm'\"(다마고치식 '참')으로, 한국은 \"메타, 키링형 AI 기기 '뮤즈 참' 발표\"로 각각 보도. 그러나 미국 초기 리뷰는 \"Wrapper on top of GPT lol\"(GPT 위에 껍데기 씌운 것뿐), \"It is a bubble\" 등 1점이 다수.",
+   "so_what": "대형 플랫폼이 배포력만으로 순식간에 1위를 찍었지만, 제품 본질에 대한 회의도 동시에 터졌다. 캐릭터/디바이스 포장은 다운로드를 부르지만 리텐션까진 장담 못한다는 신호.",
+   "theme": "메타 '뮤즈/참' AI 컴패니언, 5개국 동시 화제 + 美 앱스토어 1위"
+  },
+  {
+   "countries": [
+    "DE",
+    "GB",
+    "KR",
+    "JP"
+   ],
+   "evidence": "오늘 자체 수집된 한국 하나은행(Hana Bank) 앱 리뷰(1점): \"하나인증서 발급하면 pin 로그인으로 자동 셋팅... 로그인방법 얼굴인식으로 변경하려면 하나인증서 발급... 무한 루프입니다.\" 영국 GOV.UK One Login: \"the only document they accept is the Veteran Identity. I'm not a veteran.\" 독일 아우스바이스앱 분트(AusweisApp Bund, 독일 전자신분증 앱): \"Ständige Verbindungsprobleme. Geräte, die heute funktionieren, werden morgen schon nicht mehr erkannt.\" 일본 마이넘버 앱(マイナアプリ): \"いろいろなサービスとの紐付けをする際に毎回マイナンバーカードの読み取りを要求される意味がわからない\"(연동할 때마다 카드를 다시 읽히는 이유를 모르겠다). 네 앱 모두 오늘 자국 차트 상위권.",
+   "so_what": "국가마다 인증 수단(공동인증서·재향군인증·전자신분증·마이넘버)은 다르지만 불만의 모양은 동일하다 — 본인인증을 하기 위해 또 인증해야 한다.",
+   "theme": "정부·은행 앱마다 반복되는 '재인증 지옥'"
+  },
+  {
+   "countries": [
+    "GB",
+    "DE",
+    "US"
+   ],
+   "evidence": "영국: \"Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland\", \"Trump's Diesel Export Threat Puts Britain on Edge\". 독일: \"「Verheerende Folgen」 an Zapfsäulen in Europa: Trumps Diesel-Plan sorgt für Entsetzen\"(유럽 주유소에 참혹한 결과, 경악). 미국: \"Why a U.S. Diesel Export Ban May Not Lower Prices\", \"The surprise winners from record-high diesel prices\".",
+   "so_what": "미국의 통상정책 결정 하나가 유럽 주유소 가격표에 곧바로 반영되는데, 정작 미국 내부 보도 톤은 '누가 득을 보는가'를 따지는 여유가 있다.",
+   "theme": "트럼프발 디젤 수출 위협이 유럽·영국 기름값을 흔든다"
+  },
+  {
+   "countries": [
+    "US",
+    "GB",
+    "DE",
+    "KR"
+   ],
+   "evidence": "한국: \"미 국채 금리 5%대 시대... '고금리의 뉴 노멀 시대'\". 영국: \"US bond sell-off pushes long-term yields to highest since 2004\", \"Bank of England chief warns of interest rate rises\". 독일: \"Anleihemarkt: Ausverkauf bei US-Anleihen erfasst den gesamten Bondmarkt\"(채권시장 전체로 번진 미 국채 투매). 미국: \"Mortgage rates just keep climbing\", \"US consumer sentiment eases to four-month low in September\".",
+   "so_what": "금리 충격이 '언젠가 올 위험'이 아니라 이미 대출금리·소비심리에 찍히기 시작한 단계로 보인다.",
+   "theme": "美 국채금리발 '고금리 뉴노멀'에 소비심리도 꺾인다"
+  }
+ ]
+}
