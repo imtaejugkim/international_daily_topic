@@ -1,0 +1,80 @@
+{
+ "counter": "리뷰 표본이 국가별로 3~40건에 앱도 그날 차트 상위작 위주로만 수집돼, '반복되는 불만'처럼 보이는 것이 실제 글로벌 추세인지 표본 편향인지 구분하기 어렵다. 숏드라마 앱의 미끼 상술은 이미 알려진 비즈니스 모델 비판이라 '오늘의 신호'라기보다 구조적 문제에 가깝다. 검색어(trends) 데이터는 스포츠·연예 이슈가 대부분이라 오늘은 아이디어 근거로 거의 쓰지 못했다.",
+ "countries": {
+  "BR": "10월 대선을 앞두고 정치 뉴스가 최상단이며 전자 선거증 앱 e-Título가 차트 1위다. 동시에 Temu와 ReelShort 리뷰에는 '가짜 경품 룰렛으로 결제 유도', '20초 보려면 1분 광고'라는 소비자 기만 불만이 몰려, 저가 쇼핑·콘텐츠 앱 붐의 이면이 드러난다.",
+  "DE": "자동차 리콜(VW/Audi)과 노동쟁의, 할인점 가격 인하 뉴스가 겹치며 생활비 압박이 읽힌다. 앱차트엔 AI 앱(ChatGPT/Gemini/Claude)과 쿠폰앱 CouponBirds, 정부 디지털ID 앱(AusweisApp Bund)이 동시에 신규 진입해 절약과 디지털 신원확인 수요가 겹쳐 보인다.",
+  "GB": "주택난('£17,000 for a first home')과 은행 지점 폐쇄, NHS 데이터 유출 등 생활 밀착형 불안이 상단이다. 중고거래 앱(Vinted, Depop, Whatnot)이 차트에서 동시에 오르는 가운데, CapCut은 '예전엔 무료였던 기능이 다 Pro로 바뀌었다'는 구독 피로 불만이 집중된다.",
+  "JP": "태풍과 철도 랜섬웨어 공격(케이오전철), 도쿄메트로 정보유출 등 인프라·보안 불안이 상단을 채운다. 앱차트는 신규 채팅앱 setlog와 위치공유 Bump가 강세이고, 숏드라마 앱 NetShort는 '전편 무료는 거짓말'이라는 불만이 리뷰에 반복된다.",
+  "KR": "코스피 7000선 붕괴와 삼성전자 배당·실적 뉴스가 상단을 채우며 금융 불안이 두드러진다. 앱차트는 숏드라마(NetShort)와 스트리밍(치지직)이 강세지만, 동시에 빈티지카메라 앱은 '평생 990원'이라 광고하고 실제로는 매달 청구되는 문제로 저평점이 몰렸다.",
+  "US": "OpenAI 훈련 중단과 빌 게이츠의 AI 경고가 최상단을 채우는 동안, 정작 앱차트 1·2위는 Meta의 에이전틱 AI 'Muse'와 AI 영상생성 앱 'Momo'인데 둘 다 리뷰에서 '작동 안 함', '코인 뜯긴다'는 혹평을 받는다. 동시에 예측시장 Kalshi와 리워드앱 Freecash는 둘 다 '출금을 막는다'는 불만이 두드러진다."
+ },
+ "date": "2026-09-28",
+ "ideas": [
+  {
+   "evidence": "JP NetShort 리뷰 '全話無料は嘘です'(전편 무료는 거짓말), '今だけ全話無料ってSNSで釣って'(SNS에서 지금만 무료라고 낚아서); BR ReelShort 리뷰 'episódio de 20 segundos e 1 minuto de anúncio'(20초 에피소드에 1분 광고), '값이 너무 비싸다'",
+   "money": "배너 광고 또는 뉴스레터 협찬 (앱사로부터 '인증 배지' 비용을 받는 모델은 이해상충이라 배제)",
+   "one_liner": "설치 전에 이 숏드라마 앱이 몇 화부터 코인/월정액을 요구하는지 실제 리뷰로 보여주는 서비스.",
+   "risk": "이미 앱스토어 리뷰나 Reddit 커뮤니티가 이 정보를 부분적으로 제공 중이고, 앱들이 자주 바뀌어 수동 갱신 비용이 큼. 한국은 숏드라마 시장이 아직 작아 초기 수요가 작을 수 있음.",
+   "shape": "화면1) 앱 이름 검색, 화면2) '몇 화부터 유료인지' 요약 카드 + 실제 리뷰 인용 3~5개, 화면3) 상대적으로 과금이 덜한 대안 앱 비교",
+   "test": "오늘 모은 리뷰만으로 숏드라마 앱 5개 실제 과금 구조 비교 트위터/스레드 글 하나 올려서 저장·댓글 반응 확인",
+   "title": "숏드라마 앱 '진짜 무료 아님' 경보판",
+   "who": "SNS 광고 보고 '전편 무료'에 낚여 설치했다가 이미 한번 실망한, 다음 숏드라마 앱 설치를 고민 중인 20~30대"
+  },
+  {
+   "evidence": "US Kalshi 리뷰 'They paused my account and won't let me withdraw any of my money'; US Freecash 리뷰 'I have a $13 balance which I cannot access for 7 days', 'Suspended my account when I tried to cashout'",
+   "money": "광고 수익 (제휴 링크는 검증 대상 앱과 이해상충이라 배제)",
+   "one_liner": "예측시장·리워드 앱에 돈을 넣기 전, 실제로 출금이 됐는지 후기만 따로 모아 보여주는 서비스.",
+   "risk": "Trustpilot·Reddit이 이미 이 정보를 부분적으로 제공 중이며, 오늘 데이터가 미국 한 곳에서만 나와 이게 글로벌 기회인지 미국 예측시장 붐 특유의 현상인지 불확실함.",
+   "shape": "화면1) 앱 검색, 화면2) '출금 성공/보류/거부' 비율과 실제 후기 인용, 화면3) 입금 전 체크리스트(필요 서류, 최소 출금액, 평균 대기일)",
+   "test": "Kalshi·Freecash·Polymarket 리뷰 100개씩 수동으로 '출금 성공/거부' 태깅한 표 하나 만들어 관련 커뮤니티에 공유, 반응 확인",
+   "title": "출금 직전 진짜 후기 모음",
+   "who": "Kalshi·Polymarket 같은 예측시장 앱에 첫 입금을 망설이며 후기를 검색만 하다 마는 사람"
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "US",
+    "BR",
+    "DE",
+    "JP",
+    "KR"
+   ],
+   "evidence": "'OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways'(미), 'OpenAI para treinamento após agentes de IA agirem por conta própria'(브라질), 'Bill Gates says an AI kill switch isn't enough'(미), '빌 게이츠 AI, 10억명 사망 초래할 만큼 강력'(한), 'KI-Agenten: Der Nutzer will mich abschalten? »Das ist Mord«, denkt der KI-Agent'(독)",
+   "so_what": "AI 에이전트의 통제 불능 사례가 동시다발로 보도되며 '더 빠른 AI'에서 '멈출 수 있는 AI'로 여론 프레임이 바뀌고 있다.",
+   "theme": "AI 폭주 공포가 5개국 헤드라인을 동시에 덮음"
+  },
+  {
+   "countries": [
+    "KR",
+    "BR",
+    "JP",
+    "GB",
+    "US"
+   ],
+   "evidence": "KR 빈티지카메라앱 '평생 990원이라더니 매달 결제됐다'; BR ReelShort '20초 에피소드에 1분 광고, 캐리다면 코인 구매 강제'; JP NetShort '全話無料は嘘です(전편 무료는 거짓말)'; GB CapCut '취소했는데 계속 돈 빠져나감(Beware!!!: I cancelled my subscription... still taking money)'; US Momo 'Makes you pay for subscription then you also have to pay for their digital coins'",
+   "so_what": "차트 상위 앱 대부분이 표면적 무료/저가를 내세우고 실제 결제 구조는 앱 안에서만 드러나는 구조로 수렴하고 있다.",
+   "theme": "'무료/평생'이라 광고하고 실제론 반복 과금 — 5개국 앱 리뷰에 동일 패턴"
+  },
+  {
+   "countries": [
+    "DE",
+    "KR",
+    "US"
+   ],
+   "evidence": "DE ChatGPT 'Wird in der kostenlosen Version zunehmend eingeschränkt'(무료판 갈수록 제한); DE Gemini 'Diese KI halluziniert derart viel'; KR Gemini '갈수록 실망, 전의 대화도 기억 못함'; US Muse 'Nothing works: They released this way too early'",
+   "so_what": "차트 순위와 실사용 만족도가 반대로 움직이는 앱이 늘고 있다 — 설치는 마케팅, 이탈은 실제 성능 문제.",
+   "theme": "AI 챗봇, 설치는 급증하는데 평점은 바닥"
+  },
+  {
+   "countries": [
+    "GB",
+    "DE",
+    "US"
+   ],
+   "evidence": "GB 차트 Vinted 7위(11→7), Depop 11위, Whatnot 8위 진입; DE CouponBirds 신규 7위, Otto 20→12위; 뉴스 'Drei Discounter senken Preise für beliebte Produkte'(독), 'You need £17,000 for a first home'(영)",
+   "so_what": "뉴스의 물가·주거비 불안과 앱차트의 중고·할인 앱 상승이 같은 방향을 가리킨다.",
+   "theme": "생활비 압박 속 중고거래·할인 앱 동시 강세"
+  }
+ ]
+}
