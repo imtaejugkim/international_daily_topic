@@ -1,0 +1,85 @@
+{
+ "counter": "오늘 데이터는 사실상 AI 뉴스 한 덩어리에 눌려 있다. 같은 사건이 서로 다른 나라 매체에 복제됐을 뿐 독립된 흐름 여러 개가 아니다. 저평점 리뷰는 한국 4건뿐이고 그중 하나('사용하기 좋아요', 1점)는 별점 오입력이라, 사용자 불만 근거가 거의 없다. 어제 BR 차트 파일이 없어 브라질 변동은 비교하지 못했다. JP JICC 앱 급등은 그날의 뉴스나 일시 이벤트일 수 있다. 그래서 아이디어를 1개만 냈고 그마저 약하다.",
+ "countries": {
+  "BR": "10월 4일 선거 5일 전이다. e-Título(전자 투표증)가 앱 1위이고 gov.br과 Carteira de Trabalho(노동수첩)도 상위다. 실업률 5.3%로 지표는 좋지만 가계 부채는 49.9% 기록이다. ChatGPT·Gemini·Meta AI·Claude가 모두 차트 20위 안팎이고 Pix는 베팅 금지 뒤 10% 줄었다. 어제 BR 차트 파일이 없어 변동은 비교하지 못했다.",
+  "DE": "이란발 유가, 기차 탈선, 엘터른겔트 개혁 번복, 볼슈 인력 감축, BASF의 에보닉 인수 거부가 뉴스다. 개인정보에 민감해서 Kleinanzeigen(클라이나이겐)의 AI 채팅 분석 거부 방법이 관심을 끈다. 차트에서는 S-pushTAN(에스푸시탄, 은행 인증앱)이 19위, Mein dm(마인 데엠, 드럭스토어)이 24위로 새로 올랐다.",
+  "GB": "번햄 총리의 노동당 대회가 핵심이다. 연금 삼중 잠금 폐지, 공공서비스 확대, 에너지 요금 GB Grid 계획이 나왔다. 맨체스터 시티 EPL 규정 위반 판정과 GTA 6 검색이 검색어를 채웠다. 차트에서는 Revolut(레볼루트), UNiDAYS(유니데이즈), Outlook(아웃룩)이 새로 진입했다. 생활비와 학생·금융 실용 쪽이다.",
+  "JP": "태풍 피해와 사고, 연예·야구 소식에 묶여 있다. 눈에 띄는 건 개인정보 방어다. ＪＩＣＣスマホアプリ(제이아이씨씨 스마트폰 앱)가 11위에서 2위로 급등했고 エアウォレット(에어월렛)도 16위에서 6위로 올랐다. 뉴스의 '免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延(면허증 도용 방지 신고 집중, 신용정보기관 절차 지연)'와 정확히 맞물린다. 신용정보 유출 불안이 앱 행동으로 나타난 드문 사례다.",
+  "KR": "AI·반도체 낙관이 지배한다. 젠슨 황 수상에 삼성·SK 총수가 축하 경쟁을 벌이고 AI 데이터센터·원전 기사가 이어진다. 반면 산업생산·소비·투자는 '트리플 감소'이고 대통령 지지율은 35.8%다. 앱 차트는 하나원큐·네이버플러스 스토어·집지켜(행복주택)·건강보험25시·LH청약플러스 등 금융·주거 실용앱이라 뉴스의 AI 열기와 결이 다르다. 이 엇갈림은 살아 있는 신호다.",
+  "US": "AI 정책이 중심이다. 'Super Intelligence' 개명 행정명령, OpenAI의 상시 에이전트 출시와 1.4조 달러 가치 평가 협상·소송, Anthropic IPO 기사가 이어진다. 30년물 금리는 2002년 이후 최고다. 차트는 PLAYFUL REWARDS(플레이풀 리워즈)가 13위에서 4위로 뛰었고 Peacock(피콕)과 Netflix Game Controller(넷플릭스 게임 컨트롤러)가 새로 올랐다."
+ },
+ "date": "2026-09-30",
+ "ideas": [
+  {
+   "evidence": "BR 'Governo Lula lança Desenrola MEI e novas medidas de renegociação de dívidas a 5 dias das eleições', 'Endividamento das famílias volta a subir e repete recorde de 49,9%', 'Receita atualiza opções pelo Simples e IBS/CBS'. 차트에는 InfinitePay(인피니트페이)가 11위, Mercado Pago(메르카도 파고)가 17위다.",
+   "money": "은행·핀테크의 제휴 리드 수수료, 또는 MEI 회계 서비스의 유입 비용.",
+   "one_liner": "개인사업자(MEI)가 자기 빚이 이번 재협상 대상인지 묻고 은행별 신청 절차를 단계별로 보는 안내 페이지.",
+   "risk": "Serasa(세라자)의 Limpa Nome(연체 정리) 같은 기존 서비스가 있고 정책 세부가 아직 불명확하다. 선거 이후 정책이 바뀔 수 있고, 브라질 한 나라 사정이라 확장성이 낮다. 재료가 약하다.",
+   "shape": "① 질문 4개(연체 종류·금액·은행·MEI 등록 여부) ② 대상 여부와 필요한 서류 ③ 은행별 신청 링크와 마감일 체크리스트.",
+   "test": "브라질 MEI 커뮤니티에 정리표 한 장을 올리고 댓글로 오는 질문 수와 이메일 수집 수를 센다.",
+   "title": "Desenrola MEI 대상 여부·절차 확인표",
+   "who": "월 매출 1만 헤알 안팎으로 카드·대출 연체가 있는 MEI 미용사·배달 기사·노점 사업자"
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "KR",
+    "US",
+    "JP",
+    "GB",
+    "DE",
+    "BR"
+   ],
+   "evidence": "KR '기만 늘고 보고는 부정확... 오픈AI, 안전 시험 못 넘은 GPT-6.1 아스트라 출시 접어'; DE 'OpenAI zieht bei neuem KI-Modell die Notbremse (오픈AI, 새 AI 모델에 비상 브레이크)'; GB 'Anthropic warns AI poses existential risks ahead of $2trn float'; JP 'アンソロピックIPO書類「強力なAI、人類存亡のリスク」'; BR 'Dona do Claude admite que IA representa riscos para a humanidade'.",
+   "so_what": "각국이 같은 사건을 다르게 읽는다. 한국은 'AI 직원 닷' 같은 제품과 삼성·SK 반도체 쪽으로, 독일·영국은 안전·보안 쪽으로, 일본은 기업 도입(NEC의 Claude Cowork)으로 본다. '통제 불능 에이전트'가 대중 불안이 된 첫 국면이다.",
+   "theme": "OpenAI 신모델 철회와 Anthropic IPO 서류의 '위험' 경고가 5개국 헤드라인을 동시에 점령"
+  },
+  {
+   "countries": [
+    "US",
+    "JP",
+    "KR",
+    "DE",
+    "GB"
+   ],
+   "evidence": "US 'Trump signs executive order renaming AI to super intelligence'; JP 'トランプ氏、ＡＩの自主規制で企業トップらと合意'; KR '트럼프 AI 기업, 엄청난 자율규제 필요'; DE 'Tech-Bosse sollen sich selbst kontrollieren (기술 CEO들이 스스로 통제해야)'.",
+   "so_what": "규제는 당분간 기업 자율이라는 뜻이다. 안전·감사·기록 같은 수요는 정부가 아니라 기업 내부 필요로 생길 가능성이 크다.",
+   "theme": "트럼프의 AI '자율규제' 합의와 'Super Intelligence' 개명 행정명령"
+  },
+  {
+   "countries": [
+    "BR",
+    "DE",
+    "JP",
+    "GB",
+    "US"
+   ],
+   "evidence": "BR 'Claude fora do ar? (클로드 먹통?)'와 '판사가 프롬프트를 잊고 AI 지시문이 담긴 판결문을 게시'; DE 'Kleinanzeigen: So stoppen Sie die KI-Analyse Ihrer Chats (클라이나이겐: AI의 채팅 분석을 멈추는 법)'; GB 'AI voice clone and fake WhatsApp message to move €95 million'; JP 'イープラス不正アクセス', 'iPhoneアプリが落ちる'.",
+   "so_what": "AI를 쓰는 쪽의 실수와 AI가 쓰이는 쪽의 피해가 함께 늘고 있다. 다만 전부 뉴스 수준이고 사용자 불만 데이터는 없다.",
+   "theme": "AI 서비스 장애·데이터 유출·사칭 사고가 일상화"
+  },
+  {
+   "countries": [
+    "BR",
+    "US",
+    "GB",
+    "KR"
+   ],
+   "evidence": "BR '가계 부채 49.9% 기록 반복'과 'Desenrola MEI 출시'; US/GB 'US 30-year Treasury yield hits highest since 2002'; KR '월가 전문가 글로벌 국채금리 급등, 재정적자 탓', '8월 산업생산 1.3%↓ 소비·투자까지 트리플 감소'; GB 'Asda raising diesel prices'.",
+   "so_what": "브라질은 선거 5일 전 부채 재협상을 정치 카드로 쓰고 있어 소액 사업자·개인의 빚 정리가 지금 가장 시급한 국내 문제다.",
+   "theme": "빚·물가·금리 압박: 국채금리 급등과 가계 부담"
+  },
+  {
+   "countries": [
+    "DE",
+    "KR",
+    "BR",
+    "GB"
+   ],
+   "evidence": "DE 'Ölpreis steigt nach Trumps Absage zu Iran-Einigung (트럼프가 이란 합의를 거부하자 유가 급등)'; KR '사우디 피격 송유관 재가동'; BR '연료 부족으로 쌀 파종 중단', 'EUA barrarem exportações de diesel (미국이 디젤 수출을 막으면)'; GB 'Asda raising diesel prices faster than any other major supermarket'.",
+   "so_what": "에너지 충격이 농업·유통 원가로 번지는 초기 신호다. 아직 앱 차트나 검색어에는 나타나지 않는다.",
+   "theme": "이란 전쟁발 에너지 불안: 유가와 연료 부족"
+  }
+ ]
+}

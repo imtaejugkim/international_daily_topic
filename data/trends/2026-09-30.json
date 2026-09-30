@@ -1,0 +1,317 @@
+{
+ "date": "2026-09-30",
+ "trends": {
+  "BR": [
+   {
+    "news": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
+    "title": "christa pike",
+    "traffic": "500+"
+   },
+   {
+    "news": "Jéssica, bombeira de Criciúma, vence MasterChef da Band",
+    "title": "quem ganhou o masterchef 2026",
+    "traffic": "5000+"
+   },
+   {
+    "news": "Flávio lidera no RJ; Paes aparece à frente para governador",
+    "title": "douglas ruas",
+    "traffic": "1000+"
+   },
+   {
+    "news": "De Messi x CR7 a Ancelotti, Felipe Melo dispara em evento na Argentina e promete ganhar Champions, Libertadores e Copa como técnico",
+    "title": "felipe melo",
+    "traffic": "500+"
+   },
+   {
+    "news": "Sabatina da Gaúcha: Cláudio Diaz, vice de Marcelo Maranata, defende responsabilidade fiscal e critica \"vaidade\" de Leite",
+    "title": "marcelo maranata",
+    "traffic": "500+"
+   },
+   {
+    "news": "Estadão e Band promovem debate de 2º turno para presidente em 11 de outubro",
+    "title": "band",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Luiza Ambiel acusa Sérgio Hondjakoff de importunação: 'Nada de coitadinho'",
+    "title": "a fazenda",
+    "traffic": "5000+"
+   },
+   {
+    "news": "Debate no RJ tem ataques a Paes e Ruas e discussões sobre alianças políticas, segurança, educação e transporte",
+    "title": "andre marinho",
+    "traffic": "5000+"
+   },
+   {
+    "news": "Governo de Pernambuco publica edital para o Corpo de Bombeiros com 570 vagas e soldos de até R$ 12,9 mil",
+    "title": "edital pmpe",
+    "traffic": "10000+"
+   },
+   {
+    "news": "Mega-Sena 3064 acumula e prêmio vai a R$ 75 milhões; confira os números sorteados",
+    "title": "mega sena 3064",
+    "traffic": "2000+"
+   }
+  ],
+  "DE": [
+   {
+    "news": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich",
+    "title": "brent",
+    "traffic": "200+"
+   },
+   {
+    "news": "\"GTA 6\" durchbricht die Schallmauer der Videospiel-Branche",
+    "title": "gta vi",
+    "traffic": "500+"
+   },
+   {
+    "news": "Güterwagen entgleist: Züge fallen aus, auch Intercity betroffen",
+    "title": "entgleisung",
+    "traffic": "5000+"
+   },
+   {
+    "news": "Bundesfamilienministerin erwägt Kehrtwende bei Elterngeldreform",
+    "title": "elterngeld",
+    "traffic": "200+"
+   },
+   {
+    "news": "Traditioneller Zelt-Besuch: VfB-Stars feiern auf dem Wasen",
+    "title": "vfb stuttgart",
+    "traffic": "500+"
+   },
+   {
+    "news": "Vollsperrung zwischen Rettichkreisel und Rudersberg",
+    "title": "rudersberg",
+    "traffic": "200+"
+   },
+   {
+    "news": "POL-GM: Schwerpunktwoche gegen Taschendiebstahl 2026",
+    "title": "taschendiebstahl",
+    "traffic": "100+"
+   },
+   {
+    "news": "„Olise ist ein Skandal!“",
+    "title": "olise",
+    "traffic": "200+"
+   },
+   {
+    "news": "Sportschau - McNulty krönt sich mit Solo-Sieg zum neuen Rad-Weltmeister - hier anschauen",
+    "title": "radsport",
+    "traffic": "200+"
+   },
+   {
+    "news": "Kriminalität: Warum der Postplatz in Dresden nicht der Wiener Platz ist",
+    "title": "dresden",
+    "traffic": "200+"
+   }
+  ],
+  "GB": [
+   {
+    "news": "Introducing dots",
+    "title": "dots",
+    "traffic": "100+"
+   },
+   {
+    "news": "Chad Lowe’s daughter Fiona dead at 13: ‘We are deeply heartbroken’",
+    "title": "chad lowe",
+    "traffic": "200+"
+   },
+   {
+    "news": "Horse Racing Tips: Katie Midwinter's best bets on Wednesday including 22/1 Kempton fancy",
+    "title": "betfair",
+    "traffic": "100+"
+   },
+   {
+    "news": "Licensable picture: MLB: Wildcard-Boston Red Sox at New York Yankees",
+    "title": "yankees vs red sox",
+    "traffic": "100+"
+   },
+   {
+    "news": "The Grand Theft Auto VI Digital Issue Is Now Live",
+    "title": "gta vi",
+    "traffic": "5000+"
+   },
+   {
+    "news": "Jairo Vélez vuelve a golpear con Perú: el ecuatoriano marca ante México en Estados Unidos",
+    "title": "mexico vs peru",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Espanyol sporting director apologises for backing Lamine Yamal to win Ballon d'Or",
+    "title": "lamine yamal",
+    "traffic": "200+"
+   },
+   {
+    "news": "Payton Tolle surrenders one run in Game 1 defeat",
+    "title": "mlb",
+    "traffic": "500+"
+   },
+   {
+    "news": "Manchester City charges: Premier League confirms club guilty of all charges related to financial rule breaches",
+    "title": "manchester city football",
+    "traffic": "20000+"
+   },
+   {
+    "news": "New York judge orders city to scrap Mamdani’s pied-à-terre tax rollout",
+    "title": "casino",
+    "traffic": "200+"
+   }
+  ],
+  "JP": [
+   {
+    "news": "田中希実 専属コーチ務める父・健智氏とは「ケンカは多いかなと思います」「常にガンガン怒ってる」（スポニチアネックス）",
+    "title": "田中希実",
+    "traffic": "2000+"
+   },
+   {
+    "news": "石橋貴明、近影公開 ソフトバンク・中村晃の引退セレモニーでVTR公開「帝京魂！」",
+    "title": "石橋 貴明",
+    "traffic": "1000+"
+   },
+   {
+    "news": "「自分は天皇たるべき教育を受けていない」と吐露した秋篠宮さまの真意 悠仁さまが受けた“天皇教育”とは？《“傍系”皇位継承は250年ぶり》（文春オンライン）",
+    "title": "悠仁さま",
+    "traffic": "1000+"
+   },
+   {
+    "news": "「まさか最初にやらかすとは...」電撃逮捕で崩れた『timelesz』猪俣周杜の「危機管理神話」（FRIDAY）",
+    "title": "ファミクラストア",
+    "traffic": "10000+"
+   },
+   {
+    "news": "ドイツでは1000円→日本では無料 ドイツ人がカルチャーショック 日本で「少し申し訳ない」と感じる意外なサービスとは（Hint-Pot）",
+    "title": "ドイツ人",
+    "traffic": "5000+"
+   },
+   {
+    "news": "松井裕樹 PS2年ぶり2試合目の登板 先発・キングの後を受け、大観衆の声援を背にマウンドへ（スポニチアネックス）",
+    "title": "パドレス 対 カブス",
+    "traffic": "20000+"
+   },
+   {
+    "news": "十勝花子、没後10年。娘・十勝令子が「10回忌追悼公演」を開催",
+    "title": "十勝花子",
+    "traffic": "2000+"
+   },
+   {
+    "news": "朝9時に「ハンマーで頭を叩かれたかのような衝撃」 野球ファン沈痛の発表「マジか」（Full-Count）",
+    "title": "中村奨吾",
+    "traffic": "10000+"
+   },
+   {
+    "news": "「ありがとうなぁ～」WEST.活動最終日にノーベルが感謝の投稿、『VC-3000のど飴』でCM出演（オリコン）",
+    "title": "中間淳太",
+    "traffic": "1000+"
+   },
+   {
+    "news": "【MLBワイルドカード】ライス2ホーマー＆シュリットラー好投、若手の活躍でヤンキースが先勝（スポーティングニュース日本版）",
+    "title": "ヤンキース 対 レッドソックス",
+    "traffic": "10000+"
+   }
+  ],
+  "KR": [
+   {
+    "news": "“해외서 딴남자 애까지 낳았는데 이혼안해줍니다”",
+    "title": "이혼",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Codex에 앱스토어 1위 게임 만들라 했더니, 진짜 1위 했다",
+    "title": "앱 스토어",
+    "traffic": "1000+"
+   },
+   {
+    "news": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
+    "title": "건설근로자공제회",
+    "traffic": "500+"
+   },
+   {
+    "news": "58세 채시라, 올화이트룩에 핑크 워커…패션센스",
+    "title": "채시라",
+    "traffic": "1000+"
+   },
+   {
+    "news": "차 안에 현금 9000, 상품권 850… 5급 ‘뇌물 공무원’의 최후",
+    "title": "뇌물",
+    "traffic": "200+"
+   },
+   {
+    "news": "\"허경환과 자주 잤다\" 유부녀 개그우먼 '폭로' - 머니투데이",
+    "title": "성현주",
+    "traffic": "2000+"
+   },
+   {
+    "news": "‘백발’ 유재명, 유재석보다 동생이었다..“이름 부르기 좀” 반전 나이에 폭소 [Oh!쎈 예고]",
+    "title": "유재명",
+    "traffic": "500+"
+   },
+   {
+    "news": "충북교육청, 2027학년도 중등 신규교사 선발 공고 : 네이버 블로그",
+    "title": "경기도교육청",
+    "traffic": "200+"
+   },
+   {
+    "news": "Mexico vs Peru: Friendlies stats & head-to-head",
+    "title": "멕시코 대 페루",
+    "traffic": "5000+"
+   },
+   {
+    "news": "[아시안게임] 제카 앞세운 한국 LoL, 대만 꺾고 첫 승",
+    "title": "아시안게임 롤",
+    "traffic": "2000+"
+   }
+  ],
+  "US": [
+   {
+    "news": "Padres add Joe Musgrove, out since 2024, to wild-card roster",
+    "title": "joe musgrove",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Josh Allen’s Wife Hailee Steinfeld Shares Exciting News Before Bills-Chargers Game",
+    "title": "hailee steinfeld",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Jimmy Kimmel Live Schedule for the Week of 9/28/2026",
+    "title": "amy schumer",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Hampered by ankle injury, Arraez won't be on NL Wild Card Series roster",
+    "title": "ty france",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Twitch streamer Reggie Travers accuses brother of sexual abuse in tearful video",
+    "title": "reggie",
+    "traffic": "500+"
+   },
+   {
+    "news": "What about a selfie? Mamdani refuses to send Trump a pic of him and Jimmy Kimmel",
+    "title": "jimmy kimmel",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Borges on Djokovic’s perfect 29-0 Beijing record: ‘More pressure for him’",
+    "title": "felix auger aliassime",
+    "traffic": "500+"
+   },
+   {
+    "news": "‘Ted Lasso’ Season 4, Episode 9 pays touching tribute to Anthony Head",
+    "title": "mae ted lasso",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Padres finish out 3rd straight 90-plus-win season with statement at home",
+    "title": "dustin harris",
+    "traffic": "1000+"
+   },
+   {
+    "news": "T.J. Hughes will make Avalanche opening-night roster, Jared Bednar says",
+    "title": "victor olofsson",
+    "traffic": "500+"
+   }
+  ]
+ }
+}
