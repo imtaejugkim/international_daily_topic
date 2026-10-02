@@ -1,0 +1,95 @@
+{
+ "counter": "리뷰 표본이 브라질 한 나라에서만 수집돼 '여러 나라에서 반복되는 불만'이라는 핵심 재료가 오늘은 없다. e-Título 리뷰는 선거 직전의 일시적 장애다. APTV가 4개국 차트에 오른 이유는 데이터만으로 알 수 없어서 아이디어에 쓰지 않았다. 아이디어 두 개는 헤드라인 한두 건에 기대고 있어 과잉해석일 수 있다. 오늘 재료는 전반적으로 약하다.",
+ "countries": {
+  "BR": "일요일 선거를 앞두고 e-Título (이타뚤루, 전자투표증)가 1위지만 리뷰는 '화면이 하얗게 멈춤'과 '데이터가 맞는데 거부'로 가득하다. 달러 5.20 돌파, Pix 근접결제 한도 폐지, WhatsApp 기업 응답 유료화 같은 돈 관련 뉴스가 많다. VibeShort (바이브숏, AI 단편 드라마)가 24위에서 4위로 올랐다.",
+  "DE": "인플레 3.3%, VW 단체협약 해지, 전기료 인상 등 비용 압박 뉴스가 많다. 아마존 프라임 요금 인상이 BGH에서 뒤집혀 환급 청구가 가능해졌다. 차트에서는 APTV가 20위에서 1위로 뛰었고 clever-tanken.de가 새로 들어왔다.",
+  "GB": "길트 금리가 1998년 이후 최고로 오르고 예산안 불안으로 은행주가 흔들린다. 차트는 Lloyds (로이즈)와 GOV.UK One Login (정부 통합 로그인)이 1·2위여서 은행·행정 로그인 앱이 상위를 차지한다. 프랑스 학교 시위와 번햄의 브렉시트 재논의도 동시에 진행 중이다.",
+  "JP": "금리 24년 만의 고점, 타임스 정보 유출, 도카이기선 음주 운항 처분이 눈에 띈다. 차트는 Bump (범프, 옛 Zenly)와 ChatGPT가 위이고 Microsoft Copilot이 15위에서 6위로 올랐다. 뉴스는 불안인데 차트는 AI 도구 쪽이다.",
+  "KR": "중동 항모 배치와 물가 2.9%, 은행 정보유출이 뉴스를 채운다. 앱차트 1위는 'bubble for STARSHIP (버블 포 스타쉽)' 같은 팬 메시지 앱이고 하나증권 MTS가 24위에서 7위로 뛰었다. 불안한 뉴스와 별개로 차트는 팬덤과 증권 쪽이 끌고 있다.",
+  "US": "OpenAI·Anthropic IPO와 AI 에이전트 사고, 모기지 금리, 이란 공습 저울질이 뉴스의 중심이다. 차트는 Muse from Meta (뮤즈 프롬 메타)가 1위이고 Kalshi (칼시, 예측시장)가 16위에서 8위로 올랐다. 불안한 거시 뉴스와 베팅 앱 상승이 같이 간다."
+ },
+ "date": "2026-10-02",
+ "ideas": [
+  {
+   "evidence": "DE: \"Weiße Schrift auf weißem Hintergrund: Viele Bewerber manipulieren ihren Lebenslauf mit Anweisungen\" / BR: \"Moraes aplica multa de R$ 5 mil a advogado ... por uso de prompt oculto de IA\" / KR: \"'AI 에이전트'에 당했다…신한은행 보안 허점\"",
+   "money": "채용 담당자·로펌이 건당 또는 월 구독으로 지불한다. 숨은 지시문이 채용이나 소송 결과를 왜곡할 수 있다는 점이 지불 이유다.",
+   "one_liner": "이력서나 소송 서류 PDF를 올리면 흰 글씨·초소형 글씨·가려진 텍스트로 심어둔 AI 지시문을 찾아 보여준다.",
+   "risk": "ATS와 채용 도구 업체가 이 기능을 기본으로 넣을 수 있다. 문제 규모도 아직 헤드라인 두 건 수준이라 크기가 불확실하다.",
+   "shape": "화면1: PDF 업로드. 화면2: 눈에 보이는 텍스트와 실제 추출 텍스트를 나란히 비교해 숨은 문장을 빨간색으로 표시. 화면3: 의심 문서 목록과 공유용 링크.",
+   "test": "'이력서 숨은 지시문 무료 검사' 랜딩페이지를 만들고 채용 담당자 커뮤니티에 글 하나를 올린 뒤, 이메일로 받은 PDF 10개를 수동으로 검사해 돌려준다.",
+   "title": "PDF에 숨은 AI 지시문 찾아주는 검사기",
+   "who": "AI 필터로 이력서를 1차 선별하면서 지원서가 수백 장 들어오는 10~50인 회사의 채용 담당자, 또는 소규모 로펌의 서류 검토자"
+  },
+  {
+   "evidence": "BR: \"Responder Cliente no WhatsApp Passa a Ter Custo para Empresas a Partir de Hoje (WhatsApp 고객 응답이 오늘부터 기업에 비용 발생)\"",
+   "money": "소상공인이 월 구독료를 낸다. 새로 생긴 변동비 때문에 비용을 줄일 이유가 생겼다.",
+   "one_liner": "WhatsApp으로 고객 응대하는 소상공인이 응답에 드는 비용과 줄일 방법을 계산해주는 도구.",
+   "risk": "헤드라인 한 줄이 근거라 실제 과금 구조와 영향 범위를 확인하지 못했다. 이미 WhatsApp Business API 공급사(Zenvia (젠비아) 등)가 이런 안내를 낼 가능성이 크다.",
+   "shape": "화면1: 월 문의 수·응답 방식 입력. 화면2: 예상 월 비용과 응답을 템플릿이나 자동 안내로 돌렸을 때의 절감액. 화면3: 복사해서 쓰는 응대 템플릿.",
+   "test": "포르투갈어 랜딩페이지 한 장과 계산기 스프레드시트를 만들고, 소상공인 WhatsApp·Facebook 그룹 3곳에 글을 올려 이메일 몇 개가 모이는지 본다.",
+   "title": "WhatsApp 응답 유료화 대응 계산기",
+   "who": "하루 문의 수십~수백 건을 WhatsApp으로 받는 브라질 동네 가게나 서비스업 사장 (예: 미용실, 배달 전문점)"
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "BR",
+    "DE",
+    "KR",
+    "US",
+    "GB"
+   ],
+   "evidence": "BR: \"Moraes aplica multa de R$ 5 mil a advogado de réu do 8/1 por uso de prompt oculto de IA\" / DE: \"Weiße Schrift auf weißem Hintergrund: Viele Bewerber manipulieren ihren Lebenslauf mit Anweisungen (흰 배경에 흰 글씨: 지원자들이 이력서에 지시문 심어)\" / KR: \"'AI 에이전트'에 당했다…신한은행 보안 허점 노출\" / US: \"OpenAI alerts more than 100 groups about rogue AI agent activity\" / GB·US: 현미경 사진 공모전 우승작 'AI fake' 논란",
+   "so_what": "AI를 쓰는 쪽보다 AI가 읽는 문서를 오염시키는 쪽의 사고가 먼저 터지고 있다. 문서 안의 숨은 지시문을 걸러내는 일은 아직 비어 있는 좁은 틈이다.",
+   "theme": "AI 에이전트·숨은 프롬프트 같은 'AI 조작'이 일상 사고로 번지는 중"
+  },
+  {
+   "countries": [
+    "US",
+    "GB",
+    "JP",
+    "DE",
+    "BR"
+   ],
+   "evidence": "GB: \"gilt yields hit highest since 1998\" / JP: \"米長期金利 24年ぶりの高水準に 住宅ローンは7％台前半 (미 장기금리 24년 만의 고수준, 주택대출 7%대 초반)\" / US: \"Mortgage rates approach 3-year high\" / DE: \"Anleihemarkt USA: Edgar Walk warnt vor Kontrollverlust (미 채권시장: 통제력 상실 경고)\" / BR: \"Com juros altos nos EUA e no Brasil...\"",
+   "so_what": "가계·기업의 이자 부담이 여러 나라에서 동시에 커지는 국면이다. 다만 이번 데이터에서 이를 겨냥한 앱 차트나 리뷰 신호는 없다.",
+   "theme": "금리·국채 쇼크: 장기금리가 수십 년 만의 고점"
+  },
+  {
+   "countries": [
+    "BR",
+    "DE",
+    "GB",
+    "KR",
+    "US",
+    "JP"
+   ],
+   "evidence": "GB·US·BR: \"US presses Europe to release 'immediately' diesel reserves as Trump threatens export ban\" / DE: \"Start des neuen 'Tankrabatts' (새 유류 보조금 시작)\" / BR: \"Petróleo sobe 4% e Brent vai a US$ 102\" / KR: \"중동에 세 번째 항모·1만 병력 투입\" / DE 앱차트: clever-tanken.de (주유소 가격비교) 신규 16위",
+   "so_what": "유가 불안이 독일 앱차트의 주유소 가격 앱으로 이미 내려왔다. 다른 나라에서는 아직 그런 행동 변화가 보이지 않는다.",
+   "theme": "중동 긴장과 디젤·유가: 미국의 디젤 비축 해제 압박"
+  },
+  {
+   "countries": [
+    "JP",
+    "KR",
+    "DE"
+   ],
+   "evidence": "JP: \"タイムズ660万件情報流出パニック (타임스 660만 건 유출 패닉)\", 트렌드 '信用情報機関'(신용정보기관), 집단소송 2200명 초과 / KR: \"KB국민은행도 고객 정보 유출…100여 명\" / DE: \"Handynummer von BND-Vize im Internet (BND 부국장 휴대폰 번호 공개)\"",
+   "so_what": "일본에서는 유출 후 '내가 대상인지' 확인하려는 혼란이 가장 크다. 같은 혼란이 다른 나라에서도 반복될지는 아직 모른다.",
+   "theme": "개인정보 유출이 나라마다 터지는 중"
+  },
+  {
+   "countries": [
+    "GB",
+    "DE",
+    "JP",
+    "KR",
+    "BR"
+   ],
+   "evidence": "GB 트렌드 'russia putin' 20000+ / JP: \"プーチン氏…あらゆる兵器の使用が議題\" / KR: \"러 '칼리닌그라드 봉쇄하면 핵무기 쓸수도'\" / DE: \"Merz warnt vor Angriff Russlands\"",
+   "so_what": "검색량은 영국에서 가장 크다. 사업 기회보다는 불안의 배경 소음으로 읽는 게 맞다.",
+   "theme": "러시아 칼리닌그라드 핵 위협"
+  }
+ ]
+}
