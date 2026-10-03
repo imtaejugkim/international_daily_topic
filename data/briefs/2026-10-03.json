@@ -1,0 +1,83 @@
+{
+ "counter": "오늘 저평점 리뷰는 브라질 3개 앱 표본뿐이라 다국가 불만 반복을 확인하지 못했다. 그래서 아이디어는 뉴스 한두 건에 기댄 약한 가설이다. 차트도 선거(BR)·연휴(KR, DE)·팬덤 이벤트처럼 일회성 요인이 크고, 숏드라마나 신분증 앱은 현상 관찰일 뿐 기회라고 볼 근거가 없다.",
+ "countries": {
+  "BR": "내일 1차 투표를 앞두고 e-Título가 차트 1위이고 Urna Eletrônica Simulador (전자투표기 시뮬레이터) 앱 두 개도 상위다. 검색어도 \"onde votar nas eleições do brasil (선거 투표 장소)\"로 선거 일색이며, 증시는 선거 전날 급등했다.",
+  "DE": "VW 노사 갈등, Galeria (갈레리아) 4번째 파산, 연정 갈등 등 산업·정치 불안이 중심이다. 앱차트는 Claude, ChatGPT 같은 AI 앱과 DHL·Vinted (빈티드)·AusweisApp 같은 실용 앱이 섞여 있다.",
+  "GB": "경유가 사상 처음 리터당 2파운드를 넘었고 예산안 은행세 논란, 프랑스 부채 우려가 겹친다. 차트는 Lloyds (로이즈)·GOV.UK One Login·Monzo (몬조) 등 금융·공공 앱이 강하다.",
+  "JP": "유가·금리·엔비디아 신고가 같은 경제 뉴스와 개인정보 유출이 겹친다. 차트는 setlog (셋로그), Bump (범프) 같은 신규 앱이 상위이고 배달·편의점 앱 신규 진입이 두드러진다.",
+  "KR": "북한 탄도미사일과 김여정 발언, 국민의힘 장외집회 등 정치·안보 뉴스가 크다. 차트는 팬덤 앱(bubble 시리즈, 버블)과 외식·예약·놀이공원 앱(테이블링, 캐치테이블, 롯데월드)이 새로 올라와 연휴 외출 분위기를 보여준다.",
+  "US": "고용 둔화와 중간선거, 이란 항공기 사건, OpenAI 안전팀 이탈이 뉴스를 채운다. 차트 1위는 Muse from Meta (메타 뮤즈)로 AI 앱 중심이고, 전일 대비 큰 변동은 Amazon Prime Video (아마존 프라임 비디오) 하락(-15) 정도다."
+ },
+ "date": "2026-10-03",
+ "ideas": [
+  {
+   "evidence": "JP \"「アバハウス」全顧客の情報漏えいか ... 「不審な返金メール届いた」\", \"タイムズカー情報流出で免許センターに再交付求める列\" (타임스카 유출로 면허센터에 재발급 줄). KR \"5대 은행 동시다발 공격\"",
+   "money": "초기엔 무료이고, 보험사·보안 업체의 제휴 노출이나 변호사 연결 수수료를 노려볼 수 있다.",
+   "one_liner": "개인정보 유출 사고가 터지면 해당 사고의 피해자가 해야 할 조치(비번·카드·면허 재발급 등)를 순서대로 정리해 주는 페이지.",
+   "risk": "유출 사고마다 기업이 직접 안내문을 내고, 일본 외 나라의 같은 불만은 오늘 데이터에 없다. 수요가 사고 직후에만 몰리는 일회성일 수 있다.",
+   "shape": "화면 1: 사고 선택. 화면 2: 해당 사고 유출 항목별 체크리스트(비번 변경, 카드 정지, 사칭 메일 구분법). 화면 3: 완료 항목 저장.",
+   "test": "일본어 X/커뮤니티에 타임스카 유출 체크리스트 글 하나를 올리고 반응과 저장 수를 본다.",
+   "title": "유출 사고 뒤 '내가 할 일' 한 장짜리 안내",
+   "who": "방금 유출 안내 메일을 받았는데 뭘 해야 할지 모르는 아바하우스·타임스카 고객"
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "US",
+    "GB",
+    "JP",
+    "KR",
+    "DE"
+   ],
+   "evidence": "US/GB \"Trump: I won't ban diesel exports\", GB \"UK diesel prices top £2 a litre for first time\", JP \"G7、石油備蓄１億バレルを協調放出へ…軽油価格上昇に対応\", KR \"G7, 비축유 1억 배럴 방출 합의\", DE \"Energiekrise: USA haben Diesel-Exportstopp ... nie ernsthaft geplant\"",
+   "so_what": "5개국이 같은 사건을 서로 다른 각도(수출금지 위협, 소비자 가격, 정책 대응)로 다룬다. 물가 압박이 생활 전반의 배경이다.",
+   "theme": "디젤·유가 쇼크와 G7 비축유 방출"
+  },
+  {
+   "countries": [
+    "US",
+    "JP",
+    "KR",
+    "BR",
+    "GB"
+   ],
+   "evidence": "BR \"Payroll: EUA criam 29 mil vagas\", JP \"米10月利上げ観測後退\", KR \"美 채권시장 3~4회 금리인상 반영 과도\", GB \"France debt crisis: ... pricing in growing odds of default\"",
+   "so_what": "각국 시장이 미국 지표 하나에 연동돼 움직인다. 이 흐름은 뉴스일 뿐 제품 신호는 아니다.",
+   "theme": "미국 고용 둔화와 금리·채권 불안"
+  },
+  {
+   "countries": [
+    "JP",
+    "KR",
+    "DE",
+    "BR"
+   ],
+   "evidence": "JP \"「アバハウス」全顧客の情報漏えいか\", \"タイムズカー情報流出 ... 集団訴訟は2200人超\", KR \"5대 은행 동시다발 공격 ... 'AI 해킹 사건'\", DE \"Handynummer von BND-Vize im Internet\", BR \"IA impulsiona produção de ataques contra candidatas mulheres\"",
+   "so_what": "유출 이후 피해자가 직접 해야 하는 대응(재발급, 소송)이 번거롭다는 점이 JP 기사에서 드러난다.",
+   "theme": "개인정보 유출과 AI 악용 공격"
+  },
+  {
+   "countries": [
+    "BR",
+    "US",
+    "JP",
+    "KR"
+   ],
+   "evidence": "BR VibeShort (바이브숏), PineDrama (파인드라마) / US PineDrama, StoryReel (스토리릴) / JP NetShort (넷숏), DramaWave (드라마웨이브) / KR NetShort(전일 대비 +18). APTV (APTV)는 BR·DE·GB·US 상위",
+   "so_what": "비슷한 숏드라마 앱이 4개국 차트에 있다. 다만 리뷰 데이터가 없어 불만 지점은 알 수 없고, 이미 경쟁이 붐비는 시장이다.",
+   "theme": "숏드라마 앱이 차트에 동시 진입"
+  },
+  {
+   "countries": [
+    "JP",
+    "DE",
+    "GB",
+    "BR"
+   ],
+   "evidence": "JP マイナアプリ (마이넘버 앱), TRUSTDOCK (트러스트독) / DE AusweisApp (신분증 앱), Nect Wallet (넥트 월렛) / GB GOV.UK One Login (원 로그인) / BR gov.br (정부 포털), e-Título (전자 유권자증)",
+   "so_what": "정부·본인확인 앱이 차트에 상시 존재한다. 각국이 디지털 신분 전환을 한창 밀고 있다는 뜻이다.",
+   "theme": "신분증·인증 앱이 상위권을 차지"
+  }
+ ]
+}
