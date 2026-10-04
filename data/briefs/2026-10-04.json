@@ -1,0 +1,79 @@
+{
+ "counter": "오늘 리뷰 파일(2026-10-04)은 6개국 모두 비어 있다. 어제 리뷰도 브라질 3개 앱뿐이라 불만 기반 근거가 사실상 없다. 그래서 아이디어는 뉴스 헤드라인에만 의존해 약하다. 브라질 차트는 선거 당일 일시 현상이라 순위 급등을 신호로 읽으면 과잉해석이다. 숏드라마 확산도 차트만 보고 읽은 것이다. 아이디어를 1개만 낸 것도 재료가 약해서다.",
+ "countries": {
+  "BR": "총선 당일이라 e-Título (이타이틀로) 1위, Resultados (결과) 신규 2위, Urna Simulador 2026 (투표기 시뮬레이터) 19→4위로 선거 앱이 상위를 휩쓸었다. 검색어도 'como votar nas eleições do brasil (브라질 선거 투표 방법)' 20만+다. 선거 직후엔 순위가 빠르게 빠질 일시적 현상이다.",
+  "DE": "차트는 APTV (에이피티브이) 1위, 배달(Lieferando (리퍼란도), Wolt (볼트), Uber Eats (우버 이츠)) 신규 진입, AI 앱 순위가 올랐다. 뉴스는 VW 대규모 리콜, Galeria (갈레리아) 재파산, 통신·구독 가격 인상, AfD 지지율 선두 여론조사다. 가격 인상과 일자리 불안이 한꺼번에 나온다.",
+  "GB": "Lloyds Mobile Banking (로이즈 모바일 뱅킹) 1위, GOV.UK One Login (고브유케이 원 로그인) 3위로 은행·정부 앱이 상위다. 뉴스는 디젤 2파운드 돌파, 에너지 위기, 이지젯 파업, 물 공급 중단 등 생활 인프라 불안이다. 차트가 이 불안을 반영하는 신호는 아직 약하다.",
+  "JP": "차트 상위는 setlog (셋로그)와 ChatGPT, 숏드라마, 외식 앱(コメダ珈琲店 (코메다 커피), バーガーキング (버거킹), はま寿司 (하마스시))이다. 뉴스는 장기금리 급등, 도코모 요금 인상과 고객정보 무단 제공 문제, 태풍 27호다. 가계 부담이 커지는 뉴스에 비해 차트는 외식 쿠폰 앱이 강하다.",
+  "KR": "앱 차트는 팬덤 앱(bubble for STARSHIP (버블 포 스타쉽))과 예약·외식(테이블링 16→8위, 캐치테이블 25→12위)이 쥐고 있다. 뉴스는 금융권 해킹 피해('저축은행·캐피털도 뚫렸다')와 '10월 5일 금융시장 폭락설', 트럼프·북한 발언이 채웠다. 불안한 금융 뉴스와 소비 중심 차트가 엇갈린다.",
+  "US": "차트는 Muse from Meta (뮤즈 프롬 메타) 1위, ChatGPT, Vinted (빈티드)로 AI와 중고 거래가 중심이다. Kalshi (칼시) 7위가 눈에 띈다. 뉴스는 중간선거를 앞둔 트럼프 행보, 고용 둔화, 채권금리 고점이 중심이다."
+ },
+ "date": "2026-10-04",
+ "ideas": [
+  {
+   "evidence": "DE 'Preiserhöhung bei Telekom und 1&1: Wer jetzt mehr zahlt und wer kündigen kann'; 'Urteil bestätigt: Preiserhöhung bei Amazon-Prime unwirksam – so bekommen Millionen Kunden ihr Geld zurück'; JP 'ドコモがほぼ全ての料金プランを値上げ'. 오늘은 리뷰 데이터가 비어 있어 불만 문구 근거는 없다.",
+   "money": "해지·환불 성공 시 환불액의 일부를 수수료로 받거나 건당 소액을 결제하는 방식.",
+   "one_liner": "통신·구독 서비스의 요금 인상 통지를 붙여넣으면 거부권·해지권·환불 청구 가능 여부와 마감일을 알려주는 도구.",
+   "risk": "이미 환불 청구 플랫폼 시장(예: 독일 소비자센터 Verbraucherzentrale (소비자센터)의 안내 서비스)이 있고, 법률 서비스 규제와 판결 해석의 오류 책임이 크다. 한 나라 법에 묶인 아이디어다.",
+   "shape": "화면 1: 통지문 붙여넣기. 화면 2: 서비스별 규칙으로 '특별해지 가능, 마감 ○월 ○일' 안내. 화면 3: 환불 청구 문구 복사. 초기엔 서비스 3개만 수작업으로 규칙을 만든다.",
+   "test": "독일어 커뮤니티(r/de, 가격 비교 포럼)에 'Telekom 인상 통지 올려주면 해지 가능 여부 알려드립니다' 글을 올리고, 수동으로 10명 분석해 반응을 본다.",
+   "title": "가격 인상 통지 메일 → 해지·환불 가능 여부 판정기",
+   "who": "독일에서 Telekom·1&1 요금 인상 통지를 받았고 Amazon Prime 환불 대상인지 모르는 사람."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "DE",
+    "GB",
+    "JP",
+    "BR"
+   ],
+   "evidence": "GB 'UK diesel prices top £2 a litre for first time', 'worst winter energy crisis since 2022'; DE 'Spritpreise: Hendrik Wüst spricht von „Skandal“', 'Gasspeicher: Reiche zieht die Notbremse'; JP 'G7が石油備蓄１億バレルを協調放出へ'; BR 'Trump nega banir exportações de diesel'.",
+   "so_what": "겨울을 앞두고 생활비 압박이 서구·일본에 동시에 온다. 다만 오늘 앱 차트에는 이게 거의 안 보인다. 아직 뉴스 단계다.",
+   "theme": "연료·에너지 가격 급등과 G7 비축유 방출"
+  },
+  {
+   "countries": [
+    "DE",
+    "JP"
+   ],
+   "evidence": "DE 'Preiserhöhung bei Telekom und 1&1: Wer jetzt mehr zahlt und wer kündigen kann', 'Urteil bestätigt: Preiserhöhung bei Amazon-Prime unwirksam – so bekommen Millionen Kunden ihr Geld zurück'; JP 'ドコモがほぼ全ての料金プランを値上げ'.",
+   "so_what": "가격 인상 통지가 오면 해지·환불 권리가 있는지 사람들이 직접 따져야 한다. 독일은 판결까지 나와 있다.",
+   "theme": "통신·구독료 인상에 대한 소비자 반발"
+  },
+  {
+   "countries": [
+    "DE",
+    "GB",
+    "JP",
+    "US"
+   ],
+   "evidence": "GB 'OpenAI safety leader quits, warning AI company’s culture is ‘broken’'; JP '「OpenAIの文化は壊れている」'; US 'Apple changes full-disk access permissions to curb abuse from AI agents'; JP 'アップル、Ｍａｃのアクセス権限制御強化へ'.",
+   "so_what": "AI 불신이 안전성 논쟁에서 기기 권한 통제로 옮겨가고 있다. 하지만 이를 직접 겨냥한 앱 수요는 데이터에 없다.",
+   "theme": "OpenAI 안전 담당자 퇴사와 AI 에이전트 권한 통제"
+  },
+  {
+   "countries": [
+    "BR",
+    "US",
+    "JP",
+    "KR",
+    "GB"
+   ],
+   "evidence": "BR 'VibeShort: AI Dramas Curtos (바이브숏: AI 짧은 드라마)' 7위, 'PineDrama - Séries Curtas (파인드라마)' 16위→9위, 'ReelShort (릴숏)' 신규 10위; JP 'NetShort (넷숏)' 4위, 'GoodShort (굿숏)' 신규 19위; KR 'NetShort' 2위, 'DramaWave (드라마웨이브)' 신규 11위; US 'PineDrama' 9위.",
+   "so_what": "숏드라마는 이미 국가를 가리지 않는 습관이 됐다. 플레이어가 너무 많아 신규 진입 여지는 오히려 좁다.",
+   "theme": "숏드라마 앱이 5개국 차트에 동시 진입"
+  },
+  {
+   "countries": [
+    "DE",
+    "GB",
+    "US"
+   ],
+   "evidence": "US 'Anger in the streets': Tens of thousands protest in Spain over housing crisis'; GB 'This can’t go on'; DE 'Landesweit große Demos gegen Wohnungsnot in Spanien'. 사형: DE 'Christa Pike überlebt Giftspritze', GB/US 'prisons chief resigns'.",
+   "so_what": "세 나라가 같은 해외 뉴스를 동시에 다루는 건 뉴스 흐름일 뿐이다. 사업 기회와는 거리가 멀다.",
+   "theme": "스페인 주거난 시위와 테네시 사형 집행 실패"
+  }
+ ]
+}

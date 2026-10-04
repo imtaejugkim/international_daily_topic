@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-04",
+ "trends": {
+  "BR": [
+   {
+    "news": "Mônica Benício (PSOL) fala sobre sua principal proposta para a Saúde do RJ",
+    "title": "monica benicio",
+    "traffic": "500+"
+   },
+   {
+    "news": "Brazil elections: Trump, crime and corruption loom over presidential vote",
+    "title": "brazil presidential election",
+    "traffic": "5000+"
+   },
+   {
+    "news": "Canadenses a bordo e força-tarefa para as buscas: o que se sabe sobre o avião médico desaparecido nos EUA",
+    "title": "eua",
+    "traffic": "10000+"
+   },
+   {
+    "news": "Aos 18 anos, Rayssa Leal lista conquistas esportivas e brinca: 'Não sou muito de contar'",
+    "title": "serginho groisman",
+    "traffic": "500+"
+   },
+   {
+    "news": "Queensland Police Seize 558 E-Mobility Devices — ABC News Australia",
+    "title": "blitz",
+    "traffic": "500+"
+   },
+   {
+    "news": "Mesário pode confiscar celular do eleitor que levar aparelho para votação?",
+    "title": "como votar nas eleições do brasil",
+    "traffic": "200000+"
+   },
+   {
+    "news": "Kim Kataguiri diz que renunciará se Renan tiver menos de 3%",
+    "title": "kim kataguiri",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Rayssa Leal machuca o tornozelo e fica fora da etapa da SLS em Paris",
+    "title": "rayssa leal",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Eleição presidencial já acabou na Nova Zelândia; acompanhe a apuração no exterior",
+    "title": "votação 2026",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Payton Talbott Understands Himself Better Now",
+    "title": "payton talbott",
+    "traffic": "2000+"
+   }
+  ],
+  "DE": [
+   {
+    "news": "Hot Shot: Rublev picks perfect pass to earn break point in Beijing decider",
+    "title": "aryna sabalenka",
+    "traffic": "100+"
+   },
+   {
+    "news": "Jolina Ernst – Nächster Karriereschritt, weitere sollen folgen",
+    "title": "jolina ernst",
+    "traffic": "100+"
+   },
+   {
+    "news": "Carlos Alcaraz - Denis Shapovalov: horario y dónde ver por TV los cuartos de final del ATP 500 de Tokio",
+    "title": "carlos alcaraz",
+    "traffic": "200+"
+   },
+   {
+    "news": "MotoGP-Liveticker Motegi: Marc Marquez siegt im Sprint, Moreira Zweiter!",
+    "title": "motogp",
+    "traffic": "200+"
+   },
+   {
+    "news": "In Köln kommt es jetzt zu jeder Menge Sperrungen - wo wegen des Marathons dicht ist",
+    "title": "köln marathon 2026",
+    "traffic": "100+"
+   },
+   {
+    "news": "„Promi Big Brother“: Heidi Klums Skandal-Model trifft auf Schauspiel-Diva",
+    "title": "promi big brother",
+    "traffic": "100+"
+   },
+   {
+    "news": "Südtirol: Deutscher stürzt bei Meran 50 Meter in die Tiefe und stirbt",
+    "title": "bergrettung",
+    "traffic": "200+"
+   },
+   {
+    "news": "Who is better prepared for 2030 World Cup cycle: USA or Mexico?",
+    "title": "usa vs mexico",
+    "traffic": "100+"
+   },
+   {
+    "news": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
+    "title": "hinrichtung usa",
+    "traffic": "200+"
+   },
+   {
+    "news": "Savannah leaders honored at Men and Women of Action Dinner",
+    "title": "action",
+    "traffic": "200+"
+   }
+  ],
+  "GB": [
+   {
+    "news": "Winning Lotto numbers tonight: Full National Lottery results with Thunderball on Wednesday, September 30, 2026",
+    "title": "lotto",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Alcaraz empuña el martillo mental hacia los cuartos de Tokio: Arnaldi, el último castigado",
+    "title": "carlos alcaraz",
+    "traffic": "200+"
+   },
+   {
+    "news": "Autumn chill to arrive this week as temperatures set to drop",
+    "title": "temperature",
+    "traffic": "100+"
+   },
+   {
+    "news": "Ten injured as car hits crowd in Australia in 'horrible incident'",
+    "title": "p",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Beijing Open: Aryna Sabalenka 'expects a bit more from myself' after win over Renata Zarazua",
+    "title": "aryna sabalenka",
+    "traffic": "200+"
+   },
+   {
+    "news": "Homeless to history? Green eyes record-breaking UFC year at 40",
+    "title": "bobby green",
+    "traffic": "100+"
+   },
+   {
+    "news": "Cavan Sullivan and Julian Hall lead USMNT to 3-0 win over Mexico – as it happened",
+    "title": "usa vs mexico",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine",
+    "title": "runescape mmo",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Alexander Volkanovski, Movsar Evloev recount past training session ahead of UFC 333 title fight",
+    "title": "ufc 333",
+    "traffic": "100+"
+   },
+   {
+    "news": "Oliveira Defends BMF Title Against Lopes; Pereira Faces Pavlovich At UFC 335",
+    "title": "ufc 335",
+    "traffic": "500+"
+   }
+  ],
+  "JP": [
+   {
+    "news": "岩田絵里奈「大飯食らい」発覚…松戸の予約必須人気店で 驚きの声「ステキで、むちゃくちゃな人だな」（オリコン）",
+    "title": "岩田絵里奈",
+    "traffic": "1000+"
+   },
+   {
+    "news": "村上信五、情報番組MCの次は政界進出!?「今年は1万％ない」依頼来たら一番に相談する相手は（スポニチアネックス）",
+    "title": "黒木千晶",
+    "traffic": "2000+"
+   },
+   {
+    "news": "10/4(日)いわき戦：ご来場される北海道コンサドーレ札幌サポーターの皆様へ",
+    "title": "札幌 対 いわきfc",
+    "traffic": "2000+"
+   },
+   {
+    "news": "金曜はゲストデー！ゲストはデーブ・スペクター！新金曜ＭＣ青井実！",
+    "title": "青井実",
+    "traffic": "1000+"
+   },
+   {
+    "news": "「アナウンサー業を突き進んで行くのか？ある程度キャリア積んでいったら…」…「サンジャポ」東野孝治、ＴＢＳ井上貴博アナ「将来」を質問 （スポーツ報知）",
+    "title": "サンジャポ アナウンサー",
+    "traffic": "1000+"
+   },
+   {
+    "news": "DogeOS Opens Public Testnet as Builders Bring New Apps to Dogecoin",
+    "title": "doge",
+    "traffic": "1000+"
+   },
+   {
+    "news": "HYDE 「今では僕のほうがファンかも」人気芸人から食事の誘いを3度断られる 本人は慌てて弁明（スポニチアネックス）",
+    "title": "狩野英孝",
+    "traffic": "1000+"
+   },
+   {
+    "news": "",
+    "title": "福士蒼汰",
+    "traffic": "5000+"
+   },
+   {
+    "news": "ウルフアロン 柔道とプロレスの違いを説明「試合時間が長い時だと３０分を超えてくる中で…」（東スポWEB）",
+    "title": "ウルフアロン",
+    "traffic": "1000+"
+   },
+   {
+    "news": "タワマン23階から転落の9歳死亡 ベランダつたい移動試みたか（毎日新聞）",
+    "title": "タワーマンション 転落",
+    "traffic": "50000+"
+   }
+  ],
+  "KR": [
+   {
+    "news": "조여정, 뉴욕서 포착된 동안 비주얼…\"짜장면·라면은 1년에 두 번\"",
+    "title": "조여정",
+    "traffic": "500+"
+   },
+   {
+    "news": "[오늘의 운세] 2026년10월 3일 (음 8월 23일)",
+    "title": "띠별 운세",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Argentina vs Burkina Faso: Friendlies stats & head-to-head",
+    "title": "argentina vs burkina faso",
+    "traffic": "2000+"
+   },
+   {
+    "news": "아르헨티나 대 부르키나파소 축구 생중계 링크",
+    "title": "아르헨티나 대 부르키나파소",
+    "traffic": "10000+"
+   },
+   {
+    "news": "자전거 동호회 라이딩 도중 버스 충돌‥자전거 운전자 숨져",
+    "title": "자전거",
+    "traffic": "5000+"
+   },
+   {
+    "news": "“이 모든 일의 근본적인 원인을 제대로 파악하지 못했다” 오타니의 자책…핑계는 없다, 7억달러짜리 책임감",
+    "title": "오타니 쇼헤이",
+    "traffic": "200+"
+   },
+   {
+    "news": "케이티 홈즈와 남자 친구의 우아한 베이지 룩!",
+    "title": "보그",
+    "traffic": "200+"
+   },
+   {
+    "news": "현대차, 뉴욕서 '디 올 뉴 투싼' 공개",
+    "title": "현대 투싼",
+    "traffic": "200+"
+   },
+   {
+    "news": "퇴직연금도 ‘투자’ 시대…20대부터 50대까지 한투증권 찾은 까닭 [헤럴드머니페스타2026]",
+    "title": "퇴직",
+    "traffic": "2000+"
+   },
+   {
+    "news": "테슬라 3분기 판매 깜짝 성적표에 주가 급등…AI 사업 기대까지 겹쳤다.",
+    "title": "테슬라",
+    "traffic": "2000+"
+   }
+  ],
+  "US": [
+   {
+    "news": "How much did it rain this week in Milwaukee? See totals across the area",
+    "title": "milwaukee weather",
+    "traffic": "500+"
+   },
+   {
+    "news": "Iran's currency crashes as the regime runs out of oil to sell and can’t get its money from customers",
+    "title": "iran currency",
+    "traffic": "500+"
+   },
+   {
+    "news": "Iga Swiatek gives her view on Aryna Sabalenka's No. 1 ranking comments",
+    "title": "sabalenka",
+    "traffic": "500+"
+   },
+   {
+    "news": "Who Is Grace Reiter? You Might've Seen SNL's New Cast Member on TV or TikTok",
+    "title": "snl cast",
+    "traffic": "500+"
+   },
+   {
+    "news": "Pete Davidson Can’t Wait for Baby Daughter To See ‘Wacky Stuff’ Dad Owns",
+    "title": "colin jost",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Alex Rodriguez Makes Bold New York Yankees Prediction During Playoffs",
+    "title": "alex rodriguez",
+    "traffic": "500+"
+   },
+   {
+    "news": "Hurricane season maps tracker: latest forecasts and more",
+    "title": "tropical cyclone",
+    "traffic": "500+"
+   },
+   {
+    "news": "Apple Martin Makes Her Runway Debut at Chloé, Joining Fashion’s Famous Second Generation",
+    "title": "chris martin",
+    "traffic": "500+"
+   },
+   {
+    "news": "Taylor Swift's 'Patient Zero' Gets The Epidemiology Wrong. Her Video Gets It Right",
+    "title": "dakota johnson relationship",
+    "traffic": "500+"
+   },
+   {
+    "news": "Couple dead after shooting in Berkeley Hills",
+    "title": "bryn walker",
+    "traffic": "500+"
+   }
+  ]
+ }
+}
