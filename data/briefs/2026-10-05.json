@@ -1,0 +1,91 @@
+{
+ "counter": "이 브리프는 하루치 스냅샷이다. 브라질 선거 앱은 이벤트성 수요이고, 독일·영국 보상 앱의 1점 리뷰는 \"출금 직전에 불만이 몰리는\" 선택 편향이 있다(만족한 사용자는 리뷰를 쓰지 않는다). 챗봇 불만도 나라별 표본이 10~30건이라 한도 축소가 전 세계 흐름이라 단정하기 어렵다. 연료 위기도 영국·독일 일부 지역 뉴스 몇 건에 근거해 크기를 과대평가했을 수 있다. 아이디어 두 개 모두 근거가 얇아 확신이 낮다.",
+ "countries": {
+  "BR": "1차 투표 직후라 차트 1~10위 대부분이 선거 앱(TSE 결과, e-Título, 투표기 시뮬레이터)이다. 신규 진입한 비공식 결과 앱은 \"Fiz a assinatura premium e ainda preciso pagar R$ 200,00\"(프리미엄에 가입했는데 상세 보고서에 200헤알을 또 내야 한다) 같은 불만을 받는다.",
+  "DE": "연료 부족 검색, 갈레리아 파산 후 마슈마이어의 분노, VW 단체협약 해지 등 경제 불안과 우크라이나 전쟁 뉴스가 나란히 있다. 차트는 챗봇 3종(클로드·제미나이·챗지피티)이 3~5위에 있고 보상형 앱이 1위라, 불안한 환경에서 부수입·AI로 향하는 모습이다.",
+  "GB": "North Sea 파업과 디젤·겨울 에너지 위기 우려가 비즈니스 뉴스를 채웠다. 차트는 로이즈 은행·정부 원 로그인(GOV.UK One Login) 같은 실용 앱이 상위이며, 원 로그인 리뷰가 39건으로 많다. 에너지 불안과 실용 앱 수요가 같은 방향이다.",
+  "JP": "닛케이 평균 7만 엔 돌파와 닛케이 사내 정보유출, 오키나와 미 해병 체포로 인한 반발, 태풍 29호가 겹쳤다. 차트에서는 챗지피티·제미나이가 상위에 있고, 코파일럿은 무료 한도 축소 불만을 쌓고 있다.",
+  "KR": "국정(검찰개혁·지지율 37.4%)과 DMZ 지뢰 사건이 뉴스를 잡고 있고, 비즈니스 쪽은 AI 해킹과 미국 금리 급등을 걱정한다. 앱 차트는 아이돌 팬 소통 앱(버블 포 스타쉽)과 숏드라마(넷숏), 필름 카메라 앱이 차지해 불안한 뉴스와 달리 소비는 취향 중심이다.",
+  "US": "금리 급등과 AI 주식 불안, 트럼프의 AI 총괄 조직, 이란 긴장에 따른 B-1 폭격기 철수가 뉴스의 중심이다. 차트에는 예측시장 칼시(Kalshi), 라이브 TV·스포츠 구독 앱(폭스 원, 푸보, 유튜브 TV)이 올라 스포츠 시청 구독으로 몰리는 흐름이다."
+ },
+ "date": "2026-10-05",
+ "ideas": [
+  {
+   "evidence": "JP 코파일럿 \"2回ほど質問をすると上限に達しました\", JP 제미나이 \"10/9より無料では1番弱いモデルしか使えなくなりました\", BR 챗지피티 \"quota should last SEVEN days... they reset the quota randomly\". 독일 차트 3~5위가 챗봇 3종.",
+   "money": "개인은 무료, 수익은 제휴 링크나 유료 비교 리포트. 약하다.",
+   "one_liner": "ChatGPT·Gemini·Copilot·Claude 무료 한도와 요금제 변경을 날짜별로 추적해 알려주는 한 페이지 서비스.",
+   "risk": "공식 요금 페이지와 AI 비교 사이트가 이미 많고, 한도는 고지 없이 바뀌어 정확한 추적이 어렵다. 한 곳씩의 불만이라 시장 크기도 불분명하다.",
+   "shape": "화면 1: 서비스별 현재 무료 한도와 변경 이력. 화면 2: 내 사용 서비스 선택 후 변경 시 이메일 알림. 데이터는 처음엔 수동 입력.",
+   "test": "커뮤니티(레딧·클리앙·디시) 글 하나에 비교표 시안을 올리고 이메일 구독 수를 본다.",
+   "title": "무료 AI 한도 변경 알림·비교표",
+   "who": "여러 챗봇의 무료 플랜을 번갈아 쓰며 어느 쪽 한도가 남았는지 매번 확인하는 학생·프리랜서."
+  },
+  {
+   "evidence": "DE 1위, GB 4위인 플레이풀 리워즈의 DE \"Absoluter scam... dann sperren die den Account\", GB \"come to withdraw and then they block my account\", \"accuse me of using a vpn\".",
+   "money": "광고나 신뢰할 만한 대체 앱 제휴. 불확실하다.",
+   "one_liner": "Playful Rewards류 앱을 설치하기 전에 출금 성공·정지 후기를 모아 보여주는 후기 페이지.",
+   "risk": "스토어 리뷰 사이트와 트러스트파일럿(Trustpilot)이 이미 있다. 보상 앱 업체가 제휴를 걸어 신뢰를 해칠 수 있다.",
+   "shape": "화면 1: 앱별 '첫 출금 성공/정지' 제보 집계. 화면 2: 제보 폼(금액·소요일·정지 사유). 이미 쌓인 앱스토어 1점 리뷰에서 초기 데이터를 뽑는다.",
+   "test": "독일·영국 부수입 커뮤니티에 \"출금 성공했는지 알려 달라\"는 글을 올려 며칠 안에 제보가 몇 건 오는지 본다.",
+   "title": "보상형 앱 '출금 가능 여부' 사전 검증 체크",
+   "who": "보상 앱으로 월 10~20유로 부수입을 노리지만 이미 한 번 출금 직전에 정지된 적이 있는 사람."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "JP",
+    "BR",
+    "KR",
+    "DE"
+   ],
+   "evidence": "JP 마이크로소프트 코파일럿(Microsoft Copilot) 리뷰 \"無料で使えてたのに、課金制になる\", \"2回ほど質問をすると上限に達しました\". JP 제미나이(Gemini) \"10/9より無料では1番弱いモデルしか使えなくなりました\". BR 챗지피티(ChatGPT) \"A seven day quota should last SEVEN days... they reset the quota randomly\". DE 캡컷(CapCut) \"Willkürlich werden bei Updates wichtige Funktionen hinter weiteren Paywalls gesetzt\".",
+   "so_what": "무료로 쓰던 사람들이 한도와 요금제 변경을 예고 없이 겪고 있다. 독일 상위 차트 3~5위가 클로드·제미나이·챗지피티라 쓰는 사람이 많은 만큼 불만도 같이 쌓인다.",
+   "theme": "AI 챗봇의 무료 한도 축소·유료 전환에 대한 반발"
+  },
+  {
+   "countries": [
+    "DE",
+    "GB"
+   ],
+   "evidence": "플레이풀 리워즈(PLAYFUL REWARDS) DE 1위, GB 4위. DE \"Absoluter scam, man spielt und sammelt seine Punkte... dann sperren die den Account\". GB \"Been using the app for a year, come to withdraw and then they block my account\", \"accuse me of using a vpn\".",
+   "so_what": "상위 차트에서 두 나라의 1점 리뷰가 거의 같은 패턴(출금 요청 후 정지)이다. 차트는 계속 오르는데 신뢰는 바닥이다.",
+   "theme": "보상형 게임 앱(Playful Rewards)의 '출금 직전 계정 정지' 불만"
+  },
+  {
+   "countries": [
+    "GB",
+    "DE",
+    "US",
+    "KR"
+   ],
+   "evidence": "GB \"IEA says 325 million barrels of emergency oil has been released\", \"Strikes by North Sea oil workers could 'severely disrupt' UK fuel supplies\". DE 구글 검색어 '연료(kraftstoff)' \"Viele Tankstellen sind ausverkauft\". US \"Wall Street's AI Party Is on Edge as Soaring Yields Raise Risks\". KR \"미 국채 금리, 분기 상승 폭 32년 만에 최고\".",
+   "so_what": "중동 긴장(미국 B-1 폭격기 영국 기지 철수, 후티의 아람코 공격)이 에너지 가격 우려로 번지고, 금융시장은 금리를 걱정한다. 가계 지출 방어 수요가 커질 배경이다.",
+   "theme": "연료·에너지 공급 불안과 국채금리 급등"
+  },
+  {
+   "countries": [
+    "US",
+    "DE",
+    "JP",
+    "KR"
+   ],
+   "evidence": "US \"Sam Altman... 'The world should accept some bad things happening' for the benefits of AI\". DE 같은 발언을 \"Für die Vorteile von KI 'gewisse Risiken in Kauf'\"로 보도. JP \"AI政策司令塔SIフォース 米が創設\". KR \"머스크, AI회사명 스페이스XSI로 변경 시사\", \"전 금융권서 동시다발 AI 해킹\".",
+   "so_what": "AI는 기능 소식에서 위험과 통제의 소식으로 옮겨가고 있다. 한국은 AI 해킹 보도가 있어 금융 보안 쪽 관심이 높다.",
+   "theme": "AI 규제·통제 논쟁이 정치와 기업 헤드라인으로"
+  },
+  {
+   "countries": [
+    "BR",
+    "US",
+    "DE",
+    "GB",
+    "JP",
+    "KR"
+   ],
+   "evidence": "KR \"룰라 44.6% 보우소나르 47.4%…브라질 대선 25일 결선\". DE \"Flávio Bolsonaro und Lula da Silva ziehen in die Stichwahl\". 브라질 앱 차트 1~3위가 선거 결과(Resultados)·전자 투표증(e-Título)·Eleições 2026.",
+   "so_what": "국제 뉴스가 한 사건에 쏠린 날이라 나라 간 반복 주제로는 의미가 크다. 다만 이벤트가 끝나면 사라질 수요다.",
+   "theme": "브라질 대선 1차 결과가 5개국 뉴스를 차지"
+  }
+ ]
+}
