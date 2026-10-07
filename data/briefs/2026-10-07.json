@@ -1,0 +1,89 @@
+{
+ "counter": "오늘은 재료가 약하다. 리뷰 표본은 앱당 일부이고, 가장 뚜렷한 불만(브라질 선거 앱의 광고 폭탄)은 선거라는 일회성 사건이다. 다국가 반복 불만은 'AI 앱 계정 차단' 정도인데, 이건 제3자가 풀 수 있는 문제가 아니다. 사이버 공격 흐름과 JP 백업 앱 순위를 엮은 것은 추측이고, 아이디어 두 개도 근거가 얇다. 억지로 채우지 않고 낮은 확신으로 제시한다.",
+ "countries": {
+  "BR": "대선 1차 투표 직후라 e-Título (전자 투표증), Resultados (결과), Eleições 2026 (2026 선거)가 차트를 점령했다. 리뷰는 광고 폭탄에 대한 1점이 대부분이다. 증시는 선거 후 랠리와 조정을 오갔다. 솔직히 이 신호는 선거라는 일회성 사건이라 지속성이 낮다.",
+  "DE": "차트 1~3위를 AI 앱이 차지했다. 이어서 Post & DHL (우편·택배), AusweisApp (신분증 앱), Nect Wallet (넥트 월렛), BA-Secure 등 신원인증·행정 앱이 상위에 많다. 리뷰도 신분증 인증 실패가 반복된다. 인터넷·전화 요금 인상, 전기차 비중 최고치, 프랑스발 금융위기 우려가 뉴스의 중심이다.",
+  "GB": "프랑스 시위와 재정 불안, 러시아 페스트, 노동당·녹색당 갈등이 이어진다. HMRC(영국 국세청)와 Royal Mail (로열 메일)이 차트에 새로 올랐다. 정부·우편 앱이 오르는 흐름이며 원인은 데이터만으로는 알 수 없다. Lloyds 앱 리뷰는 '사람과 통화하기 어렵다'가 중심이다.",
+  "JP": "라쿠텐 등 대형 정보유출과 아사히 맥주 공격, 맥주 4사 카르텔 강제조사가 겹쳐 있다. 닛케이는 7만 엔 안팎, 엔은 158엔대로 약세다. 차트 1~2위가 Linkex(사진·동영상 백업)와 TeraBox(클라우드)인 점이 눈에 띈다. 유출 뉴스와 백업 앱 수요가 같은 곳을 가리킬 수 있지만 인과는 확인되지 않는다.",
+  "KR": "삼성전자 3분기 실적 발표(내일)와 누리호 5차 발사를 앞두고 있다. 인터넷은행 해킹, 'AI 해킹 도구 43초 침투', 보이스피싱 환급 구멍 등 보안 불안이 크다. 차트에서는 실손24, 모바일 건강보험증, 모바일 신분증이 올랐다. 공공·금융 앱이 상위권에 있는 점은 뉴스의 보안·신원 관심과 같은 방향이다.",
+  "US": "S&P 500과 엔비디아가 사상 최고가이고, 한편 부실대출은 팬데믹 이후 최고치다. 프라임데이 할인 기사가 기술 뉴스를 채우고 있다. 검색어는 스포츠·날씨 위주로 약하다. 맥도날드 앱이 새로 11위에 올랐고, 'McDonald's sued over AI tool that recommends prices to US franchisees' 기사가 있었지만 연관성은 확인하지 못했다."
+ },
+ "date": "2026-10-07",
+ "ideas": [
+  {
+   "evidence": "KR NetShort (넷숏) 리뷰 'Vip구독해지 누르는 방법이 없어요 앱스토어에서 해지하라고 명시되있을뿐', '구독 취소했는데 왜 다시 결제가 된거죠?'. BR 차트 StoryReel (스토리릴) 5위, VibeShort (바이브쇼트) 8위, PineDrama (파인드라마) 9위.",
+   "money": "처음엔 무료. 유료로 가려면 해지 알림이나 환불 요청 대행을 소액 과금하는 정도가 한계다.",
+   "one_liner": "숏드라마 앱 구독을 어디서 어떻게 해지하는지 앱별로 알려 주고 해지 신청 메시지를 만들어 주는 페이지.",
+   "risk": "Apple이 이미 구독 관리와 환불 요청 화면을 제공하고, Rocket Money 같은 구독 관리 앱도 있다. 근거도 한국 리뷰 한 건 중심이라 다국가 반복 불만이 아니다. 시장성이 작을 가능성이 크다.",
+   "shape": "화면1: 앱 이름 선택. 화면2: iOS 구독 해지 경로와 환불 요청 링크 안내. 화면3: 결제 내역 확인용 체크리스트와 복사해 붙일 환불 요청문.",
+   "test": "'숏드라마 구독 해지 방법' 한 장짜리 랜딩페이지를 만들어 커뮤니티에 올리고 열람과 이메일 입력 수를 센다.",
+   "title": "숏드라마 구독 '해지·환불 대행' 가이드",
+   "who": "숏드라마 앱 VIP 구독을 시작한 뒤 해지 방법을 찾지 못하는 한국 사용자."
+  },
+  {
+   "evidence": "DE 차트 AusweisApp Bund 8위, Nect Wallet 10위, BA-Secure 11위. 리뷰: 'Funktioniert Nix', 'Nur für Menschen die Informatik studiert haben', 'Nutzung leider viel zu aufwendig und es funktioniert häufig nicht', Nect: 'Ich verwende iOS 27.2 Beta, und die Nect-App stürzt beim Start ab'.",
+   "money": "수익화가 불분명하다. 광고나 제휴 정도가 한계라 아이디어로는 약하다.",
+   "one_liner": "AusweisApp·Nect 인증이 실패할 때 원인(기기·OS·카드 종류)별로 해결 순서를 알려 주는 안내.",
+   "risk": "한 나라(독일)의 규제·행정 사정이라 기회보다 진입장벽에 가깝다. 공식 앱이 업데이트로 해결할 수도 있다.",
+   "shape": "화면1: 기기·OS·카드 종류 선택. 화면2: 원인과 해결 단계. 화면3: 안 될 때 공식 지원 경로.",
+   "test": "독일 커뮤니티(Reddit r/de 등)에 흔한 실패 사례 글을 하나 올려 반응을 본다.",
+   "title": "신분증 앱 인증 실패 시 대처 안내 (독일)",
+   "who": "BA-Secure나 은행 앱에 인증하려다 AusweisApp에서 막힌 독일 거주자(외국인 거주증 소지자 포함)."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "JP",
+    "KR",
+    "DE",
+    "GB"
+   ],
+   "evidence": "JP: '해커가 라쿠텐 회원 1억 건 판매 주장', 'Qilin 멤버 구속, 일본은 세계 최악의 보안체제', 'AI로 약점 탐색 가능성'. KR: '해킹 AI에 표적 입력하자 43초 만에 뚫어…사용료 20원', 인터넷은행 해킹. DE: '태양광 해킹, 블랙아웃 한 걸음 전'. GB: 'Asos 해킹 의심 알림'.",
+   "so_what": "공격이 싸고 빨라졌다는 보도가 네 나라에서 겹친다. 다만 기업 대상 보도이고, 개인이 당장 쓸 제품으로 이어지는 근거는 약하다.",
+   "theme": "AI로 가속되는 사이버 공격·정보유출"
+  },
+  {
+   "countries": [
+    "DE",
+    "GB",
+    "BR",
+    "US"
+   ],
+   "evidence": "DE: '프랑스의 4000억 유로 함정', 'Europas Schwäche schürt die Angst vor einer neuen Finanzkrise'. GB: 'France: between the bond market and the barricades', 파리·마르세유 학생 시위 최루탄. BR: 'França mergulha em crise fiscal', '미국채 하락: 신용위기의 전조?'. US: 'Deeply Distressed US Loans Rise to Highest Level Since Pandemic'.",
+   "so_what": "국가별로 보는 각도가 다르다. 유럽은 정치·시위, 브라질은 국채 금리, 미국은 부실대출이다. 거시 불안이 공통 배경이다.",
+   "theme": "프랑스 재정위기와 채권시장 불안"
+  },
+  {
+   "countries": [
+    "US",
+    "GB",
+    "JP",
+    "KR"
+   ],
+   "evidence": "GB 검색어 'russian plague outbreak bubonic plague' 5000+, 'Russia plague quarantine following lab death'. JP: '페스트 감염 의심', KR: '러 페스트 사고에 추가 환자 발생설', US: 'Trump says he plans to speak with Putin about possible pneumonic plague case'.",
+   "so_what": "오늘 검색 급등이 가장 큰 단일 사건이다. 다만 일시적 뉴스 사이클이라 제품 기회로 보기는 어렵다.",
+   "theme": "러시아 페스트 의심 사례"
+  },
+  {
+   "countries": [
+    "DE",
+    "GB",
+    "US",
+    "BR"
+   ],
+   "evidence": "DE 차트 1~3위 Claude by Anthropic (클로드), ChatGPT (챗GPT), Google Gemini (구글 제미나이). BR 4위 ChatGPT. Claude 리뷰: DE 'Man wird grundlos gebannt obwohl man über 18 ist', GB 'I can not acces my paid account anymore', US 'BS safety guards'.",
+   "so_what": "AI 앱 수요는 확실하다. 불만은 기능이 아니라 계정 잠김과 지원 부재에 쏠려 있다. 다만 제3자가 풀 수 있는 문제인지는 불분명하다.",
+   "theme": "AI 챗봇 앱이 앱스토어 상위를 차지하고 계정 차단 불만이 쌓임"
+  },
+  {
+   "countries": [
+    "BR",
+    "KR"
+   ],
+   "evidence": "BR 차트 5위 StoryReel (스토리릴), 8위 VibeShort (바이브쇼트), 9위 PineDrama (파인드라마). KR 리뷰 NetShort (넷숏): '구독 취소했는데 왜 다시 결제가 된거죠?', 'Vip구독해지 누르는 방법이 없어요'. BR PineDrama 리뷰: 로그인 불가.",
+   "so_what": "브라질 상위권에 숏드라마 앱이 세 개 올라와 있다. 한국 리뷰는 해지가 어렵다는 불만을 보여 준다. 두 나라 근거가 서로 다른 앱이라는 점은 한계다.",
+   "theme": "숏드라마 앱 급성장과 구독·광고 불만"
+  }
+ ]
+}
