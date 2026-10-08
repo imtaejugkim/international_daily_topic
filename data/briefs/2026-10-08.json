@@ -1,0 +1,101 @@
+{
+ "counter": "차트는 상위 25위 표본뿐이고 어제 대비 변동은 대부분 순위권 경계 진입이라, '신규 상승' 신호는 신뢰하기 어렵다. 리뷰는 앱당 수 건~수십 건이고 저평점은 원래 화난 사람만 쓴다. BR 차트가 선거 앱에 쏠린 것은 일회성이다. 아이디어 1·2는 선행 서비스가 있고, 3은 근거가 약하다.",
+ "countries": {
+  "BR": "대선 결선(룰라 vs 플라비우 보우소나루)이 뉴스·검색어·차트(e-Título, Resultados 앱 1·2위)를 모두 점령했다. 여기에 베팅 금지 항의, 금리·환율 불안이 섞이고, 앱 리뷰는 결과 확인 앱의 광고와 느린 속도에 대한 불만이다.",
+  "DE": "라이언에어의 브레멘 철수, 갈레리아 추가 파산, 에너지 요금·충전소 요금 소송 등 생활비·인프라 이슈가 많고, 연정 불안(메르츠 지지율, 작센안할트 AfD)도 겹친다. 차트 1위는 Claude, 2위는 Post & DHL이고, 리뷰는 AusweisApp와 DHL 배송추적 불만이 강하다.",
+  "GB": "뉴스는 연료 가격 급등(구글 지도에 휘발유·경유 가격 추가), 로열메일 2,500명 감원, 부츠 인수 같은 생활 경제에 가 있다. 차트는 Lloyds와 GOV.UK One Login 등 은행·정부 앱이 상위인데, 리뷰는 로그인·택배 추적(InPost UK) 불만이다.",
+  "JP": "개인정보 유출·사이버 공격(면허증 유출, 구글 광고 대행사 계정 침입)과 금리·엔화 불안이 주된 관심이다. 맥주 4사 카르텔 의혹과 연이은 태풍 소식도 있다. 차트는 Bump(구 Zenly)와 setlog 같은 소셜·일상 기록 앱이 강하다.",
+  "KR": "삼성전자 영업이익 107조 원 기록과 코스피 7천 선 공방이 중심이고, 금융권 연쇄 해킹과 단일종목 레버리지 ETF 논쟁이 함께 뜬다. 앱 차트는 하나은행, 네이버플러스 스토어 등 금융·쇼핑이 상위이고 리뷰는 구독 해지·결제 불만이 많다.",
+  "US": "금리 상승(모기지 금리 3년 내 최고, 연준 의사록)과 증시 하락에 눈이 쏠려 있고, 정치 뉴스는 사형 집행과 중간선거가 차지한다. 차트에서는 'Trump Accounts: Official App'이 3위로 새로 올라왔고 리뷰는 '자녀 계좌 개설 시 Form 4547 화면에서 진행이 안 된다'는 내용이다."
+ },
+ "date": "2026-10-08",
+ "ideas": [
+  {
+   "evidence": "BR StoryReel: 'Vc assina um plano, cancela antes do prazo e mesmo assim continuam debitando' (플랜을 해지했는데도 계속 결제). KR 빈티지 카메라 앱: '평생 990원인 줄 알고 결제했다가 매달인거 보고' 취소 불가. KR TeraBox: '구독 취소하고 싶은데 고객센터도 제대로 마련되지 않은곳'. US CapCut: 'I have been charged several times without me even noticing'.",
+   "money": "건당 환불 성공 시 수수료 또는 월 구독. 사용자는 돌려받을 금액이 있어 지불 의사가 있다.",
+   "one_liner": "구독 앱에서 해지한 화면과 결제 내역을 모아, 환불 요청서와 카드사 이의신청서를 만들어 주는 도구.",
+   "risk": "Rocket Money(로켓머니), Bobby(바비)가 이미 구독 관리를 한다. 앱스토어 결제는 애플 환불 절차가 따로 있어 한계가 있다.",
+   "shape": "1) 결제 문자/메일 캡처를 올리면 앱·금액·주기를 읽어 정리 2) 해당 앱의 해지 경로 안내 3) 환불/이의신청 문장 자동 작성.",
+   "test": "KR·BR 커뮤니티에 '해지했는데 또 결제된 경험 있으면 캡처 주세요, 환불 문장 무료로 써드립니다' 글을 올려 10명 수동 처리.",
+   "title": "구독 해지 증거 모으기: '해지했는데 또 결제됨' 대응 키트",
+   "who": "월 몇천 원짜리 구독이 여러 개인데 어디서 빠져나가는지 몰라 한 번 이상 환불 요청을 해본 사람."
+  },
+  {
+   "evidence": "US Freecash 5위: 'I’ve played this app for 67 days ... The HIGHEST offer I received was $14'. DE/GB PLAYFUL REWARDS: 'my account was blocked ... which is why I don't get my reward', 'won't accept my PayPal email address'. JP おぢポ 신규 17위.",
+   "money": "광고/제휴가 아니라 신뢰가 핵심이라 초기에는 무료, 이후 신뢰도 높은 앱 제휴 수수료.",
+   "one_liner": "Freecash·Playful Rewards 같은 앱을 N일 쓴 사람들의 실제 시간당 수익과 지급 거부 사례를 모은 페이지.",
+   "risk": "리뷰 사이트가 많고 제휴 수익은 편향 위험이 있다. 이 데이터의 리뷰 표본도 적어 과장일 수 있다.",
+   "shape": "1) 앱별 평균 지급액/지급 성공률 표 2) 사용자 제보 제출 폼 3) 설치 전 체크리스트.",
+   "test": "Reddit과 국내 부업 커뮤니티에 '이 앱 해본 사람 받은 금액 알려주세요' 글을 올려 응답 수 확인.",
+   "title": "리워드 앱 실제 지급액 조사",
+   "who": "차트에서 보고 '게임만 하면 돈 준다'는 광고를 따라 설치하려는 학생·부업 희망자."
+  },
+  {
+   "evidence": "DE AusweisApp (아우스바이스앱): 'nichts funktioniert' (아무것도 작동하지 않는다). JP マイナアプリ (마이나 앱): 'アプリが更新されており...エラーが発生. Q&Aにも記載がない' (여권 재신청 중 업데이트로 오류, Q&A에도 없음). BR gov.br: 전자서명 실패.",
+   "money": "유료화는 어렵고 광고나 대행 서비스 연결이 현실적. 사실상 검증용 콘텐츠 사업.",
+   "one_liner": "정부·인증 앱이 안 될 때 지금 가능한 우회 절차와 오프라인 방법을 앱별로 정리한 가이드.",
+   "risk": "각국 정부 시스템이라 국가별 지식이 필요하고, 국가마다 불만 원인이 달라 진입 장벽이 높다. 오늘 재료로는 가장 약한 아이디어.",
+   "shape": "1) 앱 선택 2) 증상 선택 3) 대체 경로(창구, 웹, 전화)와 필요 서류 안내.",
+   "test": "일본 마이나 앱 오류 해결 글 하나를 써서 검색 유입과 반응 확인.",
+   "title": "신원인증 앱 장애 시 대체 절차 안내",
+   "who": "여권·세금·서류 제출 마감이 임박했는데 앱 로그인에 막힌 사람."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "KR",
+    "JP",
+    "DE",
+    "GB"
+   ],
+   "evidence": "KR '금융권 덮친 연쇄 해킹범... 中 거주 20대 단서 포착', JP '免許証流出したら…勝手に9万4000円のiPhone契約' (면허증이 유출되면 멋대로 9만 4천 엔짜리 아이폰이 계약된다), DE 'Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet' (독일 기업 대부분 AI 공격 대비 안 돼 있음), GB 'Asos says customers' personal information may have been accessed'.",
+   "so_what": "유출은 이미 일상이 됐고, 피해자가 '내 정보로 무슨 일이 벌어졌나'를 확인할 방법이 부족하다는 점이 일본 기사에서 드러난다.",
+   "theme": "개인정보 유출과 해킹이 4개국 헤드라인을 동시에 차지"
+  },
+  {
+   "countries": [
+    "US",
+    "KR",
+    "JP",
+    "BR",
+    "DE"
+   ],
+   "evidence": "US 'US 30-year mortgage rate hits highest in nearly three years', KR '미 국채금리 오르자 코스피 하락', JP '日経平均午前662円安、金利高に警戒' (닛케이 오전 662엔 하락, 금리 상승 경계), BR 'Bitcoin perde US$ 83 mil ... com disparada dos juros americanos' (비트코인 8만 3천 달러 붕괴, 미 금리 급등), DE 'IEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus' (IEA 비축유 방출 가속, 디젤 초점).",
+   "so_what": "미국 장기금리 상승이 여러 시장에 동시에 파급되고, 프랑스 재정 우려(JP '仏財政懸念で ユーロ急落')가 유럽 쪽 불안을 더한다.",
+   "theme": "금리·유가·재정 불안이 증시와 환율을 흔듦"
+  },
+  {
+   "countries": [
+    "KR",
+    "US",
+    "JP"
+   ],
+   "evidence": "KR '삼성전자 3분기 영업이익 107조4천억 원', US 'Samsung profit surges ninefold to $80bn on AI chip demand', JP 'サムスン7〜9月期、営業益8.8倍' (삼성 7~9월 영업이익 8.8배). 한편 KR '삼성, 스마트폰 생산량 30% 줄인다'.",
+   "so_what": "AI 호황의 수혜는 칩에 집중되고 소비자 기기는 오히려 위축된다. 반면 JP에서는 레이 달리오의 'AIバブルの崩壊' (AI 버블 붕괴) 경고도 함께 나온다.",
+   "theme": "삼성 반도체 사상 최대 실적, AI 수요가 메모리로 쏠림"
+  },
+  {
+   "countries": [
+    "BR",
+    "DE",
+    "GB",
+    "JP"
+   ],
+   "evidence": "차트·리뷰: gov.br 'Tanto o app como o site estão horríveis! Preciso assinar um documento digitalmente, e não consigo' (앱도 사이트도 끔찍하다, 전자서명을 못 한다), AusweisApp (아우스바이스앱) 'Was für eine Schei*e, Deutschland?', GOV.UK One Login 'Having essential tremor makes using almost impossible', マイナアプリ (마이나 앱) 'ログインすらできないクソアプリ' (로그인조차 안 되는 쓰레기 앱), Microsoft Authenticator 'Man soll permanent Codes in der App eingeben … diese ist jedoch geöffnet'.",
+   "so_what": "각국 정부 앱과 인증 앱의 로그인·인증 실패가 거의 같은 형태로 반복된다. 단 앱 자체가 국가 시스템이라 외부에서 대체하기 어렵다.",
+   "theme": "정부·신원인증 앱에 대한 불만이 반복됨"
+  },
+  {
+   "countries": [
+    "DE",
+    "GB",
+    "US",
+    "JP"
+   ],
+   "evidence": "PLAYFUL REWARDS (DE 10위, GB 38건 리뷰): 'Every 5-star review is FAKE', 'won't accept my PayPal email'. US Freecash 5위: 'The HIGHEST offer I received was $14' (67일 해서 최고 14달러). JP おぢポ (오지포) 17위 신규.",
+   "so_what": "'앱 하면 돈 준다'는 수요는 크지만 실제 지급 경험은 나쁘다. 4개국에서 같은 불만이 나온다는 점이 의미 있다.",
+   "theme": "적립·리워드 앱이 차트에 오르지만 리뷰는 '사기'"
+  }
+ ]
+}
