@@ -1,0 +1,93 @@
+{
+ "counter": "리뷰는 앱당 일부만 뽑은 1~2점이라 모든 앱에 불만이 있어 보이는 편향이 있고, 나라 간 반복도 앱 규모(ChatGPT, Vinted)와 겹쳐 있을 수 있다. 차트 '신규 진입'은 25위 컷 근처의 출입이 대부분이라 노이즈일 가능성이 크고, 눈에 띄는 급등은 JP Claude(18위에서 10위) 하나뿐이다. 아이디어는 모두 소액 환불·분쟁이라 돈을 낼 사람이 있는지 검증되지 않았다.",
+ "countries": {
+  "BR": "대선 결선(플라비우 보우소나루 대 룰라 53:47 여론조사)이 뉴스·시장·검색어까지 지배하고, 차트 1위가 전자 투표증 e-Título (이타툴로)다. 앱이 안 열려서 투표를 못 한다는 리뷰는 선거 이슈가 앱 사용으로 직접 이어진 사례다.",
+  "DE": "자동차(아우디, 메르세데스, BMW)와 갈레리아 파산 등 제조·유통 위기, 유가 급등이 뉴스의 중심이다. 차트는 DHL·Vinted (빈티드)·본인인증(Nect Wallet, AusweisApp, BA-Secure)이고, 평점이 낮은 이유는 대부분 '택배·인증이 안 된다'이다.",
+  "GB": "예산안을 앞두고 모기지 금리·저축금리(NS&I 5.17%) 검색이 이어지고, 정치는 노동당 보궐선거 승리와 녹색당 내분이다. 차트는 은행(Lloyds)과 정부 로그인, 택배(InPost UK, 인포스트 UK)가 상위를 차지한다.",
+  "JP": "소비세 인하법안과 개인정보 유출 연쇄가 동시에 터졌다. 차트는 Bump(구 Zenly, 범프)와 setlog (셋로그) 같은 SNS·카메라 앱이 위쪽이고, 리뷰는 위치 공유에 대한 불안(\"知らない人の位置情報分かるのやばい\")과 AI 앱 계정 정지다. 뉴스의 보안 불안과 앱의 위치공유 불안이 같은 방향이다.",
+  "KR": "삼성전자 3분기 영업이익 '100조 돌파'와 \"엔비디아는 사는데 삼전닉스는 판다\" 같은 AI 반도체 기사가 경제면을 채우고, 금융권 해킹범 추적과 쿠팡 먹통이 불안 요소다. 앱 차트는 숏드라마·쇼핑·예약(캐치테이블, 테이블링, CGV)이고, 리뷰는 몰래 결제 불만이 두드러진다.",
+  "US": "뉴스는 OpenAI 매출 보도발 기술주 혼란, 마이크로소프트의 H-1B/그린카드 프로그램 정지, 총살형 생중계, 중간선거 토론이 중심이다. 차트에 Trump Accounts (트럼프 계좌), Kalshi (칼시)가 올라 있어 정치·금융 상품이 앱으로 곧바로 연결되는 모습이 보인다."
+ },
+ "date": "2026-10-09",
+ "ideas": [
+  {
+   "evidence": "KR 101cam (101캠) \"무료 앱이라고 해서 다운 받았는데 갑자기 29,000원이 나갔어요\", 내가 당신을 사랑할 때 보이는 순간들 \"문구는 선착순 특가 평생 990원인것처럼… 매달 결제\"; BR StoryReel (스토리릴) \"cancela antes do prazo e mesmo assim continuam debitando\"; US CapCut (캡컷) \"impossible to cancel… had to call my bank\".",
+   "money": "환불 성공 시 소액 수수료 또는 월 구독 관리 번들. 지불 의사는 약하므로 검증이 필요하다.",
+   "one_liner": "결제 문자나 영수증 캡처를 올리면 앱별 해지 경로와 Apple/Google 환불 요청 문구를 만들어 준다.",
+   "risk": "Rocket Money (로켓 머니) 같은 구독 관리 앱과 Apple의 환불 페이지가 이미 있다. 환불 여부는 Apple/Google이 정하며 우리가 통제할 수 없다.",
+   "shape": "1) 영수증 캡처 업로드 2) 결제처(Apple/Google/카드) 판별과 해지 단계 안내 3) 복사 가능한 환불 요청 문구.",
+   "test": "커뮤니티(네이버 카페, 디시)에 \"몰래 결제 환불 문구 무료로 써드립니다\" 글을 올리고 10명을 수동 처리해 환불 성공 비율을 본다.",
+   "title": "숏드라마·무료 앱 '몰래 결제' 환불 신청서 생성기",
+   "who": "숏드라마·사진 앱을 한 번 깔았다가 월 1~3만원이 빠져나간 걸 뒤늦게 안 한국 사용자."
+  },
+  {
+   "evidence": "BR Mercado Livre (메르카도 리브리) \"no app fala q está entregue mais não está nem aq em casa\", Shopee (쇼피) 배송 지연; DE Post & DHL (포스트 & DHL) \"ab etwa 2h vor der Auslieferung… keine Live Tracking Daten\"; GB InPost UK (인포스트 UK) \"locker was full… avoided all accountability\".",
+   "money": "광고 없는 월 구독은 어렵고, 소규모 셀러(Vinted, Whatnot)에게 분쟁 대응 도구로 파는 쪽이 더 현실적이다.",
+   "one_liner": "송장번호와 스크린샷을 모아 타임라인으로 만들고 택배사·플랫폼에 보낼 분쟁 메일을 써 준다.",
+   "risk": "Parcel, 17TRACK 같은 추적 앱이 있고, 근본 해결은 플랫폼 정책에 달려 있다. 오늘 근거는 리뷰 표본이 작아 약하다.",
+   "shape": "1) 송장번호·주문 캡처 입력 2) 상태 변경 시간과 문의 이력 타임라인 3) 플랫폼별 분쟁 메일 초안.",
+   "test": "r/brasil, r/CasualUK에 글 하나를 올려 \"배송 완료인데 못 받은 분께 분쟁 메일을 써드립니다\" 요청을 받고 10건을 수동으로 처리한다.",
+   "title": "'배송 완료인데 없음' 분쟁 증거 정리기",
+   "who": "한 달에 택배를 여러 건 받고 '배송 완료' 상태인데 못 받은 경험이 있는 BR·GB 온라인 쇼핑 이용자."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "BR",
+    "DE",
+    "GB",
+    "JP"
+   ],
+   "evidence": "BR 1위 e-Título (이타툴로, 전자 투표증) 리뷰 \"Não pude votar nas eleições. Tela não sai do branco\"; DE Nect Wallet (넥트 월렛) \"nach 30 Versuchen kein Bock mehr\"; GB GOV.UK One Login \"most difficult thing I have ever experienced\"; JP マイナアプリ (마이나 앱) \"読み取り開始ボタンが押せない\"; DE·GB Microsoft Authenticator (마이크로소프트 인증기) \"Never ending login cycle\".",
+   "so_what": "신분증·본인확인을 앱으로 몰아가는 정책이 4개국에서 동시에 진행 중이고, 사용자는 막혀 있다. 다만 정부·통신사 영역이라 민간이 직접 대체하기는 어렵다.",
+   "theme": "신원확인·로그인 앱이 차트 상위에 있고, 리뷰는 '열리지 않는다'로 가득"
+  },
+  {
+   "countries": [
+    "JP",
+    "KR",
+    "GB",
+    "BR"
+   ],
+   "evidence": "JP ブックオフ (북오프) 최대 643만 건, スカイチケット (스카이티켓) 1400만 건, ローソン (로손) 215만 건, タイムズカー (타임스카) 면허증 정보; KR \"금융권 외국발 해킹 18건 중 16건, 누가 했는지 모른다\", 쿠팡 2시간 먹통; GB Asos \"hackers tricked employee\"; BR Einstein 병원 해킹.",
+   "so_what": "일본은 유출이 거의 매일 터지는 수준이다. 유출 통지를 받은 개인이 '그다음에 뭘 해야 하나'는 비어 있는 영역이다.",
+   "theme": "대형 개인정보 유출·해킹이 일상화"
+  },
+  {
+   "countries": [
+    "US",
+    "JP",
+    "KR",
+    "DE"
+   ],
+   "evidence": "US \"OpenAI's revenue report prompts tech sector turmoil\", \"Nvidia-Backed Firmus IPO Collapses as AI Valuation Concerns Grow\"; KR \"되살아난 AI 의구심에 반도체주 급락\"; DE \"Trump droht: Wer 'Künstliche Intelligenz' sagt, ist ein Feind\"; 차트에 Claude 는 DE 1위, JP 10위(어제 18위), KR 7위, US 10위. 리뷰: JP \"突然BANするのやめて\", US \"Free usage limit super low\".",
+   "so_what": "시장은 AI 가치를 의심하지만 소비자 앱 사용은 줄지 않았다. 불만은 사용량 한도·계정 정지·맥락 소실에 몰려 있다.",
+   "theme": "AI 거품 의구심과 반(反)AI 정서, 그럼에도 Claude·ChatGPT는 상위권"
+  },
+  {
+   "countries": [
+    "US",
+    "DE",
+    "GB",
+    "JP",
+    "KR",
+    "BR"
+   ],
+   "evidence": "GB \"Houthis destroy passenger jet at Riyadh airport\", \"Oil prices jump on tanker attacks\"; DE \"Heizölpreise knallen durch die Decke\"; KR \"국제유가, 美 이란 공격 우려·중동 유조선 피격에 급등\"; BR \"Petróleo fecha em alta de 4%\".",
+   "so_what": "6개국 모두에 있는 거시 배경이다. 앱 차트나 리뷰에는 아직 반영되지 않았다.",
+   "theme": "중동 긴장(후티·호르무즈)이 유가와 증시로 번짐"
+  },
+  {
+   "countries": [
+    "KR",
+    "BR",
+    "US",
+    "JP"
+   ],
+   "evidence": "KR 1위 NetShort (넷숏) \"연간구독했는데 안보여져요\"; 101cam (101캠) \"무료 앱이라고 해서 다운 받았는데 갑자기 29,000원이 나갔어요\"; BR StoryReel (스토리릴) \"cancela antes do prazo e mesmo assim continuam debitando\"; US CapCut (캡컷) \"charged several times without me even noticing\".",
+   "so_what": "NetShort는 KR·JP, 숏드라마 앱은 BR 상위에도 있다. 같은 수법(유도성 가격 표시, 해지 후 청구)이 나라를 가리지 않고 반복된다.",
+   "theme": "숏드라마·무료 앱의 '몰래 결제·해지 불가'"
+  }
+ ]
+}
