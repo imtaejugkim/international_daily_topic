@@ -1,0 +1,92 @@
+{
+ "counter": "리뷰는 앱당 수 건~수십 건의 1~2점만 표본이라 불만의 비율을 알 수 없다. 숏드라마가 5개국에 동시에 올라온 건 같은 회사가 마케팅을 집행했기 때문일 수 있다. 어제와의 순위 변화는 하루치 비교라 노이즈일 수 있고, Be My Eyes 급등 같은 건 이유를 데이터에서 찾지 못했다. 아이디어 2는 근거가 얇아 억지로 채운 감이 있다.",
+ "countries": {
+  "BR": "6x1 근무제 종료 PEC, 대선 공방, 휘발유 세금 면제, bets 환불이 이슈다. 차트는 ChatGPT 1위, 99 2위(10위에서 급등), e-Título (이 티툴루, 전자 투표증) 3위로 선거 철을 반영한다. e-Título 리뷰는 '앱이 안 열린다'가 몰려 있다.",
+  "DE": "에너지 가격이 지배적이다(Heizöl 상승, 러시아 경유, 에너지 정책 시위, Telekom 급락). 차트 1위가 PLAYFUL REWARDS (플레이풀 리워즈)라는 게임 보상앱인데 리뷰 대부분이 '출금 거부 사기'다. 이건 뉴스와 별개의 흐름이다.",
+  "GB": "뉴스는 보궐선거 결과와 Asos 해킹, Boots 인수, 예산안 세금 우려다. 차트 1위는 Lloyds (로이즈) 은행 앱, 2위 GOV.UK One Login (고브유케이 원 로그인)이다. 신원·금융 앱이 상위인데 One Login은 1~2점 리뷰 표본이 39건 모였다.",
+  "JP": "JR동일본·타임스카 등 정보 유출과 IDCF 클라우드 해킹이 겹쳐 사이버 불안이 크다. 3연휴라 맥도날드(마크도나르도)·코메다·스타벅스 같은 외식 앱이 올랐다. 불안과 일상 소비가 병존한다.",
+  "KR": "해킹 뉴스(은행 보안 예산 삭감)와 대구 마트 천장 붕괴가 크게 다뤄진다. 차트는 숏드라마(NetShort 1위, Vigloo 7위)와 예약앱(캐치테이블·테이블링이 5~10계단 상승)이 움직였다. 뉴스는 불안인데 차트는 소비·오락 쪽이라 엇갈린다.",
+  "US": "러시아 경유 합의, 사형 생중계 논란, 중간선거 유세가 뉴스를 채운다. 차트는 Muse from Meta (뮤즈 프롬 메타) 1위, Be My Eyes (비 마이 아이즈) 18위→6위 급등이 눈에 띈다. 이유는 데이터에 없다."
+ },
+ "date": "2026-10-10",
+ "ideas": [
+  {
+   "evidence": "BR StoryReel 리뷰 'Eu assinei só por uma semana e depois cancelei, mas mesmo assim toda semana cobra (일주일만 구독하고 해지했는데 매주 청구된다)'. KR TeraBox (테라박스) 'PC로 7일 무료체험 했는데 6개월간 5700원씩 빠져나갔다'. JP NetShort (넷숏) '広告が多すぎ'. 앱들이 BR·JP·KR 차트에 동시에 있다.",
+   "money": "월 1~2천원 구독 또는 해지 성공 시 후원. 사용자는 이미 돈이 새는 걸 알기에 지불 의사가 있다.",
+   "one_liner": "숏드라마·클라우드 앱의 무료체험이 자동결제로 넘어가기 전에 알려주고 해지 경로를 알려주는 도구.",
+   "risk": "Rocket Money (록켓 머니), Bobby (바비), 애플·구글 자체 구독 관리가 이미 있다. 이 앱들이 숏드라마 결제 구조(코인·주간)를 놓친다는 점이 약점인지 확인이 필요하다.",
+   "shape": "화면1: 결제 문자·영수증을 붙여넣거나 이메일 전달. 화면2: 앱별 다음 결제일·금액 목록. 화면3: 해지 방법 링크와 결제 하루 전 알림.",
+   "test": "브라질·한국 숏드라마 커뮤니티에 '내가 무료체험 후 얼마 나갔는지 알려주세요' 글을 올려 10명에게 직접 구독 목록을 받아본다.",
+   "title": "숏드라마 앱 주간결제 해지 알림기",
+   "who": "숏드라마 앱 무료체험을 시작했는데 언제 결제되는지 모르는 사람. 월 3만원 넘게 구독 중인데 뭘 구독했는지 모르는 사람."
+  },
+  {
+   "evidence": "KR Claude 리뷰 '27살에 클로드 사용 중인데 미성년자 의심 계정 잠금, 버튼도 안 눌린다'. DE Claude 리뷰 'immer wieder gesperrt ... obwohl ich über 18 bin (18세 넘는데 계속 정지)'. 두 나라에 같은 불만이다.",
+   "money": "광고나 제휴 외엔 불분명하다. 수익화가 약하다.",
+   "one_liner": "AI 앱에서 성인인데 미성년자로 의심돼 잠긴 사용자에게 이의제기 절차와 서류 준비를 안내하는 한 페이지짜리 가이드.",
+   "risk": "회사가 앱 내에서 고치면 사라질 수요이고, 표본이 5개 이하라 약하다. 아이디어라기보다 신호 메모에 가깝다.",
+   "shape": "화면 하나짜리 가이드 사이트: 잠금 원인, 이의제기 폼 링크, 필요한 서류 체크리스트.",
+   "test": "'Claude 계정 정지 18세' 검색 유입을 보려고 가이드 글 하나를 올려 하루 조회수를 본다.",
+   "title": "성인 계정 잠금 풀어주는 AI 앱 연령 인증 안내",
+   "who": "성인인데 계정이 잠겨 검색하는 학생·직장인."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "BR",
+    "JP",
+    "KR",
+    "US"
+   ],
+   "evidence": "BR StoryReel (스토리릴) 4위·PineDrama (파인드라마) 6위, JP StoryReel 16위 신규, KR Vigloo (비글루) 7위 신규·NetShort (넷숏) 1위, US BlinkDrama (블링크드라마) 21위 신규.",
+   "so_what": "수요는 확실하다. 하지만 리뷰는 전부 광고·결제 불만이라 '뜨는 시장'이면서 '사용자가 속았다고 느끼는 시장'이다.",
+   "theme": "숏드라마 앱이 5개국 차트에 동시에 올라왔다"
+  },
+  {
+   "countries": [
+    "JP",
+    "KR",
+    "GB"
+   ],
+   "evidence": "JP '不正アクセス、個人情報の流出被害止まらず…ＪＲ東グループでは６００万件か', 'タイムズカー情報漏えい'. KR '은행권 해킹 잇따르는데 보안투자는 뒷걸음…우리은행 예산 21.7% 삭감'. GB 'Asos hacked: Cyber attack was worse than thought'.",
+   "so_what": "유출 뉴스는 많지만 일반 소비자가 '내 정보가 어디서 샜는지' 확인할 도구는 차트에 없다. 다만 이 자료만으론 수요 크기를 알 수 없다.",
+   "theme": "개인정보 유출·해킹이 일상 뉴스가 됐다"
+  },
+  {
+   "countries": [
+    "US",
+    "DE",
+    "GB",
+    "JP",
+    "KR",
+    "BR"
+   ],
+   "evidence": "'Trump announces deal for Russian diesel', DE 'Trump kündigt russische Diesel-Lieferungen an'·'Heizölpreise ziehen zum Wochenende weiter an', JP 'ロシアが軽油３０万トン供給', BR 'Governo Federal zera tributos sobre a gasolina (연방정부, 휘발유 세금 면제)'.",
+   "so_what": "6개국 모두 같은 뉴스를 다루지만 반응은 다르다. 미국은 중간선거용 연료가 인하, 독일은 난방유 가격, 브라질은 세금 면제다.",
+   "theme": "트럼프-푸틴 러시아산 경유 합의가 연료·에너지 불안을 키운다"
+  },
+  {
+   "countries": [
+    "DE",
+    "KR",
+    "US"
+   ],
+   "evidence": "DE 'Aktie der Deutschen Telekom stürzt ab: Elon Musk und Starlink', KR '머스크, 美 통신시장 정조준…통신 3사 주가 급락', US 'AT&T, Verizon, and T-Mobile Are Dropping on Starlink Fears'.",
+   "so_what": "시장은 한 번에 세 나라에서 같은 방향으로 반응했다. 소비자용 기회라기보다 투자·뉴스 이슈다.",
+   "theme": "스타링크가 통신사 주가를 흔든다"
+  },
+  {
+   "countries": [
+    "DE",
+    "GB",
+    "KR",
+    "JP",
+    "US"
+   ],
+   "evidence": "DE Claude 2위·ChatGPT 4위·Gemini (제미나이) 6위, GB Claude 8위, KR Claude 8위. 리뷰: DE '조용히 계정 정지(immer wieder gesperrt) ... Abi 요약만 했는데', KR '27살인데 미성년자 의심으로 계정 잠금', 뉴스 'Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip'.",
+   "so_what": "AI 앱 자체를 만들 이유는 없다. 다만 성인 계정이 나이 의심으로 잠기는 불만이 DE·KR에서 반복된다.",
+   "theme": "AI 챗봇이 차트 상위에 고정됐고, 사용 경험 불만도 같이 쌓인다"
+  }
+ ]
+}
