@@ -1,0 +1,83 @@
+{
+ "counter": "오늘 reviews 파일(2026-10-11)은 비어 있어 어제(10-10) 리뷰를 썼고, 숏드라마 앱 리뷰는 앱당 1~11건뿐이다. 광고·결제 불만이 5개국 공통인지는 BR·JP·KR 몇 건으로만 확인했고 US·GB는 못 봤다. 차트 상승은 광고 집행으로 일시적일 수 있고, 하루 비교만으로 흐름이라 단정하긴 이르다. 뉴스 테마는 대부분 외신 확산이어서 각 나라의 고유 관심사를 대표하지 않는다. 그래서 오늘은 아이디어를 하나만 냈다.",
+ "countries": {
+  "BR": "대선 국면(Flávio 52,7% vs Lula 47,3% 여론조사 기사)과 Master 은행 스캔들이 톱뉴스다. 6×1 근무 폐지, bets 환급 등 노동·돈 기사도 많다. 차트는 99·iFood·Mercado Livre 같은 생활 앱 사이에 숏드라마 2개가 2·4위에 올라 있다.",
+  "DE": "Iran-Krieg로 인한 난방유·디젤 가격과 공급 불안, 연금, BMW 퇴직금 제안 등 돈 문제가 중심이다. 차트는 C&A, IKEA, Vinted, Lidl Plus 등 쇼핑과 Claude 3위가 눈에 띈다. 뉴스의 에너지 불안과 차트의 절약형 쇼핑이 같은 방향이다.",
+  "GB": "리야드 공항 공격, 예산(Budget) 난항, 연료 가격 상승이 겹쳐 있다. 'Fuel prices added to Google Maps as petrol and diesel costs soar' 같은 기사가 있다. 차트는 Lloyds (로이즈)·InPost (인포스트)·Vinted (빈티드)로 은행·택배·중고거래다.",
+  "JP": "면허증 유출과 본인확인 강화, 소비세 감세 논의 등 생활 불안이 중심이다. 차트는 AI 챗(ChatGPT·Gemini)과 맥도날드·코메다·스타벅스 같은 외식 쿠폰 앱, 숏드라마가 섞여 있다. setlog (셋로그)가 1위인데 뉴스 쪽에서는 이유를 찾지 못했다.",
+  "KR": "증시가 중심이다. '삼성전자 100조 실적에도 외국인 보유율 금융위기 수준'처럼 반도체 실적과 외국인 이탈이 엇갈린다. 앱 차트는 숏드라마(NetShort 1위)와 레트로 카메라 앱(101cam 2위, vintage 카메라 4위)이 차지해, 뉴스의 무거움과 대조된다.",
+  "US": "정치(디젤 딜, 공개처형 지지 집회)와 펜실베이니아 총기난사가 톱뉴스를 채웠다. 차트는 Muse from Meta (뮤즈 프롬 메타) 1위, Kalshi (칼시) 8위(+6)로 예측시장이 뜨는 중이다. Netflix Game Controller (넷플릭스 게임 컨트롤러)가 BR·GB·US 동시에 상위 9~4위라는 점도 눈에 띈다."
+ },
+ "date": "2026-10-11",
+ "ideas": [
+  {
+   "evidence": "BR StoryReel 리뷰 'Eu assinei só por uma semana e depois cancelei, mas mesmo assim toda semana cobra (일주일만 구독하고 해지했는데 매주 청구된다)', 'Muito anúncio pra assistir apenas um episódio (한 화 보는데 광고가 너무 많다)' / BR PineDrama 'quase todas as séries ... sem final (대부분 시리즈에 결말이 없다)' / JP NetShort '動画を30秒観たら広告2本3分 (30초 보면 광고 3분)' / KR NetShort '연간구독했는데 안보여져요', KR Vigloo '코인이 왜 사라지나요'. 차트: 5개국 상위권.",
+   "money": "처음에는 수익이 없다. 트래픽이 생기면 '해지 대행 알림' 유료 기능이나 제휴를 붙일 수 있지만, 지금은 근거가 없다.",
+   "one_liner": "숏드라마 앱별로 해지 방법, 코인·구독 청구 확인법, 결말까지 몇 화·얼마가 드는지를 정리해 주는 페이지.",
+   "risk": "구독 관리는 Apple·Google 설정이 이미 한다. 이런 정보 글은 쉽게 복제되고 앱 쪽이 정책을 바꿔 버릴 수 있다. 가장 큰 위험은 5개국 불만이 모두 같은 종류인지 이번 리뷰 표본으로는 확인이 부족하다는 점이다.",
+   "shape": "화면1: 앱 목록과 앱별 해지 단계(iOS·안드로이드). 화면2: '이 드라마는 총 몇 화, 완주 비용 약 얼마' 표. 화면3: 가격·청구 후기 제보 폼. 처음에는 한 나라(KR이나 BR)와 상위 5개 앱만 다룬다.",
+   "test": "상위 5개 앱의 해지 방법을 직접 정리해 커뮤니티(레딧 r/brasil, 디시, 숏드라마 카페) 글 하나로 올리고 댓글과 조회수를 본다.",
+   "title": "숏드라마 앱 '결제·광고 지옥' 탈출 가이드",
+   "who": "숏드라마 앱 한두 개에 주 단위 구독이나 코인을 쓰고 있는데 얼마를 쓰는지 모르고 해지 방법을 못 찾은 사람."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "KR",
+    "US",
+    "JP",
+    "GB",
+    "BR"
+   ],
+   "evidence": "BR: StoryReel (스토리릴) 2위, PineDrama (파인드라마) 4위 / US: PineDrama 9위(+6), BlinkDrama (블링크드라마) 13위(+8) / JP: StoryReel 6위(+10), NetShort (넷숏) 10위, GoodShort (굿숏) 20위 NEW / KR: NetShort 1위, Vigloo (비글루) 6위, DramaWave (드라마웨이브) 9위(+11), DramaBox (드라마박스) 10위 NEW / GB: VibeShort (바이브숏) 11위 NEW",
+   "so_what": "국가·언어와 무관하게 같은 장르가 올라온다. 동시에 리뷰의 불만도 같은 곳(광고·결제)에 몰려 있어 흐름이자 빈틈이다.",
+   "theme": "숏드라마 앱이 5개국 차트를 동시에 차지"
+  },
+  {
+   "countries": [
+    "US",
+    "DE",
+    "JP",
+    "KR",
+    "GB"
+   ],
+   "evidence": "US: 'GOP lawmakers reject U.S.-Russia diesel deal' / DE: 'Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung' / JP: 'トランプ氏「ウクライナには新しい大統領が必要」' / KR: '트럼프, ‘경유딜’ 비판한 젤렌스키에 “우크라이나 새 대통령 필요”'",
+   "so_what": "5개국 톱뉴스에 동시에 올랐다. 에너지 가격 불안은 독일의 난방유·디젤 부족 기사로 이어진다.",
+   "theme": "미국-러시아 '디젤 딜'과 트럼프의 젤렌스키 발언"
+  },
+  {
+   "countries": [
+    "US",
+    "GB",
+    "DE",
+    "JP",
+    "BR"
+   ],
+   "evidence": "GB: 'Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh' / DE: 'Mindestens zwölf Tote bei Angriff auf Flughafen in Riad' / JP: 'サウジ空港攻撃で１２人死亡 ... フーシ派か'",
+   "so_what": "중동 불안이 유가·환율 기사(KR '연저점 앞두고 중동 불안 확대', DE '고가의 Iran-Krieg 난방유')로 번지고 있다. 소비자 비용 쪽 파급이 핵심이다.",
+   "theme": "리야드 공항 공격"
+  },
+  {
+   "countries": [
+    "US",
+    "DE",
+    "JP"
+   ],
+   "evidence": "US: 'Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case' / DE: 'Anthropic-KI stellt Visaanträge bei US-Außenministerium', 'KI-Konzerne bereiten sich auf katastrophale Zwischenfälle vor' / JP: 'OpenAI、安全性研究者3人を解雇'",
+   "so_what": "AI 도구가 사람 대신 행동한 결과를 사후에 확인하는 문제가 뉴스가 됐다. 다만 이번 자료만으로 제품 기회까지 말하기는 어렵다.",
+   "theme": "AI 에이전트가 현실에서 사고를 치기 시작"
+  },
+  {
+   "countries": [
+    "JP",
+    "GB",
+    "DE",
+    "KR"
+   ],
+   "evidence": "JP: '金融庁、本人確認は「画像」から「ICチップ」へ ... 免許証の大規模流出', 'JR九州 最大130万件のメールアドレス漏えい' / GB: 'Snowflake firm in ASOS hacking message' / DE: '数千台の格安スマホにマルウェア' / KR: '국책·특수은행 해킹 시도 올해 100만건 돌파'",
+   "so_what": "일본은 이미 규제 대응으로 이어졌다. 나머지 나라는 사건 보도 단계다.",
+   "theme": "개인정보·본인확인 정보 유출"
+  }
+ ]
+}
