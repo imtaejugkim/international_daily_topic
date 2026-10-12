@@ -1,0 +1,93 @@
+{
+ "counter": "오늘 브리프는 순위가 오른 앱과 저평점 리뷰 표본에 기댔는데, 앱당 리뷰가 4~13건 수준이라 과잉해석 위험이 크다. 숏드라마와 Playful Rewards는 광고 집행으로 차트 순위가 올랐을 수 있어 '수요'가 아니라 마케팅 신호일 수 있다. 주제 중 사우디 공격·디젤 거래는 사건 하나를 6개국이 다룬 것이라 창업 기회와는 거리가 있다. 아이디어를 2개로 제한한 것은 재료가 강하지 않아서다.",
+ "countries": {
+  "BR": "Flávio 지지 집회와 Lula 집회가 같은 날 파울리스타 거리에서 열리는 선거 국면이다. 6x1 근로제 폐지 논의, 복권(Mega-Sena 1.5억 헤알), 국채가 올랐다는 소식이 동시에 있다. 차트는 숏드라마가 1·2위이고 Shopee(쇼피)는 결제·환불 불만이 많다.",
+  "DE": "메르츠와 CDU 내부 갈등, 연금, 갈레리아 파산, 태양광 기업 파산 같은 경제·정당 불안이 뉴스를 채운다. 차트 1·2위가 Claude(클로드)·ChatGPT라 AI 사용 열기는 높다. 이 열기는 AI에 대한 경고 기사와 같이 나타난다.",
+  "GB": "번햄 총리, 세금 인상 필요(£35bn 구멍), 패라지의 망명 제도 폐지 공약처럼 정치·재정 기사가 많다. 앱 차트는 Lloyds(로이즈) 뱅킹과 GOV.UK One Login(원 로그인)이 상위여서 신원·금융 앱 수요가 눈에 띈다. Playful Rewards(플레이풀 리워즈)와 Vinted 불만도 뚜렷하다.",
+  "JP": "연휴 마지막 날이라 날씨·스포츠·검색어가 가볍다. 뉴스는 사우디, 프랑스 국채 불안, 소비세 논의처럼 밖과 돈 문제다. 차트는 AI 캐릭터 채팅(zeta(제타))과 지인 위치앱 Bump(범프)가 눈에 띈다.",
+  "KR": "정치(이재명 지지율 35.2%, 한동훈 딸 의혹 재수사 여부)와 부동산·코스피 4일 연속 하락에 붙들려 있다. 앱 차트는 하나원큐 개편(11위→2위)과 숏드라마가 올라와 있어 뉴스와 앱이 따로 논다. 하나원큐 리뷰는 개편이 불편하고 느리다는 불만 일색이다.",
+  "US": "중간선거를 앞두고 휘발유값, 러시아 디젤 수입 논란, 그리스 대사 비위 의혹이 헤드라인이다. 차트는 Vinted(빈티드)·McDonald's(맥도날드)·숏드라마 중심이다. 정치 뉴스와 앱 사용이 거의 겹치지 않는다."
+ },
+ "date": "2026-10-12",
+ "ideas": [
+  {
+   "evidence": "US 'created my account, verified my email address, and then was immediately banned', 'banned for a listing of a Xbox mini fridge… called fraudulent/counterfeit without an explanation'. GB 'banned my account as they say I'm selling counterfeit items… appealed without any explanation'. DE '성희롱을 당했는데 오히려 정지당했다'. 3개국에서 같은 불만이다.",
+   "money": "정지로 판매 수입이 끊긴 사람이 1회 €3~5을 낸다.",
+   "one_liner": "Vinted에서 이유 없이 정지된 판매자가 이의제기 메일을 템플릿으로 쓰고 진행 상황을 추적하게 해주는 도구.",
+   "risk": "Vinted 자체 지원센터가 있고, 정지 사유가 실제 위반이면 소용없다. 이의제기 성공률은 확인되지 않았다. 리뷰 표본도 작다 (국가별 4~13건).",
+   "shape": "화면1: 정지 사유와 증빙(영수증·사진) 입력. 화면2: 이의제기 메일 초안 생성(영어·독일어). 화면3: 재문의 일정 체크리스트.",
+   "test": "r/vinted 및 독일·영국 Vinted 커뮤니티에 '정지당했나요? 이의제기 초안 무료로 써드립니다' 글을 올려 수동으로 5~10명을 돕고 반응을 본다.",
+   "title": "Vinted 계정 정지 이의제기 도우미",
+   "who": "Vinted에서 중고 의류·전자기기를 팔다 '위조품' 사유로 정지당한 개인 판매자."
+  },
+  {
+   "evidence": "PLAYFUL REWARDS(플레이풀 리워즈)가 US 13위·DE 4위·GB 2위. DE 'Auszahlung wird einbehalten, Support schließt die Tickets einfach als gelöst(지급을 보류하고 지원팀은 답 없이 티켓을 해결로 닫는다)', GB 'This app is a scam… advertising itself as a rewards program called Screentime To Cash', 'requested video proof… then closed the ticket'. 영국에서는 TikTok 광고 유입이 언급된다.",
+   "money": "광고·제휴는 신뢰를 해치므로 어렵고, 현실적으로 무료 SEO 트래픽 후 신고 서비스 유료화 정도다. 수익성은 약하다.",
+   "one_liner": "보상형 앱 이름을 넣으면 실제 환급 거절·계정 정지 후기 수를 보여주는 한 장짜리 조회 페이지.",
+   "risk": "Trustpilot과 Scamadviser가 이미 후기를 모은다. 앱 출시사의 법적 대응 위험도 있다. 같은 앱의 후기 편향(불만만 수집)도 있다.",
+   "shape": "화면1: 앱 이름 검색. 화면2: 지급 성공/거절/정지 후기를 나라별로 요약하고 원문 인용. 화면3: 환불·신고 링크.",
+   "test": "'playful rewards payout' 단일 랜딩페이지를 만들고 후기를 수동으로 정리해 구글 검색 노출을 며칠 본다.",
+   "title": "'스크린타임 투 캐시' 류 보상앱 지급 거절 사례 검색 사이트",
+   "who": "TikTok 광고를 보고 'Screentime To Cash'를 깔기 직전인 사람, 이미 돈을 못 받은 사람."
+  }
+ ],
+ "themes": [
+  {
+   "countries": [
+    "BR",
+    "DE",
+    "GB",
+    "JP",
+    "KR",
+    "US"
+   ],
+   "evidence": "BR 1·2위 StoryReel(스토리릴)·PineDrama(파인드라마), KR 1위 NetShort(넷숏)·Vigloo(비글루), JP StoryReel·GoodShort(굿숏), US VibeShort(바이브숏)·BlinkDrama(블링크드라마)·StoryReel, DE VibeShort 신규 13위, GB VibeShort 8위.",
+   "so_what": "같은 유형의 앱이 언어만 바꿔 전 세계에서 동시에 상위권이다. 수요는 확실하지만 같은 앱군이 이미 넘쳐난다.",
+   "theme": "숏드라마 앱이 6개국 차트를 동시에 점령"
+  },
+  {
+   "countries": [
+    "BR",
+    "DE",
+    "US",
+    "JP",
+    "KR"
+   ],
+   "evidence": "BR 'CEO da Microsoft pede freio de emergência para IA avançada(마이크로소프트 CEO, 첨단 AI에 비상 브레이크 요구)', DE 'Bill Gates: KI ist gefährlicher als Drogen(빌 게이츠: AI는 마약보다 위험)', US 'Bill Gates warns cyberattacks most imminent AI threat'. 리뷰: JP ChatGPT '그림 생성에서 누드 오판정 다발', KR Gemini '자전거 30분 탔다는 평범한 말에 안전필터가 막음'.",
+   "so_what": "경고 기사가 늘수록 사용자는 과잉 차단과 필터 오작동에 더 짜증을 낸다. 차트 상위 AI 앱의 불만 1순위가 필터와 느림이다.",
+   "theme": "AI 위험 경고와 AI 앱 불만이 동시에 나온다"
+  },
+  {
+   "countries": [
+    "US",
+    "DE",
+    "GB",
+    "JP",
+    "KR",
+    "BR"
+   ],
+   "evidence": "US 'Saudi Arabia's Riyadh airport hit by second Houthi strike', KR '후티, 사우디 공항 또 공격… 미국은 뒷짐', DE '트럼프 에너지 휴전 선언', JP 'ゼレンスキー氏「初耳」(젤렌스키 \"처음 듣는다\")', BR 'Petróleo avança com escalada na Arábia Saudita(사우디 긴장에 유가 상승)'.",
+   "so_what": "6개국 모두 같은 사건을 다루지만 US는 휘발유값·선거, DE는 푸틴 전쟁자금 논란으로 읽는다. 사건은 같고 걱정거리가 다르다.",
+   "theme": "사우디 공격·러시아 디젤 거래로 에너지 불안"
+  },
+  {
+   "countries": [
+    "DE",
+    "JP",
+    "KR"
+   ],
+   "evidence": "DE '드론 공격이 \"러시아의 구글\"을 마비', JP 'ヤンデックスのデータセンターが4日間で3カ所炎上(얀덱스 데이터센터 4일간 3곳 화재)', KR '열차 멈추면 어쩌나… 해킹 19배 폭증', '평범한 CCTV인 줄 알았는데 해킹'.",
+   "so_what": "물리·사이버 인프라가 공격 대상이라는 인식이 퍼지고 있다. 다만 소비자 제품으로 이어질 직접 근거는 약하다.",
+   "theme": "러시아 데이터센터 드론 공격 등 인프라 취약성"
+  },
+  {
+   "countries": [
+    "BR",
+    "DE"
+   ],
+   "evidence": "BR 'Carregador portátil pega fogo durante voo na Índia(인도에서 비행 중 보조배터리 발화)', DE 'IndiGo-Flug: Powerbank unter Verdacht – Notlandung(인디고 항공편: 보조배터리 의심, 비상착륙)'.",
+   "so_what": "같은 사건이 두 나라 비즈니스·기술 면에 실렸다. 사건 하나가 퍼진 것이라 흐름으로 보기엔 이르다.",
+   "theme": "보조배터리 화재 (항공기)"
+  }
+ ]
+}
