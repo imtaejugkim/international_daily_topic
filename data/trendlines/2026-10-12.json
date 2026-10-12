@@ -34,7 +34,7 @@
     "de"
    ],
    "days": 4,
-   "drift": 1.0,
+   "drift": 0.0,
    "first_seen": "2026-10-09",
    "genre_ids": [],
    "genres": [],
@@ -109,26 +109,6 @@
    "name": "Quince: Luxury Essentials"
   },
   {
-   "best_rank": 4,
-   "countries": [
-    "us"
-   ],
-   "days": 2,
-   "drift": 18.0,
-   "first_seen": "2026-10-11",
-   "genre_ids": [
-    "6005",
-    "6012"
-   ],
-   "genres": [
-    "Social Networking",
-    "Lifestyle"
-   ],
-   "id": "6742024490",
-   "last_seen": "2026-10-12",
-   "name": "Reco Social"
-  },
-  {
    "best_rank": 6,
    "countries": [
     "kr"
@@ -159,6 +139,27 @@
    "id": "6795437172",
    "last_seen": "2026-10-08",
    "name": "KO1KEYZ"
+  },
+  {
+   "best_rank": 6,
+   "countries": [
+    "gb",
+    "us"
+   ],
+   "days": 2,
+   "drift": 12.0,
+   "first_seen": "2026-10-09",
+   "genre_ids": [
+    "6012",
+    "6002"
+   ],
+   "genres": [
+    "Lifestyle",
+    "Utilities"
+   ],
+   "id": "905177575",
+   "last_seen": "2026-10-10",
+   "name": "Be My Eyes"
   }
  ],
  "date": "2026-10-12",
@@ -205,6 +206,24 @@
    "name": "Discord - 대화, 플레이, 어울리기"
   },
   {
+   "best_rank": 7,
+   "countries": [
+    "us"
+   ],
+   "days": 4,
+   "drift": -16.0,
+   "first_seen": "2026-09-21",
+   "genre_ids": [
+    "6016"
+   ],
+   "genres": [
+    "Entertainment"
+   ],
+   "id": "1193350206",
+   "last_seen": "2026-10-12",
+   "name": "YouTube TV"
+  },
+  {
    "best_rank": 6,
    "countries": [
     "us"
@@ -223,24 +242,6 @@
    "id": "905401434",
    "last_seen": "2026-10-05",
    "name": "Fubo: Watch Live TV & Sports"
-  },
-  {
-   "best_rank": 7,
-   "countries": [
-    "us"
-   ],
-   "days": 4,
-   "drift": -15.0,
-   "first_seen": "2026-09-21",
-   "genre_ids": [
-    "6016"
-   ],
-   "genres": [
-    "Entertainment"
-   ],
-   "id": "1193350206",
-   "last_seen": "2026-10-12",
-   "name": "YouTube TV"
   },
   {
    "best_rank": 3,
@@ -305,6 +306,29 @@
   {
    "best_rank": 1,
    "countries": [
+    "br",
+    "de",
+    "gb",
+    "us"
+   ],
+   "days": 12,
+   "drift": -14.5,
+   "first_seen": "2026-09-30",
+   "genre_ids": [
+    "6002",
+    "6016"
+   ],
+   "genres": [
+    "Utilidades",
+    "Entreteni­mento"
+   ],
+   "id": "1630403500",
+   "last_seen": "2026-10-12",
+   "name": "APTV"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
     "br"
    ],
    "days": 3,
@@ -321,29 +345,6 @@
    "id": "1036174679",
    "last_seen": "2026-09-30",
    "name": "Bolsa Família"
-  },
-  {
-   "best_rank": 1,
-   "countries": [
-    "br",
-    "de",
-    "gb",
-    "us"
-   ],
-   "days": 11,
-   "drift": -14.0,
-   "first_seen": "2026-09-30",
-   "genre_ids": [
-    "6002",
-    "6016"
-   ],
-   "genres": [
-    "Dienst­programme",
-    "Unterhaltung"
-   ],
-   "id": "1630403500",
-   "last_seen": "2026-10-11",
-   "name": "APTV"
   },
   {
    "best_rank": 12,
@@ -473,7 +474,7 @@
     "ライフスタイル",
     "라이프스타일"
    ],
-   "sustained_apps": 33
+   "sustained_apps": 32
   },
   {
    "apps": [
@@ -490,6 +491,7 @@
      "best_rank": 5,
      "countries": [
       "br",
+      "de",
       "gb",
       "jp",
       "kr",
@@ -516,16 +518,6 @@
      "name": "TikTok Pro - Events"
     },
     {
-     "best_rank": 12,
-     "countries": [
-      "br",
-      "gb",
-      "us"
-     ],
-     "days": 22,
-     "name": "TikTok - Videos, Shop & LIVE"
-    },
-    {
      "best_rank": 1,
      "countries": [
       "br",
@@ -535,6 +527,16 @@
      ],
      "days": 21,
      "name": "StoryReel: Drama Shorts & TV"
+    },
+    {
+     "best_rank": 12,
+     "countries": [
+      "br",
+      "gb",
+      "us"
+     ],
+     "days": 21,
+     "name": "TikTok - Videos, Shop & LIVE"
     },
     {
      "best_rank": 1,
@@ -549,6 +551,7 @@
     {
      "best_rank": 4,
      "countries": [
+      "br",
       "jp",
       "kr",
       "us"
@@ -565,13 +568,15 @@
      "name": "U-NEXT - 映画やドラマ、アニメなどの動画が見放題"
     },
     {
-     "best_rank": 9,
+     "best_rank": 3,
      "countries": [
       "br",
-      "jp"
+      "de",
+      "gb",
+      "us"
      ],
-     "days": 15,
-     "name": "Netflix"
+     "days": 14,
+     "name": "Netflix Game Controller"
     }
    ],
    "countries": [
@@ -586,7 +591,6 @@
    "genre_names": [
     "Entertainment",
     "Entreteni­mento",
-    "Unterhaltung",
     "エンターテインメント",
     "엔터테인먼트"
    ],
@@ -732,20 +736,20 @@
      "name": "Mercado Pago: banco digital"
     },
     {
-     "best_rank": 15,
-     "countries": [
-      "de"
-     ],
-     "days": 16,
-     "name": "PayPal: Geld senden, verwalten"
-    },
-    {
      "best_rank": 6,
      "countries": [
       "de"
      ],
-     "days": 15,
+     "days": 16,
      "name": "Nect Wallet"
+    },
+    {
+     "best_rank": 15,
+     "countries": [
+      "de"
+     ],
+     "days": 15,
+     "name": "PayPal: Geld senden, verwalten"
     },
     {
      "best_rank": 18,
@@ -921,7 +925,6 @@
     "Productivity",
     "Produktivität",
     "Produtividade",
-    "仕事効率化",
     "생산성"
    ],
    "sustained_apps": 17
@@ -966,21 +969,21 @@
      "name": "Google"
     },
     {
+     "best_rank": 1,
+     "countries": [
+      "br"
+     ],
+     "days": 22,
+     "name": "e-Título"
+    },
+    {
      "best_rank": 10,
      "countries": [
       "gb",
       "us"
      ],
-     "days": 22,
-     "name": "WhatsApp Messenger"
-    },
-    {
-     "best_rank": 1,
-     "countries": [
-      "br"
-     ],
      "days": 21,
-     "name": "e-Título"
+     "name": "WhatsApp Messenger"
     },
     {
      "best_rank": 6,
@@ -1018,12 +1021,15 @@
      "name": "gov.br"
     },
     {
-     "best_rank": 15,
+     "best_rank": 2,
      "countries": [
-      "de"
+      "de",
+      "gb",
+      "jp",
+      "us"
      ],
      "days": 16,
-     "name": "PayPal: Geld senden, verwalten"
+     "name": "Microsoft Authenticator"
     }
    ],
    "countries": [
@@ -1141,13 +1147,12 @@
    ],
    "genre_id": "6023",
    "genre_names": [
-    "Essen und Trinken",
     "Food & Drink",
     "Gastronomia e bebidas",
     "フード／ドリンク",
     "음식 및 음료"
    ],
-   "sustained_apps": 15
+   "sustained_apps": 14
   },
   {
    "apps": [
@@ -1165,6 +1170,7 @@
      "best_rank": 5,
      "countries": [
       "br",
+      "de",
       "gb",
       "jp",
       "kr",
@@ -1179,7 +1185,7 @@
       "gb",
       "us"
      ],
-     "days": 22,
+     "days": 21,
      "name": "WhatsApp Messenger"
     },
     {
@@ -1189,7 +1195,7 @@
       "gb",
       "us"
      ],
-     "days": 21,
+     "days": 20,
      "name": "Instagram"
     },
     {
@@ -1209,7 +1215,7 @@
       "br",
       "us"
      ],
-     "days": 16,
+     "days": 15,
      "name": "Facebook"
     },
     {
@@ -1241,7 +1247,6 @@
    "genre_names": [
     "Redes sociais",
     "Social Networking",
-    "Soziale Netze",
     "소셜 네트워킹"
    ],
    "sustained_apps": 8
@@ -1280,7 +1285,7 @@
      "countries": [
       "de"
      ],
-     "days": 19,
+     "days": 20,
      "name": "DB Navigator"
     },
     {
@@ -1300,7 +1305,7 @@
      "name": "캐치테이블"
     },
     {
-     "best_rank": 19,
+     "best_rank": 12,
      "countries": [
       "kr"
      ],
@@ -1334,7 +1339,6 @@
       "br",
       "de",
       "gb",
-      "kr",
       "us"
      ],
      "days": 23,
@@ -1358,7 +1362,7 @@
       "gb",
       "us"
      ],
-     "days": 22,
+     "days": 21,
      "name": "TikTok - Videos, Shop & LIVE"
     },
     {
@@ -1368,7 +1372,7 @@
       "gb",
       "us"
      ],
-     "days": 21,
+     "days": 20,
      "name": "Instagram"
     },
     {
@@ -1386,7 +1390,7 @@
       "gb",
       "us"
      ],
-     "days": 14,
+     "days": 13,
      "name": "YouTube"
     },
     {
@@ -1408,7 +1412,6 @@
    "genre_id": "6008",
    "genre_names": [
     "Foto e vídeo",
-    "Foto und Video",
     "Photo & Video"
    ],
    "sustained_apps": 7
@@ -1477,8 +1480,7 @@
    "genre_id": "6000",
    "genre_names": [
     "Business",
-    "Negócios",
-    "ビジネス"
+    "Negócios"
    ],
    "sustained_apps": 5
   },
@@ -1501,7 +1503,7 @@
      "countries": [
       "de"
      ],
-     "days": 19,
+     "days": 20,
      "name": "DB Navigator"
     },
     {
@@ -1590,15 +1592,6 @@
   {
    "apps": [
     {
-     "best_rank": 18,
-     "countries": [
-      "br",
-      "de"
-     ],
-     "days": 8,
-     "name": "Spotify: músicas e podcasts"
-    },
-    {
      "best_rank": 4,
      "countries": [
       "de",
@@ -1606,6 +1599,15 @@
      ],
      "days": 8,
      "name": "Ticketmaster－Buy, Sell Tickets"
+    },
+    {
+     "best_rank": 18,
+     "countries": [
+      "br",
+      "de"
+     ],
+     "days": 7,
+     "name": "Spotify: músicas e podcasts"
     }
    ],
    "countries": [
@@ -1713,7 +1715,7 @@
   }
  ],
  "note": "sustained = 차트에 오래 머문 것 = 트렌드 후보. one_day_only 비율이 높다는 건 하루짜리 급등은 대부분 노이즈라는 뜻.",
- "one_day_only": 64,
+ "one_day_only": 68,
  "repeated_keywords": {
   "BR": [
    {
@@ -1785,48 +1787,10 @@
   {
    "best_rank": 9,
    "countries": [
-    "de"
-   ],
-   "days": 5,
-   "drift": 14.0,
-   "first_seen": "2026-09-28",
-   "genre_ids": [
-    "6023",
-    "6012"
-   ],
-   "genres": [
-    "Essen und Trinken",
-    "Lifestyle"
-   ],
-   "id": "419724490",
-   "last_seen": "2026-10-12",
-   "name": "Lieferando.de"
-  },
-  {
-   "best_rank": 8,
-   "countries": [
-    "jp"
-   ],
-   "days": 7,
-   "drift": 13.5,
-   "first_seen": "2026-09-22",
-   "genre_ids": [
-    "6016"
-   ],
-   "genres": [
-    "エンターテインメント"
-   ],
-   "id": "1619030760",
-   "last_seen": "2026-10-12",
-   "name": "zeta - AIキャラ・あなたの推しとロールプレイチャット"
-  },
-  {
-   "best_rank": 12,
-   "countries": [
     "jp"
    ],
    "days": 5,
-   "drift": 13.0,
+   "drift": 16.0,
    "first_seen": "2026-09-21",
    "genre_ids": [
     "6023",
@@ -1839,6 +1803,26 @@
    "id": "1456118550",
    "last_seen": "2026-10-12",
    "name": "バーガーキング Burger King"
+  },
+  {
+   "best_rank": 9,
+   "countries": [
+    "de"
+   ],
+   "days": 5,
+   "drift": 13.0,
+   "first_seen": "2026-09-28",
+   "genre_ids": [
+    "6023",
+    "6012"
+   ],
+   "genres": [
+    "Essen und Trinken",
+    "Lifestyle"
+   ],
+   "id": "419724490",
+   "last_seen": "2026-10-12",
+   "name": "Lieferando.de"
   },
   {
    "best_rank": 4,
@@ -1881,6 +1865,26 @@
    "name": "Urna Eletrônica Simulador 2026"
   },
   {
+   "best_rank": 7,
+   "countries": [
+    "jp"
+   ],
+   "days": 8,
+   "drift": 12.5,
+   "first_seen": "2026-09-21",
+   "genre_ids": [
+    "6023",
+    "6012"
+   ],
+   "genres": [
+    "フード／ドリンク",
+    "ライフスタイル"
+   ],
+   "id": "413618155",
+   "last_seen": "2026-10-12",
+   "name": "マクドナルド"
+  },
+  {
    "best_rank": 2,
    "countries": [
     "jp",
@@ -1902,6 +1906,24 @@
    "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간"
   },
   {
+   "best_rank": 9,
+   "countries": [
+    "jp"
+   ],
+   "days": 7,
+   "drift": 12.0,
+   "first_seen": "2026-09-22",
+   "genre_ids": [
+    "6016"
+   ],
+   "genres": [
+    "エンターテインメント"
+   ],
+   "id": "1619030760",
+   "last_seen": "2026-10-12",
+   "name": "zeta - AIキャラ・あなたの推しとロールプレイチャット"
+  },
+  {
    "best_rank": 6,
    "countries": [
     "kr"
@@ -1918,26 +1940,6 @@
    "id": "6503421271",
    "last_seen": "2026-10-12",
    "name": "Vigloo - 숏폼드라마"
-  },
-  {
-   "best_rank": 7,
-   "countries": [
-    "jp"
-   ],
-   "days": 8,
-   "drift": 11.5,
-   "first_seen": "2026-09-21",
-   "genre_ids": [
-    "6023",
-    "6012"
-   ],
-   "genres": [
-    "フード／ドリンク",
-    "ライフスタイル"
-   ],
-   "id": "413618155",
-   "last_seen": "2026-10-12",
-   "name": "マクドナルド"
   },
   {
    "best_rank": 9,
@@ -1960,12 +1962,12 @@
    "name": "캐치테이블"
   },
   {
-   "best_rank": 10,
+   "best_rank": 9,
    "countries": [
     "br"
    ],
    "days": 16,
-   "drift": 9.8,
+   "drift": 10.0,
    "first_seen": "2026-09-21",
    "genre_ids": [
     "6024"
@@ -1976,6 +1978,24 @@
    "id": "878577184",
    "last_seen": "2026-10-12",
    "name": "SHEIN - Compras Online"
+  },
+  {
+   "best_rank": 7,
+   "countries": [
+    "jp"
+   ],
+   "days": 11,
+   "drift": 9.7,
+   "first_seen": "2026-09-21",
+   "genre_ids": [
+    "6023"
+   ],
+   "genres": [
+    "フード／ドリンク"
+   ],
+   "id": "1667214457",
+   "last_seen": "2026-10-12",
+   "name": "コメダ珈琲店"
   },
   {
    "best_rank": 10,
@@ -2018,24 +2038,6 @@
    "name": "BUMP - ショートドラマ / Short Drama"
   },
   {
-   "best_rank": 8,
-   "countries": [
-    "jp"
-   ],
-   "days": 11,
-   "drift": 9.0,
-   "first_seen": "2026-09-21",
-   "genre_ids": [
-    "6023"
-   ],
-   "genres": [
-    "フード／ドリンク"
-   ],
-   "id": "1667214457",
-   "last_seen": "2026-10-12",
-   "name": "コメダ珈琲店"
-  },
-  {
    "best_rank": 5,
    "countries": [
     "de",
@@ -2076,22 +2078,44 @@
    "name": "애슐리 멤버스"
   },
   {
-   "best_rank": 11,
+   "best_rank": 12,
    "countries": [
-    "jp"
+    "kr"
    ],
-   "days": 3,
-   "drift": 7.0,
-   "first_seen": "2026-10-10",
+   "days": 7,
+   "drift": 6.5,
+   "first_seen": "2026-09-21",
    "genre_ids": [
-    "6015"
+    "6003",
+    "6012"
    ],
    "genres": [
-    "ファイナンス"
+    "여행",
+    "라이프스타일"
    ],
-   "id": "1100564842",
+   "id": "681752345",
    "last_seen": "2026-10-12",
-   "name": "AEON Pay-スマホ決済でWAON POINTがたまる"
+   "name": "Trip.com 트립닷컴 - 여행 할인 예약"
+  },
+  {
+   "best_rank": 14,
+   "countries": [
+    "kr"
+   ],
+   "days": 7,
+   "drift": 6.5,
+   "first_seen": "2026-10-05",
+   "genre_ids": [
+    "6024",
+    "6012"
+   ],
+   "genres": [
+    "쇼핑",
+    "라이프스타일"
+   ],
+   "id": "387682726",
+   "last_seen": "2026-10-12",
+   "name": "淘宝-万能的淘宝！"
   },
   {
    "best_rank": 2,
@@ -2099,7 +2123,7 @@
     "kr"
    ],
    "days": 23,
-   "drift": 6.4,
+   "drift": 6.3,
    "first_seen": "2026-09-20",
    "genre_ids": [
     "6024"
@@ -2112,22 +2136,22 @@
    "name": "네이버플러스 스토어"
   },
   {
-   "best_rank": 10,
+   "best_rank": 13,
    "countries": [
     "kr"
    ],
-   "days": 7,
+   "days": 12,
    "drift": 6.0,
-   "first_seen": "2026-09-20",
+   "first_seen": "2026-09-21",
    "genre_ids": [
-    "6016"
+    "6020"
    ],
    "genres": [
-    "엔터테인먼트"
+    "의료"
    ],
-   "id": "6445905219",
+   "id": "6444602589",
    "last_seen": "2026-10-12",
-   "name": "DramaBox - 영화와 숏폼 드라마"
+   "name": "모바일 건강보험증"
   },
   {
    "best_rank": 13,
@@ -2146,26 +2170,6 @@
    "id": "1388411277",
    "last_seen": "2026-10-10",
    "name": "NHS App"
-  },
-  {
-   "best_rank": 12,
-   "countries": [
-    "kr"
-   ],
-   "days": 6,
-   "drift": 5.5,
-   "first_seen": "2026-10-03",
-   "genre_ids": [
-    "6016",
-    "6012"
-   ],
-   "genres": [
-    "엔터테인먼트",
-    "라이프스타일"
-   ],
-   "id": "6744043800",
-   "last_seen": "2026-10-10",
-   "name": "롯데월드 어드벤처"
   }
  ],
  "sustained": [
@@ -2228,7 +2232,7 @@
     "us"
    ],
    "days": 23,
-   "drift": 3.9,
+   "drift": 4.0,
    "first_seen": "2026-09-20",
    "genre_ids": [
     "6007",
@@ -2248,7 +2252,7 @@
     "gb"
    ],
    "days": 23,
-   "drift": 0.0,
+   "drift": -0.1,
    "first_seen": "2026-09-20",
    "genre_ids": [],
    "genres": [],
@@ -2290,7 +2294,7 @@
     "kr"
    ],
    "days": 23,
-   "drift": -2.4,
+   "drift": -2.6,
    "first_seen": "2026-09-20",
    "genre_ids": [],
    "genres": [],
@@ -2358,7 +2362,7 @@
     "us"
    ],
    "days": 23,
-   "drift": -1.9,
+   "drift": -1.6,
    "first_seen": "2026-09-20",
    "genre_ids": [
     "6016"
@@ -2381,7 +2385,7 @@
     "us"
    ],
    "days": 23,
-   "drift": -1.6,
+   "drift": -2.0,
    "first_seen": "2026-09-20",
    "genre_ids": [
     "6007",
@@ -2451,7 +2455,7 @@
     "kr"
    ],
    "days": 23,
-   "drift": 6.4,
+   "drift": 6.3,
    "first_seen": "2026-09-20",
    "genre_ids": [
     "6024"
@@ -2471,7 +2475,7 @@
     "kr"
    ],
    "days": 23,
-   "drift": -7.9,
+   "drift": -7.8,
    "first_seen": "2026-09-20",
    "genre_ids": [
     "6017",
@@ -2534,7 +2538,7 @@
     "kr"
    ],
    "days": 23,
-   "drift": -0.3,
+   "drift": 0.1,
    "first_seen": "2026-09-20",
    "genre_ids": [
     "6007",
@@ -2550,6 +2554,6 @@
   }
  ],
  "sustained_threshold_days": 7,
- "total_apps_seen": 299,
+ "total_apps_seen": 302,
  "window": "2026-09-20 ~ 2026-10-12"
 }

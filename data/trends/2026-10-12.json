@@ -3,13 +3,28 @@
  "trends": {
   "BR": [
    {
-    "news": "Forward Rabun Weekly Leaderboard",
-    "title": "blitz",
+    "news": "Horóscopo do dia 11/10/2026: emoções intensas trarão oportunidades de compreender melhor os sentimentos",
+    "title": "signos",
+    "traffic": "500+"
+   },
+   {
+    "news": "Jason aparece completamente nu em novo vazamento de GTA 6 de Cyberleek",
+    "title": "gameplay lucia gta vi",
+    "traffic": "100+"
+   },
+   {
+    "news": "Hoje, 11 de outubro, é feriado? Veja onde e quem folga nesta quarta-feira",
+    "title": "hoje é feriado",
     "traffic": "200+"
    },
    {
-    "news": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-    "title": "stop",
+    "news": "Paulo Camargo: O McDonald's virou Méqui. E eu tive que explicar isso em Chicago",
+    "title": "mc donalds",
+    "traffic": "500+"
+   },
+   {
+    "news": "European, Chinese automakers launch product blitz at Paris car show in fight for market share By Reuters",
+    "title": "blitz",
     "traffic": "200+"
    },
    {
@@ -18,12 +33,12 @@
     "traffic": "100+"
    },
    {
-    "news": "16 franquias baratas para empreender a partir de R$ 2 mil",
-    "title": "franquias",
-    "traffic": "500+"
+    "news": "(1) Ukraine says Russia violated Trump’s ‘energy ceasefire’ – Europe live",
+    "title": "stop",
+    "traffic": "200+"
    },
    {
-    "news": "Veja o que abre e o que fecha durante o feriado de Nossa Senhora Aparecida em BH",
+    "news": "Confira o funcionamento da PBH no feriado de Nossa Senhora Aparecida",
     "title": "12 de outubro é feriado nacional",
     "traffic": "100+"
    },
@@ -33,284 +48,269 @@
     "traffic": "500+"
    },
    {
-    "news": "Previsão do tempo: São Paulo terá chuva forte e frente fria mantém Centro-Sul em alerta neste domingo, 11",
-    "title": "o tempo",
-    "traffic": "200+"
-   },
-   {
     "news": "Casal é encontrado morto dentro de casa em Ceilândia, no DF",
     "title": "ceilândia",
-    "traffic": "200+"
-   },
-   {
-    "news": "‘Cinemaço’: qual filme vai passar na TV Globo neste domingo (11/10)?",
-    "title": "filme da globo hoje",
-    "traffic": "200+"
-   },
-   {
-    "news": "Biggest LCS questions in 2026 MLB playoffs: Will we see best versions of Jacob Misiorowski, Shohei Ohtani?",
-    "title": "mlb",
     "traffic": "200+"
    }
   ],
   "DE": [
    {
-    "news": "Said El Mala speaks of “relief” after match-winning display in Rhine derby",
-    "title": "said el mala",
+    "news": "One UI 9: Galaxy S21 FE hält nach Akku-Anpassung rund eine Stunde länger",
+    "title": "samsung one ui 9",
+    "traffic": "200+"
+   },
+   {
+    "news": "\"Rosenheim-Cops\": Marisa Burger wäre beinahe nicht Frau Stockl geworden",
+    "title": "sarah thonig",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Die Toten Hosen sagen „Adiós, Amigos“: Gänsehaut-Abschied von Argentinien",
+    "title": "toten hosen konzert argentinien",
     "traffic": "2000+"
    },
    {
-    "news": "Zeitumstellung 2026: Wann wird die Uhr auf Winterzeit umgestellt?",
-    "title": "uhr umstellen",
-    "traffic": "20000+"
+    "news": "Schwerer Unfall bei U-Bahn-Halt Wartenau – Straße stundenlang gesperrt",
+    "title": "wartenau",
+    "traffic": "500+"
    },
    {
-    "news": "WDR 4 – Buchtipp | \"Wer das Vergessen stört\" von Tessa Duncan",
-    "title": "wdr4",
-    "traffic": "100+"
+    "news": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+    "title": "scuderia ferrari",
+    "traffic": "1000+"
    },
    {
-    "news": "Tobey Maguire’s Ex-Wife Jennifer Meyer Marries Billionaire Geoffrey Ogunlesi",
-    "title": "jennifer meyer",
+    "news": "US-Sanktionen gegen Strafgerichtshof: Letzter Warnschuss für mehr digitale Unabhängigkeit",
+    "title": "haager tribunal",
+    "traffic": "1000+"
+   },
+   {
+    "news": "В НАТО убеждены, что Европа должна усилить поддержку Украины для сдерживания Путина – СМИ",
+    "title": "нато",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Abschied aus Amerika: 9/11, Obama, Trump – so radikal haben sich die USA in 30 Jahren verändert",
+    "title": "marc pitzke",
+    "traffic": "500+"
+   },
+   {
+    "news": "",
+    "title": "blick aktuell",
     "traffic": "200+"
    },
    {
-    "news": "Von Kürbisschnitzen bis Lasertag: Was Kinder in den Herbstferien unternehmen können",
-    "title": "herbstferien",
-    "traffic": "100+"
-   },
-   {
-    "news": "So hat Remshalden gewonnen! Die schönsten Bilder vom SWR1-Hitmach-Duell",
-    "title": "swr1",
-    "traffic": "100+"
-   },
-   {
-    "news": "A Spanish-language radio show overflows with voters' frustration in Pennsylvania battleground",
-    "title": "radio",
+    "news": "Von Atomkrieg bis KI: Was die Menschheit auslöschen könnte – Expertise",
+    "title": "atomkrieg",
     "traffic": "200+"
-   },
-   {
-    "news": "Ferienflieger dreht zehn Schleifen über dem Mittelmeer – dann muss der Pilot aufgeben",
-    "title": "tz",
-    "traffic": "100+"
-   },
-   {
-    "news": "\"Es ist für jeden was dabei\": IG-Metall-Sprecherin zu Tarif-Forderungen ihrer Gewerkschaft",
-    "title": "ig metall",
-    "traffic": "100+"
-   },
-   {
-    "news": "Bauarbeiten in der Leistenstraße in Würzburg verschoben: Weshalb sich die lang erwartete Sanierung verzögert",
-    "title": "main-post",
-    "traffic": "100+"
    }
   ],
   "GB": [
    {
-    "news": "Surging UCLA on the move in latest Big Ten football power rankings",
-    "title": "nfl standings",
-    "traffic": "100+"
-   },
-   {
-    "news": "Australia in command after bowlers hunt as a pack to eke out 106-run lead",
-    "title": "test",
-    "traffic": "1000+"
-   },
-   {
-    "news": "Matchbox: the Movie review – as pointless as a film based on a toy car could be",
-    "title": "john cena",
-    "traffic": "100+"
-   },
-   {
-    "news": "Brooklyn Store at the Center of Kelly Clarkson Controversy Promotes Staff’s ‘Kindness’ Amid Scandal",
-    "title": "kelly clarkson",
-    "traffic": "100+"
-   },
-   {
-    "news": "Who is Jaime Taylor? Inside Lamar Jackson’s private love story with his longtime girlfriend away from the",
-    "title": "lamar jackson",
-    "traffic": "100+"
-   },
-   {
-    "news": "Brewers edge Dodgers in NLCS opener as Turang homers and bullpen holds",
-    "title": "brewers vs dodgers",
+    "news": "Opposition grows to removal of planning powers",
+    "title": "council opposition planning powers changes",
     "traffic": "200+"
    },
    {
-    "news": "Can't-Miss Play: Hamilton's INT against Tagovailoa in OT seals Ravens' 30-23 win in Atlanta",
-    "title": "falcons vs ravens",
-    "traffic": "1000+"
-   },
-   {
-    "news": "Postie whistleblower blasts Royal Mail over impossible workload and delivery delays",
-    "title": "delivery",
-    "traffic": "1000+"
-   },
-   {
-    "news": "Teen killed at Houston-area McDonald's was working on his day off, family says",
-    "title": "mcdonald's",
-    "traffic": "1000+"
-   },
-   {
-    "news": "\"I F**ked Up\": Jack Doherty Says He Can’t Post On Social Media Following Shuffle.com Contract",
-    "title": "jack doherty",
+    "news": "Fontaines DC: Dopamine Chamber review – gloomy, gorgeous and a gargantuan triumph",
+    "title": "dopamine chamber",
     "traffic": "100+"
+   },
+   {
+    "news": "Evesham councillor Emma Nishigaki facing 'no confidence' vote",
+    "title": "emma nishigaki",
+    "traffic": "200+"
+   },
+   {
+    "news": "Mahmud takes Test hat-trick - can you name the others in past 40 years?",
+    "title": "bangladesh vs afghanistan",
+    "traffic": "500+"
+   },
+   {
+    "news": "Middlesbrough 1-0 Wolverhampton Wanderers: Will Lankshear goal wins it for Boro",
+    "title": "will lankshear",
+    "traffic": "200+"
+   },
+   {
+    "news": "Bill Gates warns cyberattacks most imminent AI threat",
+    "title": "bill gates",
+    "traffic": "100+"
+   },
+   {
+    "news": "How Britain’s migrant crisis is dividing family homes – and communities",
+    "title": "britain migrant housing community effects",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Downton Abbey Star Joanne Froggatt's Major Style Transformation In Her 40s",
+    "title": "joanne froggatt",
+    "traffic": "500+"
+   },
+   {
+    "news": "Sources: Ape Escape revival in the works from Sonic Mania team",
+    "title": "sony playstation",
+    "traffic": "200+"
+   },
+   {
+    "news": "Meghan Markle Shares Video of Prince Archie and Princess Lilibet Walking Through the English Countryside",
+    "title": "tell me about meghan markle's new video of archie and lilibet in the uk",
+    "traffic": "1000+"
    }
   ],
   "JP": [
    {
-    "news": "",
-    "title": "小泉 今日子",
-    "traffic": "1000+"
-   },
-   {
-    "news": "【１２日の注目・京都８Ｒ】超異例の初陣！世界に誇るダート王の父が兄＆国内外Ｇ１・４勝の姉を持つカドーダムール（馬トク報知）",
-    "title": "カドーダムール",
-    "traffic": "200+"
-   },
-   {
-    "news": "Haas finalise new F1 driver-line up with Esteban Ocon replacement chosen",
-    "title": "ハースf1チーム",
-    "traffic": "200+"
+    "news": "【マイルCS南部杯】予想AIの本命は左回りマイルで実績ピカイチ 絞った三連単＆馬連10点",
+    "title": "地方競馬",
+    "traffic": "2000+"
    },
    {
     "news": "",
-    "title": "パリーグtv",
+    "title": "新型 ipad mini",
     "traffic": "200+"
    },
    {
-    "news": "香港ディズニーランド・ホテルが2026年10月12日より全館一時休館 再開日未発表",
-    "title": "香港ディズニーランド・ホテル",
+    "news": "名探偵津田～感謝祭中に事件発生～",
+    "title": "みなみかわ",
     "traffic": "200+"
    },
    {
-    "news": "小峠英二の試乗最高 10月5日(月)放送分 第15回 ゲスト：土田晃之｜バラエティ｜見逃し無料配信はTVer！人気の動画見放題",
-    "title": "小峠英二",
+    "news": "【ボートレース】優勝戦１枠は白神優 通算17度目Ｖへ持ち前のスタート力を発揮する／戸田（日刊スポーツ）",
+    "title": "戸田競艇",
+    "traffic": "200+"
+   },
+   {
+    "news": "思春期の娘に「避妊してるのか」と…》美奈子の元夫が『ザ・ノンフィクション』スタッフに激昂したワケ、“仕立てられたヒール役”に戸惑う撮影の日々（NEWSポストセブン",
+    "title": "佐々木義人",
+    "traffic": "100+"
+   },
+   {
+    "news": "競馬 - 2026年蹴上特別 オッズ",
+    "title": "jra 結果",
+    "traffic": "200+"
+   },
+   {
+    "news": "ククレジャ、ヴィニシウス退場への抗議が話題に「俺の髪に1本でも触ってきた奴にもレッドを出せ」（サッカーキング）",
+    "title": "ククレジャ",
+    "traffic": "100+"
+   },
+   {
+    "news": "【秋華賞】プレレーティング発表 本年度最高はモンローウォークで114（サンケイスポーツ）",
+    "title": "秋華賞",
     "traffic": "500+"
    },
    {
-    "news": "『仮面ライダーマイス 十二支十色』「六話 ケン様と図書館で」ＴＴＦＣで配信！",
-    "title": "ブログ",
-    "traffic": "200+"
-   },
-   {
-    "news": "プレスリリース：［Amazon感謝祭］全製品を通常価格から10%～35％OFFで販売（PR TIMES）",
-    "title": "iphone air",
+    "news": "秋山成勲、知人の突然の訃報うけ…SNS活動を一時休止へ（Kstyle）",
+    "title": "秋山成勲",
     "traffic": "200+"
    },
    {
     "news": "",
-    "title": "細田佳央太",
-    "traffic": "100+"
-   },
-   {
-    "news": "Leonard Miller goes for game-high 26 points",
-    "title": "レナード・ミラー",
-    "traffic": "100+"
+    "title": "ダイヤ改正",
+    "traffic": "200+"
    }
   ],
   "KR": [
    {
-    "news": "\"갤럭시S27 울트라, 화면 확 바뀐다\"…3가지 변화는",
-    "title": "삼성디스플레이",
-    "traffic": "500+"
-   },
-   {
-    "news": "[더벨]아이티센엔텍, ‘제대군인 고용우수기업’ 인증 획득 - 머니투데이",
-    "title": "군인",
-    "traffic": "500+"
-   },
-   {
-    "news": "배윤규, ‘사랑이 온다’서 방 안 청춘에서 다시 걸어 나온 한규오",
-    "title": "배윤규",
+    "news": "[박스오피스] '치이카와' 접점 끝 연휴 1위…'암살자(들)'은 300만",
+    "title": "박스오피스",
     "traffic": "200+"
    },
    {
-    "news": "오타니는 1할쳐도 성역! 다저스 이름값에 눈 멀었나 → 사장이 한다는 소리가..",
-    "title": "오타니 쇼헤이",
+    "news": "합참 \"북한, 평양서 탄도미사일 수 발 발사…일부 900km 이상 비행\"",
+    "title": "탄도 미사일",
+    "traffic": "100+"
+   },
+   {
+    "news": "후퇴하는 정부군에 무차별 총격…후티 ‘교전 영상’ 공개 [지금뉴스]",
+    "title": "afc 아시안컵",
     "traffic": "1000+"
    },
    {
-    "news": "\"서울역 광장 음주금지\"…내년 3월부터 적발시 과태료 5만원",
-    "title": "과태료",
+    "news": "제주 길거리서 여성 흉기 살해 60대 남성 긴급체포",
+    "title": "체포",
     "traffic": "200+"
    },
    {
-    "news": "[단독]전북은행, 국내 은행권 최초 비트코인 연계 대출",
-    "title": "전북은행",
-    "traffic": "100+"
+    "news": "수도권서 백주대낮 北 인민군 추모제 … 6·25 남침을 '자주권 수호'로",
+    "title": "조선 인민군",
+    "traffic": "5000+"
    },
    {
-    "news": "Dodgers fall 1-2 to Brewers, face World Series three-peat threat - CHOSUNBIZ",
-    "title": "dodgers vs brewers",
-    "traffic": "100+"
+    "news": "(K-원전의 그늘)①(단독)루마니아서 '한전기술 팀장' 사망…내부 문건엔 \"구조적 문제\"",
+    "title": "한국전력기술",
+    "traffic": "500+"
    },
    {
-    "news": "손흥민 결정적 기회 놓쳤다…LAFC, 10명 뛴 밴쿠버와 1-1 무승부",
-    "title": "축구 감독",
-    "traffic": "2000+"
-   },
-   {
-    "news": "‘어벤져스: 둠스데이’ 12월 16일 개봉…닥터 둠과 어벤져스 대결",
-    "title": "둠스데이",
+    "news": "‘개세모2’ 뜬다, 2년만에…신기루X백진경X유병권 출격",
+    "title": "송은이",
     "traffic": "200+"
    },
    {
-    "news": "제주항공, 올해 탑승객 1천만명 돌파…역대 최단기간",
-    "title": "제주항공",
+    "news": "XRP 초과 발행 허용할 뻔한 XRPL 버그 수정...악용 흔적은 없어",
+    "title": "리플",
+    "traffic": "1000+"
+   },
+   {
+    "news": "글램스터담이 뭐길래? 이더리움 베이스 레이어를 뒤흔드는 ‘18가지 역주행 베팅’",
+    "title": "이더 리움",
+    "traffic": "200+"
+   },
+   {
+    "news": "원지, 촬영 중 \"기분 너무 안 좋다..뒤집어엎어요? 엎어봐요?\" ('지구마불4') - 조선비즈",
+    "title": "지구마불 세계여행",
     "traffic": "200+"
    }
   ],
   "US": [
    {
-    "news": "Sports News, Transfers, Scores | Watch Live Sport",
-    "title": "pablo carreno busta",
-    "traffic": "200+"
-   },
-   {
-    "news": "Bryan Cranston Reacts to Breaking Bad Being Named the No. 1 Television Show of the 21st Century (Exclusive)",
-    "title": "bryan cranston",
-    "traffic": "200+"
-   },
-   {
-    "news": "Tien vs. Ruud Prediction at the Rolex Shanghai Masters – Monday, October 12",
-    "title": "learner tien",
-    "traffic": "1000+"
+    "news": "2 arrested in burglary of pro baseball player's storage unit",
+    "title": "daniel johnson storage unit burglary",
+    "traffic": "100+"
    },
    {
     "news": "“Just Crazy Behavior” – Fans Stunned By Alexander Bublik’s Intense Outburst During Tough Shanghai Masters 3R Win",
-    "title": "felix auger aliassime",
-    "traffic": "1000+"
-   },
-   {
-    "news": "Nicolas Cage says he won’t work with Amazon again over AI dispute",
-    "title": "nicolas cage",
-    "traffic": "200+"
-   },
-   {
-    "news": "Monday, October 12 Schedule at the ATP Shanghai 2026: Spanish Tennis Celebration",
-    "title": "casper ruud",
+    "title": "jasmine paolini",
     "traffic": "500+"
    },
    {
-    "news": "Best of Wuhan media day: Top quotes and Kostyuk, Eala's adventures",
-    "title": "leylah fernandez",
+    "news": "The India players pose with their gold medals",
+    "title": "bangladesh vs afghanistan",
+    "traffic": "200+"
+   },
+   {
+    "news": "Shane Gillis Bombs ‘SNL’ Monologue (Again): ‘You’re Either Gay or You’re Hitler’",
+    "title": "snl last night",
+    "traffic": "1000+"
+   },
+   {
+    "news": "(1) Ukraine says Russia violated Trump’s ‘energy ceasefire’ – Europe live",
+    "title": "ukraine",
     "traffic": "2000+"
    },
    {
-    "news": "22-year-old passenger killed in 1604 crash, driver found intoxicated, San Antonio police say",
-    "title": "san antonio",
-    "traffic": "500+"
+    "news": "Sports News, Transfers, Scores | Watch Live Sport",
+    "title": "dalibor svrcina",
+    "traffic": "200+"
    },
    {
-    "news": "Buccaneers Can Get Back in Division Race Over Next 3 Weeks",
-    "title": "nfc south",
+    "news": "Hot Shot: 'Oh yes!' Fritz leaves Tsitsipas helpless in Shanghai 2026",
+    "title": "taylor fritz",
     "traffic": "1000+"
    },
    {
-    "news": "Anhelina Kalinina vs. Sonay Kartal prediction, odds, picks for WTA Wuhan Open 2026",
-    "title": "sonay kartal",
+    "news": "Lehecka vs. Borges Prediction at the Rolex Shanghai Masters – Saturday, October 10",
+    "title": "jiri lehecka",
+    "traffic": "1000+"
+   },
+   {
+    "news": "3 dead after shooting in home on Strawberry Circle in unincorporated Marin County",
+    "title": "kevin mannix sfpd",
     "traffic": "200+"
+   },
+   {
+    "news": "Doctor Doom & The Thing Bring a Must-Have Surprise for Avengers: Doomsday Fans",
+    "title": "robert downey jr",
+    "traffic": "100+"
    }
   ]
  }
