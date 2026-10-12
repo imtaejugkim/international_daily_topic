@@ -46,7 +46,8 @@ def build_embeds(brief, date):
     if now:
         blocks = []
         for t in now[:6]:
-            head = "%s **%s**" % (flag(t.get("country")), t.get("trend", "?"))
+            codes = t.get("countries") or ([t["country"]] if t.get("country") else [])
+            head = "%s **%s**" % (" ".join(flag(c) for c in codes), t.get("trend", "?"))
             if t.get("duration"):
                 head += "  `%s`" % t["duration"]
             blocks.append("\n".join(filter(None, [
