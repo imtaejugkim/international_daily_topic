@@ -22,8 +22,9 @@ jobs:
     env:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
-      # '0' once the brief reads well - the raw data is kept in data/ either way.
-      SEND_RAW: '1'
+      # The raw keyword and chart dumps are lists, not findings - the brief
+      # replaces them. Data is kept in data/ regardless; set '1' to see them.
+      SEND_RAW: '0'
       # A step `if` cannot read `secrets`, but it can read `env`.
       HAS_CLAUDE_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
     steps:
@@ -43,6 +44,12 @@ jobs:
       - name: App Store charts, reviews and signals
         run: python3 app_charts.py
 
+      # Turns the accumulated snapshots into persistence signals - what held
+      # for weeks versus what spiked for a day. This is what tells a trend
+      # from noise, so it must run before the brief.
+      - name: Trend lines from accumulated history
+        run: python3 trendlines.py
+
       # --- read ------------------------------------------------------------
       # Runs on the Claude subscription via CLAUDE_CODE_OAUTH_TOKEN, so this
       # costs no API credit. The skill reads data/ and writes brief.json.
@@ -58,8 +65,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           prompt: '/daily-brief'
           claude_args: |
-            --allowedTools "Read,Write,Glob,Grep,Bash"
-            --max-turns 40
+            --allowedTools "Read,Write,Glob,Grep,Bash,WebSearch,WebFetch"
+            --max-turns 60
 
       - name: Send the brief
         if: ${{ !inputs.dry_run }}
