@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-20",
+ "trends": {
+  "BR": [
+   {
+    "news": "Endometriose. Portugueses tentam acelerar diagnóstico",
+    "title": "endometriose",
+    "traffic": "100+"
+   },
+   {
+    "news": "MPSC destaca a necessidade do combate ao Cyberbullying no Dia Mundial de Combate ao Bullying",
+    "title": "bullying",
+    "traffic": "100+"
+   },
+   {
+    "news": "Hunter Schafer Reveals She Underwent Bottom Surgery Last Year",
+    "title": "hunter schafer",
+    "traffic": "100+"
+   },
+   {
+    "news": "Vazamento expõe dados de contas da Ticketmaster no Brasil",
+    "title": "ticketmaster brasil",
+    "traffic": "100+"
+   },
+   {
+    "news": "Cyberpunk: Edgerunners 2 Delivers the Gory, Action-Packed Goods",
+    "title": "cyberpunk edgerunners 2",
+    "traffic": "100+"
+   },
+   {
+    "news": "Eleições repetem 1992: de um lado, juventude nas ruas, do outro, a velha política",
+    "title": "fernando collor",
+    "traffic": "100+"
+   },
+   {
+    "news": "Exército Brasileiro e Exército Argentino mobilizam 2,8 mil militares e mais de 600 viaturas no Exercício Combinado Arandu 2026",
+    "title": "exército brasileiro",
+    "traffic": "500+"
+   },
+   {
+    "news": "Eterno! Charles Do Bronx cita Puro Osso como inspiração para brilhar no UFC:\"Por ele\"",
+    "title": "charles do bronx",
+    "traffic": "500+"
+   },
+   {
+    "news": "Ticketmaster Goes All-In on AI, Names Ex-Amazon Exec as Chief Technology Officer",
+    "title": "ticket master",
+    "traffic": "200+"
+   },
+   {
+    "news": "Saint Levant | São Paulo | 24/01/2027 | Venda Geral",
+    "title": "ticketmaster",
+    "traffic": "10000+"
+   }
+  ],
+  "DE": [
+   {
+    "news": "Ticketinfos - Hajduk Split",
+    "title": "luka vuskovic",
+    "traffic": "100+"
+   },
+   {
+    "news": "PS5-Exklusivtitel am PC: Sony mauert, KI portiert die Konsole",
+    "title": "playstation 5",
+    "traffic": "200+"
+   },
+   {
+    "news": "Maple Leafs call up Vinni Lettieri, Artur Akhtyamov from AHL",
+    "title": "nhl",
+    "traffic": "100+"
+   },
+   {
+    "news": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
+    "title": "tsunami",
+    "traffic": "20000+"
+   },
+   {
+    "news": "Baden-Württemberg: Geldautomat bei Schaffhausen gesprengt - Haus gerät in Brand",
+    "title": "schaffhausen",
+    "traffic": "200+"
+   },
+   {
+    "news": "",
+    "title": "bz",
+    "traffic": "100+"
+   },
+   {
+    "news": "Schüsse auf Autovermietung in Kirchlengern",
+    "title": "schüsse",
+    "traffic": "200+"
+   },
+   {
+    "news": "Viele wollen per Abfindung weg von BMW: \"Natürlich ein Schock\"",
+    "title": "bmw abfindungen",
+    "traffic": "2000+"
+   },
+   {
+    "news": "LIVE: Guardians-Rays ALCS Game 6 on TBS/HBO Max",
+    "title": "mlb",
+    "traffic": "100+"
+   },
+   {
+    "news": "NFL Ergebnisse: Super-Bowl-Favorit blamiert! Underdog plötzlich oben",
+    "title": "nfl ergebnisse",
+    "traffic": "500+"
+   }
+  ],
+  "GB": [
+   {
+    "news": "CNN anchor Christiane Amanpour to leave network after 43 years",
+    "title": "cnn",
+    "traffic": "200+"
+   },
+   {
+    "news": "UK weather: First named storm of season looms as Met Office issues yellow warning",
+    "title": "weather warnings uk",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Rescue efforts ongoing after floods and rain in southeastern Spain",
+    "title": "storm adam spain",
+    "traffic": "200+"
+   },
+   {
+    "news": "Philadelphia Flyers Recall Three Players",
+    "title": "nhl",
+    "traffic": "100+"
+   },
+   {
+    "news": "Angel Reese’s superb 30-point double-double helps Dream even WNBA finals",
+    "title": "wnba",
+    "traffic": "500+"
+   },
+   {
+    "news": "Kyle Juszczyk Available, Deebo Ruled OUT vs. Commanders in Week 6 #WASvsSF",
+    "title": "mike evans",
+    "traffic": "200+"
+   },
+   {
+    "news": "'It gives me the ick': Can you cheat on someone with a video game?",
+    "title": "gta vi",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Jayden Daniels' attempt at game-tying TD pass is broken up by Mustapha on fourth down",
+    "title": "49ers",
+    "traffic": "500+"
+   },
+   {
+    "news": "NFL today: How to watch Commanders v 49ers, TV channels & live stream Monday 19 October",
+    "title": "49ers vs commanders",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Escalação: Corinthians sofre com desfalques, e auxiliar mira mudanças",
+    "title": "corinthians",
+    "traffic": "200+"
+   }
+  ],
+  "JP": [
+   {
+    "news": "『スター・ウォーズ』新作映画が企画停止",
+    "title": "スター・ウォーズ",
+    "traffic": "200+"
+   },
+   {
+    "news": "",
+    "title": "仙台北部道路",
+    "traffic": "100+"
+   },
+   {
+    "news": "Hegseth makes unannounced trip and other Mideast news",
+    "title": "バングラデシュ",
+    "traffic": "100+"
+   },
+   {
+    "news": "【台風情報】大型で非常に強い台風30号（チャンパー） 最大瞬間風速75m/s“猛烈”な勢力へ 日本への影響は? 予想進路・雨と風のシミュレーションを見る（気象庁）（ｔｙｓテレビ山口）",
+    "title": "台風",
+    "traffic": "100000+"
+   },
+   {
+    "news": "「うそだろ」「残酷だ」W杯で衝撃の“17－０”！まさかの結果に世界仰天！「容赦ないな」「何が起きたんだ」",
+    "title": "女子ワールドカップ",
+    "traffic": "200+"
+   },
+   {
+    "news": "「百条委員会」採決めぐり紛糾も…可決された背景 「賛成」74人、「退席」2人、「反対」9人 「自民党県議団の若手の方々が重い決断をされた」 福岡県議会（TNCテレビ西日本）",
+    "title": "百 条 委員 会",
+    "traffic": "200+"
+   },
+   {
+    "news": "挑戦の赤！REDが切り開くモンキーターンの新境地！「スマスロモンキーターンRED」",
+    "title": "モンキーターン",
+    "traffic": "100+"
+   },
+   {
+    "news": "東大学長選 文科省異例の検証要求",
+    "title": "藤垣裕子",
+    "traffic": "200+"
+   },
+   {
+    "news": "「加熱式なら安心」のはずが──IQOSが肺の細胞に及ぼす影響、最新研究でわかったこと（石田雅彦） - エキスパート",
+    "title": "たばこ",
+    "traffic": "500+"
+   },
+   {
+    "news": "「すぐ使うべきだ」「試合を支配し、ほぼミスをしない」なぜ先発起用しないのか。プレミア移籍の日本人MFに現地ファンからスタメン待望論「彼に才能があるのは誰もが知っている」（SOCCER DIGEST Web）",
+    "title": "守田英正",
+    "traffic": "100+"
+   }
+  ],
+  "KR": [
+   {
+    "news": "\"휘발유 또 오르나\"...유조선 운임 10배 폭등, 정유업계 비상",
+    "title": "휘발유",
+    "traffic": "500+"
+   },
+   {
+    "news": "'로봇 3만대 시대 준비'⋯현대차그룹, 로봇 사업 체계 구체화",
+    "title": "보스턴다이내믹스",
+    "traffic": "200+"
+   },
+   {
+    "news": "PC, 메모리 대란 한숨 돌렸다…내년 'AI B2B' 승부수",
+    "title": "kb증권",
+    "traffic": "100+"
+   },
+   {
+    "news": "23명 숨진 '아리셀 참사' 박순관 대표 징역 4년 확정",
+    "title": "아리셀",
+    "traffic": "500+"
+   },
+   {
+    "news": "신한금융, 롯데손보 관리 가능? 돈도 사람도 시간도 없다",
+    "title": "롯데손해보험",
+    "traffic": "100+"
+   },
+   {
+    "news": "김시우·김주형, 우즈 복귀전 함께 뛸까?",
+    "title": "김시우",
+    "traffic": "200+"
+   },
+   {
+    "news": "‘케데헌’ 이재, 외조부 신영균 옛 자택 부지서 깜짝 결혼",
+    "title": "이재",
+    "traffic": "1000+"
+   },
+   {
+    "news": "현대로템, 3분기 영업익 11% 감소…현대위아 방산 인수로 돌파구",
+    "title": "현대로템",
+    "traffic": "200+"
+   },
+   {
+    "news": "‘나솔’ 34기 영숙 “조카만 16명” 8자매 막내 고백…8남매 영수도 ‘깜짝’",
+    "title": "나솔",
+    "traffic": "1000+"
+   },
+   {
+    "news": "에릭 슈밋, AI 앤스로픽 초기 투자로 27조원 잭팟",
+    "title": "에릭 슈밋",
+    "traffic": "200+"
+   }
+  ],
+  "US": [
+   {
+    "news": "Trump Aides Are Getting Ready to Penalize Defaulting Student Loan Borrowers",
+    "title": "student loans",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Pope Leo XIV, Chris Pratt come together for new documentary about the tomb of St. Peter",
+    "title": "chris pratt",
+    "traffic": "500+"
+   },
+   {
+    "news": "Detroit Pistons Star Cade Cunningham Makes Rare Comment About 7-Year-Old Daughter Riley",
+    "title": "cade cunningham",
+    "traffic": "200+"
+   },
+   {
+    "news": "Trade Candidate: Ketel Marte",
+    "title": "ketel marte trade rumors diamondbacks",
+    "traffic": "200+"
+   },
+   {
+    "news": "Auburn LB Xavier Atkins' status still unsettled entering LSU game",
+    "title": "xavier atkins",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Vikings will be active ahead of the NFL trade deadline. What moves are realistic?",
+    "title": "vikings standings",
+    "traffic": "2000+"
+   },
+   {
+    "news": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+    "title": "chiefs standings",
+    "traffic": "10000+"
+   },
+   {
+    "news": "2026 NFL Power Rankings: How all 32 teams stack up for Week 6",
+    "title": "nfl rankings",
+    "traffic": "200+"
+   },
+   {
+    "news": "Tennis star Alexander Bublik destroys racket before smashing drinks container in latest on-court outburst",
+    "title": "ann li",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Ann Li vs Emerson Jones Prediction & Picks - Japan Women's Open",
+    "title": "emerson jones",
+    "traffic": "200+"
+   }
+  ]
+ }
+}
