@@ -1,0 +1,2591 @@
+{
+ "breaking_in": [
+  {
+   "best_rank": 1,
+   "countries": [
+    "jp"
+   ],
+   "days": 3,
+   "drift": -10.0,
+   "first_seen": "2026-10-07",
+   "genre_ids": [
+    "6002"
+   ],
+   "genres": [
+    "ユーティリティ"
+   ],
+   "id": "6754866780",
+   "last_seen": "2026-10-21",
+   "name": "Linkex - 写真・動画バックアップ"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "kr"
+   ],
+   "days": 2,
+   "drift": -8.0,
+   "first_seen": "2026-10-21",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6753073065",
+   "last_seen": "2026-10-22",
+   "name": "크레페"
+  },
+  {
+   "best_rank": 2,
+   "countries": [
+    "jp"
+   ],
+   "days": 4,
+   "drift": 20.0,
+   "first_seen": "2026-10-21",
+   "genre_ids": [
+    "6024",
+    "6012"
+   ],
+   "genres": [
+    "ショッピング",
+    "ライフスタイル"
+   ],
+   "id": "631993791",
+   "last_seen": "2026-10-24",
+   "name": "MUJI アプリ - 無印良品"
+  },
+  {
+   "best_rank": 3,
+   "countries": [
+    "gb"
+   ],
+   "days": 3,
+   "drift": -7.0,
+   "first_seen": "2026-10-21",
+   "genre_ids": [
+    "6023"
+   ],
+   "genres": [
+    "Food & Drink"
+   ],
+   "id": "1605889173",
+   "last_seen": "2026-10-23",
+   "name": "Knoops"
+  },
+  {
+   "best_rank": 5,
+   "countries": [
+    "br",
+    "kr"
+   ],
+   "days": 4,
+   "drift": 19.0,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6016"
+   ],
+   "genres": [
+    "Entreteni­mento"
+   ],
+   "id": "1446075923",
+   "last_seen": "2026-10-24",
+   "name": "Disney+"
+  },
+  {
+   "best_rank": 5,
+   "countries": [
+    "kr"
+   ],
+   "days": 3,
+   "drift": 6.0,
+   "first_seen": "2026-09-27",
+   "genre_ids": [
+    "6008",
+    "6012"
+   ],
+   "genres": [
+    "사진 및 비디오",
+    "라이프스타일"
+   ],
+   "id": "6739505769",
+   "last_seen": "2026-10-23",
+   "name": "Shardee 샤디 | mini vlog camera"
+  },
+  {
+   "best_rank": 6,
+   "countries": [
+    "us"
+   ],
+   "days": 2,
+   "drift": 0.0,
+   "first_seen": "2026-10-23",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6462904878",
+   "last_seen": "2026-10-24",
+   "name": "BigFuture School"
+  },
+  {
+   "best_rank": 7,
+   "countries": [
+    "kr"
+   ],
+   "days": 2,
+   "drift": 6.0,
+   "first_seen": "2026-10-23",
+   "genre_ids": [
+    "6024",
+    "6012"
+   ],
+   "genres": [
+    "쇼핑",
+    "라이프스타일"
+   ],
+   "id": "6450069980",
+   "last_seen": "2026-10-24",
+   "name": "TOPTEN10"
+  },
+  {
+   "best_rank": 8,
+   "countries": [
+    "br"
+   ],
+   "days": 4,
+   "drift": -15.0,
+   "first_seen": "2026-10-21",
+   "genre_ids": [
+    "6002"
+   ],
+   "genres": [
+    "Utilidades"
+   ],
+   "id": "1558883724",
+   "last_seen": "2026-10-24",
+   "name": "Receita Federal"
+  },
+  {
+   "best_rank": 8,
+   "countries": [
+    "jp"
+   ],
+   "days": 1,
+   "drift": 0.0,
+   "first_seen": "2026-10-22",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6816302336",
+   "last_seen": "2026-10-22",
+   "name": "UMAWALK-歩いて競走馬を育てる-"
+  }
+ ],
+ "date": "2026-10-24",
+ "days_of_history": 30,
+ "fading": [
+  {
+   "best_rank": 3,
+   "countries": [
+    "kr"
+   ],
+   "days": 3,
+   "drift": -21.0,
+   "first_seen": "2026-10-12",
+   "genre_ids": [
+    "6002",
+    "6017"
+   ],
+   "genres": [
+    "유틸리티",
+    "교육"
+   ],
+   "id": "6762074672",
+   "last_seen": "2026-10-14",
+   "name": "킹보드 - 맞춤법 검사기·번역 AI 키보드"
+  },
+  {
+   "best_rank": 3,
+   "countries": [
+    "kr"
+   ],
+   "days": 5,
+   "drift": -21.0,
+   "first_seen": "2026-10-14",
+   "genre_ids": [
+    "6023",
+    "6012"
+   ],
+   "genres": [
+    "음식 및 음료",
+    "라이프스타일"
+   ],
+   "id": "6798938676",
+   "last_seen": "2026-10-18",
+   "name": "후라이드참잘하는집"
+  },
+  {
+   "best_rank": 7,
+   "countries": [
+    "de",
+    "us"
+   ],
+   "days": 4,
+   "drift": -18.0,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6008",
+    "6027"
+   ],
+   "genres": [
+    "Foto und Video",
+    "Grafik und Design"
+   ],
+   "id": "6745820631",
+   "last_seen": "2026-10-09",
+   "name": "Shots: KI Foto & Video Maker"
+  },
+  {
+   "best_rank": 5,
+   "countries": [
+    "kr"
+   ],
+   "days": 3,
+   "drift": -17.0,
+   "first_seen": "2026-09-26",
+   "genre_ids": [
+    "6005",
+    "6014"
+   ],
+   "genres": [
+    "소셜 네트워킹",
+    "게임"
+   ],
+   "id": "985746746",
+   "last_seen": "2026-09-28",
+   "name": "Discord - 대화, 플레이, 어울리기"
+  },
+  {
+   "best_rank": 9,
+   "countries": [
+    "jp"
+   ],
+   "days": 3,
+   "drift": -16.0,
+   "first_seen": "2026-10-21",
+   "genre_ids": [
+    "6015",
+    "6003"
+   ],
+   "genres": [
+    "ファイナンス",
+    "旅行"
+   ],
+   "id": "1156875272",
+   "last_seen": "2026-10-23",
+   "name": "Suica"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "us"
+   ],
+   "days": 13,
+   "drift": -15.7,
+   "first_seen": "2026-09-30",
+   "genre_ids": [
+    "6002",
+    "6016"
+   ],
+   "genres": [
+    "Utilidades",
+    "Entreteni­mento"
+   ],
+   "id": "1630403500",
+   "last_seen": "2026-10-13",
+   "name": "APTV"
+  },
+  {
+   "best_rank": 3,
+   "countries": [
+    "kr"
+   ],
+   "days": 3,
+   "drift": -15.0,
+   "first_seen": "2026-09-29",
+   "genre_ids": [
+    "6012",
+    "6006"
+   ],
+   "genres": [
+    "라이프스타일",
+    "참고"
+   ],
+   "id": "6448703854",
+   "last_seen": "2026-10-01",
+   "name": "집지켜: 행복주택을 가장 쉽게"
+  },
+  {
+   "best_rank": 8,
+   "countries": [
+    "kr"
+   ],
+   "days": 3,
+   "drift": -15.0,
+   "first_seen": "2026-10-06",
+   "genre_ids": [
+    "6016",
+    "6008"
+   ],
+   "genres": [
+    "엔터테인먼트",
+    "사진 및 비디오"
+   ],
+   "id": "987782077",
+   "last_seen": "2026-10-08",
+   "name": "Wavve (웨이브)"
+  },
+  {
+   "best_rank": 9,
+   "countries": [
+    "kr"
+   ],
+   "days": 4,
+   "drift": -15.0,
+   "first_seen": "2026-10-08",
+   "genre_ids": [
+    "6024",
+    "6012"
+   ],
+   "genres": [
+    "쇼핑",
+    "라이프스타일"
+   ],
+   "id": "1071031131",
+   "last_seen": "2026-10-11",
+   "name": "오렌즈"
+  },
+  {
+   "best_rank": 8,
+   "countries": [
+    "br"
+   ],
+   "days": 4,
+   "drift": -15.0,
+   "first_seen": "2026-10-21",
+   "genre_ids": [
+    "6002"
+   ],
+   "genres": [
+    "Utilidades"
+   ],
+   "id": "1558883724",
+   "last_seen": "2026-10-24",
+   "name": "Receita Federal"
+  }
+ ],
+ "genre_activity": [
+  {
+   "apps": [
+    {
+     "best_rank": 2,
+     "countries": [
+      "de",
+      "gb",
+      "us"
+     ],
+     "days": 30,
+     "name": "Vinted: Pre-loved marketplace"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "us"
+     ],
+     "days": 30,
+     "name": "Uber: Rides, eats, and more"
+    },
+    {
+     "best_rank": 3,
+     "countries": [
+      "gb"
+     ],
+     "days": 30,
+     "name": "InPost UK"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "gb"
+     ],
+     "days": 30,
+     "name": "Whatnot: Shop, Sell, Connect"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "kr"
+     ],
+     "days": 30,
+     "name": "하나은행, 새로워진 하나원큐를 경험해 보세요"
+    },
+    {
+     "best_rank": 3,
+     "countries": [
+      "br"
+     ],
+     "days": 29,
+     "name": "Mercado Livre: Compras e 11.11"
+    },
+    {
+     "best_rank": 7,
+     "countries": [
+      "de",
+      "gb"
+     ],
+     "days": 29,
+     "name": "Lidl Plus"
+    },
+    {
+     "best_rank": 3,
+     "countries": [
+      "kr"
+     ],
+     "days": 28,
+     "name": "NOL : 야놀자와 인터파크의 새로운 이름"
+    },
+    {
+     "best_rank": 7,
+     "countries": [
+      "us"
+     ],
+     "days": 28,
+     "name": "Depop - Buy & Sell Clothes"
+    },
+    {
+     "best_rank": 6,
+     "countries": [
+      "jp"
+     ],
+     "days": 25,
+     "name": "U-NEXT - 映画やドラマ、アニメなどの動画が見放題"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6012",
+   "genre_names": [
+    "Estilo de vida",
+    "Lifestyle",
+    "ライフスタイル",
+    "라이프스타일"
+   ],
+   "sustained_apps": 35
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "us"
+     ],
+     "days": 30,
+     "name": "PineDrama - Short Dramas"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "jp",
+      "kr"
+     ],
+     "days": 30,
+     "name": "NetShort - 인기 드라마 및 TV 프로그램"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "Threads"
+    },
+    {
+     "best_rank": 4,
+     "countries": [
+      "us"
+     ],
+     "days": 30,
+     "name": "TikTok Pro - Events"
+    },
+    {
+     "best_rank": 7,
+     "countries": [
+      "br",
+      "gb",
+      "us"
+     ],
+     "days": 26,
+     "name": "TikTok - Videos, Shop & LIVE"
+    },
+    {
+     "best_rank": 6,
+     "countries": [
+      "jp"
+     ],
+     "days": 25,
+     "name": "U-NEXT - 映画やドラマ、アニメなどの動画が見放題"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 24,
+     "name": "StoryReel: Dramas Curtos e TV"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 22,
+     "name": "DramaWave - Dramas & Reels"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "de",
+      "gb",
+      "us"
+     ],
+     "days": 21,
+     "name": "PLAYFUL REWARDS: Earn Rewards"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "jp",
+      "kr"
+     ],
+     "days": 19,
+     "name": "ReelShort - 드라마 & TV 실시간"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6016",
+   "genre_names": [
+    "Entertainment",
+    "Entreteni­mento",
+    "Unterhaltung",
+    "エンターテインメント",
+    "엔터테인먼트"
+   ],
+   "sustained_apps": 30
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 5,
+     "countries": [
+      "br",
+      "gb",
+      "us"
+     ],
+     "days": 30,
+     "name": "Temu: Compre como bilionário"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "de",
+      "gb",
+      "us"
+     ],
+     "days": 30,
+     "name": "Vinted: Pre-loved marketplace"
+    },
+    {
+     "best_rank": 3,
+     "countries": [
+      "gb"
+     ],
+     "days": 30,
+     "name": "InPost UK"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "gb"
+     ],
+     "days": 30,
+     "name": "Whatnot: Shop, Sell, Connect"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "gb"
+     ],
+     "days": 30,
+     "name": "Tesco Grocery & Clubcard"
+    },
+    {
+     "best_rank": 3,
+     "countries": [
+      "br"
+     ],
+     "days": 29,
+     "name": "Mercado Livre: Compras e 11.11"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "br"
+     ],
+     "days": 29,
+     "name": "Shopee: Compre de Tudo Online"
+    },
+    {
+     "best_rank": 7,
+     "countries": [
+      "de",
+      "gb"
+     ],
+     "days": 29,
+     "name": "Lidl Plus"
+    },
+    {
+     "best_rank": 7,
+     "countries": [
+      "us"
+     ],
+     "days": 28,
+     "name": "Depop - Buy & Sell Clothes"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "de",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 27,
+     "name": "Shop：追跡・購入・発見"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6024",
+   "genre_names": [
+    "Compras",
+    "Shopping",
+    "ショッピング",
+    "쇼핑"
+   ],
+   "sustained_apps": 23
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "ChatGPT"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "Google Gemini"
+    },
+    {
+     "best_rank": 10,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 30,
+     "name": "Google"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "jp"
+     ],
+     "days": 30,
+     "name": "マイナアプリ（旧マイナポータルアプリ）"
+    },
+    {
+     "best_rank": 6,
+     "countries": [
+      "de"
+     ],
+     "days": 28,
+     "name": "AusweisApp Bund"
+    },
+    {
+     "best_rank": 13,
+     "countries": [
+      "gb",
+      "us"
+     ],
+     "days": 28,
+     "name": "WhatsApp Messenger"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "de",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 27,
+     "name": "Shop：追跡・購入・発見"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "br"
+     ],
+     "days": 24,
+     "name": "e-Título"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "jp",
+      "kr"
+     ],
+     "days": 24,
+     "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간"
+    },
+    {
+     "best_rank": 4,
+     "countries": [
+      "br"
+     ],
+     "days": 23,
+     "name": "gov.br"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6002",
+   "genre_names": [
+    "Dienst­programme",
+    "Utilidades",
+    "Utilities",
+    "ユーティリティ",
+    "유틸리티"
+   ],
+   "sustained_apps": 22
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 1,
+     "countries": [
+      "kr"
+     ],
+     "days": 30,
+     "name": "하나은행, 새로워진 하나원큐를 경험해 보세요"
+    },
+    {
+     "best_rank": 4,
+     "countries": [
+      "us"
+     ],
+     "days": 30,
+     "name": "Kalshi: Trade Football & more"
+    },
+    {
+     "best_rank": 9,
+     "countries": [
+      "br"
+     ],
+     "days": 26,
+     "name": "Mercado Pago: banco digital"
+    },
+    {
+     "best_rank": 3,
+     "countries": [
+      "de"
+     ],
+     "days": 25,
+     "name": "Nect Wallet"
+    },
+    {
+     "best_rank": 12,
+     "countries": [
+      "gb"
+     ],
+     "days": 25,
+     "name": "Monzo Bank - Mobile Banking"
+    },
+    {
+     "best_rank": 13,
+     "countries": [
+      "gb"
+     ],
+     "days": 20,
+     "name": "HMRC"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "br"
+     ],
+     "days": 19,
+     "name": "InfinitePay Tap, Conta, Cartão"
+    },
+    {
+     "best_rank": 16,
+     "countries": [
+      "br"
+     ],
+     "days": 18,
+     "name": "Nubank: Conta, Cartão e mais"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "kr"
+     ],
+     "days": 17,
+     "name": "실손24"
+    },
+    {
+     "best_rank": 16,
+     "countries": [
+      "de"
+     ],
+     "days": 16,
+     "name": "S-pushTAN"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6015",
+   "genre_names": [
+    "Finance",
+    "Finanzen",
+    "Finanças",
+    "ファイナンス",
+    "금융"
+   ],
+   "sustained_apps": 22
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "ChatGPT"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "Google Gemini"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "Claude by Anthropic"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "de"
+     ],
+     "days": 29,
+     "name": "Post & DHL"
+    },
+    {
+     "best_rank": 14,
+     "countries": [
+      "br",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 27,
+     "name": "Gmail - Email by Google"
+    },
+    {
+     "best_rank": 6,
+     "countries": [
+      "br"
+     ],
+     "days": 26,
+     "name": "Edits: Editor de Vídeo"
+    },
+    {
+     "best_rank": 3,
+     "countries": [
+      "de"
+     ],
+     "days": 25,
+     "name": "Nect Wallet"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "jp",
+      "kr"
+     ],
+     "days": 24,
+     "name": "TeraBox: 1TB 클라우드 저장소 & AI 공간"
+    },
+    {
+     "best_rank": 8,
+     "countries": [
+      "de",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 22,
+     "name": "Microsoft Teams"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "de",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 22,
+     "name": "Microsoft Authenticator"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6007",
+   "genre_names": [
+    "Productivity",
+    "Produktivität",
+    "Produtividade",
+    "仕事効率化",
+    "생산성"
+   ],
+   "sustained_apps": 18
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 4,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 30,
+     "name": "Google Maps"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "gb"
+     ],
+     "days": 30,
+     "name": "Tesco Grocery & Clubcard"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "br"
+     ],
+     "days": 29,
+     "name": "99: Corridas, Food, Pay"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "jp"
+     ],
+     "days": 25,
+     "name": "ジハンピ"
+    },
+    {
+     "best_rank": 10,
+     "countries": [
+      "jp"
+     ],
+     "days": 24,
+     "name": "ホットペッパーグルメ"
+    },
+    {
+     "best_rank": 10,
+     "countries": [
+      "gb",
+      "jp"
+     ],
+     "days": 22,
+     "name": "Too Good To Go: End Food Waste"
+    },
+    {
+     "best_rank": 7,
+     "countries": [
+      "jp"
+     ],
+     "days": 21,
+     "name": "Rocket Now : 出前/フードデリバリー"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "us"
+     ],
+     "days": 18,
+     "name": "McDonald's"
+    },
+    {
+     "best_rank": 6,
+     "countries": [
+      "br"
+     ],
+     "days": 15,
+     "name": "iFood: pedir delivery em casa"
+    },
+    {
+     "best_rank": 10,
+     "countries": [
+      "jp"
+     ],
+     "days": 15,
+     "name": "スターバックス ジャパン公式モバイルアプリ"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6023",
+   "genre_names": [
+    "Essen und Trinken",
+    "Food & Drink",
+    "Gastronomia e bebidas",
+    "フード／ドリンク",
+    "음식 및 음료"
+   ],
+   "sustained_apps": 16
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 6,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "CapCut: Photo & Video Editor"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "kr"
+     ],
+     "days": 29,
+     "name": "101cam - 필름 & 디지털 카메라"
+    },
+    {
+     "best_rank": 6,
+     "countries": [
+      "br"
+     ],
+     "days": 26,
+     "name": "Edits: Editor de Vídeo"
+    },
+    {
+     "best_rank": 7,
+     "countries": [
+      "br",
+      "gb",
+      "us"
+     ],
+     "days": 26,
+     "name": "TikTok - Videos, Shop & LIVE"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "de",
+      "gb",
+      "us"
+     ],
+     "days": 22,
+     "name": "Instagram"
+    },
+    {
+     "best_rank": 6,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "kr"
+     ],
+     "days": 21,
+     "name": "Meta AI"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "br",
+      "gb",
+      "us"
+     ],
+     "days": 14,
+     "name": "YouTube"
+    },
+    {
+     "best_rank": 4,
+     "countries": [
+      "kr"
+     ],
+     "days": 9,
+     "name": "AI Catch(AI 캐치): AI 영상 생성기"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "us"
+     ],
+     "days": 8,
+     "name": "Momo: AI Photo & Video Maker"
+    },
+    {
+     "best_rank": 9,
+     "countries": [
+      "jp"
+     ],
+     "days": 7,
+     "name": "GoodShort(グッドショート)-ショートドラマいつでも"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6008",
+   "genre_names": [
+    "Foto e vídeo",
+    "Photo & Video",
+    "写真／ビデオ",
+    "사진 및 비디오"
+   ],
+   "sustained_apps": 10
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "us"
+     ],
+     "days": 30,
+     "name": "Uber: Rides, eats, and more"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "br"
+     ],
+     "days": 29,
+     "name": "99: Corridas, Food, Pay"
+    },
+    {
+     "best_rank": 3,
+     "countries": [
+      "kr"
+     ],
+     "days": 28,
+     "name": "NOL : 야놀자와 인터파크의 새로운 이름"
+    },
+    {
+     "best_rank": 15,
+     "countries": [
+      "de"
+     ],
+     "days": 22,
+     "name": "DB Navigator"
+    },
+    {
+     "best_rank": 8,
+     "countries": [
+      "kr"
+     ],
+     "days": 17,
+     "name": "Trip.com 트립닷컴 - 여행 할인 예약"
+    },
+    {
+     "best_rank": 16,
+     "countries": [
+      "de"
+     ],
+     "days": 8,
+     "name": "EasyPark parken - Park App"
+    },
+    {
+     "best_rank": 9,
+     "countries": [
+      "kr"
+     ],
+     "days": 8,
+     "name": "캐치테이블"
+    },
+    {
+     "best_rank": 13,
+     "countries": [
+      "jp"
+     ],
+     "days": 7,
+     "name": "GO タクシーが呼べるアプリ - AI予約・配車・迎車・決済"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6003",
+   "genre_names": [
+    "Reisen",
+    "Travel",
+    "Viagens",
+    "旅行",
+    "여행"
+   ],
+   "sustained_apps": 8
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 4,
+     "countries": [
+      "de",
+      "jp",
+      "kr"
+     ],
+     "days": 30,
+     "name": "듀오링고(Duolingo): 언어 학습"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "Threads"
+    },
+    {
+     "best_rank": 13,
+     "countries": [
+      "gb",
+      "us"
+     ],
+     "days": 28,
+     "name": "WhatsApp Messenger"
+    },
+    {
+     "best_rank": 14,
+     "countries": [
+      "br",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 27,
+     "name": "Gmail - Email by Google"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "de",
+      "gb",
+      "us"
+     ],
+     "days": 22,
+     "name": "Instagram"
+    },
+    {
+     "best_rank": 14,
+     "countries": [
+      "br",
+      "us"
+     ],
+     "days": 19,
+     "name": "Facebook"
+    },
+    {
+     "best_rank": 1,
+     "countries": [
+      "kr"
+     ],
+     "days": 10,
+     "name": "bubble for STARSHIP"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "kr"
+     ],
+     "days": 9,
+     "name": "치지직"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6005",
+   "genre_names": [
+    "Social Networking",
+    "소셜 네트워킹"
+   ],
+   "sustained_apps": 8
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 1,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "kr",
+      "us"
+     ],
+     "days": 30,
+     "name": "Claude by Anthropic"
+    },
+    {
+     "best_rank": 8,
+     "countries": [
+      "de",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 22,
+     "name": "Microsoft Teams"
+    },
+    {
+     "best_rank": 5,
+     "countries": [
+      "br"
+     ],
+     "days": 19,
+     "name": "InfinitePay Tap, Conta, Cartão"
+    },
+    {
+     "best_rank": 4,
+     "countries": [
+      "de",
+      "gb",
+      "jp"
+     ],
+     "days": 19,
+     "name": "Microsoft Copilot"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "gb"
+     ],
+     "days": 17,
+     "name": "Royal Mail"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "kr"
+     ],
+     "days": 9,
+     "name": "건강보험25시"
+    },
+    {
+     "best_rank": 2,
+     "countries": [
+      "de"
+     ],
+     "days": 7,
+     "name": "Meine Allianz"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6000",
+   "genre_names": [
+    "Business",
+    "Negócios",
+    "Wirtschaft",
+    "ビジネス",
+    "비즈니스"
+   ],
+   "sustained_apps": 7
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 4,
+     "countries": [
+      "br",
+      "de",
+      "gb",
+      "jp",
+      "us"
+     ],
+     "days": 30,
+     "name": "Google Maps"
+    },
+    {
+     "best_rank": 15,
+     "countries": [
+      "de"
+     ],
+     "days": 22,
+     "name": "DB Navigator"
+    },
+    {
+     "best_rank": 13,
+     "countries": [
+      "kr"
+     ],
+     "days": 11,
+     "name": "카카오내비 - 주차,발렛,전기차충전,세차,보험,중고차"
+    },
+    {
+     "best_rank": 16,
+     "countries": [
+      "de"
+     ],
+     "days": 8,
+     "name": "EasyPark parken - Park App"
+    },
+    {
+     "best_rank": 13,
+     "countries": [
+      "jp"
+     ],
+     "days": 7,
+     "name": "GO タクシーが呼べるアプリ - AI予約・配車・迎車・決済"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "genre_id": "6010",
+   "genre_names": [
+    "Navigation",
+    "ナビゲーション",
+    "내비게이션"
+   ],
+   "sustained_apps": 5
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 10,
+     "countries": [
+      "jp"
+     ],
+     "days": 22,
+     "name": "M3デジカルスマート診察券"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "de"
+     ],
+     "days": 21,
+     "name": "Doctolib - Die Gesundheits-App"
+    },
+    {
+     "best_rank": 13,
+     "countries": [
+      "gb"
+     ],
+     "days": 20,
+     "name": "NHS App"
+    },
+    {
+     "best_rank": 13,
+     "countries": [
+      "kr"
+     ],
+     "days": 10,
+     "name": "모바일 건강보험증"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "kr"
+     ],
+     "days": 9,
+     "name": "건강보험25시"
+    }
+   ],
+   "countries": [
+    "de",
+    "gb",
+    "jp",
+    "kr"
+   ],
+   "genre_id": "6020",
+   "genre_names": [
+    "Medical",
+    "Medizin",
+    "メディカル",
+    "의료"
+   ],
+   "sustained_apps": 5
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 10,
+     "countries": [
+      "jp"
+     ],
+     "days": 22,
+     "name": "M3デジカルスマート診察券"
+    },
+    {
+     "best_rank": 11,
+     "countries": [
+      "de"
+     ],
+     "days": 21,
+     "name": "Doctolib - Die Gesundheits-App"
+    }
+   ],
+   "countries": [
+    "de",
+    "jp"
+   ],
+   "genre_id": "6013",
+   "genre_names": [
+    "Gesundheit und Fitness",
+    "ヘルスケア／フィットネス"
+   ],
+   "sustained_apps": 2
+  },
+  {
+   "apps": [
+    {
+     "best_rank": 4,
+     "countries": [
+      "de",
+      "gb"
+     ],
+     "days": 8,
+     "name": "Ticketmaster－Buy, Sell Tickets"
+    },
+    {
+     "best_rank": 18,
+     "countries": [
+      "br"
+     ],
+     "days": 8,
+     "name": "Spotify: músicas e podcasts"
+    }
+   ],
+   "countries": [
+    "br",
+    "de",
+    "gb"
+   ],
+   "genre_id": "6011",
+   "genre_names": [
+    "Music",
+    "Música"
+   ],
+   "sustained_apps": 2
+  }
+ ],
+ "note": "sustained = 차트에 오래 머문 것 = 트렌드 후보. one_day_only 비율이 높다는 건 하루짜리 급등은 대부분 노이즈라는 뜻.",
+ "one_day_only": 70,
+ "repeated_keywords": {
+  "BR": [
+   {
+    "days": 3,
+    "keyword": "programação globo"
+   },
+   {
+    "days": 3,
+    "keyword": "lakers"
+   },
+   {
+    "days": 3,
+    "keyword": "enquete a fazenda"
+   }
+  ],
+  "DE": [
+   {
+    "days": 4,
+    "keyword": "fortnite shop"
+   },
+   {
+    "days": 3,
+    "keyword": "mls"
+   }
+  ],
+  "GB": [
+   {
+    "days": 4,
+    "keyword": "swimming"
+   },
+   {
+    "days": 4,
+    "keyword": "sports"
+   },
+   {
+    "days": 4,
+    "keyword": "nba"
+   },
+   {
+    "days": 3,
+    "keyword": "wnba"
+   },
+   {
+    "days": 3,
+    "keyword": "news"
+   },
+   {
+    "days": 3,
+    "keyword": "mlb"
+   },
+   {
+    "days": 3,
+    "keyword": "fitness"
+   },
+   {
+    "days": 3,
+    "keyword": "betfred"
+   },
+   {
+    "days": 3,
+    "keyword": "betfair"
+   }
+  ],
+  "JP": [],
+  "KR": [],
+  "US": [
+   {
+    "days": 3,
+    "keyword": "arthur gea"
+   },
+   {
+    "days": 3,
+    "keyword": "alex rodriguez"
+   }
+  ]
+ },
+ "rising": [
+  {
+   "best_rank": 1,
+   "countries": [
+    "us"
+   ],
+   "days": 3,
+   "drift": 21.0,
+   "first_seen": "2026-10-13",
+   "genre_ids": [
+    "6023",
+    "6024"
+   ],
+   "genres": [
+    "Food & Drink",
+    "Shopping"
+   ],
+   "id": "1668228991",
+   "last_seen": "2026-10-15",
+   "name": "Dave’s Hot Chicken®"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "us"
+   ],
+   "days": 7,
+   "drift": 20.5,
+   "first_seen": "2026-10-16",
+   "genre_ids": [
+    "6015"
+   ],
+   "genres": [
+    "Finance"
+   ],
+   "id": "407558537",
+   "last_seen": "2026-10-24",
+   "name": "Capital One Mobile"
+  },
+  {
+   "best_rank": 2,
+   "countries": [
+    "jp"
+   ],
+   "days": 4,
+   "drift": 20.0,
+   "first_seen": "2026-10-21",
+   "genre_ids": [
+    "6024",
+    "6012"
+   ],
+   "genres": [
+    "ショッピング",
+    "ライフスタイル"
+   ],
+   "id": "631993791",
+   "last_seen": "2026-10-24",
+   "name": "MUJI アプリ - 無印良品"
+  },
+  {
+   "best_rank": 5,
+   "countries": [
+    "br",
+    "kr"
+   ],
+   "days": 4,
+   "drift": 19.0,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6016"
+   ],
+   "genres": [
+    "Entreteni­mento"
+   ],
+   "id": "1446075923",
+   "last_seen": "2026-10-24",
+   "name": "Disney+"
+  },
+  {
+   "best_rank": 7,
+   "countries": [
+    "us"
+   ],
+   "days": 4,
+   "drift": 14.0,
+   "first_seen": "2026-10-11",
+   "genre_ids": [
+    "6005",
+    "6012"
+   ],
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "id": "6742024490",
+   "last_seen": "2026-10-14",
+   "name": "Reco Social"
+  },
+  {
+   "best_rank": 9,
+   "countries": [
+    "de"
+   ],
+   "days": 5,
+   "drift": 13.0,
+   "first_seen": "2026-09-28",
+   "genre_ids": [
+    "6023",
+    "6012"
+   ],
+   "genres": [
+    "Essen und Trinken",
+    "Lifestyle"
+   ],
+   "id": "419724490",
+   "last_seen": "2026-10-12",
+   "name": "Lieferando.de"
+  },
+  {
+   "best_rank": 4,
+   "countries": [
+    "br"
+   ],
+   "days": 5,
+   "drift": 13.0,
+   "first_seen": "2026-10-01",
+   "genre_ids": [
+    "6017",
+    "6006"
+   ],
+   "genres": [
+    "Educação",
+    "Referência"
+   ],
+   "id": "6773377369",
+   "last_seen": "2026-10-05",
+   "name": "Urna Simulador 2026"
+  },
+  {
+   "best_rank": 5,
+   "countries": [
+    "br"
+   ],
+   "days": 4,
+   "drift": 13.0,
+   "first_seen": "2026-10-02",
+   "genre_ids": [
+    "6017",
+    "6002"
+   ],
+   "genres": [
+    "Educação",
+    "Utilidades"
+   ],
+   "id": "1435214522",
+   "last_seen": "2026-10-05",
+   "name": "Urna Eletrônica Simulador 2026"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "jp"
+   ],
+   "days": 12,
+   "drift": 12.8,
+   "first_seen": "2026-10-06",
+   "genre_ids": [
+    "6002"
+   ],
+   "genres": [
+    "ユーティリティ"
+   ],
+   "id": "388497605",
+   "last_seen": "2026-10-24",
+   "name": "Google Authenticator"
+  },
+  {
+   "best_rank": 12,
+   "countries": [
+    "gb"
+   ],
+   "days": 4,
+   "drift": 11.0,
+   "first_seen": "2026-09-27",
+   "genre_ids": [
+    "6023",
+    "6024"
+   ],
+   "genres": [
+    "Food & Drink",
+    "Shopping"
+   ],
+   "id": "1001501844",
+   "last_seen": "2026-10-24",
+   "name": "Deliveroo: Food & Shopping"
+  },
+  {
+   "best_rank": 7,
+   "countries": [
+    "jp"
+   ],
+   "days": 9,
+   "drift": 11.0,
+   "first_seen": "2026-10-06",
+   "genre_ids": [
+    "6002",
+    "6007"
+   ],
+   "genres": [
+    "ユーティリティ",
+    "仕事効率化"
+   ],
+   "id": "535886823",
+   "last_seen": "2026-10-24",
+   "name": "Google Chrome - ウェブブラウザ"
+  },
+  {
+   "best_rank": 10,
+   "countries": [
+    "kr"
+   ],
+   "days": 3,
+   "drift": 11.0,
+   "first_seen": "2026-10-12",
+   "genre_ids": [
+    "6012"
+   ],
+   "genres": [
+    "라이프스타일"
+   ],
+   "id": "896534884",
+   "last_seen": "2026-10-23",
+   "name": "성범죄자 알림e"
+  },
+  {
+   "best_rank": 6,
+   "countries": [
+    "gb",
+    "kr"
+   ],
+   "days": 7,
+   "drift": 10.5,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6016"
+   ],
+   "genres": [
+    "엔터테인먼트"
+   ],
+   "id": "6445905219",
+   "last_seen": "2026-10-20",
+   "name": "DramaBox - 영화와 숏폼 드라마"
+  },
+  {
+   "best_rank": 6,
+   "countries": [
+    "jp"
+   ],
+   "days": 7,
+   "drift": 10.0,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6015"
+   ],
+   "genres": [
+    "ファイナンス"
+   ],
+   "id": "1549123889",
+   "last_seen": "2026-10-03",
+   "name": "エアウォレット"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "de"
+   ],
+   "days": 6,
+   "drift": 10.0,
+   "first_seen": "2026-10-13",
+   "genre_ids": [
+    "6013"
+   ],
+   "genres": [
+    "Gesundheit und Fitness"
+   ],
+   "id": "6738774428",
+   "last_seen": "2026-10-24",
+   "name": "move2pay"
+  },
+  {
+   "best_rank": 4,
+   "countries": [
+    "kr"
+   ],
+   "days": 9,
+   "drift": 9.7,
+   "first_seen": "2026-10-07",
+   "genre_ids": [
+    "6008"
+   ],
+   "genres": [
+    "사진 및 비디오"
+   ],
+   "id": "6739276631",
+   "last_seen": "2026-10-24",
+   "name": "AI Catch(AI 캐치): AI 영상 생성기"
+  },
+  {
+   "best_rank": 5,
+   "countries": [
+    "kr"
+   ],
+   "days": 17,
+   "drift": 9.2,
+   "first_seen": "2026-09-29",
+   "genre_ids": [
+    "6015"
+   ],
+   "genres": [
+    "금융"
+   ],
+   "id": "6553966660",
+   "last_seen": "2026-10-24",
+   "name": "실손24"
+  },
+  {
+   "best_rank": 3,
+   "countries": [
+    "kr"
+   ],
+   "days": 28,
+   "drift": 9.1,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6003",
+    "6012"
+   ],
+   "genres": [
+    "여행",
+    "라이프스타일"
+   ],
+   "id": "436731843",
+   "last_seen": "2026-10-24",
+   "name": "NOL : 야놀자와 인터파크의 새로운 이름"
+  },
+  {
+   "best_rank": 10,
+   "countries": [
+    "de"
+   ],
+   "days": 3,
+   "drift": 9.0,
+   "first_seen": "2026-09-27",
+   "genre_ids": [
+    "6024",
+    "6012"
+   ],
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "id": "1452164827",
+   "last_seen": "2026-10-18",
+   "name": "IKEA"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "br"
+   ],
+   "days": 10,
+   "drift": 8.3,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6015"
+   ],
+   "genres": [
+    "Finanças"
+   ],
+   "id": "1485424267",
+   "last_seen": "2026-10-24",
+   "name": "CAIXA Tem"
+  }
+ ],
+ "sustained": [
+  {
+   "best_rank": 1,
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "days": 30,
+   "drift": -0.5,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6007",
+    "6002"
+   ],
+   "genres": [
+    "생산성",
+    "유틸리티"
+   ],
+   "id": "6448311069",
+   "last_seen": "2026-10-24",
+   "name": "ChatGPT"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "br",
+    "us"
+   ],
+   "days": 30,
+   "drift": 1.6,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6016"
+   ],
+   "genres": [
+    "Entertainment"
+   ],
+   "id": "6754134922",
+   "last_seen": "2026-10-24",
+   "name": "PineDrama - Short Dramas"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "days": 30,
+   "drift": 3.0,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6007",
+    "6000"
+   ],
+   "genres": [
+    "仕事効率化",
+    "ビジネス"
+   ],
+   "id": "6473753684",
+   "last_seen": "2026-10-24",
+   "name": "Claude by Anthropic"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "us"
+   ],
+   "days": 30,
+   "drift": -0.2,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6003",
+    "6012"
+   ],
+   "genres": [
+    "Travel",
+    "Lifestyle"
+   ],
+   "id": "368677368",
+   "last_seen": "2026-10-24",
+   "name": "Uber: Rides, eats, and more"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "gb"
+   ],
+   "days": 30,
+   "drift": -0.4,
+   "first_seen": "2026-09-25",
+   "genre_ids": [],
+   "genres": [],
+   "id": "469964520",
+   "last_seen": "2026-10-24",
+   "name": "Lloyds Mobile Banking"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "gb"
+   ],
+   "days": 30,
+   "drift": 0.8,
+   "first_seen": "2026-09-25",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6737119425",
+   "last_seen": "2026-10-24",
+   "name": "GOV.UK One Login"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "jp"
+   ],
+   "days": 30,
+   "drift": -0.4,
+   "first_seen": "2026-09-25",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6587576438",
+   "last_seen": "2026-10-24",
+   "name": "setlog"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "jp"
+   ],
+   "days": 30,
+   "drift": 0.4,
+   "first_seen": "2026-09-25",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6471519217",
+   "last_seen": "2026-10-24",
+   "name": "Bump（旧Zenly）"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "jp",
+    "kr"
+   ],
+   "days": 30,
+   "drift": -2.9,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6016"
+   ],
+   "genres": [
+    "엔터테인먼트"
+   ],
+   "id": "6504849169",
+   "last_seen": "2026-10-24",
+   "name": "NetShort - 인기 드라마 및 TV 프로그램"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "kr"
+   ],
+   "days": 30,
+   "drift": -1.3,
+   "first_seen": "2026-09-25",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6783366739",
+   "last_seen": "2026-10-24",
+   "name": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "kr"
+   ],
+   "days": 30,
+   "drift": 0.5,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6015",
+    "6012"
+   ],
+   "genres": [
+    "금융",
+    "라이프스타일"
+   ],
+   "id": "6743190232",
+   "last_seen": "2026-10-24",
+   "name": "하나은행, 새로워진 하나원큐를 경험해 보세요"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "kr"
+   ],
+   "days": 30,
+   "drift": 3.4,
+   "first_seen": "2026-09-25",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6738063154",
+   "last_seen": "2026-10-24",
+   "name": "네이버플러스 스토어"
+  },
+  {
+   "best_rank": 1,
+   "countries": [
+    "jp",
+    "us"
+   ],
+   "days": 30,
+   "drift": -1.1,
+   "first_seen": "2026-09-25",
+   "genre_ids": [],
+   "genres": [],
+   "id": "6760173601",
+   "last_seen": "2026-10-24",
+   "name": "Muse from Meta"
+  },
+  {
+   "best_rank": 2,
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "kr",
+    "us"
+   ],
+   "days": 30,
+   "drift": 0.2,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6007",
+    "6002"
+   ],
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "id": "6477489729",
+   "last_seen": "2026-10-24",
+   "name": "Google Gemini"
+  },
+  {
+   "best_rank": 2,
+   "countries": [
+    "de",
+    "gb",
+    "us"
+   ],
+   "days": 30,
+   "drift": 1.9,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6024",
+    "6012"
+   ],
+   "genres": [
+    "Shopping",
+    "Lifestyle"
+   ],
+   "id": "632064380",
+   "last_seen": "2026-10-24",
+   "name": "Vinted: Pre-loved marketplace"
+  },
+  {
+   "best_rank": 3,
+   "countries": [
+    "gb"
+   ],
+   "days": 30,
+   "drift": 3.0,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6012",
+    "6024"
+   ],
+   "genres": [
+    "Lifestyle",
+    "Shopping"
+   ],
+   "id": "1591214233",
+   "last_seen": "2026-10-24",
+   "name": "InPost UK"
+  },
+  {
+   "best_rank": 4,
+   "countries": [
+    "br",
+    "de",
+    "gb",
+    "jp",
+    "us"
+   ],
+   "days": 30,
+   "drift": 1.9,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6010",
+    "6023"
+   ],
+   "genres": [
+    "Navigation",
+    "Food & Drink"
+   ],
+   "id": "585027354",
+   "last_seen": "2026-10-24",
+   "name": "Google Maps"
+  },
+  {
+   "best_rank": 4,
+   "countries": [
+    "de",
+    "jp",
+    "kr"
+   ],
+   "days": 30,
+   "drift": -4.5,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6017",
+    "6005"
+   ],
+   "genres": [
+    "교육",
+    "소셜 네트워킹"
+   ],
+   "id": "570060128",
+   "last_seen": "2026-10-24",
+   "name": "듀오링고(Duolingo): 언어 학습"
+  },
+  {
+   "best_rank": 4,
+   "countries": [
+    "us"
+   ],
+   "days": 30,
+   "drift": 5.3,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6016"
+   ],
+   "genres": [
+    "Entertainment"
+   ],
+   "id": "6741796873",
+   "last_seen": "2026-10-24",
+   "name": "TikTok Pro - Events"
+  },
+  {
+   "best_rank": 4,
+   "countries": [
+    "us"
+   ],
+   "days": 30,
+   "drift": 0.1,
+   "first_seen": "2026-09-25",
+   "genre_ids": [
+    "6015",
+    "6004"
+   ],
+   "genres": [
+    "Finance",
+    "Sports"
+   ],
+   "id": "1632713844",
+   "last_seen": "2026-10-24",
+   "name": "Kalshi: Trade Football & more"
+  }
+ ],
+ "sustained_threshold_days": 7,
+ "total_apps_seen": 332,
+ "window": "2026-09-25 ~ 2026-10-24"
+}
