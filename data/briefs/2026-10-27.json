@@ -1,0 +1,126 @@
+{
+ "coming": [
+  {
+   "countries": [
+    "BR"
+   ],
+   "demand": "가격 비교, 쿠폰, 배송 추적, 사기 쇼핑몰 구별",
+   "event": "11.11 쇼핑 행사. Shopee와 Mercado Livre가 앱 이름에 11.11을 넣고 이미 한 달째 홍보 중이다.",
+   "when": "11월 11일"
+  },
+  {
+   "countries": [
+    "GB",
+    "DE",
+    "US"
+   ],
+   "demand": "가격 이력 확인, 선물 예산 관리, 재판매 앱으로 현금 마련",
+   "event": "블랙프라이데이는 11월 한 달로 길어지는 추세다. 독일 HDE는 전년 매출을 약 58억 유로로 봤고 지출 의향은 7% 줄었다.",
+   "when": "11월 27일(블랙프라이데이), 11월 30일(사이버먼데이)"
+  },
+  {
+   "countries": [
+    "JP"
+   ],
+   "demand": "행사 티켓·택시(GO 앱은 8일째 상위)·가을 단풍 나들이",
+   "event": "Japan Mobility Show 2026 (도쿄 빅사이트). 11월 3일 문화의 날과 23일 근로감사의 날 연휴가 이어진다.",
+   "when": "10월 29일~11월 8일"
+  },
+  {
+   "countries": [
+    "DE"
+   ],
+   "demand": "도시별 개장일·교통 예약 (DB Navigator는 20일째 상위)",
+   "event": "크리스마스 마켓 개막. 뮌헨은 11월 23일~12월 24일, 울름도 23일 개장이다.",
+   "when": "11월 하순"
+  },
+  {
+   "countries": [
+    "US"
+   ],
+   "demand": "예측시장(Kalshi는 30일째 차트에 있음)과 선거 정보 앱",
+   "event": "미국 중간선거. 검색으로 확인한 건 하원 전 의석과 상원 3분의 1이 걸려 있다는 것까지다.",
+   "when": "11월 3일 (미국 중간선거)"
+  }
+ ],
+ "counter": "이 브리프는 앱스토어 상위 차트 한 달치와 얕은 웹 검색에 기댔다. 한국과 미국의 문화적 화제(음악·드라마·밈)는 검색에서 쓸 만한 결과를 못 얻어 1부에 넣지 못했고, 영국·독일은 연휴 일정 위주로만 확인했다. 숏드라마의 결제 불만은 브라질 리뷰 한 건만 확인했으므로, 첫 아이디어는 '2개국 이상에서 반복되는 불만'이라는 기준을 채우지 못한다. 그래서 improve 트랙은 비웠다. 리뷰 키워드 분류 결과 결제 관련이 나라마다 가장 많았지만, 구체적 유형으로 묶어 확인하지는 못했다.",
+ "date": "2026-10-27",
+ "ideas": [
+  {
+   "from": "1부 숏드라마 6개국 동시 상주 (ReelShort 19일, StoryReel 24일, 6개국)",
+   "money": "월 구독 약 3달러, 또는 해지 안내 제휴 수익",
+   "one_liner": "ReelShort·DramaWave 등 여러 숏드라마 앱의 코인·구독 결제를 한 화면에 모아 이달 총액과 다음 갱신일을 보여주는 앱",
+   "risk": "구독 관리는 Rocket Money 같은 범용 앱이 이미 한다. 숏드라마 전용 가치(코인 단위 결제 추적)를 보여줘야 한다. 결제 불만은 BR 리뷰에서만 확인됐다.",
+   "shape": "1) 영수증 메일 또는 스크린샷 업로드 2) 앱별 월 합계와 갱신일 목록 3) 해지 방법 링크와 갱신 3일 전 알림",
+   "test": "랜딩 페이지 하나와 '내 숏드라마 지출 알아보기' 가짜 버튼을 만들어, 숏드라마 커뮤니티 세 곳에 올리고 이메일 가입 수를 센다",
+   "title": "숏드라마 월 지출 계산기",
+   "track": "ride",
+   "who": "숏드라마 앱을 두세 개 깔고 매일 보는데 결제가 코인·주간 구독으로 흩어져 이번 달 합계를 모르는 사람"
+  },
+  {
+   "from": "1부 중고 마켓 (Vinted 3개국 1위 30일) + 2부 블랙프라이데이 11월 27일",
+   "money": "월 4~5달러 구독 또는 한 번에 정리 팩 결제",
+   "one_liner": "사진 몇 장으로 Vinted·Depop 제목, 설명, 가격 제안을 만들어 주는 서비스",
+   "risk": "Vinted가 자체 AI 기능을 넣을 수 있고, 미국에는 List Perfectly·Vendoo 같은 교차 등록 도구가 있다.",
+   "shape": "1) 사진 여러 장 업로드 2) 항목별 제목·설명·가격 초안 3) 복사해 앱에 붙여넣기",
+   "test": "Reddit r/Vinted에 무료 초안 작성 이벤트를 올려 하루 안에 20명을 직접 대행해 보고 재요청 비율을 본다",
+   "title": "빈티드 연말 정리 판매 도우미",
+   "track": "ride",
+   "who": "연말 전 옷장을 정리하려 하는데 항목마다 설명과 가격을 쓰기 귀찮아 사진만 쌓아 두는 영국 직장인"
+  }
+ ],
+ "now": [
+  {
+   "countries": [
+    "BR",
+    "GB",
+    "JP",
+    "KR",
+    "US",
+    "DE"
+   ],
+   "duration": "PineDrama·NetShort 30일(관측 전 기간), StoryReel 24일, DramaWave 21일, ReelShort 19일",
+   "evidence": "trendlines genre_activity 엔터테인먼트: 지속 앱 27개. ReelShort 5개국 1위, DramaWave 6개국 최고 2위, StoryReel 4개국 1위. 일본에선 GoodShort(グッドショート)도 10일째.",
+   "trend": "숏드라마 앱이 6개국 차트에 동시 상주",
+   "what": "서로 다른 회사의 숏드라마 앱(PineDrama·NetShort·StoryReel·DramaWave·ReelShort)이 여러 나라 엔터 차트 상위에 함께 머문다. 한 앱이 아니라 카테고리 전체가 뜨는 중이다.",
+   "who": "회차 단위 결제나 VIP 구독 벽을 넘겨 가며 매일 보는 사용자. 브라질 리뷰에는 특정 회차부터 VIP 구독을 강요한다는 불만이 있다."
+  },
+  {
+   "countries": [
+    "BR",
+    "DE",
+    "GB",
+    "JP",
+    "KR",
+    "US"
+   ],
+   "duration": "세 앱 모두 30일(관측 전 기간)",
+   "evidence": "sustained: ChatGPT 6개국 최고 1위, Claude 6개국 최고 1위, Gemini 6개국 지속. Copilot 17일(독·영·일), Meta AI 18일(브·독·영).",
+   "trend": "범용 AI 어시스턴트 3종이 6개국 상위에 상주",
+   "what": "ChatGPT, Google Gemini, Claude(클로드)가 6개국 모두에서 30일 내내 차트에 있다. 한 서비스가 아니라 카테고리가 자리 잡았고, Microsoft Copilot과 Meta AI도 같이 올라와 있다.",
+   "who": "일·학업에 여러 AI를 병행하며 구독료를 따로 내는 사람."
+  },
+  {
+   "countries": [
+    "GB",
+    "DE",
+    "US"
+   ],
+   "duration": "Vinted 30일, Whatnot 30일, Depop 26일",
+   "evidence": "sustained: Vinted 3개국 최고 1위 30일. genre_activity 라이프스타일에 Vinted·Whatnot·Depop 함께 포함.",
+   "trend": "중고·재판매 마켓 (Vinted·Depop·Whatnot)",
+   "what": "Vinted(빈티드)가 독일·영국·미국에서 1위까지 오르며 한 달 내내 머문다. 미국 Depop(뎁), 영국 Whatnot(왓낫)도 같은 흐름이다.",
+   "who": "연말 전 옷장을 정리해 팔고, 선물 예산을 아끼려는 사람."
+  },
+  {
+   "countries": [
+    "BR"
+   ],
+   "duration": "Shopee 29일, Mercado Livre 29일, e-Título 24일",
+   "evidence": "genre_activity 쇼핑: Shopee 29일, Mercado Livre 29일, SHEIN 28일. Eleições 2026은 최근 4일 등장.",
+   "trend": "브라질 11.11 쇼핑 시즌과 선거 앱",
+   "what": "Shopee(쇼피)·Mercado Livre(메르카도 리브리) 모두 11.11 프로모션을 앞세워 한 달 가까이 상위에 있다. 선거 관련 앱(Eleições 2026, e-Título)도 차트에 있었다. 검색으로 확인한 사실은 대선 결선이 10/25였다는 것까지다.",
+   "who": "11.11과 블랙프라이데이 할인을 노리는 브라질 소비자."
+  }
+ ]
+}
