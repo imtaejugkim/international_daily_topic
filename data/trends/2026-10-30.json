@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-30",
+ "trends": {
+  "BR": [
+   {
+    "news": "Precisamos de PEC para contenção dos gastos, defende Tebet à CNN",
+    "title": "simone tebet",
+    "traffic": "100+"
+   },
+   {
+    "news": "Seguros digitais são mais uma forma de obter seguros regulamentados pela Susep",
+    "title": "susep",
+    "traffic": "100+"
+   },
+   {
+    "news": "Trump e Obama intensificam campanha na reta final das eleições nos EUA",
+    "title": "trump eleições eua",
+    "traffic": "500+"
+   },
+   {
+    "news": "Zé Felipe revela diagnóstico de síndrome do piriforme após dores nos glúteos; entenda a condição",
+    "title": "doenca ze felipe",
+    "traffic": "500+"
+   },
+   {
+    "news": "Influenciadora manda menino fazer o “L” e se recusa a comprar doces em Fortaleza",
+    "title": "influenciadora valéria diniz",
+    "traffic": "1000+"
+   },
+   {
+    "news": "'I had no clue': Draymond Green shares what has shocked him about Cameron Boozer at the Grizzlies",
+    "title": "cameron boozer",
+    "traffic": "200+"
+   },
+   {
+    "news": "Michael C. Hall no novo clipe promocional da 2ª temporada de ‘Dexter: Ressurreição’!",
+    "title": "dexter ressurreição 2 temporada",
+    "traffic": "200+"
+   },
+   {
+    "news": "Panthers vs. Packers: Three must-know storylines for Thursday's Week 8 prime-time game",
+    "title": "packers",
+    "traffic": "100+"
+   },
+   {
+    "news": "Personagem desaparecida volta e detona farsa de Fortunato em A Nobreza do Amor",
+    "title": "quiteria kelly",
+    "traffic": "200+"
+   },
+   {
+    "news": "Chances de Grêmio e Inter se salvarem juntos do rebaixamento aumentam; veja números",
+    "title": "probabilidade de rebaixamento série a 2026",
+    "traffic": "200+"
+   }
+  ],
+  "DE": [
+   {
+    "news": "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "title": "alphabet inc.",
+    "traffic": "500+"
+   },
+   {
+    "news": "Mann stirbt bei Brand in Dresdner Dachgeschosswohnung",
+    "title": "tag24 dresden",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries",
+    "title": "nikkei",
+    "traffic": "100+"
+   },
+   {
+    "news": "Players Championship 32: Chris Dobey wins third ranking title of year as Michael van Gerwen struggles",
+    "title": "players championship 32",
+    "traffic": "100+"
+   },
+   {
+    "news": "The storms are done, blocking high pressure to take over as we head into November",
+    "title": "fog warning",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Hartz und herzlich – Tag für Tag Rostock im TV - Sendung",
+    "title": "hartz und herzlich",
+    "traffic": "500+"
+   },
+   {
+    "news": "Neue Vorgaben zur Corona-Impfung gesetzlich Versicherter in Kraft getreten",
+    "title": "covid-19-impfstoff",
+    "traffic": "200+"
+   },
+   {
+    "news": "St. Pauli trauert um Klaus: Weltmeister im Kneipe-Sitzen ist tot",
+    "title": "elbschlosskeller",
+    "traffic": "200+"
+   },
+   {
+    "news": "Visma entscheidet sich gegen Roglic - auch Schachmann ohne Team",
+    "title": "primož roglič",
+    "traffic": "100+"
+   },
+   {
+    "news": "Betonteile stürzten ab: zwei Handwerker verstarben auf einer Baustelle in Gronau",
+    "title": "gronau",
+    "traffic": "200+"
+   }
+  ],
+  "GB": [
+   {
+    "news": "Phantom Blade Zero Launches Today For GeForce RTX & RTX Spark, And New DLSS Games and Updates Are Available Now",
+    "title": "ps5 pro",
+    "traffic": "500+"
+   },
+   {
+    "news": "Indian shares open flat as IT rally, earnings-led rebound counter higher oil prices",
+    "title": "stock market today",
+    "traffic": "100+"
+   },
+   {
+    "news": "Reddit moves to logged-in experience as AI eats search",
+    "title": "reddit",
+    "traffic": "200+"
+   },
+   {
+    "news": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+    "title": "israeli elections netanyahu",
+    "traffic": "200+"
+   },
+   {
+    "news": "Memphis Grizzlies vs Portland Trail Blazers Prediction, Picks & Odds | NBA Thursday",
+    "title": "trail blazers vs grizzlies",
+    "traffic": "200+"
+   },
+   {
+    "news": "In 2013, Bruce Willis starred in a movie he was “baffled by”. But it still made $305,000,000",
+    "title": "bruce willis",
+    "traffic": "100+"
+   },
+   {
+    "news": "President’s plane conducts low D.C. flyover, startling people",
+    "title": "white",
+    "traffic": "100+"
+   },
+   {
+    "news": "Packers beat Panthers as Green Bay’s Christian Watson returns after mid-game hospital visit",
+    "title": "green bay packers",
+    "traffic": "500+"
+   },
+   {
+    "news": "Hyrox athlete who soiled herself in race admits putting others at risk but says backlash was traumatic",
+    "title": "joanna wietrzyk",
+    "traffic": "2000+"
+   },
+   {
+    "news": "Three Takeaways As Kings Remain Winless, Fall to Pelicans",
+    "title": "pelicans vs kings",
+    "traffic": "200+"
+   }
+  ],
+  "JP": [
+   {
+    "news": "PS Plus11月フリープレイに人狼風の隣人マルチプレイホラー『Secret Neighbor』登場！4,389円の『トゥームレイダー IV-VI リマスター』なども（Game Spark）",
+    "title": "psplus フリープレイ",
+    "traffic": "1000+"
+   },
+   {
+    "news": "【山岳遭難】国立公園大山に地質調査のため5人グループで入山 1人が転倒し額と腕を強打し自力下山を断念、救助要請 登山届未提出 | BSSニュース | BSS山陰放送 (2ページ)",
+    "title": "遭難",
+    "traffic": "500+"
+   },
+   {
+    "news": "【巨人】松井秀喜新監督が７分間の訓示「今の自分より明日の自分 どんどん成長していけるよう」…丸佳浩が感激「響くお話」",
+    "title": "巨人 コーチ 陣 一覧",
+    "traffic": "2000+"
+   },
+   {
+    "news": "テイラー・スウィフト、結婚式の装飾や備品48億円相当すべてを焼却処分「痕跡が残らないよう」",
+    "title": "テイラースウィフト",
+    "traffic": "200+"
+   },
+   {
+    "news": "【動画】ジャングリア運営会社の株主総会終了 「刀」森岡代表、経営改善策問う取材には応えず（沖縄タイムス）",
+    "title": "ジャングリア沖縄",
+    "traffic": "200+"
+   },
+   {
+    "news": "",
+    "title": "五十嵐亮太",
+    "traffic": "200+"
+   },
+   {
+    "news": "【巨人】松井秀喜新監督が球場入り ４時間前からファン「おかえりなさい」早くも松井フィーバー",
+    "title": "槙原寛己",
+    "traffic": "200+"
+   },
+   {
+    "news": "4歳の息子が「パパもこの曲にして！」西武・甲斐野央を支えた“魔曲誕生”の舞台裏「なにわ男子」メンバーと偶然空港で…「勇気100％」クローザーの横顔（市川忍）",
+    "title": "甲斐野央",
+    "traffic": "100+"
+   },
+   {
+    "news": "『徹子の部屋』出演の38歳女優が「絶世の美女」 視聴者くぎ付け「いつまでも若い」「世界一可愛い」（ENCOUNT）",
+    "title": "黒柳徹子",
+    "traffic": "1000+"
+   },
+   {
+    "news": "坂本怜 難敵に完勝で8強、元世界31位に53分でストレート勝ち＜男子テニス＞（tennis365.net）",
+    "title": "坂本怜",
+    "traffic": "1000+"
+   }
+  ],
+  "KR": [
+   {
+    "news": "K2 전차 30대 고장이라더니…폴란드 “현재 멈춘 건 몇 대, 정비도 포함” [밀리터리+]",
+    "title": "k2 흑표",
+    "traffic": "2000+"
+   },
+   {
+    "news": "[단독] '콜오브듀티' 측 \"머리 숙여 위로와 사과‥'이태원 참사' 장면 삭제\"",
+    "title": "콜오브듀티 이태원",
+    "traffic": "100+"
+   },
+   {
+    "news": "AI 거품론에 코스피 급락…매도 사이드카 발동",
+    "title": "사이드카",
+    "traffic": "200+"
+   },
+   {
+    "news": "대전 갈마동 타이어 판매점서 불…소방 대응 1단계 진화 중",
+    "title": "갈마동 화재",
+    "traffic": "200+"
+   },
+   {
+    "news": "옷 잘 입는 사람들은 ‘이 패딩’을 선택합니다",
+    "title": "겨울옷",
+    "traffic": "500+"
+   },
+   {
+    "news": "기후동행카드 종료, 기후동행패스 전환 방법은?",
+    "title": "k패스",
+    "traffic": "100+"
+   },
+   {
+    "news": "'혼전순결' 강균성, 오늘 14세 연하 유하진과 '속전속결' 결혼",
+    "title": "강균성",
+    "traffic": "5000+"
+   },
+   {
+    "news": "생활비가 돌려막기로…고금리·다중채무 악순환",
+    "title": "한국장학재단",
+    "traffic": "1000+"
+   },
+   {
+    "news": "與, ‘조희대 국조’에 李 파기환송 사건 포함 시사… 재판 개입 논란",
+    "title": "재판",
+    "traffic": "2000+"
+   },
+   {
+    "news": "알리, 광군제 내달 1일 개막…110원에 '모델 Y' 응모 이벤트",
+    "title": "광군제",
+    "traffic": "100+"
+   }
+  ],
+  "US": [
+   {
+    "news": "Pohankova delivers career-best performance to oust Osaka in Tokyo",
+    "title": "mia pohankova",
+    "traffic": "5000+"
+   },
+   {
+    "news": "Shares of Google’s parent company just had their worst day ever. Here’s what it means",
+    "title": "alphabet stock drop 500 billion",
+    "traffic": "10000+"
+   },
+   {
+    "news": "The Seductive Sci-Fi Nightmare That Turns A Simple Pickup Into A Death Trap",
+    "title": "scarlett johansson",
+    "traffic": "500+"
+   },
+   {
+    "news": "Rick Hendrick Stunned as Ailing Darrell Waltrip Hands Emotional Gift Complementing $75,000 Auction Bid",
+    "title": "darrell waltrip rick hendrick mro auction",
+    "traffic": "200+"
+   },
+   {
+    "news": "Ofrecían pasaportes de EEUU en pocos días: empresas enfrentan una demanda millonaria por fraude",
+    "title": "pasaporte",
+    "traffic": "200+"
+   },
+   {
+    "news": "What to know about California’s other tax-the-rich measure: Prop. 3",
+    "title": "prop 40",
+    "traffic": "200+"
+   },
+   {
+    "news": "Kris Jenner, 70, Reveals She Was Offered Adult Diapers Endorsement Deal: ‘How Many Millions?’",
+    "title": "kris jenner",
+    "traffic": "200+"
+   },
+   {
+    "news": "How to watch the women’s Toray Pan Pacific Open Tennis: Streaming options for the Quarterfinal",
+    "title": "alycia parks",
+    "traffic": "1000+"
+   },
+   {
+    "news": "Meet the candidates for California Supreme Court Justice",
+    "title": "joshua groban",
+    "traffic": "500+"
+   },
+   {
+    "news": "Trail Blazers Exercise Team Option On Contracts Of Donovan Clingan, Yang Hansen | Portland Trail Blazers",
+    "title": "yang hansen",
+    "traffic": "200+"
+   }
+  ]
+ }
+}
