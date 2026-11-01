@@ -1,0 +1,3478 @@
+{
+ "date": "2026-11-01",
+ "news": {
+  "BR": {
+   "business": [
+    {
+     "published": "Sat, 31 Oct 2026 18:00:00 GMT",
+     "source": "Estadão",
+     "title": "The Economist: Mercado reage mal à vitória inesperada de Lula — e há razões para isso"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:50:47 GMT",
+     "source": "G1",
+     "title": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:00:33 GMT",
+     "source": "CNN Brasil",
+     "title": "Mega-Sena 3080: sorteio deste domingo (1°) pode pagar R$ 42 milhões"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:58:00 GMT",
+     "source": "Gazeta do Povo",
+     "title": "Indiciamentos do Master não envolvem políticos e novos pedidos vão poupar ministros do STF"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:48:22 GMT",
+     "source": "InfoMoney",
+     "title": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:00:00 GMT",
+     "source": "Folha de S.Paulo",
+     "title": "Dólar alto após eleições se soma a El Niño e ameaça inflação"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+     "source": "G1",
+     "title": "Financiamento imobiliário mais caro? Bradesco, Itaú e Santander elevam taxas; Caixa não se manifesta"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:00:00 GMT",
+     "source": "G1",
+     "title": "Empreendedor cria próteses capilares para cabelos afros e fatura R$ 250 mil por mês"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:56:00 GMT",
+     "source": "CartaCapital",
+     "title": "Economistas propõem taxar ricos em vez de cortar gastos sociais"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:36:18 GMT",
+     "source": "Governo Federal",
+     "title": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:18:00 GMT",
+     "source": "MidiaNews",
+     "title": "Aposta de Cuiabá acerta 15 números e ganha R$ 881 mil na Lotofácil"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:35:42 GMT",
+     "source": "Brasil 247",
+     "title": "Tombo da bolsa e disparada do dólar exigem Fazenda capaz de ancorar expectativas"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:52:00 GMT",
+     "source": "Agência Brasil",
+     "title": "Acordo Mercosul-UE eleva exportações brasileiras em 21%"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:44:44 GMT",
+     "source": "InfoMoney",
+     "title": "Acionistas da Raízen aprovam plano de segregação da unidade de açúcar e etanol"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:55:14 GMT",
+     "source": "UOL Economia",
+     "title": "Oncoclínicas atinge quórum de credores para aprovar plano de recuperação"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 03:00:00 GMT",
+     "source": "G1",
+     "title": "IA virou um problema para as gigantes de tecnologia? Entenda o tombo bilionário nas bolsas"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 00:08:40 GMT",
+     "source": "InfoMoney",
+     "title": "Quina hoje, concurso 7156: confira o resultado sorteado nesta sexta-feira (30)"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:00:40 GMT",
+     "source": "ICL Notícias",
+     "title": "Desemprego cai a 5,2% e população ocupada bate recorde histórico no Brasil"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:00:00 GMT",
+     "source": "Jornal Correio",
+     "title": "Saiba que as atividades vão ganhar e quais terão prejuízo com a Reforma Tributária"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 11:47:40 GMT",
+     "source": "Farmnews",
+     "title": "Boi gordo sobe em outubro e renova máxima nominal diária"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:50:00 GMT",
+     "source": "Agência Brasil",
+     "title": "Aneel mantém bandeira tarifária verde em novembro"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+     "source": "InfoMoney",
+     "title": "Títulos do Tesouro perdem até 17% na semana após 2º turno e apagam rali eleitoral"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:45:00 GMT",
+     "source": "Brasil de Fato",
+     "title": "Governadores que negaram reduzir ICMS a pedido de Lula e fizeram campanha contra impostos aprovam alta sobre combustíveis dois dias após eleições"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:00:00 GMT",
+     "source": "G1",
+     "title": "Quando é a Black Friday em 2026? Veja data e dicas para não cair em ciladas"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:19:00 GMT",
+     "source": "A Gazeta",
+     "title": "Teto maior do MEI vai mudar o Imposto de Renda; entenda as regras"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:36:42 GMT",
+     "source": "GZH",
+     "title": "Vale-refeição e vale-alimentação: novas regras passam a valer em uma semana; tire suas dúvidas"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:13:00 GMT",
+     "source": "NeoFeed",
+     "title": "Itaú vê fim do ciclo de cortes da Selic diante de cenário mais adverso"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:30:00 GMT",
+     "source": "InfoMoney",
+     "title": "Sinal em qualquer lugar? Conheça as operadoras com internet via satélite no Brasil"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+     "source": "GZH",
+     "title": "Biometria facial será obrigatória em linhas de celular; veja prazos e como vai funcionar"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+     "source": "UOL",
+     "title": "Jetour G700 chega com 35,4\" de telas e autonomia de 1.300 km; veja preços"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:01:24 GMT",
+     "source": "G1",
+     "title": "Regras obrigam prestadoras de serviço a oferecer atendimento humano, todos os dias, para o consumidor"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:30:54 GMT",
+     "source": "Fala Oeste",
+     "title": "Pix MEI de até R$ 5 mil fica para 2027, confirma governo"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:35:32 GMT",
+     "source": "CNN Brasil",
+     "title": "Após euforia, bolsas em NY vivem semana de ressaca com pressão de IA"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:30:00 GMT",
+     "source": "UOL Notícias",
+     "title": "A Hora: Confiança do Mercado cai e a confiança do consumidor sobe"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:00:21 GMT",
+     "source": "CNN Brasil",
+     "title": "Fim da escala 6x1 pode elevar custos de concessões, diz analista"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:37:26 GMT",
+     "source": "Valor Econômico",
+     "title": "Polymarket aponta que partido de Trump deve perder midterms"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+     "source": "Diário do Nordeste",
+     "title": "Consumo de arroz, óleo e café sobe em supermercados do Ceará após fim das bets, diz setor"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 21:39:35 GMT",
+     "source": "O GLOBO",
+     "title": "Petrobras anuncia terceira descoberta de petróleo leve em poço na Bacia da Foz do Amazonas"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:00:00 GMT",
+     "source": "UOL",
+     "title": "BAIC Arcfox T1 x Geely EX2: veja a melhor opção entre elétricos de entrada"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:37:44 GMT",
+     "source": "Estadão",
+     "title": "Fundos perdem R$ 110 bilhões após eleição; veja quais fundos de ações mais caíram"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Sat, 31 Oct 2026 15:40:58 GMT",
+     "source": "UOL Economia",
+     "title": "Binance diz que cobriu 90% das perdas após ataque hacker de US$ 6 bilhões"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:03:50 GMT",
+     "source": "G1",
+     "title": "Polícia prende suspeito de chefiar quadrilha que roubava celulares no Rio e usava cartões das vítimas para fazer compras"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:00:00 GMT",
+     "source": "G1",
+     "title": "'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 01:38:35 GMT",
+     "source": "TudoCelular.com",
+     "title": "Redmi Note 17 Pro Max entrega a experiência máxima? | Análise / Review"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:30:00 GMT",
+     "source": "UOL Notícias",
+     "title": "Rodrigo Ratier: Uso passivo de IA na faculdade causa 'erosão do pensamento', diz estudo"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 12:30:00 GMT",
+     "source": "UOL",
+     "title": "\"Não dá para viver uma vida urgente\": as pessoas que estão se desconectando"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:00:01 GMT",
+     "source": "O GLOBO",
+     "title": "Confira em quais celulares o WhatsApp deixa de funcionar em novembro"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:17:00 GMT",
+     "source": "O GLOBO",
+     "title": "Comunidade científica se articula por nome para o Ministério da Ciência, Tecnologia e Inovação"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:30:00 GMT",
+     "source": "UOL Educação",
+     "title": "Enem 2026: clima e IA são apostas de professores para a redação"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:10:54 GMT",
+     "source": "CNN Brasil",
+     "title": "IA não traz retorno financeiro para a maioria das empresas, diz economista"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:10:56 GMT",
+     "source": "CNN Brasil",
+     "title": "7 filmes criados com IA que mostram o futuro do cinema"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:30:00 GMT",
+     "source": "UOL",
+     "title": "Apple atualiza iPad mini com tela OLED. Mas isso basta?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+     "source": "GZH",
+     "title": "Biometria facial será obrigatória em linhas de celular; veja prazos e como vai funcionar"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:35:32 GMT",
+     "source": "CNN Brasil",
+     "title": "Após euforia, bolsas em NY vivem semana de ressaca com pressão de IA"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:24:44 GMT",
+     "source": "TudoCelular.com",
+     "title": "Galaxy A57 (256 GB) + fone Buds Core grátis: melhor intermediário da Samsung em oferta"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:15:00 GMT",
+     "source": "Folha de S.Paulo",
+     "title": "Celulares em presídios são bloqueados em até 30 minutos com novo sistema, em ações que miram facções"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:21:19 GMT",
+     "source": "G1",
+     "title": "Robô 'guarda-costas' enfrenta homem com faca e ergue até carro para socorrer pessoa"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:27:12 GMT",
+     "source": "Migalhas",
+     "title": "Desembargador adverte advogados por uso de IA em embargos; OAB/RS reage"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:18:00 GMT",
+     "source": "Banda B",
+     "title": "Paranaense derruba celular no lago, chama mergulhadores e resgate tem reviravolta inesperada"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:47:13 GMT",
+     "source": "G1",
+     "title": "Saiba como a IA é usada para monitorar e combater focos de incêndio no Pantanal"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:48:27 GMT",
+     "source": "OCP News",
+     "title": "Briga entre mãe e filha por causa de celular termina com as duas feridas em Jaraguá do Sul"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:37:38 GMT",
+     "source": "Brasil 247",
+     "title": "Cuidado! Golpe no WhatsApp pode roubar sua conta com apenas um toque"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:00:00 GMT",
+     "source": "UOL",
+     "title": "Combo com TV de 43 polegadas e soundbar Samsung está por menos de R$ 2.000"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:39:48 GMT",
+     "source": "Super Rádio Tupi",
+     "title": "Vizinho constrói prédio de 9 andares que impede 100% do sol nos painéis solares da casa ao lado, Justiça intervém e investidor é obrigado a pagar R$ 4.800 por mês"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:55:00 GMT",
+     "source": "iG Último Segundo",
+     "title": "Mulher morre após parar de tomar remédio por recomendação de IA"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:21:46 GMT",
+     "source": "TudoCelular.com",
+     "title": "Galaxy Z Fold 9 deve resgatar antigo recurso para combater o iPhone Duo, diz rumor"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:00:00 GMT",
+     "source": "iG Gente",
+     "title": "Vídeo: Drone mostra Mansão Ídolos abandonada"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:46:33 GMT",
+     "source": "Minha Operadora",
+     "title": "Vivo Satélite com Starlink: veja a lista completa dos celulares compatíveis"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:34:05 GMT",
+     "source": "TudoCelular.com",
+     "title": "Spotify: novas regras do Plano Premium Família podem resultar em banimento de até um ano"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:59:00 GMT",
+     "source": "Portal Tempo Novo",
+     "title": "Nova carteira de identidade já pode ser solicitada pelo celular e chegar em casa pelos Correios; veja o passo a passo"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:00:15 GMT",
+     "source": "CNN Brasil",
+     "title": "Como criar agentes de IA mesmo sem saber programar?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+     "source": "Valor Econômico",
+     "title": "Santander irá levar brasileiros para curso gratuito de IA na Espanha"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:54:36 GMT",
+     "source": "Guitarload",
+     "title": "IK Multimedia anuncia TONEX Parametric Tone Model e ressignifica os limites da modelagem por IA"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:59:57 GMT",
+     "source": "CNN Brasil",
+     "title": "Conhecimento sobre IA no Brasil cresce de forma desigual, diz pesquisa"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:00:00 GMT",
+     "source": "G1",
+     "title": "Emicida aconselha novos MCs a evitar uso de IA e 'treinar freestyle na rua'"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:37:45 GMT",
+     "source": "O GLOBO",
+     "title": "Polícia de São Paulo prende suspeito de roubar R$ 45 milhões em golpe de criptomoedas no Amazonas"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:38:00 GMT",
+     "source": "Banda B",
+     "title": "Dupla rouba celulares de mulheres no Água Verde, tenta fugir em ônibus e acaba presa; veja vídeo"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:54:44 GMT",
+     "source": "sampi.net.br",
+     "title": "JP1: Com arma na cara, jovem perde celular e dinheiro para ladrões"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:09:00 GMT",
+     "source": "Portal do Holanda",
+     "title": "Em plantão judicial, desembargadora barra apreensão de celular de Maria do Carmo"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:10:33 GMT",
+     "source": "Super Rádio Tupi",
+     "title": "Cliente cancela o plano de internet por telefone, continua sendo cobrado por três meses e descobre que pode exigir o histórico e o registro do atendimento para provar o pedido"
+    }
+   ],
+   "top": [
+    {
+     "published": "Sat, 31 Oct 2026 19:31:42 GMT",
+     "source": "Poder360",
+     "title": "Ação popular pede suspensão de salário do senador Flávio Bolsonaro"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:30:56 GMT",
+     "source": "Poder360",
+     "title": "Janones critica disputa por vitória de Lula: “A vaidade é uma merda”"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:17:00 GMT",
+     "source": "Correio Braziliense",
+     "title": "Novos protestos na França reúnem cerca de meio milhão de pessoas"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:59:15 GMT",
+     "source": "G1",
+     "title": "Trump diz não ter planos de encontrar Flávio Bolsonaro e que senador pode ficar nos EUA 'quanto tempo quiser'"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:34:45 GMT",
+     "source": "UOL Notícias",
+     "title": "Briga por tribunal põe presidente e governo da Polônia em guerra aberta"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:15:09 GMT",
+     "source": "Poder360",
+     "title": "Reeleito, Lula fica \"off\" e vai estender o feriadão para descansar"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:13:16 GMT",
+     "source": "O GLOBO",
+     "title": "Ministério do Trabalho recebe mais de 4,3 mil denúncias de assédio eleitoral em apenas três dias"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:13:00 GMT",
+     "source": "Climatempo",
+     "title": "Primeira semana de novembro terá formação de frente fria no Sul do Brasil"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:36:43 GMT",
+     "source": "O POVO",
+     "title": "MPCE notifica suspeitos de enviar mensagens xenofóbicas em grupo de condomínio no Eusébio"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:28:04 GMT",
+     "source": "G1",
+     "title": "Força Nacional vai permanecer em aldeias indígenas de MS por tempo indeterminado, diz ministro da Justiça"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:00:44 GMT",
+     "source": "CNN Brasil",
+     "title": "36 milhões de votos latinos estão em jogo nas eleições de Meio de Mandato"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:22:43 GMT",
+     "source": "G1",
+     "title": "Bombardeio militar contra guerrilha ELN deixa mortos na Venezuela, diz ONG"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:12:35 GMT",
+     "source": "Poder360",
+     "title": "Civis deixam cidade ucraniana ocupada pela Rússia; veja imagens"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:03:10 GMT",
+     "source": "Poder360",
+     "title": "Líder do Irã ordena resposta \"sem restrições\" em caso de ataque"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:00:00 GMT",
+     "source": "Estadão",
+     "title": "The Economist: Mercado reage mal à vitória inesperada de Lula — e há razões para isso"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:50:47 GMT",
+     "source": "G1",
+     "title": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da história"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:00:33 GMT",
+     "source": "CNN Brasil",
+     "title": "Mega-Sena 3080: sorteio deste domingo (1°) pode pagar R$ 42 milhões"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:58:00 GMT",
+     "source": "Gazeta do Povo",
+     "title": "Indiciamentos do Master não envolvem políticos e novos pedidos vão poupar ministros do STF"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 02:00:00 GMT",
+     "source": "Folha de S.Paulo",
+     "title": "Veja o que dá para comprar com R$ 183 mil do MacBook Pro com tela touch, novo notebook da Apple"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:43:43 GMT",
+     "source": "TudoCelular.com",
+     "title": "Samsung zomba de problemas na tela do iPhone Duo em nova campanha no Instagram"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:41:17 GMT",
+     "source": "O GLOBO",
+     "title": "Meteorito de Marte encontrado no Deserto do Saara tem 4,1 bilhões de anos e evidências de água"
+    },
+    {
+     "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+     "source": "IGN Brasil",
+     "title": "O Kungfupunk consolida Phantom Blade Zero como um dos melhores jogos do ano e da geração"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:39:37 GMT",
+     "source": "UOL",
+     "title": "Outro Canal: A Fazenda 18: Record rescinde contrato de Mônica Fonseca após expulsão do reality"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:20:51 GMT",
+     "source": "O Vício",
+     "title": "Batman II tem filmagens interrompidas de novo após acidente"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:02:46 GMT",
+     "source": "G1",
+     "title": "Após fãs de BTS passarem mal nas filas por causa do calor, polícia pede reforço na distribuição de água em último dia de turnê em SP"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:40:00 GMT",
+     "source": "Gshow",
+     "title": "Quem Ama Cuida: Zeni reage a ataque de Pilar"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:13:00 GMT",
+     "source": "ESPN Brasil",
+     "title": "Cruzeiro vence Corinthians nos pênaltis e é campeão inédito da Libertadores Feminina"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:13:11 GMT",
+     "source": "ge",
+     "title": "Reinaldo cita ameaças à arbitragem e vê Mirassol prejudicado contra o Corinthians"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:55:33 GMT",
+     "source": "UOL",
+     "title": "Paulinho e Sosa ficam no DM, mas Vitor Roque joga; veja provável Palmeiras"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:26:24 GMT",
+     "source": "GZH",
+     "title": "AO VIVO: acompanhe o minuto a minuto de Vila Nova-GO x Juventude"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:35:25 GMT",
+     "source": "G1",
+     "title": "RJ registra 211 casos de Mpox em 2026, supera total de 2025 e investiga outros 119 suspeitos"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:55:46 GMT",
+     "source": "Extra online",
+     "title": "Vacina ACWY: cariocas fazem filas em postos e esgotam imunizante no Rio"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:00:16 GMT",
+     "source": "CNN Brasil",
+     "title": "AVC: Médicos explicam sintomas e sinais de alerta ao Dr. Kalil"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:30:00 GMT",
+     "source": "Agência Brasil",
+     "title": "SUS detecta quase 10 mil testes positivos para HPV de alto risco"
+    }
+   ]
+  },
+  "DE": {
+   "business": [
+    {
+     "published": "Sat, 31 Oct 2026 23:33:00 GMT",
+     "source": "Spiegel",
+     "title": "Binance: FBI macht Nordkorea für Milliardenraub bei Kryptobörse verantwortlich"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:07:00 GMT",
+     "source": "T-Online",
+     "title": "Einigung zur Abschaffung der Einspeisevergütung in Sicht: EEG-Kompromiss liegt vor - T-Online"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:55:49 GMT",
+     "source": "FAZ",
+     "title": "DWS stoppt Auszahlungen: Notmaßnahme für Immobilienfonds"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:38:01 GMT",
+     "source": "Golem",
+     "title": "Nasdaq: KI-Sorgen treiben Anleger aus Tech-Aktien"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:12:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Favoriten der Finanzprofis: Diese Aktien empfehlen Experten zu kaufen"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:33:19 GMT",
+     "source": "RND.de",
+     "title": "Gasversorgung in Deutschland: Tägliches Update zu Speichern, Preisen, Import und Verbrauch"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:07:14 GMT",
+     "source": "Osthessen|News",
+     "title": "Neue BMW-Modelle feiern Premiere bei Krah & Enders"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:25:00 GMT",
+     "source": "MDR.de",
+     "title": "VW weiter im Krisenmodus - angespannte Stimmung bei Skoda trotz guter Umsätze"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:20:00 GMT",
+     "source": "Finanzen.net",
+     "title": "KI-Sorgen: DAX geht schwach ins Wochenende -- Wall Street verlustreich -- Intel-Aktie bricht um 30% ein -- Amazon, Rüstungsaktien, Infineon, Apple, Meta, Bayer, SpaceX, Strategy im Fokus"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 04:30:00 GMT",
+     "source": "NZZ",
+     "title": "Bei der EZB wird die Lagarde-Nachfolge wohl zum Duell Falke gegen Taube, Niederländer gegen Spanier"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:51:25 GMT",
+     "source": "Osthessen-Zeitung",
+     "title": "Edeka hisst die Fahnen – Veränderung in den Kaiserwiesen sichtbar - Osthessen-Zeitung"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:46:51 GMT",
+     "source": "BILD",
+     "title": "Kartellamt warnt: Investoren krallen sich Arztpraxen!"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+     "source": "Wallstreet Online",
+     "title": "Goldpreis-Prognose: Panik greift um sich – Wie schlimm wird es jetzt für Gold?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 12:21:24 GMT",
+     "source": "WELT",
+     "title": "VW-Konzern: Audi-Gewinn bricht im dritten Quartal um 87 Prozent ein"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:26:00 GMT",
+     "source": "heise online",
+     "title": "Zentralbank stellt die Weichen für den digitalen Euro"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:08:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 09:45:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Deutsche Wirtschaft wächst überraschend im Sommer"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:31:09 GMT",
+     "source": "WELT",
+     "title": "„Land bekommt Hochtechnologie“ – Vishay kündigt Großinvestition in Schleswig-Holstein an"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:11:07 GMT",
+     "source": "FAZ",
+     "title": "Anthropic-Börsengang: Wie ein Klumpenrisiko an den Börsen wächst"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:11:13 GMT",
+     "source": "BILD",
+     "title": "Sascha Lobo warnt vor 30 Prozent Arbeitslosen bei falschem Umgang mit KI"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 10:56:35 GMT",
+     "source": "T-Online",
+     "title": "Kunden haben entschieden: Das ist der beliebteste deutsche Baumarkt - T-Online"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:03:00 GMT",
+     "source": "heise online",
+     "title": "Frankreich plant Internetsteuer: 5,5 Cent pro Gigabyte"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:28:12 GMT",
+     "source": "Morningstar",
+     "title": "Amazon: Unsere Einschätzung der Aktie nach den Quartalszahlen"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 11:22:00 GMT",
+     "source": "DIE ZEIT",
+     "title": "Hubert Burda Media: Burda legt Redaktionen von »Focus« und »Focus Online« zusammen"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:40:46 GMT",
+     "source": "T-Online",
+     "title": "Total-Ausfall von SUV: Dieser Crashtest endet im Desaster - T-Online"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:37:00 GMT",
+     "source": "T-Online",
+     "title": "2027 wird Wendejahr für Autofahrer - T-Online"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:09:00 GMT",
+     "source": "WirtschaftsWoche",
+     "title": "VW-Abfindungen: Eine Führungskraft über Druck und Stellenabbau bei Volkswagen"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:53:40 GMT",
+     "source": "T-Online",
+     "title": "Discounter macht Butter billiger: Konkurrenz zieht beim Preis nach - T-Online"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:58:00 GMT",
+     "source": "Rosenheim24",
+     "title": "Insolvenz wegen Galeria-Pleite: Jetzt trifft es 150 Jahre altes Traditionsunternehmen"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:05:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Alphabet-Aktie nach Death Cross: Was frühere Signale für die Zeit danach zeigen"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:16:05 GMT",
+     "source": "WELT",
+     "title": "„Deswegen sind wir so besorgt um Deutschland“ – die heikle Mahnung des Mercedes-Chefs"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:05:00 GMT",
+     "source": "TAG24",
+     "title": "Höffner startet diese große Aktion schon vor dem Black Friday"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:08:00 GMT",
+     "source": "heise online",
+     "title": "Kein Geld fürs E-Auto: VW drückt beim elektrischen Golf auf Pause"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 10:40:00 GMT",
+     "source": "Netzwelt",
+     "title": "Wer wenig fährt, bekommt BYDs großen Kombi mit 1.050 Kilometern Reichweite für 169 Euro im Monat"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:31:00 GMT",
+     "source": "T-Online",
+     "title": "Festgeld erreicht den höchsten Zinssatz seit über einem Jahrzehnt - T-Online"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:56:03 GMT",
+     "source": "Berliner Kurier",
+     "title": "Dunkelflaute sorgt für Strompreis-Schock: Kein Wind, teures Gas, hohe Rechnung"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:45:01 GMT",
+     "source": "Golem",
+     "title": "Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 12:13:26 GMT",
+     "source": "DIE ZEIT",
+     "title": "Energiepreise: Britischer ​Ölkonzern BP verdreifacht seinen Gewinn"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 00:30:38 GMT",
+     "source": "WELT",
+     "title": "Rüstung: Rheinmetall wehrt sich gegen Pistorius-Kritik"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:10:00 GMT",
+     "source": "Notebookcheck",
+     "title": "Smart #2 Couture nach zwei Wochen ausverkauft: Warum der Ansturm?"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Sun, 01 Nov 2026 03:09:56 GMT",
+     "source": "WEB.DE",
+     "title": "\"SMS des Todes\": Sicherheitslücke bedroht Millionen Android-Handys"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:07:00 GMT",
+     "source": "T-Online",
+     "title": "Einigung zur Abschaffung der Einspeisevergütung in Sicht: EEG-Kompromiss liegt vor - T-Online"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:11:13 GMT",
+     "source": "BILD",
+     "title": "Sascha Lobo warnt vor 30 Prozent Arbeitslosen bei falschem Umgang mit KI"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:02:04 GMT",
+     "source": "BILD",
+     "title": "Superschiff: Nato probt den Kampf ohne eigene Stützpunkte"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:45:01 GMT",
+     "source": "Golem",
+     "title": "Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:58:51 GMT",
+     "source": "n-tv.de",
+     "title": "\"Physikalisch erstaunlich\": Teslas fliegendes Auto - Spielerei oder Durchbruch? - n-tv.de"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:08:01 GMT",
+     "source": "Golem",
+     "title": "Foldable: Samsung lästert in Werbung über iPhone Duos Displayfehler"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:25:17 GMT",
+     "source": "n-tv.de",
+     "title": "6,3 Milliarden Dollar weg: Rekord-Hack bei Binance alarmiert Kryptobranche - n-tv.de"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:16:00 GMT",
+     "source": "Spiegel",
+     "title": "(S+) Ukraine: Soldat amputiert sich Bein und wird per Drohne vom Schlachtfeld gerettet"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:54:02 GMT",
+     "source": "Golem",
+     "title": "Sam Altman über DRAM: Warum der OpenAI-Chef Arbeitsspeicher in der Cloud sehen will"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:45:02 GMT",
+     "source": "Golem",
+     "title": "Tripo.ai und Meshy: KIs für 3D-Modelle schotten sich nach Milliardenbewertung ab"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:49:00 GMT",
+     "source": "Spiegel",
+     "title": "KI auf YouTube, TikTok, Instagram: Plötzlich scheint es keinen mehr zu stören, dass überall KI ist"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 12:12:00 GMT",
+     "source": "heise online",
+     "title": "Erneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:17:00 GMT",
+     "source": "WirtschaftsWoche",
+     "title": "Midterms 2026: Warum Trumps große KI-Wette plötzlich zum Problem für die Republikaner wird"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:59:00 GMT",
+     "source": "FOCUS online",
+     "title": "Amazon, Alphabet, Intel: Die KI-Rechnung wird fällig"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:56:00 GMT",
+     "source": "FOCUS online",
+     "title": "Anwohner beschweren sich über Lärm von Elon Musks KI-Rechenzentrum: Er will nun ihre 418 Häuser kaufen"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 10:23:12 GMT",
+     "source": "ifun.de",
+     "title": "Echo Show 16 und Alexa Photo Frame warten auf Deutschlandstart"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:20:20 GMT",
+     "source": "BILD",
+     "title": "„Herunterfahren“ schaltet den Windows-PC nicht komplett aus – das hilft"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+     "source": "ComputerBase",
+     "title": "DirectX 12: Microsoft bringt größtes Raytracing-Update seit 2018"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:02:00 GMT",
+     "source": "RP Online",
+     "title": "„Ich verstehe die Leute nicht, die sich noch eine Gasheizung kaufen“"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:27:33 GMT",
+     "source": "Deskmodder.de",
+     "title": "AMD Adrenalin 26.10.2 Grafiktreiber mit einer Reihe an Korrekturen"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:34:00 GMT",
+     "source": "heise online",
+     "title": "Tesla-Besitzer in Südkorea umgingen Sperren für Full Self Driving"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:32:02 GMT",
+     "source": "Golem",
+     "title": "Robotaxi: Waymos verstopfen öffentliche Ladestationen und nerven Anwohner"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 10:16:01 GMT",
+     "source": "Golem",
+     "title": "Mistral Large 4: Mistral macht 1-Billion-Parameter-Modell frei zugänglich"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:18:14 GMT",
+     "source": "RND.de",
+     "title": "Dunkelflaute oder Überschuss: Das tägliche Update zur Stromversorgung"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:20:26 GMT",
+     "source": "BILD",
+     "title": "WhatsApp räumt auf: Schluss mit dem Chaos im Gruppenchat"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:41:00 GMT",
+     "source": "FOCUS online",
+     "title": "Die Riesenfabrik in Schottland, die alte Geistercomputer zum Leben erweckt"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:17:06 GMT",
+     "source": "DIE ZEIT",
+     "title": "Baustellen für Rechenzentren: Der Preis, den Arbeiter für den KI-Boom zahlen"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:33:32 GMT",
+     "source": "iphone-ticker.de",
+     "title": "Withings ohne Abo: Open-Source-Projekt ermöglicht Apple-Health-Abgleich - iphone-ticker.de"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:47:11 GMT",
+     "source": "NIUS",
+     "title": "Stromversorgung in Deutschland: Dunkelflaute: Wind und Solar decken nur 18 % des Stroms"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:00:00 GMT",
+     "source": "ComputerBase",
+     "title": "CPU-Gerüchte: Prognosen zur Gaming-Leistung von Intel Nova Lake"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 08:46:05 GMT",
+     "source": "WELT",
+     "title": "„Niemand, der bei Verstand ist, baut heute noch Kernkraftwerke“"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:51:00 GMT",
+     "source": "ComputerBase",
+     "title": "Windows 11: Neue WinUI-Steuerelemente bringen wichtige Funktionen"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:30:00 GMT",
+     "source": "heise online",
+     "title": "Adobe-Konkurrenz? Das taugt KI-Klon PhotoCraft | c't uplink"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:41:02 GMT",
+     "source": "Golem",
+     "title": "Haiku generiert: Googles Satelliten-KI-Rechner meldet sich aus dem Orbit"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:21:00 GMT",
+     "source": "heise online",
+     "title": "US-Anwälte zu „Audio Intelligence“ auf der Apple Watch: Möglicherweise strafbar"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:13:25 GMT",
+     "source": "WELT",
+     "title": "Gen Z: Welche Jahrgänge gehören dazu – und wie tickt die Generation Z?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:02:00 GMT",
+     "source": "Prad.de",
+     "title": "Top 10 Bestenliste 2026: 83 bis 86 Zoll Fernseher"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:30:25 GMT",
+     "source": "Caschys Blog",
+     "title": "Synology: Ransomware C3RB3R greift veraltete NAS-Systeme an"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:00:59 GMT",
+     "source": "Caschys Blog",
+     "title": "Amazon Alexa Tablet 12 Pro im Test: Das Premium-Gefühl mit Google Play Store"
+    }
+   ],
+   "top": [
+    {
+     "published": "Sun, 01 Nov 2026 04:42:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:42:30 GMT",
+     "source": "DIE ZEIT",
+     "title": "Machtkampf in Polen: Polens Präsident beschuldigt Donald Tusk der Übernahme der Justiz"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:05:08 GMT",
+     "source": "BILD",
+     "title": "Krawalle in Frankreich: Ein Polizist brennt!"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:28:04 GMT",
+     "source": "taz.de",
+     "title": "Parteitag der Linken in Berlin: Elif Eralp strahlt vor Freude"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:58:00 GMT",
+     "source": "Spiegel",
+     "title": "(S+) Smalltalk beim G20-Außenministertreffen in Atlanta: Johann Wadephul plaudert mit Sergej Lawrow"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:29:00 GMT",
+     "source": "Stuttgarter Zeitung",
+     "title": "Gen-Z-Demo in Stuttgart: Jugendproteste enden im Chaos - Polizei zieht erste Bilanz"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:00:13 GMT",
+     "source": "n-tv.de",
+     "title": "Kanzler sorge für \"Zerwürfnisse\": Grünen-Chefin kritisiert Merz-Söder-Machtkampf bei Bundespräsidentenfrage - n-tv.de"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:56:14 GMT",
+     "source": "DIE ZEIT",
+     "title": "Tarifstreit: Warnstreiks der IG Metall haben begonnen"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:47:52 GMT",
+     "source": "Berliner Morgenpost",
+     "title": "„GenZ hat genug!“-Protestzug durch Mitte: Der Zorn entlud sich an einer Tram"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:56:55 GMT",
+     "source": "WELT",
+     "title": "„Nur der erste Schritt“: Linken-Politiker lernt von Schülerprotesten in Paris – „Gen Z regelt“ plant weitere Demos"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:08:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:51:00 GMT",
+     "source": "Spiegel",
+     "title": "Israel: Präsident Isaac Herzog kündigt Gespräche zur Regierungsbildung an"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:09:56 GMT",
+     "source": "DIE ZEIT",
+     "title": "Evakuierung aus Oleschky: Oleschky-Flüchtlinge sind laut Selenskyj wieder in der Ukraine"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:46:29 GMT",
+     "source": "n-tv.de",
+     "title": "Viele Leichen und Leichenteile: Behörden kämpfen nach Zugunglück in Spanien mit Opfer-Identifizierung - n-tv.de"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:33:00 GMT",
+     "source": "Spiegel",
+     "title": "Binance: FBI macht Nordkorea für Milliardenraub bei Kryptobörse verantwortlich"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:07:00 GMT",
+     "source": "T-Online",
+     "title": "Einigung zur Abschaffung der Einspeisevergütung in Sicht: EEG-Kompromiss liegt vor - T-Online"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:55:49 GMT",
+     "source": "FAZ",
+     "title": "DWS stoppt Auszahlungen: Notmaßnahme für Immobilienfonds"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:38:01 GMT",
+     "source": "Golem",
+     "title": "Nasdaq: KI-Sorgen treiben Anleger aus Tech-Aktien"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:36:39 GMT",
+     "source": "Forschung und Wissen",
+     "title": "Stein aus der Sahara ist ein über 4,1 Milliarden Jahre altes Stück Mars"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:58:30 GMT",
+     "source": "Hardware-Inside",
+     "title": "Phantom Blade Zero: Über 730.000 Spieler gleichzeitig auf Steam Unsere News auf Social Media - Hardware-Inside"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:00:58 GMT",
+     "source": "Caschys Blog",
+     "title": "Apple Music für Android: Version 7.0 mit Liquid-Glass-Design wird final verteilt"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:09:56 GMT",
+     "source": "WEB.DE",
+     "title": "\"SMS des Todes\": Sicherheitslücke bedroht Millionen Android-Handys"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:59:00 GMT",
+     "source": "STERN.de",
+     "title": "Heidi Klums Hinweise deuten auf diese vier Kostüme hin"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:49:47 GMT",
+     "source": "DIE ZEIT",
+     "title": "Musik: Deep-Purple-Sänger im Krankenhaus - Konzerte abgesagt"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 01:40:00 GMT",
+     "source": "T-Online",
+     "title": "Fans feiern Politikerin: Ricarda Lang führt Florian Schroeder bei \"Journal Deluxe\" vor - T-Online"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:42:25 GMT",
+     "source": "BILD",
+     "title": "Dieter Bohlen unterstützt Gen Z: „Total gegen eine neue Wehrpflicht“"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:30:45 GMT",
+     "source": "Tagesspiegel",
+     "title": "Drei Verletzte, ein verschossener Elfmeter Dortmund trotzt Bayern im Spitzenspiel ein spätes 2:2 ab"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:38:59 GMT",
+     "source": "Joyn",
+     "title": "Tennis: Alexander Zverev verliert und verpasst potenzielles Traum-Finale in Wien"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:11:01 GMT",
+     "source": "SPEEDWEEK.com",
+     "title": "Ab 5 Uhr: Wo die Rennen der MotoGP-WM in Malaysia live zu sehen sind"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:09:16 GMT",
+     "source": "BILD",
+     "title": "Kimi Antonelli: „Mit Melatonin vollballern“ vor möglichem WM-Triumph"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 04:30:47 GMT",
+     "source": "ad-hoc-news.de",
+     "title": "Alzheimer und Entzündungen: Rund 70 Schübe könnten Proteinablagerungen fördern - ad-hoc-news.de"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:43:19 GMT",
+     "source": "Deutsches Ärzteblatt",
+     "title": "Süße Snacks verstärken antibiotikabedingte Störung der Darmflora – News"
+    },
+    {
+     "published": "Tue, 27 Oct 2026 10:18:30 GMT",
+     "source": "aponet.de",
+     "title": "Typ-2-Diabetes: Blutzuckersensor hilft auch ohne Insulin"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 04:45:44 GMT",
+     "source": "Augsburger Allgemeine",
+     "title": "Vitamin D und Magnesium: So wirken sie zusammen"
+    }
+   ]
+  },
+  "GB": {
+   "business": [
+    {
+     "published": "Sat, 31 Oct 2026 17:13:00 GMT",
+     "source": "The Telegraph",
+     "title": "Poundland collapse could trigger 30,000 job losses, founder warns"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:41:00 GMT",
+     "source": "The Guardian",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:40:00 GMT",
+     "source": "The Telegraph",
+     "title": "I’m exactly who Labour’s first home scheme is for. I wouldn’t touch it"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:01:42 GMT",
+     "source": "Financial Times",
+     "title": "Britain’s charity shops are fighting for survival"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:26:29 GMT",
+     "source": "BBC",
+     "title": "John Healey risks breaking minimum wage promise for younger workers"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:23:14 GMT",
+     "source": "Sky News",
+     "title": "Yorkshire Water boss resigns after company given lowest environmental rating"
+    },
+    {
+     "published": "Tue, 27 Oct 2026 18:39:00 GMT",
+     "source": "The Independent",
+     "title": "John Healey’s plan for a ‘Robin Hood’ Budget may not be as risk-free as he thinks"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:48:22 GMT",
+     "source": "Bloomberg.com",
+     "title": "Weil Gotshal Pledges to Help Incoming Junior Lawyers Find Jobs"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:45:48 GMT",
+     "source": "Financial Times",
+     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:02:13 GMT",
+     "source": "Financial Times",
+     "title": "The bonkers business of tax breaks for entrepreneurs"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:45:47 GMT",
+     "source": "BBC",
+     "title": "Teeth-whitening pair jailed over £8.5m tax fraud"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+     "source": "The Guardian",
+     "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:09:00 GMT",
+     "source": "The Telegraph",
+     "title": "Net zero cable approved by Labour despite threat to wildlife"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 08:06:00 GMT",
+     "source": "The Guardian",
+     "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:31:36 GMT",
+     "source": "Manchester Evening News",
+     "title": "National Lottery Lotto results: Winning numbers for tonight's £2M draw - Saturday, October 31"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:33:43 GMT",
+     "source": "Reuters",
+     "title": "UK backs Rolls-Royce return to jet market to fend off foreign rivals"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:38:17 GMT",
+     "source": "Financial Times",
+     "title": "Bank of England explores easing key limit on riskier mortgage lending"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:37:08 GMT",
+     "source": "Financial Times",
+     "title": "Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:07:20 GMT",
+     "source": "Financial Times",
+     "title": "Cash Isa changes can still foster a ‘nation of investors’"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:41:07 GMT",
+     "source": "BBC",
+     "title": "Bute House protested by environmental campaigners"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:00:00 GMT",
+     "source": "The Telegraph",
+     "title": "John Healey mounts tax raid on wind farms"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:01:05 GMT",
+     "source": "Racing Post",
+     "title": "'A nice place to get to and I don't think it's impossible' - BHA chair Simon Cox looks to future after budget blow"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:26:19 GMT",
+     "source": "The Courier",
+     "title": "Courier Business Awards 2026: Pictures and reaction from all the winners"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:17:05 GMT",
+     "source": "BBC",
+     "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:32:00 GMT",
+     "source": "The Guardian",
+     "title": "Britain’s housing crisis won’t be fixed without a new tax landscape"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:47:00 GMT",
+     "source": "The Sun",
+     "title": "6 ways Budget has already unravelled… from gas bill farce to welfare chaos"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:52:00 GMT",
+     "source": "The Telegraph",
+     "title": "Virgin Media O2 ‘to axe 4,000 jobs’"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:09:00 GMT",
+     "source": "The Independent",
+     "title": "NatWest announces 1,000 more jobs cut after AI efficiency drive"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:02:00 GMT",
+     "source": "The Guardian",
+     "title": "A-listers and AI stylists: how high-street brands are staging a fashion comeback"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:31:00 GMT",
+     "source": "The Guardian",
+     "title": "‘We were mortgage-free at 45, here’s how you can do it too’"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:49:00 GMT",
+     "source": "The Telegraph",
+     "title": "Firm run by ‘close friend’ of Burnham to benefit from multi million-pound grant"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 06:07:19 GMT",
+     "source": "BBC",
+     "title": "Sompting and Rye farms pumpkin crop exceeds growers' expectations"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:27:52 GMT",
+     "source": "AOL.com",
+     "title": "Nationwide customers dealt £685 blow on Friday"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:31:30 GMT",
+     "source": "BBC",
+     "title": "Dying patient left in pain by care delays, MP says"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:32:30 GMT",
+     "source": "City AM",
+     "title": "Tesco retreats from Europe with £1.5bn sale of Czech and Slovak divisions"
+    },
+    {
+     "published": "Tue, 27 Oct 2026 17:57:00 GMT",
+     "source": "The Guardian",
+     "title": "Homes across UK to get low- or no-interest loans to fund solar panels and heat pumps"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:38:00 GMT",
+     "source": "Belfast Telegraph",
+     "title": "Asda apologises after customers report breakdowns having filled up at Coleraine outlet"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:51:00 GMT",
+     "source": "Crude Oil Prices Today | OilPrice.com",
+     "title": "Oil Traders Brace for a Wild Week as Brent Approaches $120"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:00:00 GMT",
+     "source": "The Sun",
+     "title": "Letting off fireworks this weekend could land you with £5,000 fine, cops warn"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:05:00 GMT",
+     "source": "The Times",
+     "title": "Tech stocks suffer sell-off in AI reckoning"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Fri, 30 Oct 2026 14:58:52 GMT",
+     "source": "Warhammer Community",
+     "title": "Celebrate Warhammer Day with some suitably scary miniatures"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:29:57 GMT",
+     "source": "Football Manager",
+     "title": "FM27 Free Play : How to install via Xbox Game Pass"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:03:30 GMT",
+     "source": "Push Square",
+     "title": "These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+     "source": "The Times",
+     "title": "I’ve found a loose powder that’s perfect for the over-forties"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 22:58:15 GMT",
+     "source": "BBC",
+     "title": "Pontypool boy to go to US for cancer vaccine after drug withdrawn"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:00:00 GMT",
+     "source": "SamMobile",
+     "title": "How much Ultra DNA will the rumored Samsung Galaxy S27 Pro have?"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 15:01:28 GMT",
+     "source": "XBOX Wire",
+     "title": "Free Play Days – WUCHANG: Fallen Feathers, Dead by Daylight, Darkwood, Spirittea, and EVERSPACE 2"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:19:26 GMT",
+     "source": "PhoneArena",
+     "title": "Disillusioned Apple fans consider canceling iPhone Duo pre-orders as another issue crops up"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 01:00:00 GMT",
+     "source": "Metro.co.uk",
+     "title": "Horror video games will always be scarier than movies - Reader’s Feature"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:58:43 GMT",
+     "source": "Warhammer Community",
+     "title": "Watch the full series of Arkanaut on Warhammer TV now"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:30:58 GMT",
+     "source": "Video Games Chronicle",
+     "title": "The Arduview is the world’s first fully transparent handheld, including the screen"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:17:00 GMT",
+     "source": "TheStreet",
+     "title": "MKBHD drops a blunt verdict on Apple’s touchscreen MacBook Pro"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:45:00 GMT",
+     "source": "Nintendo Life",
+     "title": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 00:00:35 GMT",
+     "source": "BBC",
+     "title": "From Levi's to Primark - the fashion chains selling mended clothes"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:39:25 GMT",
+     "source": "Eurogamer.net",
+     "title": "Final Fantasy 14's next job is a crossbow-wielding ranged DPS with a bird sidekick"
+    },
+    {
+     "published": "Wed, 28 Oct 2026 10:27:12 GMT",
+     "source": "Warhammer Community",
+     "title": "Warhammer Age of Sigmar: October Update"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+     "source": "The Register",
+     "title": "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+     "source": "Push Square",
+     "title": "Inspired by Classic FromSoftware, Queen's Domain Looks a Fascinating PS5 Adventure"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:00:17 GMT",
+     "source": "Pocket-lint",
+     "title": "Your 4K UHD Blu-ray player has an expiration date - Pocket-lint"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 11:56:00 GMT",
+     "source": "The Guardian",
+     "title": "Night Plane review – join the jumbo jet to hell in this indie horror head trip"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 14:29:42 GMT",
+     "source": "BBC",
+     "title": "Staffordshire ceramics firm takes 'giant leap' towards building on the Moon"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+     "source": "Eurogamer.net",
+     "title": "\"I've been intrigued by horrible images of live-action sequences for weeks\" - What have you been playing this week?"
+    },
+    {
+     "published": "Sun, 25 Oct 2026 15:52:13 GMT",
+     "source": "Warhammer Community",
+     "title": "Golden Demon 2026 winners revealed at SPIEL Essen"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:03:08 GMT",
+     "source": "Pure Xbox",
+     "title": "Xbox Game Pass: All Games Coming Soon In November 2026"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:35:33 GMT",
+     "source": "Push Square",
+     "title": "Review: Call of Duty: Modern Warfare 4 (PS5) - Same Old Multiplayer Drags Down Stellar Package"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:25:42 GMT",
+     "source": "Nintendo Life",
+     "title": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:45:00 GMT",
+     "source": "BBC",
+     "title": "How video game remakes tap the power of nostalgia"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:00:00 GMT",
+     "source": "Eurogamer.net",
+     "title": "Pokémon Go Mega Chandelure counters, weaknesses and best moveset"
+    },
+    {
+     "published": "Wed, 28 Oct 2026 06:17:43 GMT",
+     "source": "BBC",
+     "title": "Jo Malone donates £100k for cancer-detecting 'nose'"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:16:36 GMT",
+     "source": "My Nintendo News",
+     "title": "Digital Foundry: Modern Warfare 4 on Switch 2 has input lag issue as 31ms to 51ms slower than PS5 in multiplayer"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:45:47 GMT",
+     "source": "Push Square",
+     "title": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:42:29 GMT",
+     "source": "TechPowerUp",
+     "title": "Forza Motorsport Head Resigns Following Turn 10 and Playground Games Merger"
+    },
+    {
+     "published": "Wed, 28 Oct 2026 18:48:10 GMT",
+     "source": "Forbes",
+     "title": "Samsung’s Galaxy Z Fold 9 Plans Revealed As Fold 8 Price Slashed"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:42:27 GMT",
+     "source": "Sims Community",
+     "title": "The Sims 4 Flash Sale 2026: Limited Deals and Stack & Save Offers"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 11:10:41 GMT",
+     "source": "Forbes",
+     "title": "‘Escape From Tarkov’ Halloween Event Brings Zombies Back To Tarkov"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:30:38 GMT",
+     "source": "Motorcycle News",
+     "title": "Sena add massive speakers and 4K cameras for their 2027 smart helmet range"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:00:05 GMT",
+     "source": "Neowin",
+     "title": "Here are all the new features Microsoft added to Intune in October 2026"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:32:32 GMT",
+     "source": "The Register",
+     "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:45:00 GMT",
+     "source": "The Register",
+     "title": "AlpineBSD announced – an AI-free FOSS OS"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:54:16 GMT",
+     "source": "Eurogamer.net",
+     "title": "EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3"
+    }
+   ],
+   "top": [
+    {
+     "published": "Sun, 01 Nov 2026 01:15:10 GMT",
+     "source": "BBC",
+     "title": "'PM lets down the King' and 'Kenny's secret night at Maya's'"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:23:00 GMT",
+     "source": "The Guardian",
+     "title": "Police clash with masked rioters after largely peaceful protests across France"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:57:34 GMT",
+     "source": "BBC",
+     "title": "Reeves says UK's future should be inside the EU"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:45:56 GMT",
+     "source": "Al Jazeera",
+     "title": "London police arrest 139 as hundreds protest Palestine Action ban"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:22:26 GMT",
+     "source": "BBC",
+     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:34:32 GMT",
+     "source": "Manchester Evening News",
+     "title": "New Mills crash LIVE as double decker Bee Network bus crashes into building with passengers injured - latest updates"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:51:00 GMT",
+     "source": "Daily Express",
+     "title": "Horror as man stabbed next to supermarket in UK town"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:30:00 GMT",
+     "source": "The Telegraph",
+     "title": "RAF Protector drone takes flight to track Russian navy for first time"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:00:00 GMT",
+     "source": "The Telegraph",
+     "title": "Andy Burnham just isn’t serious"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:19:28 GMT",
+     "source": "BBC",
+     "title": "Investigation into 'unexplained' death of 18-year-old man"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:41:24 GMT",
+     "source": "BBC",
+     "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:46:21 GMT",
+     "source": "Euronews.com",
+     "title": "Zelenskyy warns delivery of US Patriots package could take years"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:51:11 GMT",
+     "source": "Financial Times",
+     "title": "Donald Tusk vows to press on with overhaul of Poland’s judiciary"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:37:28 GMT",
+     "source": "Bloomberg.com",
+     "title": "Norway Turns Trump’s Toilet Insults Into a Tourist Ploy"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:13:00 GMT",
+     "source": "The Telegraph",
+     "title": "Poundland collapse could trigger 30,000 job losses, founder warns"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:41:00 GMT",
+     "source": "The Guardian",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:40:00 GMT",
+     "source": "The Telegraph",
+     "title": "I’m exactly who Labour’s first home scheme is for. I wouldn’t touch it"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:01:42 GMT",
+     "source": "Financial Times",
+     "title": "Britain’s charity shops are fighting for survival"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:58:52 GMT",
+     "source": "Warhammer Community",
+     "title": "Celebrate Warhammer Day with some suitably scary miniatures"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:29:57 GMT",
+     "source": "Football Manager",
+     "title": "FM27 Free Play : How to install via Xbox Game Pass"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:03:30 GMT",
+     "source": "Push Square",
+     "title": "These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+     "source": "The Times",
+     "title": "I’ve found a loose powder that’s perfect for the over-forties"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:17:00 GMT",
+     "source": "The Sun",
+     "title": "Kenny's nights at Maya Jama's revealed as Traitors star seen leaving her £1.5m flat (but she says he slept on sofa)"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:31:00 GMT",
+     "source": "The Independent",
+     "title": "Celebrity Traitors 2026 finale attracts record audience figure for the BBC"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:00:00 GMT",
+     "source": "The Guardian",
+     "title": "Strictly Come Dancing Halloween special – as it happened"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:58:16 GMT",
+     "source": "Digital Spy",
+     "title": "Michael Douglas gives rare update on Jack Nicholson as he says the actor has \"disappeared\""
+    },
+    {
+     "published": "Sun, 01 Nov 2026 04:03:32 GMT",
+     "source": "Sky Sports",
+     "title": "Chelsea 2-0 Man Utd: Lisandro Martinez sees red as Morgan Rogers and Cole Palmer pile pressure on Michael Carrick"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:15:37 GMT",
+     "source": "BBC",
+     "title": "Mexico City Grand Prix qualifying result: Lewis Hamilton takes pole position"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:01:00 GMT",
+     "source": "The Guardian",
+     "title": "Enzo Maresca rues ‘silly’ errors after Manchester City defeat against Brighton"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:20:36 GMT",
+     "source": "Liverpool FC",
+     "title": "Liverpool v Arsenal: Team news"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:00:00 GMT",
+     "source": "Forbes",
+     "title": "November’s Night Sky Brings A Supermoon And A Rare Mars-Jupiter Meetup"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:02:20 GMT",
+     "source": "ScienceAlert",
+     "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before."
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:32:24 GMT",
+     "source": "BBC",
+     "title": "Secret Dorset: Pulling Alfred Russel Wallace from Darwin's shadow"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+     "source": "BBC",
+     "title": "Giant eagles once ruled the skies. They snatched human children, and shaped our evolution"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:48:49 GMT",
+     "source": "BBC",
+     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:12:00 GMT",
+     "source": "Manchester Evening News",
+     "title": "Bolton Hospital 'in a period of high-risk' as Covid cases surge and face mask measures brought in"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 06:01:00 GMT",
+     "source": "The Guardian",
+     "title": "UK government’s obesity plan ‘doomed to fail’, MPs warn"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 06:05:41 GMT",
+     "source": "BBC",
+     "title": "Kent pensioner pays £3k for cataract surgery to avoid NHS wait"
+    }
+   ]
+  },
+  "JP": {
+   "business": [
+    {
+     "published": "Sun, 01 Nov 2026 02:56:00 GMT",
+     "source": "NHKニュース",
+     "title": "暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:00:00 GMT",
+     "source": "産経ニュース",
+     "title": "新免税制度「リファンド方式」11月1日スタート 訪日客利用する「転売ヤー」不正抑止へ"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:19:00 GMT",
+     "source": "読売新聞",
+     "title": "５年ぶりの土日ハロウィーン、渋谷駅周辺は仮装した人でごった返す…「ＤＪポリス」配置"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "日銀「普通の中銀」道半ば 残る異次元緩和のツケ"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:40:46 GMT",
+     "source": "テレ朝NEWS",
+     "title": "2年前に脆弱性指摘 GMO社長2日に会見へ 幹部「もっと十分な対応取るべきだった」"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:02:00 GMT",
+     "source": "マネーポストWEB",
+     "title": "《億り人・古賀真人氏が解説》アンソロピックIPO「巨額AIインフラ投資」で注目の日本株 NEC、日立、アドバンテストほか「提携組」「インフラ組」の有望銘柄 ソフトバンクグループへの影響も必至"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:20:00 GMT",
+     "source": "CNET Japan",
+     "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "金利低下でも沈むゴールド 1年ぶり安値、米中間選挙後の原油高に警鐘"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:14:55 GMT",
+     "source": "Reuters",
+     "title": "ＮＹ市場サマリー（30日）円3日続伸、株急落 利回り低下"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:30:00 GMT",
+     "source": "株探",
+     "title": "AI関連株動揺の陰でマネー誘引、高成長「ITコンサル」関連6銘柄 ＜株探トップ特集＞"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:00:23 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "首相、ガソリン補助金縮小へかじ 物価対策浸透せず不満？ 政府高官「減らせばありがたみ気づく」（北海道新聞）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 02:29:14 GMT",
+     "source": "財経新聞",
+     "title": "アマゾンとインテルが急落、決算でAI投資の重さが浮き彫り―ナスダック2%超安"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:00:00 GMT",
+     "source": "産経ニュース",
+     "title": "高市政権の持つ「強さ」「ワクワク感」議員定数削減法案成立へ、消費減税法案も 平井文夫"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 01:00:00 GMT",
+     "source": "産経ニュース",
+     "title": "「中国政府系ハッカー」か「謎の集団」か、サイバー飽和攻撃に対峙する高市政権 高橋洋一 日本の解き方"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:55:00 GMT",
+     "source": "NHKニュース",
+     "title": "クラブツーリズム 不正アクセスで約432万件の個人情報漏えいか"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 09:42:00 GMT",
+     "source": "47NEWS",
+     "title": "新給付、女性は半数が対象に 就業者のみ、男性は2割"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:28:00 GMT",
+     "source": "新潟日報",
+     "title": "第2青函トンネル構想が浮上 首相が国土交通相に具体化指示、建設費１兆円規模と課題多く"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+     "source": "Car Watch",
+     "title": "トヨタ、Waymoと協業しバッテリEV「bZ4X」の無人運転タクシーを2027年運行開始 国内生産の量産車による日本初の完全自動運転タクシーサービス"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 09:17:13 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "【サイバー攻撃】ホワイトハッカーにいろいろ聞きました「銀行のセキュリティは大丈夫?」「スマホは乗っ取られる?」今年の情報漏えい“3億件超”に…防衛策は?【news23】（TBS NEWS DIG Powered by JNN）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 03:21:00 GMT",
+     "source": "財経新聞",
+     "title": "キオクシア初配当、東京エレクトロンは増配と自社株買い1500億円―決算と還元策を比較"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:11:00 GMT",
+     "source": "NHKニュース",
+     "title": "日本のアニメ産業市場 初の4兆円超 海外好調続き5年連続最高値"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:10:00 GMT",
+     "source": "くるまのニュース",
+     "title": "トヨタ新型「ステーションワゴン」に\"反響殺到\"！「普段使いに最高！」「引き締まってカッコいい」の声！ \"リッター28.8km\"低燃費＆精悍「ブラック足回り」も装備！ \"誕生60周年\"を祝う「カローラツーリング」とは！"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:22:00 GMT",
+     "source": "NHKニュース",
+     "title": "事業承継の相続税節税で評価方法検討 自民党内から反対論も"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 09:20:00 GMT",
+     "source": "秋田魁新報電子版",
+     "title": "北都銀行、定期預金金利を引き上げへ １１月２日から"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:00:00 GMT",
+     "source": "産経ニュース",
+     "title": "激動の中でのIP・アニメビジネス[Sponsored]"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:10:13 GMT",
+     "source": "VAGUE(ヴァーグ)",
+     "title": "ホンダ「直4・400cc」復活に歓喜！ 新型「CBR400Rフォア Eクラッチ」発売でSNS騒然 「中型だけど…」価格には賛否も？"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:36:00 GMT",
+     "source": "Aviation Wire",
+     "title": "ANA、不正アクセス影響3.8万人 1700人はパスポート番号も＝アマデウス問題"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 11:30:00 GMT",
+     "source": "読売新聞",
+     "title": "「ジャングリア沖縄」８９億円の赤字、資金繰り悪化で新規出資者探し…数社が関心・来年２月の決定目指す"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:13:00 GMT",
+     "source": "財経新聞",
+     "title": "来週の相場で注目すべき3つのポイント：米中間選挙、米雇用統計、国内決算発表本格化"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 04:30:00 GMT",
+     "source": "WSJ",
+     "title": "オープンAI、新たな資金調達で目標300億ドルの半分に届かず"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:10:23 GMT",
+     "source": "VAGUE(ヴァーグ)",
+     "title": "オフロードブームを牽引した“名作ミニバイク”が米国オークションで落札 走行わずか453キロ 54年前のヤマハ極上「JT2」の価値とは"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:05:16 GMT",
+     "source": "日本経済新聞",
+     "title": "決算:パナソニックHD純利益2.8倍に上振れ 27年3月期、配当は過去最高に"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:01:00 GMT",
+     "source": "産経ニュース",
+     "title": "＜主張＞外国人の永住許可 秩序維持へ厳格な審査を 社説"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 10:09:10 GMT",
+     "source": "Impress Watch",
+     "title": "無印良品、「MUJIアプリ」で個人情報漏えい 2726万件"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 03:50:00 GMT",
+     "source": "くるまのニュース",
+     "title": "トヨタ新「\"本格\"4WDミニバン」初公開！ \"全長5.2m級\"ド迫力ボディで「アルファード」超え！ タフな「大径タイヤ＆リフトアップ」で悪路もガンガン走れる！ 「シエナ ウッドランド コンセプト」米国SEMA登場へ！"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:53:00 GMT",
+     "source": "時事ドットコム",
+     "title": "日本交通、２９万人の情報流出か マイナンバーなど、不正アクセスで"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "10億円預金の口座が急増する日本 インフレが広げた資産格差"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:22:41 GMT",
+     "source": "ねとらぼ",
+     "title": "「長財布から買い替え」COACH（コーチ）の“ミニミニ財布”が大好評　「もっと早く買えば良かった」「小さいかばんにも入る」（1/2） | ファッション ねとらぼリサーチ"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:20:08 GMT",
+     "source": "CRYPTO TIMES",
+     "title": "年2.5兆円の日本株売りがビットコインに波及？日銀がETF売却加速"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 01:13:00 GMT",
+     "source": "読売新聞",
+     "title": "インテル株２９％急落、５２年ぶりの下落率…パソコン需要低迷でＣＥＯ「今後数四半期は厳しい状況になる」"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Sat, 31 Oct 2026 23:40:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "スマホにイヤホン、ラーメンの提供に気づかず 「作り直して」にあ然 「残さず食え！」一喝したのは…？（ENCOUNT）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:20:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:54:53 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "FBI「北朝鮮が関与」と発表 バイナンスの仮想通貨巨額盗難、被害額は推計1兆円（産経新聞）"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 04:03:15 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "ライバーが運転中に生配信で“よそ見→バイクと衝突”の恐怖の瞬間 千葉県警が語る「ながらスマホへの見解」（ピンズバNEWS）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:32:09 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "身代金、4割に追加要求 急増するランサム攻撃 専門家「支払いは解決ではない」・不正アクセス（時事通信）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 02:00:00 GMT",
+     "source": "ITmedia",
+     "title": "ダイソーで1100円の「PD対応20Wモバイルバッテリー」を試す　手頃な価格でそこそこ高速にスマホを充電可能：格安雑貨店のガジェットを試す - ITmedia Mobile"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:30:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "ウクライナの戦場にマイクを搭載したドローンが増殖中 何をしているのか？"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:38:56 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "イーロン・マスクが語る「AIの限界」 フィジカルAIで「経済規模100万倍」と期待（ITmedia ビジネスオンライン）"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:15:00 GMT",
+     "source": "ITmedia",
+     "title": "「Pythonは今年も2位」 いま人とAIが“最も使える”言語とは――GitHub年次調査「Octoverse 2026」"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 01:00:00 GMT",
+     "source": "ITmedia",
+     "title": "Google マップの新機能「マップに相談」は“知人に聞く”感覚で使える　「Pixel 11 Pro Fold」などフォルダブルとの相性も抜群（1/2 ページ） - ITmedia Mobile"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:40:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "富士フイルム、「磁気テープ」5倍増産へ100億円投資--「ランサムウェア耐性が注目」と同社"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:00:55 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "メモリ高騰の火元の一つ、OpenAIのアルトマンCEOが個人PCを非効率と批判。ゲーマーから怒りの声（多根清史） - エキスパート"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:00:02 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "ウェッブ宇宙望遠鏡、何もなかったはずの宇宙空間に謎の光を発見（ギズモード・ジャパン）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:35:06 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "KDDI、最大2.2万件の情報漏えいの可能性。連携先ライフネット生命に不正アクセス（ビジネス＋IT）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 01:30:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "「手に取ってすぐ気に入りました」 カシオの“7700円腕時計”が5390円！ 「実用性に特化した素晴らしいモデル」「安心してうたた寝できる」の声（ねとらぼ）"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:55:23 GMT",
+     "source": "AppMedia",
+     "title": "【FGO】オルガマリーは引くべき？おすすめ宝具レベル｜終章朗読劇PU版"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:37:34 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "風力発電機の火災から１週間、焼け落ちて周囲に散乱した残骸は片付かず特産の芝は「商品にならない」…住民らに募る不信感"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:00:03 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "どれも「10万円」以下！「脱iPhone」にオススメの「Androidスマホ」6選（GoodsPress Web）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 13:40:46 GMT",
+     "source": "テレ朝NEWS",
+     "title": "2年前に脆弱性指摘 GMO社長2日に会見へ 幹部「もっと十分な対応取るべきだった」"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:00:00 GMT",
+     "source": "ITmedia",
+     "title": "Googleが最先端モデル「Gemini 4 Carbon」を発表／OpenAIが新モデル「GPT-6.1 Terra」を発表　API料金は従来の半額：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:40:16 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "「ああ、ロボット掃除機ね」くつろぎ猫、足をひょいっと上げて進路譲ったら…まさかの展開に「リアクションが人間（笑）」「貫禄ありすぎ」"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:00:38 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "「ないものとして扱われ、心が傷つく」スマホ・マイナカードなしで1万1000円分がもらえない…60歳以上13人が都を提訴 アナログ・デジタルの“2軸”は必要か（ABEMA TIMES）"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 22:00:07 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "【比較】なぜ安川だけ減益…ファナック・三菱電機ら「フィジカルAI特需」の残酷な選別（ビジネス＋IT）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:01:01 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "OneDriveでデスクトップ全体を二度と同期しない。私がたどり着いた新しい運用方法（ライフハッカー・ジャパン）"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:50:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "100均の薬味ホルダー、意外すぎる活用法に3.5万いいね 充電もできるスマホスタンドに「その発想はなかった」（オリコン）"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:00:00 GMT",
+     "source": "Forbes JAPAN",
+     "title": "グーグル共同創業者のラリー・ペイジが「世界3位の富豪」に浮上、マイケル・デルを追い抜く"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 08:15:00 GMT",
+     "source": "ベストカーWeb",
+     "title": "トヨタ×ウェイモの無人タクシーには思わぬ壁がある？ 自動運転の最大の壁は「技術」じゃない!?"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:47:38 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃（ITmedia ビジネスオンライン）"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "「iPhone Duo」の故障報告相次ぐ 画面不具合、Appleは端末交換対応"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 01:24:00 GMT",
+     "source": "Reuters",
+     "title": "オープンＡＩ、資金調達目標を100億ドル引き下げ＝ＦＴ"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:45:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "「ChatGPTが服薬中止をアドバイス」--亡くなった女性の両親がOpenAIを提訴（CNET Japan）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:45:35 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "Claude Codeによる「既存ゲーム再現」を制限したとエンジニアが認める―オリジナル作品生成は引き続き動作する想定。“AIクローンゲーム”の抑止につながるか（Game Spark）"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "コスト半減を褒めないマスク氏 EVで学んだ量産、スペースXに応用"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:32:18 GMT",
+     "source": "デジカメinfo",
+     "title": "富士フイルムとキヤノンが新型カメラを登録"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:31:07 GMT",
+     "source": "ITmedia",
+     "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:03:27 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "バッファロー、IoT製品196型番が「JC-STAR★1」に適合 自治体から相談増加（電波タイムズ）"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:42:59 GMT",
+     "source": "AV Watch",
+     "title": "“推しキャラを机の上に”ソニー小型空間再現ディスプレイに「予想を大幅に上回る注文」"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:03:52 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "スマホで何でも買える時代に、なぜZ世代は「95分」かけて店舗に行くのか SNSが生む新たな消費行動（AMP［アンプ］）"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 11:03:32 GMT",
+     "source": "すまほん!!",
+     "title": "DOOGEE、「48GBメモリ」スマホ発売。実はメモリ6GBの「スペック詐欺」製品"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "AI予算、企業の3割で枯渇 アクセンチュア「無駄に利用」"
+    }
+   ],
+   "top": [
+    {
+     "published": "Sat, 31 Oct 2026 22:02:00 GMT",
+     "source": "時事ドットコム",
+     "title": "民主大勝なら米株逆風か ＡＩ投資に冷や水も―中間選挙"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:01:22 GMT",
+     "source": "47NEWS",
+     "title": "【速報】米国が条件受け入れの兆候とイラン"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:44:00 GMT",
+     "source": "読売新聞",
+     "title": "ロシア軍占領地から住民退避、ウクライナ入り…ロシアとウクライナの文民チームが現地に支援物資"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:30:00 GMT",
+     "source": "読売新聞",
+     "title": "宮城・鳴子峡近くで車が歩行者に突っ込む…男女５人が負傷、うち１０歳代女性は重傷"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:23:53 GMT",
+     "source": "tenki.jp",
+     "title": "台風31号 5日頃に父島に最接近か 高波など影響が長引くおそれ 関東周辺も雨(気象予報士 中川 裕美子)"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:00:00 GMT",
+     "source": "読売新聞",
+     "title": "フランスで３週連続の大規模抗議デモ、警官ら７万人動員…ドイツでも３０以上の都市で学生が徴兵制反対など訴え"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:48:24 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "ツキノワグマ1頭を駆除 山奥に話すも再び捕獲 神奈川・秦野市（FNNプライムオンライン（フジテレビ系））"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:35:00 GMT",
+     "source": "ウェザーニュース",
+     "title": "三重県南東沖でM6.1の深発地震 震度分布に“異常震域”の特徴"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:25:00 GMT",
+     "source": "読売新聞",
+     "title": "福岡市長選が告示、過去最多の新人１３人が立候補届け出…市長不出馬で４０年ぶりに新人のみの争いに"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:00:00 GMT",
+     "source": "産経ニュース",
+     "title": "飽和的サイバー攻撃、基幹インフラは大丈夫か「野党自滅」高市内閣支持率後押し 岩田明子"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:04:48 GMT",
+     "source": "47NEWS",
+     "title": "米、モスクワでの脅威警告 「多くの死傷者発生恐れ」"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:48:53 GMT",
+     "source": "産経ニュース",
+     "title": "ドイツで若者抗議デモ10万人 首都ベルリンやフランクフルト、暴徒と警察衝突し負傷者も"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:59:11 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "造反・不祥事議員も「素晴らしい」と称賛 米中間選でトランプ氏、与党苦戦なりふり構わず（産経新聞）"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+     "source": "財経新聞",
+     "title": "「サナエ」と呼ばれる日【フィスコ・コラム】"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:56:00 GMT",
+     "source": "NHKニュース",
+     "title": "暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:00:00 GMT",
+     "source": "産経ニュース",
+     "title": "新免税制度「リファンド方式」11月1日スタート 訪日客利用する「転売ヤー」不正抑止へ"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:19:00 GMT",
+     "source": "読売新聞",
+     "title": "５年ぶりの土日ハロウィーン、渋谷駅周辺は仮装した人でごった返す…「ＤＪポリス」配置"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "日銀「普通の中銀」道半ば 残る異次元緩和のツケ"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+     "source": "tenki.jp",
+     "title": "おうし座「南」「北」流星群、しし座流星群が見頃 11月の星空・天文情報(気象予報士 星野 朋美)"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:39:00 GMT",
+     "source": "GAZLOG",
+     "title": "iPhone Duoの画面割れでAppleが店舗に修理・交換を指示。リコールは実施せず"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:00:00 GMT",
+     "source": "産経ニュース",
+     "title": "火星に向かう「MMX」、最初の山場は周回軌道投入 宇宙研魂で24年後のリベンジなるか クローズアップ科学"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:00:17 GMT",
+     "source": "ITライフハック",
+     "title": "「JBL BandBox Solo」「JBL BandBox Trio」一般販売 / 『機動戦士ガンダム』より、MS柄ロングスリーブTシャツ【まとめ記事】"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+     "source": "福井新聞社",
+     "title": "「豊臣兄弟！」約1年半の撮影終了 仲野太賀「池松壮亮は最高の憧れ」、最終回は15分拡大"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:05:00 GMT",
+     "source": "ｄメニューニュース",
+     "title": "【ＶＩＶＡＮＴ】第２２話振り返り＜２＞ドラムが明かした奇跡の少女・ジャミーンの秘密は？"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:00:00 GMT",
+     "source": "ナタリー",
+     "title": "「VIVANT」最終回直前SPに悪役会議室の3人が参加決定、乃木と接触してどうなるか"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:22:15 GMT",
+     "source": "au Webポータル",
+     "title": "ナイチンゲールダンス・ヤス、吉本とのマネジメント契約終了 理由は「個人でお笑いライブを主催したこと」…今後は「何もお話しできません」"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 04:17:07 GMT",
+     "source": "朝日新聞",
+     "title": "早稲田大が優勝、全日本大学駅伝 16年ぶり6度目 出雲と2冠達成"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:00:13 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "フィギュアスケート しょまりんデビュー戦は４位 ＦＤ８７・０２点、合計１４５・７０点 本田が笑顔、宇野と手を握り合って見つめ合う 場内大歓声 豪快リフトに大きな拍手（デイリースポーツ）"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:52:51 GMT",
+     "source": "NHKニュース",
+     "title": "フィギュアGPシリーズ 島田麻央が今季世界最高得点で首位発進"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:44:00 GMT",
+     "source": "autosport web",
+     "title": "急きょF1デビューの平川亮、自身初の予選は19番手「マシンの調子が良かっただけに悔しい」"
+    }
+   ]
+  },
+  "KR": {
+   "business": [
+    {
+     "published": "Sat, 31 Oct 2026 22:28:16 GMT",
+     "source": "한국경제",
+     "title": "세계 최대 가상화폐 거래소 해킹…美 FBI \"배후에 북한\""
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:02:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "10월 수출 역대 2위…이달 중 ‘1조 달러’ 눈앞"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:41:25 GMT",
+     "source": "지디넷코리아",
+     "title": "한화, 필리조선소 인수 후 첫 미 해군 함정 건조 계약"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:32:01 GMT",
+     "source": "머니투데이",
+     "title": "인텔 실적 쇼크 '28% 폭락'...AI 투자 불안 반도체지수 7%↓[뉴욕마감] - 머니투데이"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:16:00 GMT",
+     "source": "한겨레",
+     "title": "국민연금 수급자 66%, 월 60만원도 못 받는다"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:47:54 GMT",
+     "source": "지디넷코리아",
+     "title": "10년 협력 끝에 국산화…한화오션, 잠수함 핵심 장비 개발"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:00:21 GMT",
+     "source": "연합인포맥스",
+     "title": "내 주식도 혹시?…수년째 '만년 저평가' 151곳에 저PBR 꼬리표"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:56:20 GMT",
+     "source": "문화일보",
+     "title": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:44:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "북한 해킹조직 ‘라자루스’, 산부인과학회 등 국내 웹사이트 악용"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:01:35 GMT",
+     "source": "연합뉴스",
+     "title": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:20:29 GMT",
+     "source": "SBS 뉴스",
+     "title": "당국, 금융권에 해킹 보안 개선계획 마련 촉구…내주 점검회의"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:00:00 GMT",
+     "source": "전자신문",
+     "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:07:01 GMT",
+     "source": "연합뉴스",
+     "title": "삼성전자 창사 첫 2개 창립기념사…최대실적 속 '원삼성' 물음표"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 00:10:01 GMT",
+     "source": "연합인포맥스",
+     "title": "\"삼전닉스 호실적, 원화 강세 뒷받침…수출대금 환전 비율 높게 유지\""
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:37:00 GMT",
+     "source": "조선일보",
+     "title": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:00:01 GMT",
+     "source": "연합뉴스",
+     "title": "학교 밖 청소년 전용 온라인 플랫폼 '유스캠퍼스' 개설"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:00:00 GMT",
+     "source": "뉴스핌",
+     "title": "SKT \"다 같이 써보던 AI, 이제 성과로\"… AX 2.0 세 축 가동"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:05:04 GMT",
+     "source": "전자신문",
+     "title": "KB국민은행, 국내 첫 그래픽처리장치(GPU) 파이낸싱 주선…12조6000억원 규모"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 08:40:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "방미통위, 방송송출 중단 대비 합동훈련…15개 기관 참여"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:53:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "서울 노원·성북 월세 상승률 10% 넘어…‘월세 2백 이상’ 거래 잇따라"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 06:00:03 GMT",
+     "source": "비즈워치",
+     "title": "현대차, 새만금 '기회의 땅'으로…투자 본격화"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:00:05 GMT",
+     "source": "연합뉴스",
+     "title": "[가보니] AI가 고장 예측하고 로봇이 순찰…진화하는 데이터센터"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:48:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "반도체 호황에도 내수는 ‘뒷걸음’…3분기 소매판매 0.5% 감소"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:10:56 GMT",
+     "source": "머니투데이",
+     "title": "\"절반도 못 모았다\" 오픈AI, 투자유치 굴욕...AI 거품론 불붙여 - 머니투데이"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:59:00 GMT",
+     "source": "연합인포맥스",
+     "title": "세인트루이스 연은 총재 \"추가 긴축 조만간 필요할 것\""
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:05:01 GMT",
+     "source": "연합인포맥스",
+     "title": "9월 산업생산 84개 업종서 감소…생산확산지수 연중 최저"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:00:03 GMT",
+     "source": "비즈워치",
+     "title": "한달 새 '압구정신현대 -6억', '레이크팰리스 -2억'?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 05:46:00 GMT",
+     "source": "경향신문",
+     "title": "“세무대행 서비스 피해 급증…과다 수수료 청구 주의보”"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:04:30 GMT",
+     "source": "연합뉴스TV",
+     "title": "재경위 野 간사, 與에 \"가상자산 과세 유예 결정해야\" 압박"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:00:00 GMT",
+     "source": "samsung.com",
+     "title": "삼성전자, AI 가전 크리에이터 ‘삼성 크루’ 운영 – 삼성전자 뉴스룸"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:13:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "잘 나가던 명품 ’주춤’…가격 인상 피로감?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 07:46:46 GMT",
+     "source": "지디넷코리아",
+     "title": "이통 3사, 아이폰듀오 추가 물량 '깜깜'...크랙게이트에 고객 불편↑"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 08:34:00 GMT",
+     "source": "Chosunbiz",
+     "title": "‘구글 쇼크’가 삼성전자·SK하이닉스에 미칠 영향은… “내년 실적까진 맑음, 2028년이 관건”"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:18:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "국산 비만약 ‘에페’ 가격은?…마운자로보다 40% 저렴"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:00:00 GMT",
+     "source": "경향신문",
+     "title": "가성비로 남의 집 안방서 ‘장군’ 외친 중국차…기존 완성차업체들, ‘멍군’ 부를 묘수는?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:36:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "미-이란 확전 우려에 국제유가 2%대 급등…브렌트유 지난 4월 이후 최고 수준"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:27:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "“젠슨 황과 술자리 여성은 중국 스파이”…중국 “근거 없는 모함”"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:56:00 GMT",
+     "source": "한겨레",
+     "title": "AI에 덜 쓴 애플이 웃었다…엔비디아 끌어내리고 시총 1위 탈환"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:16:58 GMT",
+     "source": "MBC 뉴스",
+     "title": "현대이지웰 개인정보 유출 사고‥\"피해 규모 확인 중\""
+    },
+    {
+     "published": "Wed, 28 Oct 2026 23:38:02 GMT",
+     "source": "연합뉴스",
+     "title": "PHP 취약점 공격에 서버 25대 장악 정황…한국도 표적(종합)"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Sun, 01 Nov 2026 00:05:00 GMT",
+     "source": "조선일보",
+     "title": "바이낸스 경영진 나섰지만... 北 해커조직 20분만에 8조원 털었다"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:42:00 GMT",
+     "source": "조선일보",
+     "title": "올트먼이 삼성 사장단에 선물한 30만원짜리 키보드는?"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 02:18:11 GMT",
+     "source": "조선일보",
+     "title": "中 \"강습상륙함서 대형 스텔스 무인기 첫 이착륙 성공\""
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:00:00 GMT",
+     "source": "조선일보",
+     "title": "日 소니·파나소닉 CES 철수… 프리미엄까지 넘보는 中 가전"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 08:27:00 GMT",
+     "source": "인베스트조선",
+     "title": "삼성전자, 삼성디스플레이 보유 中 TCL CSOT 지분 취득…1.2조 규모"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:10:56 GMT",
+     "source": "머니투데이",
+     "title": "\"절반도 못 모았다\" 오픈AI, 투자유치 굴욕...AI 거품론 불붙여 - 머니투데이"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:14:00 GMT",
+     "source": "동아일보",
+     "title": "“마누라와 자식 빼고 다 바꿔라”… 이건희에 열광하는 2030"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:10:19 GMT",
+     "source": "토큰포스트",
+     "title": "리플(XRP) 2만8012개면 10만달러…프라임엑스비티 3.57달러 전망"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:00:09 GMT",
+     "source": "글로벌이코노믹",
+     "title": "AI 한계 넘을 차세대 기술…월가가 찜한 양자 컴퓨팅 유망주 5곳 어디?"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:56:00 GMT",
+     "source": "한겨레",
+     "title": "AI에 덜 쓴 애플이 웃었다…엔비디아 끌어내리고 시총 1위 탈환"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:30:00 GMT",
+     "source": "동아일보",
+     "title": "월가 흔든 ‘테라노스 악녀’의 그 사진, 손에 든 건 ‘가짜피’였다"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:18:00 GMT",
+     "source": "동아일보",
+     "title": "[횡설수설/우경임]젠슨 황 옆 ‘여성 스파이’"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:19:48 GMT",
+     "source": "글로벌이코노믹",
+     "title": "리플 XRP AI 에이전트 결제 폭증해도 가격은 왜 제자리 걸음일까"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:02:10 GMT",
+     "source": "조선일보",
+     "title": "김정은의 ‘드론 협박’… 스텔스 무인기 등 30종 공개"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:26:55 GMT",
+     "source": "토큰포스트",
+     "title": "XRP 1.2513USDT 마감, 200일선보다 2% 낮았다"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:01:59 GMT",
+     "source": "토큰포스트",
+     "title": "[모닝 뉴스브리핑] XRP 10월 16.1% 하락 外"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 04:55:06 GMT",
+     "source": "지디넷코리아",
+     "title": "LG전자, 휴머노이드 직접 만든다…부품 내재화로 경쟁력↑"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:00:00 GMT",
+     "source": "Chosunbiz",
+     "title": "정유 덕에 역대 최대 이익 났지만 배터리는 적자… SK이노, 실적 지속 관건은 중동전쟁"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:30:36 GMT",
+     "source": "토큰포스트",
+     "title": "[온체인 주식선물] 삼성전자, 정규장 종가보다 2.70% 할인"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:52:02 GMT",
+     "source": "베타뉴스",
+     "title": "Z 폴드8과 아이폰 듀오 세상에서 갤럭시S26 울트라가 최고인 이유"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:00:00 GMT",
+     "source": "머니투데이",
+     "title": "체코원전, 수출은 한 팀 손실은 시공사 몫…\"이 조건이면 누가\" - 머니투데이"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:05:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "스마트안경으로 미 대입 자격시험 풀었더니…문제 80% ’술술’"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 05:58:00 GMT",
+     "source": "Chosunbiz",
+     "title": "[단독] 삼성 첫 스마트글래스 올해 12월 중순 출시… 한국·미국서 먼저 나온다"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:16:47 GMT",
+     "source": "AI타임스",
+     "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:37:11 GMT",
+     "source": "GeekNews",
+     "title": "Cisco, 27세 엔지니어에게 AI 토큰 무제한 제공하여 레거시 코드 98% 리팩터링 추"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:55:52 GMT",
+     "source": "토큰포스트",
+     "title": "솔라나 95.80달러, 100달러 하회…ETF 1080만달러 순유출"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:30:01 GMT",
+     "source": "한국경제",
+     "title": "\"등산객 아닙니다\"…태산 3100계단 몰려간 中 '야심'의 정체 [차이나 워치]"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:07:57 GMT",
+     "source": "토큰포스트",
+     "title": "기술주 급락에 단기 반등 기회…S&P500 상승 지속 변수는 유가"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:36:41 GMT",
+     "source": "토큰포스트",
+     "title": "리플 16조달러 거래 지원, XRP 결제액과는 별개"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:05:44 GMT",
+     "source": "지디넷코리아",
+     "title": "AI로 게임 만들고 로봇과 대화…깃허브가 넓힌 개발 생태계"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 04:00:00 GMT",
+     "source": "동아일보",
+     "title": "“수학자 지정해 검증 맡기지 마” 수학계, AI 업계에 제동 [김현지의 with AI]"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 06:20:30 GMT",
+     "source": "비즈니스포스트",
+     "title": "[단독] 통신3사 12월8일 '5G SA' 개통식 열고 본격 서비스, 최대 월 20만 원 초고가 요금제 나올지 주목"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:35:50 GMT",
+     "source": "톱스타뉴스",
+     "title": "삼성전자·SK하이닉스 최대 실적에도 주가 급락…AI 투자 거품 터지면 반도체주 어디까지 떨어질까"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:34:07 GMT",
+     "source": "GeekNews",
+     "title": "Cursor 마켓플레이스의 Claude Code 확장에서 SSH 백도어 발견"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:55:12 GMT",
+     "source": "BeInCrypto",
+     "title": "사토시 패러독스 18년…비트코인 다음은?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:28:06 GMT",
+     "source": "초이스경제",
+     "title": "'로컬 AI 논쟁' 불붙인 올트먼...\"PC 속 D램은 비효율\""
+    },
+    {
+     "published": "Fri, 30 Oct 2026 22:43:49 GMT",
+     "source": "지디넷코리아",
+     "title": "우주 넘어 클라우드까지...스페이스X, 단숨에 매출 10위권"
+    }
+   ],
+   "top": [
+    {
+     "published": "Sat, 31 Oct 2026 21:43:00 GMT",
+     "source": "경향신문",
+     "title": "루비오 “한국 의원 비자 지연은 20여 년 전 행적 때문, 양자 해결할 것···북·미 대화 일정 없어”"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:00:00 GMT",
+     "source": "한겨레",
+     "title": "육류값 급등에 “다른 단백질 많아”…부글대는 ‘텃밭’ 미시시피, 공화 버리나"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:46:35 GMT",
+     "source": "연합뉴스",
+     "title": "[르포] 이태원 핼러윈 열기 새벽까지…만취자·쓰레기 눈살"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:39:00 GMT",
+     "source": "조선일보",
+     "title": "北, \"13㏊ 초토화\" 탄도 발사…軍, 포착하고도 발표 안 해"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:59:00 GMT",
+     "source": "한겨레",
+     "title": "가을비로 시작하는 11월…쌀쌀한 일요일, 화요일부터는 기온 ‘뚝’"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 04:32:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "野, 이 대통령 순방 비판 반박에 재반박…\"비뚤어진 국정 인식\""
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:20:00 GMT",
+     "source": "경향신문",
+     "title": "고작 3번 만난 일본여성 살해한 30대···“함께 죽으려했다”는 진술에도 성범죄 의혹"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:42:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "국힘 “풍년에 빚부터 내나…’백지수표’ 예산안에 서명 않을 것“"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:26:00 GMT",
+     "source": "뉴스핌",
+     "title": "민주당 \"조희대 국정조사는 헌법적 권한…사법부 독립 침해 아냐\""
+    },
+    {
+     "published": "Sat, 31 Oct 2026 02:05:16 GMT",
+     "source": "MBC 뉴스",
+     "title": "이 대통령 \"PC주의, 진영주의 반감 이유 생각해 봐야\""
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:42:00 GMT",
+     "source": "조선일보",
+     "title": "美, 8조원대 암호화폐 해킹 배후로 北 지목… \"이더리움 전환 포착\""
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:50:56 GMT",
+     "source": "한국경제",
+     "title": "트럼프, 이란 핵시설 '곡괭이산' 지목…\"아주 빨리 처리 가능\""
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:55:00 GMT",
+     "source": "한겨레",
+     "title": "CNN “트럼프 주말 현장 유세 취소 번복, 체력 보도에 격분해서”"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:51:33 GMT",
+     "source": "연합뉴스",
+     "title": "프랑스 3주째 주말 시위…강경대응에도 32만명 거리로(종합2보)"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:35:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "이 대통령, 한국 수출 첫 9천억 달러 돌파에 “경제영토 확장 더 노력”"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:41:25 GMT",
+     "source": "지디넷코리아",
+     "title": "한화, 필리조선소 인수 후 첫 미 해군 함정 건조 계약"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:32:01 GMT",
+     "source": "머니투데이",
+     "title": "인텔 실적 쇼크 '28% 폭락'...AI 투자 불안 반도체지수 7%↓[뉴욕마감] - 머니투데이"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:01:01 GMT",
+     "source": "연합뉴스",
+     "title": "국민연금 수급자 800만명 돌파…10명중 7명은 월 60만원 미만"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:09:51 GMT",
+     "source": "제주환경일보",
+     "title": "(해외환경뉴스) “남극 지역은 전 세계 바다의 담수 엔진 역할 한다..\""
+    },
+    {
+     "published": "Fri, 30 Oct 2026 03:19:00 GMT",
+     "source": "위클리오늘",
+     "title": "[위클리오늘] 산업일반 소식_신세계V, 스타필드(10.30)"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:38:49 GMT",
+     "source": "뉴스스페이스",
+     "title": "[우주칼럼] NASA가 고른 ‘핼러윈의 지구’ \"땅은 김을 뿜고, 하늘은 초록빛\"…아이슬란드 오로라부터 7억 광년 밖 ‘유령 얼굴’까지"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:56:01 GMT",
+     "source": "인디게임닷컴",
+     "title": "로켓 스케이트 타고 아레나 질주… FPS ‘파이어스타터즈’ 스팀 앞서 해보기 출시"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:12:38 GMT",
+     "source": "한국경제",
+     "title": "'전원일기' 장남 김용건 \"최불암 빈소 못 찾아 마음 힘들어\""
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:17:00 GMT",
+     "source": "조선일보",
+     "title": "'학폭 의혹' 차예련, 딸 공개가 독 됐나..♥주상욱 꽃길에 '찬물' [핫피플]"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:42:07 GMT",
+     "source": "스포츠동아",
+     "title": "진재영 응급 상황, 배가 터질 듯 부풀어→응급실 이송 “닷새째 금식 中”"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:39:00 GMT",
+     "source": "스포츠경향",
+     "title": "‘닥터X’ 손현주, 김지원 의심 시작됐다"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 03:06:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "KS 티켓 걸린 5차전 후라도 vs 올러…KBS 2TV 생중계"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 04:31:48 GMT",
+     "source": "동아일보",
+     "title": "307억 대신 빅리그…노시환, MLB 도전 시작"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:34:00 GMT",
+     "source": "뉴스핌",
+     "title": "[라리가] 이강인, 67분 활약+골대 강타…AT마드리드 7연승"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:23:00 GMT",
+     "source": "OSEN",
+     "title": "‘4차전 뼈아픈 실책’ 김영웅, 밝은 표정으로 가장 먼저 그라운드 나왔다…운명의 5차전 6번 3루수 선발 출장 [PO5]"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:02:00 GMT",
+     "source": "코메디닷컴",
+     "title": "“무릎이 예전 같지 않네”…나이 들수록 챙겨야 할 ‘이 성분’은?"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:31:58 GMT",
+     "source": "아시아경제",
+     "title": "\"코로나 백신 맞으면 암 걸린다?\"…3600만명 분석한 결과 '깜짝'"
+    },
+    {
+     "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+     "source": "농민신문",
+     "title": "해열제와 함께 먹어도 될까?…‘종합감기약’ 올바른 복용법"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 04:00:00 GMT",
+     "source": "시사저널",
+     "title": "살 안 빼도 내장지방 줄이면 당뇨병 위험 낮아진다 [박민선의 건강톡톡]"
+    }
+   ]
+  },
+  "US": {
+   "business": [
+    {
+     "published": "Sun, 01 Nov 2026 02:41:00 GMT",
+     "source": "The Guardian",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:47:00 GMT",
+     "source": "USA Today",
+     "title": "Judge won't dismiss McRib class-action lawsuit against McDonald's"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:00:01 GMT",
+     "source": "CNBC",
+     "title": "Anthropic's path to the Nasdaq just got a lot bumpier"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:00:00 GMT",
+     "source": "NPR",
+     "title": "Oil company earnings skyrocket — again"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:12:26 GMT",
+     "source": "Yahoo Finance",
+     "title": "Tech stock meltdown could get a lot of worse if history is any guide"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:56:21 GMT",
+     "source": "CNBC",
+     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+     "source": "WSJ",
+     "title": "AbbVie Revenue Rises on Strength in Immunology, Neuroscience"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:32:00 GMT",
+     "source": "The Guardian",
+     "title": "Japan’s Jimi Halloween, a celebration of all things mundane – in pictures"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:33:11 GMT",
+     "source": "Bloomberg.com",
+     "title": "For Google, the Economics of AI Mode Look Shaky"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:43:00 GMT",
+     "source": "Barron's",
+     "title": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling."
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:12:00 GMT",
+     "source": "Bloomberg Law News",
+     "title": "Weil Collapse Floods Market With Lawyers Looking for New Jobs"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:00:00 GMT",
+     "source": "New York Post",
+     "title": "California housing market remains brutal nightmare for buyers — it gets worse for ordinary families"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 09:30:58 GMT",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "title": "What to know about the US economy as midterm elections near - ABC News"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:44:00 GMT",
+     "source": "Fortune",
+     "title": "Wall Street wipes $1 trillion from the stock market as tech’s $828 billion AI spending spree sparks market fears"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:14:29 GMT",
+     "source": "Yahoo Finance",
+     "title": "Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 19:38:00 GMT",
+     "source": "Fortune",
+     "title": "Think tank: 114 companies paid no current federal income tax but still aren’t biggest hit to deficit"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:54:34 GMT",
+     "source": "TechCrunch",
+     "title": "Intel’s stock crashes, knocking $12B from government’s stake"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 02:39:00 GMT",
+     "source": "Los Angeles Times",
+     "title": "California sisters among hundreds stranded in Asia after cruise ship halts operations over high fuel costs"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:08:24 GMT",
+     "source": "The New York Times",
+     "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:00:02 GMT",
+     "source": "Financial Times",
+     "title": "Investors trim growth bets over fears of US economy’s AI exposure"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:03:00 GMT",
+     "source": "TheStreet",
+     "title": "Amazon CEO Andy Jassy makes a strong prediction on Amazon stock"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:21:47 GMT",
+     "source": "CNBC",
+     "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:20:28 GMT",
+     "source": "Naval News",
+     "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM)"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 22:19:00 GMT",
+     "source": "Reuters",
+     "title": "Fitch revises France's outlook to 'negative' on worsening debt dynamics"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:00:00 GMT",
+     "source": "Daily Kos",
+     "title": "GOP’s closing midterms message is … about the Cheesecake Factory?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:25:00 GMT",
+     "source": "The Guardian",
+     "title": "FDA again bypasses advisers to remove black-box warnings from menopause treatments"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 21:13:00 GMT",
+     "source": "The Hill",
+     "title": "Federal debt surpassed GDP for fiscal 2026"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:41:00 GMT",
+     "source": "Fortune",
+     "title": "AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:53:00 GMT",
+     "source": "Futurism",
+     "title": "Investor Says We're Rapidly Approaching the Point At Which Economic Systems Collapse Under the Weight of AI"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:23:31 GMT",
+     "source": "Bloomberg.com",
+     "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:15:00 GMT",
+     "source": "New York Post",
+     "title": "In-N-Out plots eastward burger blitz — with four more states in its sights"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:35:43 GMT",
+     "source": "Reuters",
+     "title": "Fed needs at least two more rate hikes, Logan says"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 12:49:58 GMT",
+     "source": "CNBC",
+     "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:09:00 GMT",
+     "source": "Fortune",
+     "title": "Goldman says AI layoffs are starting to leave a 'long-lasting' scar, just like the last 40 years of history"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 22:33:10 GMT",
+     "source": "Reuters",
+     "title": "Character.AI moves ahead with asset sale over states' objections"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 10:30:56 GMT",
+     "source": "Paul Krugman | Substack",
+     "title": "Azeem Azhar on the Explosion of Hacking and Other AI Issues"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:54:00 GMT",
+     "source": "New York Post",
+     "title": "Popular supplement sold at Whole Foods and Amazon recalled over salmonella concerns"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:17:05 GMT",
+     "source": "BBC",
+     "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:52:00 GMT",
+     "source": "Variety",
+     "title": "Cate Blanchett-Backed Group of Stars Files Brief in NYT-OpenAI Lawsuit"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 12:20:04 GMT",
+     "source": "BBC",
+     "title": "China denies allegations of spy operation targeting Nvidia CEO"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Sat, 31 Oct 2026 15:35:11 GMT",
+     "source": "BleepingComputer",
+     "title": "New Android SMS of Death exploit can remotely crash unpatched phones"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:00:00 GMT",
+     "source": "TechCrunch",
+     "title": "I took two iPhones on vacation. The Duo won me over."
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:21:38 GMT",
+     "source": "Kotaku",
+     "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:00:02 GMT",
+     "source": "CNET",
+     "title": "My Favorite Smartwatch Has Stayed on My Wrist for Years — No, It’s Not an Apple Watch"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:49:00 GMT",
+     "source": "9to5Mac",
+     "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 02:20:00 GMT",
+     "source": "9to5Google",
+     "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 20:08:37 GMT",
+     "source": "Wccftech",
+     "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:39:25 GMT",
+     "source": "Eurogamer.net",
+     "title": "Final Fantasy 14's next job is a crossbow-wielding ranged DPS with a bird sidekick"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 22:43:17 GMT",
+     "source": "Windows Latest",
+     "title": "Microsoft killed Android apps on Windows 11, but they’re back in taskbar Search, streamed from your phone"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:00:00 GMT",
+     "source": "Push Square",
+     "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 18:10:00 GMT",
+     "source": "New York Post",
+     "title": "Legendary skateboarder thrown out of LA spot while recreating iconic video game"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 23:00:00 GMT",
+     "source": "SamMobile",
+     "title": "How much Ultra DNA will the rumored Samsung Galaxy S27 Pro have?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 22:32:53 GMT",
+     "source": "The Verge",
+     "title": "Apple Intelligence is finally coming to China with iOS 27.3"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:58:52 GMT",
+     "source": "Warhammer Community",
+     "title": "Celebrate Warhammer Day with some suitably scary miniatures"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:29:57 GMT",
+     "source": "Football Manager",
+     "title": "FM27 Free Play : How to install via Xbox Game Pass"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+     "source": "Nintendo Life",
+     "title": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:34:57 GMT",
+     "source": "Pokémon GO Hub",
+     "title": "Pokémon GO Max Monday Schedule (November 2026)"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 23:32:45 GMT",
+     "source": "The Washington Post",
+     "title": "Column | Asking Eric: Family friend demands hugs, despite parents’ objections"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:00:00 GMT",
+     "source": "The Verge",
+     "title": "Did Apple and Amazon just save the smart display?"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 13:30:06 GMT",
+     "source": "WSJ",
+     "title": "Deal of the Day: Apple’s Newest AirTags at their Lowest Price Ever"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+     "source": "Push Square",
+     "title": "Inspired by Classic FromSoftware, Queen's Domain Looks a Fascinating PS5 Adventure"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:00:00 GMT",
+     "source": "GAMINGbible",
+     "title": "Crimson Desert goes free-to-play to celebrate DLC launch"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 15:19:00 GMT",
+     "source": "Game Informer",
+     "title": "EA Reportedly Closed BioWare To Invest In Developing Star Wars Battlefront III Instead Of The Next Mass Effect"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 11:10:41 GMT",
+     "source": "Forbes",
+     "title": "‘Escape From Tarkov’ Halloween Event Brings Zombies Back To Tarkov"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 09:23:10 GMT",
+     "source": "TweakTown",
+     "title": "A 65-inch LG C6 OLED TV for $1,399 from Amazon is the perfect living room upgrade for a winter of gaming"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 15:01:28 GMT",
+     "source": "XBOX Wire",
+     "title": "Free Play Days – WUCHANG: Fallen Feathers, Dead by Daylight, Darkwood, Spirittea, and EVERSPACE 2"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 17:15:37 GMT",
+     "source": "The New York Times",
+     "title": "‘You Can See Everything’: What Was Billy Evans Watching at 2x?"
+    },
+    {
+     "published": "Mon, 26 Oct 2026 21:42:50 GMT",
+     "source": "IGN",
+     "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:00:00 GMT",
+     "source": "The Washington Post",
+     "title": "Column | Husband’s ex won’t let my teen stepdaughter see me while he’s away"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 01:00:00 GMT",
+     "source": "IGN",
+     "title": "Attack on Titan 3: The Final Preview"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 20:38:00 GMT",
+     "source": "WIRED",
+     "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 06:10:24 GMT",
+     "source": "Pokemon.com",
+     "title": "Receive a Spewpa That Can Evolve into a Random Vivillon Pattern in Pokémon Legends: Z‑A"
+    },
+    {
+     "published": "Thu, 29 Oct 2026 00:01:00 GMT",
+     "source": "GamesRadar+",
+     "title": "Grand Theft Auto VI exclusive – The state that never sleeps"
+    },
+    {
+     "published": "Wed, 28 Oct 2026 14:42:00 GMT",
+     "source": "Dazed",
+     "title": "Hot Halloween is officially over"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:28:47 GMT",
+     "source": "TechPowerUp",
+     "title": "The Elder Scrolls VI Reportedly Titled Sentinel, Set in Hammerfell"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:24:00 GMT",
+     "source": "IGN",
+     "title": "Gears of War: E-Day Reportedly Cost $500 Million to Make, Amid Claims It Has Sold Just 400,000 Copies"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 05:07:55 GMT",
+     "source": "TechPowerUp",
+     "title": "Phantom Blade Zero Draws 700,000+ Steam Players Within 24 Hours of Launch"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:32:00 GMT",
+     "source": "9to5Toys",
+     "title": "Wild clearance deal lands on base M5 MacBook Pro at $650 off, now just $1,350"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:30:25 GMT",
+     "source": "Pokemon.com",
+     "title": "Pokémon TCG: Mega Evolution—Delta Reign Mega Rayquaza ex Card Preview"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:00:45 GMT",
+     "source": "Mashable",
+     "title": "I tested all of Amazon's e-readers, and this is the best Kindle to buy"
+    }
+   ],
+   "top": [
+    {
+     "published": "Sun, 01 Nov 2026 02:00:00 GMT",
+     "source": "NBC News",
+     "title": "Alaska officials ask judge to deny Trump administration’s ‘impossible’ demand to set aside Senate ballots"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:48:51 GMT",
+     "source": "NPR",
+     "title": "Virginia and D.C. sue to block construction of Trump arch"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:59:57 GMT",
+     "source": "BBC",
+     "title": "Shops looted as German cost of living protests turn violent"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:44:25 GMT",
+     "source": "The New York Times",
+     "title": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:32:54 GMT",
+     "source": "PBS",
+     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:05:02 GMT",
+     "source": "CBS News",
+     "title": "Residents evacuated from Russia-occupied Oleshky arrive back in Ukraine amid temporary U.S.-brokered ceasefire"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:27:33 GMT",
+     "source": "BBC",
+     "title": "Judge orders Trump administration to stop threatening US election officials"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:25:00 GMT",
+     "source": "New York Post",
+     "title": "Doctor who oversaw Christa Pike’s botched execution says she still deserves to die, compares himself to Jesus"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:14:56 GMT",
+     "source": "NBC News",
+     "title": "Heavy rains expected to bring flooding risk to already saturated parts of the U.S. Southwest"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:31:00 GMT",
+     "source": "KCRA",
+     "title": "31-year-old pregnant woman identified as killed in Fairfield shooting at Spirit Halloween"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 01:25:00 GMT",
+     "source": "AP News",
+     "title": "A third weekend of protests in France as youth-led rallies sweep Europe"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:56:15 GMT",
+     "source": "BBC",
+     "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 21:48:05 GMT",
+     "source": "Reuters",
+     "title": "North Korea says defence research institutes tested major weapon system"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 22:43:00 GMT",
+     "source": "The Guardian",
+     "title": "Tusk defends overhaul of Poland’s constitutional court despite protests"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:41:00 GMT",
+     "source": "The Guardian",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:47:00 GMT",
+     "source": "USA Today",
+     "title": "Judge won't dismiss McRib class-action lawsuit against McDonald's"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 11:00:01 GMT",
+     "source": "CNBC",
+     "title": "Anthropic's path to the Nasdaq just got a lot bumpier"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:00:00 GMT",
+     "source": "NPR",
+     "title": "Oil company earnings skyrocket — again"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:35:11 GMT",
+     "source": "BleepingComputer",
+     "title": "New Android SMS of Death exploit can remotely crash unpatched phones"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 14:00:00 GMT",
+     "source": "TechCrunch",
+     "title": "I took two iPhones on vacation. The Duo won me over."
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:21:38 GMT",
+     "source": "Kotaku",
+     "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 09:00:02 GMT",
+     "source": "CNET",
+     "title": "My Favorite Smartwatch Has Stayed on My Wrist for Years — No, It’s Not an Apple Watch"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:54:36 GMT",
+     "source": "The Hollywood Reporter",
+     "title": "Heidi Klum Reveals This Year’s (Very Bloody) Halloween Costume"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:58:00 GMT",
+     "source": "Deadline",
+     "title": "Inde Navarrette Makes Shane Gillis Quip 'SNL' Opening Monologue"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 16:00:00 GMT",
+     "source": "The Washington Post",
+     "title": "What Patrick Stewart’s ‘brief’ dementia journey reveals about lifespans after diagnosis"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 19:07:00 GMT",
+     "source": "Variety",
+     "title": "Jack Nicholson Has ‘Disappeared’ but Is ‘Well,’ Says Michael Douglas: ‘I Still See Him’"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:23:00 GMT",
+     "source": "ESPN",
+     "title": "How the Golden State Valkyries won the 2026 WNBA title in just two years"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:19:00 GMT",
+     "source": "Yahoo Sports",
+     "title": "Canelo Alvarez turns back the clock, schools Christian Mbilli to reclaim WBC world title"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 03:53:53 GMT",
+     "source": "CBS Sports",
+     "title": "Tomorrow's Top 25 Today: Ohio State falls from top 10, USC reenters college football rankings after upset win"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 02:58:35 GMT",
+     "source": "The Race",
+     "title": "Lawson thrown out of Mexican GP qualifying results"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 17:09:07 GMT",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - ABC News"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 07:00:00 GMT",
+     "source": "Forbes",
+     "title": "November’s Night Sky Brings A Supermoon And A Rare Mars-Jupiter Meetup"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 00:20:21 GMT",
+     "source": "Sci.News",
+     "title": "Meteorite Found in Sahara is Piece of Mars at Least 4.1 Billion Years Old"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 22:46:02 GMT",
+     "source": "Spaceflight Now",
+     "title": "SpaceX closes out October with 700th Falcon 9 launch to date"
+    },
+    {
+     "published": "Sat, 31 Oct 2026 15:16:20 GMT",
+     "source": "BBC",
+     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 16:13:00 GMT",
+     "source": "AP News",
+     "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines"
+    },
+    {
+     "published": "Sun, 01 Nov 2026 00:55:46 GMT",
+     "source": "WSBT",
+     "title": "31 new measles cases in Indiana reported over three days"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 18:40:00 GMT",
+     "source": "The Boston Globe",
+     "title": "Have we been thinking about women’s heart health all wrong? Leading medical societies think so."
+    }
+   ]
+  }
+ }
+}
