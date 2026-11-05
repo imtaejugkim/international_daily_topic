@@ -1,0 +1,3493 @@
+{
+ "date": "2026-11-05",
+ "news": {
+  "BR": {
+   "business": [
+    {
+     "published": "Wed, 04 Nov 2026 21:31:45 GMT",
+     "source": "G1",
+     "title": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:14:26 GMT",
+     "source": "InfoMoney",
+     "title": "Por que Ibovespa subiu 1,2% com vitória de democratas nos EUA – e apesar de Petrobras"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:06:01 GMT",
+     "source": "Poder360",
+     "title": "Elon Musk ironiza derrota dos republicanos nas \"midterms\""
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:55:10 GMT",
+     "source": "Consultor Jurídico",
+     "title": "Deputada apresenta PEC para adiar cobranças da reforma tributária para 2028"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:05:00 GMT",
+     "source": "Pleno.News",
+     "title": "De 13,8 milhões de MEIs no Brasil, Lula vai dar Pix a apenas 1 milhão"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:09:34 GMT",
+     "source": "UOL Economia",
+     "title": "Bancos no Paraguai: entenda crise que levou à renúncia de presidente do BC"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:07:32 GMT",
+     "source": "Pipeline",
+     "title": "Balanço do Itaú dá alívio ao setor financeiro na bolsa"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:03:48 GMT",
+     "source": "InfoMoney",
+     "title": "Mega-Sena hoje, concurso 3081: Confira o resultado sorteado nesta quarta-feira (4)"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:55:31 GMT",
+     "source": "G1",
+     "title": "Lotofácil hoje: resultado do concurso 3821 e números sorteados"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:02:19 GMT",
+     "source": "Money Times",
+     "title": "Prio (PRIO3): lucro salta mais de 700% no 3T26 com disparada do petróleo"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:59:05 GMT",
+     "source": "InfoMoney",
+     "title": "Juros altos frustram criação de vagas formais em setembro; bets “tombam” o comércio"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:22:21 GMT",
+     "source": "CNN Brasil",
+     "title": "BC vê inflação mais elevada em todo horizonte até 2028"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:49:00 GMT",
+     "source": "Folha de S.Paulo",
+     "title": "Fluxo cambial do Brasil registra entrada de US$ 18,15 bilhões em outubro, maior valor do ano"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:10:45 GMT",
+     "source": "UOL",
+     "title": "Data centers do Texas têm futuro incerto após vitória democrata nos EUA"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:02:37 GMT",
+     "source": "CNN Brasil",
+     "title": "Waack: Juros elevados antecipam a conta do populismo de Lula"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:10:00 GMT",
+     "source": "NeoFeed",
+     "title": "Maluhy, do Itaú, pede previsibilidade fiscal a Lula e defende volta do grau de investimento"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:02:19 GMT",
+     "source": "Money Times",
+     "title": "Lucro líquido da Axia (AXIA3) cai 19%, para R$ 1,759 bilhão no 3T26; veja os números"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:10:00 GMT",
+     "source": "Maringá Post",
+     "title": "Apostador de Arapongas ganha R$ 11,8 milhões na Quina"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:05:27 GMT",
+     "source": "Valor Econômico",
+     "title": "Quem é André Lara Resende, o economista que causou apreensão no mercado"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:19:00 GMT",
+     "source": "Estadão",
+     "title": "Reforma nos impostos: em carta aberta, entidades tributárias pedem adiamento das medidas para 2028"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:31:03 GMT",
+     "source": "InfoMoney",
+     "title": "Petróleo brent cai 8% com possível impacto da eleição dos EUA no conflito com Irã"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:16:56 GMT",
+     "source": "InfoMoney",
+     "title": "BB Seguridade lucra acima do esperado, mas 3T é de “baixa qualidade” e ação cai 7%"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:53:03 GMT",
+     "source": "Farmnews",
+     "title": "Preço futuro do boi gordo inicia novembro renovando a máxima"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 23:43:00 GMT",
+     "source": "Folha de S.Paulo",
+     "title": "Tesouro projeta dívida em 91,5% do PIB em 2036 sem superávits e defende reformas estruturais"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 19:43:07 GMT",
+     "source": "Valor Econômico",
+     "title": "Hackers usaram entrevista de emprego falsa antes de roubo de US$ 6,3 bilhões da Binance"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 03:00:01 GMT",
+     "source": "O GLOBO",
+     "title": "Por que o silêncio de Lula sobre a equipe econômica do novo mandato mexe tanto com o dólar?"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 21:17:00 GMT",
+     "source": "Motor1.com Brasil",
+     "title": "BYD Atto 2 já passa Jeep Avenger nas vendas de outubro; VEJA TOP 50"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:21:34 GMT",
+     "source": "UOL Economia",
+     "title": "Inflação anual na zona do euro alcança 4% em outubro, maior nível em 3 anos"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+     "source": "InfoMoney",
+     "title": "Juro alto \"a perder de vista\": o recado da Kapitalo, ainda mais vendida em Brasil"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:59:00 GMT",
+     "source": "Migalhas",
+     "title": "Justiça proíbe Meta de usar conteúdo jornalístico para treinar IA"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:00:01 GMT",
+     "source": "Portal Contabeis",
+     "title": "Receita prorroga adesão à transação tributária até 30 de dezembro"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:25:24 GMT",
+     "source": "UOL Economia",
+     "title": "Mercado Livre lucra US$ 448 milhões no 3° trimestre de 2026, alta de 6%"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:54:00 GMT",
+     "source": "Diário do Nordeste",
+     "title": "Cearense Aeris pede recuperação extrajudicial para renegociar R$ 1,5 bilhão em dívidas"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:00:00 GMT",
+     "source": "Valor Investe",
+     "title": "Carteira Valor: Veja as ações mais indicadas para investir em novembro"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:09:35 GMT",
+     "source": "The AgriBiz",
+     "title": "Com juro real nas alturas, BrasilAgro prefere pagar dívida a comprar terra"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:00:00 GMT",
+     "source": "Brazil Journal",
+     "title": "Por que a euforia com os data centers já corre risco"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:46:49 GMT",
+     "source": "Diário do Centro do Mundo",
+     "title": "Teste aponta Jersey de Itu como a melhor manteiga com sal entre 15 marcas"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:02:16 GMT",
+     "source": "Migalhas",
+     "title": "STJ: Em dupla intimação, prazo processual conta pelo portal eletrônico"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:27:56 GMT",
+     "source": "Jornal Correio",
+     "title": "Com prêmio de R$ 1 bilhão, Caixa emite nota com orientações para a Mega da Virada"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 00:40:45 GMT",
+     "source": "Poder360",
+     "title": "Gerdau encerra produção de aço em unidade de Divinópolis (MG)"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Wed, 04 Nov 2026 16:58:40 GMT",
+     "source": "O GLOBO",
+     "title": "Paraguaios protestam nas ruas após quebra do banco digital Ueno e de bloqueio de contas"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:07:25 GMT",
+     "source": "UOL",
+     "title": "Supercarro da BYD fica destruído em testes para novo recorde de velocidade"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:04:00 GMT",
+     "source": "G1",
+     "title": "Carro voador da Embraer: Eve fecha acordo para vender até 12 aeronaves para empresa que vai operar no Sul do Brasil"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:44:50 GMT",
+     "source": "G1",
+     "title": "Satélite da Nasa deve cair nesta quarta após resgate fracassado; rota passa pela América do Sul"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 21:32:26 GMT",
+     "source": "AEROIN",
+     "title": "Avião Embraer KC-390 da FAB deverá voar até Israel para buscar novo drone comprado pela força"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 03:00:01 GMT",
+     "source": "G1",
+     "title": "Concurso da CGU com 60 vagas e salário de R$ 20 mil encerra inscrições nesta quarta"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:41:15 GMT",
+     "source": "UOL",
+     "title": "'Tsunami azul' abala Musk, IA e data centers nos EUA; o que pode acontecer"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:00:42 GMT",
+     "source": "TudoCelular.com",
+     "title": "Casio lança relógio G-Shock com corpo em aço escuro, carregamento solar e Bluetooth"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:30:00 GMT",
+     "source": "UOL Economia",
+     "title": "Aline Sordili: Agentes de IA escolhem critérios e esvaziam supervisão humana"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:00:00 GMT",
+     "source": "Brazil Journal",
+     "title": "André Street, o maior VC pessoa física do Brasil"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:57:27 GMT",
+     "source": "TudoCelular.com",
+     "title": "Galaxy Z Fold 8 Ultra: mais fino, resistente e com melhor bateria | Análise / Review"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 14:40:34 GMT",
+     "source": "AEROIN",
+     "title": "Saab está revelando seus próprios agentes de IA, comprovados em voo e já utilizados a bordo do caça Gripen E"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:27:26 GMT",
+     "source": "TudoCelular.com",
+     "title": "Motorola Moto G37 em oferta: celular resistente com câmera de 50 MP ganha desconto hoje"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:58:41 GMT",
+     "source": "UOL",
+     "title": "Geoffrey Hinton prevê 'Chernobyl da IA' e faz alerta grave para 2027"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:40:00 GMT",
+     "source": "Portal Tempo Novo",
+     "title": "Governo Federal anuncia aplicativo para MEI solicitar Pix de R$ 5 mil pelo celular; veja como vai funcionar"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 13:36:39 GMT",
+     "source": "Terra",
+     "title": "Sam Altman, CEO do ChatGPT: \"É bastante terrível que as pessoas tenham memória RAM no PC sendo utilizada apenas 5% do tempo\""
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:47:00 GMT",
+     "source": "Folha de S.Paulo",
+     "title": "Opinião - Martin Wolf: Estamos preparados para um colapso no setor de IA?"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:59:23 GMT",
+     "source": "G1",
+     "title": "Funcionário da TIM é preso no Rio suspeito de repassar dados de clientes a golpistas"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:55:00 GMT",
+     "source": "Brazil Journal",
+     "title": "Tractian vale US$ 1,4 bi e vira a maior empresa de AI da América Latina"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:00:00 GMT",
+     "source": "Brazil Journal",
+     "title": "Por que a euforia com os data centers já corre risco"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:01:13 GMT",
+     "source": "G1",
+     "title": "Alexa+ acerta nome, conversa melhor e ganha força com tela, mas ainda exagera na propaganda"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:01:41 GMT",
+     "source": "UOL",
+     "title": "Google vai desativar ferramentas de IA e mecanismo de busca para estudantes"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:41:00 GMT",
+     "source": "Metrópoles",
+     "title": "Empresário foi filmado fugindo após matar ex e filho dela de 6 anos em SP"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:20:53 GMT",
+     "source": "CNN Brasil",
+     "title": "Aos 36 anos, ela se apaixonou por um chatbot e tentou casar na Justiça, provocando dilema inédito no Brasil"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:00:00 GMT",
+     "source": "Jornal Correio",
+     "title": "Mesa gamer por R$ 36, lavadora por R$ 48 e celular por R$ 50; veja ofertas de leilão da Casas Bahia com 688 itens"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 08:49:34 GMT",
+     "source": "TudoCelular.com",
+     "title": "Galaxy S27 Ultra em 3D vaza com design final comparado a iPhone 18 Pro e Pixel; confira"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:02:25 GMT",
+     "source": "TudoCelular.com",
+     "title": "Novo Motorola One tem ficha técnica e design vazados por certificação e benchmark"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 06:00:01 GMT",
+     "source": "G1",
+     "title": "'Negar todos os comandos': STF multa advogado por esconder comando para driblar IA em petição sobre 8 de janeiro"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 22:53:16 GMT",
+     "source": "UOL",
+     "title": "Justiça de SP proíbe Meta de usar conteúdo jornalístico sem autorização"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:55:34 GMT",
+     "source": "InfoMoney",
+     "title": "Ações de Tesla e SpaceX, de Musk, caem forte com vitória dos democratas no Congresso"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:12:22 GMT",
+     "source": "Concursos no Brasil",
+     "title": "Nova carteira de identidade: como agendar o pedido direto pelo celular"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 19:52:12 GMT",
+     "source": "Tecnoblog",
+     "title": "R$ 31 milhões: Anatel fica sem dinheiro para pagar o próprio data center"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:00:08 GMT",
+     "source": "Rádio Itatiaia",
+     "title": "BH: criminosos ligados ao tráfico de drogas constroem telhado em beco para impedir monitoramento por drones da polícia"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:22:00 GMT",
+     "source": "Canal Ideal",
+     "title": "VÍDEO: Câmera 360° do Canal Ideal registra momento da chegada do tornado em Xanxerê"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 15:12:58 GMT",
+     "source": "TechTudo",
+     "title": "Nova carteira de identidade pode ser solicitada pelo celular; como solicitar"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:31:00 GMT",
+     "source": "Agência Brasil",
+     "title": "Guerra, economia, IA e casos de corrupção derrotam Trump nos EUA"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:54:00 GMT",
+     "source": "Banda B",
+     "title": "Veja vídeo! Homem atropela ex-namorada e amiga de propósito em Colombo; delegado aponta motivo"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:25:43 GMT",
+     "source": "UOL",
+     "title": "Power bank de 20.000 mAh tem 61% off e sai a R$ 115: 'Carregamento rápido'"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:43:00 GMT",
+     "source": "Governo Federal",
+     "title": "Chamada Universal 2026: resultado preliminar indica aprovação de 1.482 projetos de pesquisa em todo o país"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:19:14 GMT",
+     "source": "Diário da Região",
+     "title": "Câmeras com IA flagram 6,6 mil infrações em um mês na Washington Luís"
+    }
+   ],
+   "top": [
+    {
+     "published": "Wed, 04 Nov 2026 13:32:33 GMT",
+     "source": "G1",
+     "title": "Eleições nos EUA: políticos brasileiros repercutem resultado que deu aos democratas maioria no Congresso"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:16:39 GMT",
+     "source": "G1",
+     "title": "Governo edita medida provisória que define alíquotas do 'imposto do pecado'"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:25:59 GMT",
+     "source": "Estadão",
+     "title": "Após pedido de Lula, Alcolumbre barra votação imediata de PEC da Maioridade"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:52:00 GMT",
+     "source": "Metrópoles",
+     "title": "Inmet alerta para ciclone extratropical em três regiões do Brasil"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:20:25 GMT",
+     "source": "CNN Brasil",
+     "title": "Imagens mostram tornado se formando e 'atravessando' Chapecó"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:41:16 GMT",
+     "source": "Poder360",
+     "title": "PL lança Rogério Marinho à presidência do Senado"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:29:33 GMT",
+     "source": "G1",
+     "title": "Fux pede tempo para voto sobre bets; Fachin indica julgamento conjunto com ações sobre jogo do bicho, bingo, loteria e caça-níqueis"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:33:42 GMT",
+     "source": "G1",
+     "title": "Eleições nos EUA: brasileira eleita deputada começou no país como babá"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:44:38 GMT",
+     "source": "Estadão",
+     "title": "Lula fará pronunciamento para tentar acalmar o mercado e demonstrar preocupação com a dívida pública"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:27:00 GMT",
+     "source": "Migalhas",
+     "title": "Advogada e filho de 6 anos são encontrados mortos; ex é suspeito"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:03:00 GMT",
+     "source": "CartaCapital",
+     "title": "Presidente da Câmara dos EUA decide renunciar, após derrota republicana"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:04:05 GMT",
+     "source": "G1",
+     "title": "Após derrota de partido de Trump nas eleições, Irã descarta mudança na política americana"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:17:04 GMT",
+     "source": "CNN Brasil",
+     "title": "Democrata Abdul El-Sayed será o primeiro senador muçulmano dos EUA"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:00:01 GMT",
+     "source": "G1",
+     "title": "Aborto, atletas trans e taxa para bilionários: veja resultados de referendos polêmicos nos EUA"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:31:45 GMT",
+     "source": "G1",
+     "title": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:14:26 GMT",
+     "source": "InfoMoney",
+     "title": "Por que Ibovespa subiu 1,2% com vitória de democratas nos EUA – e apesar de Petrobras"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:06:01 GMT",
+     "source": "Poder360",
+     "title": "Elon Musk ironiza derrota dos republicanos nas \"midterms\""
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:55:10 GMT",
+     "source": "Consultor Jurídico",
+     "title": "Deputada apresenta PEC para adiar cobranças da reforma tributária para 2028"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:41:17 GMT",
+     "source": "G1",
+     "title": "Telescópio da Nasa que operou por quase 22 anos entra na atmosfera sobre a Indonésia"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:30:00 GMT",
+     "source": "Adrenaline",
+     "title": "Repetiu o 40/40? Famitsu já deu seu veredito sobre remake de Zelda: Ocarina of Time"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:15:00 GMT",
+     "source": "Estadão",
+     "title": "Rockstar confirma que GTA 6 terá mais de 200 GB, revela data do preload e mapa grátis"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 23:05:00 GMT",
+     "source": "Omelete",
+     "title": "Xbox | Saiba quais jogos chegam ao Game Pass em novembro de 2026"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:31:47 GMT",
+     "source": "R7",
+     "title": "Eduarda Braum, Renata Del Bianco e Rikardo Negro estão na sétima Roça de A Fazenda 18"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:54:05 GMT",
+     "source": "Jovem Pan",
+     "title": "Quem era Janaína Barbosa, ex-apresentadora que morreu após choque anafilático"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:29:51 GMT",
+     "source": "O GLOBO",
+     "title": "Um de capuz, outro de solidéu: como foi o encontro de Bob Dylan com Leão XIV"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:46:02 GMT",
+     "source": "Alô Alô Bahia",
+     "title": "Kim Kardashian e Naomi Watts elogiam Cauã Reymond em série: ‘Ele é um gato’"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:40:17 GMT",
+     "source": "ge",
+     "title": "Renato justifica desfalques do Grêmio por cansaço e afirma: \"Assistimos ao Flamengo jogar\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:37:52 GMT",
+     "source": "UOL",
+     "title": "São Paulo e Corinthians empilham gols perdidos e empatam em clássico quente"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:26:07 GMT",
+     "source": "CNN Brasil",
+     "title": "Vasco tem nova virada, bate Athletico-PR e se afasta do Z4 do Brasileirão"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:42:00 GMT",
+     "source": "ESPN Brasil",
+     "title": "Bastidores: como Seedorf 'para-raios' gerou elogios ao técnico em meio à pressão contra o Z4 no Corinthians"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:43:20 GMT",
+     "source": "InfoMoney",
+     "title": "Wegovy em comprimido chega ao Brasil e acende alerta para Hypera, diz Goldman Sachs"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:00:00 GMT",
+     "source": "UOL",
+     "title": "Câncer de próstata: 5 informações que seu médico gostaria que você soubesse"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 11:52:00 GMT",
+     "source": "Agência Brasil",
+     "title": "Exercício físico deve passar a ser receitado para a saúde cerebral"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 20:55:31 GMT",
+     "source": "Público",
+     "title": "Criança morre com sarampo em Nova Iorque, a primeira em mais de 30 anos no estado"
+    }
+   ]
+  },
+  "DE": {
+   "business": [
+    {
+     "published": "Wed, 04 Nov 2026 21:03:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Wall Street straft Musk ab: Tesla und SpaceX nach Wahldebakel tiefrot – diese Aktien profitieren"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:11:00 GMT",
+     "source": "Finanzen.net",
+     "title": "KI-Blase platzt „mit Sicherheit“? Hedgefonds-Milliardär Ken Griffin schlägt Alarm bei NVIDIA & Co."
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:06:33 GMT",
+     "source": "Yahoo Finanzen Deutschland",
+     "title": "Chinesischer Händler JD.com übernimmt MediaMarkt und Saturn – das passiert jetzt mit den Filialen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:45:00 GMT",
+     "source": "Tagesspiegel",
+     "title": "Überraschende Insolvenz von Partner: Platzt nun die große Vonovia-Neubaustrategie?"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:40:24 GMT",
+     "source": "Handelsblatt",
+     "title": "Rüstungsindustrie: Verzögerungen bei Aufträgen – Rheinmetall senkt Prognose"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:40:23 GMT",
+     "source": "n-tv.de",
+     "title": "Ölkonzerne geben Tankrabatt bei Benzin wohl nur zu 60 Prozent weiter - n-tv.de"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 04:16:34 GMT",
+     "source": "Handelsblatt",
+     "title": "US-Börsen: Märkte reagieren mit Verlusten auf Sieg der Demokraten"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:52:50 GMT",
+     "source": "T-Online",
+     "title": "Reichweitenangst ist nicht mehr: Welche Sorge E-Auto-Fahrer nun stärker umtreibt - T-Online"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:28:34 GMT",
+     "source": "BILD",
+     "title": "Vertreibt an 11.000 Händler: Deutscher Fahrradteile-Großhändler sucht Investor"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:11:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Fast neun Prozent Minus: Ölpreis erlebt heftigen Absturz unter 100 Dollar"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:01:01 GMT",
+     "source": "Golem",
+     "title": "Binance deckt auf: Wie der größte Krypto-Hack aller Zeiten abgelaufen ist"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:45:00 GMT",
+     "source": "Westdeutsche Zeitung",
+     "title": "Unternehmen Schaeffler bleibt in Wuppertal"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:14:02 GMT",
+     "source": "Golem",
+     "title": "Elektroautos: Mercedes verkauft Schnellladenetzwerk in Europa"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:12:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Inflation im Euroraum steigt auf 4,0 Prozent"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:33:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Gold zurück über 4.000 Dollar: Bringt der Wahlsieg der Demokraten die Wende?"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 11:12:27 GMT",
+     "source": "NDR.de",
+     "title": "Verdorbene Ware nach mutmaßlichem Cyberangriff: Supermarkt in Lilienthal muss 34.000 Euro Lebensmittel entsorgen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:32:10 GMT",
+     "source": "WEB.DE",
+     "title": "BMW-Gewinn bricht ein – Konzern will Jobabbau beschleunigen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:53:59 GMT",
+     "source": "n-tv.de",
+     "title": "Blase droht zu platzen: Wahlerfolg ihrer Kritiker könnte der KI-Branche aus der Patsche helfen - n-tv.de"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 04:02:47 GMT",
+     "source": "WELT",
+     "title": "176.000 Euro Unterschied – so gut sind die Renten-Angebote von Trade Republic, Sparkasse & Co."
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:33:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Novo Nordisk-Aktie im Fokus: Konzern übertrifft Erwartungen im 3. Quartal und hebt Ziele erneut an"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:38:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:52:41 GMT",
+     "source": "inSüdthüringen",
+     "title": "Letzter Tag steht fest: Für diesen Tegut ist bald Schluss"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:01:22 GMT",
+     "source": "rbb24.de",
+     "title": "Tesla eröffnet Forschungszentrum in Berlin-Köpenick"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:24:41 GMT",
+     "source": "Handelsblatt",
+     "title": "Immobilien: Vonovia unter Druck – droht nun eine Kürzung der Dividende?"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:00:11 GMT",
+     "source": "hartpunkt",
+     "title": "Combat Fighter System of Systems Nucleus – Helsing übergibt Software für offene Missionssysteme an das BAAINBw"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 15:07:47 GMT",
+     "source": "Morningstar",
+     "title": "Zalando: Unsere Einschätzung der Aktie nach den Quartalszahlen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:40:56 GMT",
+     "source": "T-Online",
+     "title": "Jury ist sich einig: Dieser Elektro-Kleinwagen ist Deutschlands Auto des Jahres - T-Online"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:30:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:26:50 GMT",
+     "source": "Merkur",
+     "title": "Zulieferer unter Druck: Schraubenhersteller WSH Schumacher leitet Sanierung ein"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:50:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Aktien von Deutsche Bank, Nordex & Co. im Fokus: Banken und Erneuerbare gelten als Profiteure der Midterm-Wahlen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:15:00 GMT",
+     "source": "PCGH",
+     "title": "Braucht AMD die Spieler überhaupt noch? Gaming spielt kaum noch eine Rolle"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:31:00 GMT",
+     "source": "n-tv.de",
+     "title": "Chance auf Jahresend-Rally: US-Wahl treibt den Dax Richtung Rekord - Vance drückt den Ölpreis - n-tv.de"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:35:31 GMT",
+     "source": "BimmerToday",
+     "title": "BMW 3er G50 in Polarized Grey: 320 M Sport mit Digital White Interieur"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:43:00 GMT",
+     "source": "Handelsblatt",
+     "title": "Energie: So können Stromkunden bis zu 80 Prozent ihrer Kosten senken"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:43:53 GMT",
+     "source": "T-Online",
+     "title": "Razzia bei Deutsche Finance Group: Ermittler durchsuchen Münchener Büros - T-Online"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:35:34 GMT",
+     "source": "electrive.net",
+     "title": "Elektroautos nun schon bei 37 Prozent Marktanteil"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 09:47:42 GMT",
+     "source": "1000PS",
+     "title": "Royal Enfield Himalayan 750: Neuer Twin mit 63 Nm"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:30:41 GMT",
+     "source": "Du bist Halle",
+     "title": "Online-Supermarkt flaschenpost verdoppelt in Halle das Lebensmittelsortiment, integriert Produkte von Kaufland und senkt Preise – Du bist Halle"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:00:00 GMT",
+     "source": "Telepolis",
+     "title": "Schaeffler in China: Humanoide Roboter bauen erstmals andere Roboter"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 13:15:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Evonik-Aktie mit leichten Gewinnen: Quartalszahlen überzeugen – BASF bleibt unerwünscht"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Wed, 04 Nov 2026 10:43:31 GMT",
+     "source": "BILD",
+     "title": "Behörden rüsten auf: So jagt die Polizei jetzt verdächtige Drohnen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:38:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:26:04 GMT",
+     "source": "T-Online",
+     "title": "Unkontrollierter Absturz: Nasa-Teleskop fällt aus dem All - T-Online"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:42:00 GMT",
+     "source": "tagesschau.de",
+     "title": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 03:06:00 GMT",
+     "source": "Spiegel",
+     "title": "Google blockiert Suchfunktion, wenn Schulen KI ablehnen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:53:59 GMT",
+     "source": "n-tv.de",
+     "title": "Blase droht zu platzen: Wahlerfolg ihrer Kritiker könnte der KI-Branche aus der Patsche helfen - n-tv.de"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:00:00 GMT",
+     "source": "Telepolis",
+     "title": "Schaeffler in China: Humanoide Roboter bauen erstmals andere Roboter"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:57:00 GMT",
+     "source": "heise online",
+     "title": "Rekorddiebstahl bei Binance: Falsches Bewerbungsgespräch als Einfallstor"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:00:01 GMT",
+     "source": "Golem",
+     "title": "US-Zwischenwahlen: Eine Klatsche für Musk und die KI-Branche"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:50:00 GMT",
+     "source": "Spiegel",
+     "title": "Abwehrkampf gegen Putin: Ukraine trifft Logistikzentrum von russischem Onlinehändler Ozon"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:26:00 GMT",
+     "source": "n-tv.de",
+     "title": "Wut auf Rechenzentren steigt: Demokraten-Erfolg macht dem KI-Sektor Angst und Bange - n-tv.de"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:46:14 GMT",
+     "source": "WELT",
+     "title": "Harald Lesch: „Niedergang der Universität, weil sie sich der KI hinwirft“"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 16:10:00 GMT",
+     "source": "RP Online",
+     "title": "Solarziegel aus Langenfeld: paXos verzeichnet Umsatzsprung und will mit frischem Kapital wachsen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 05:33:14 GMT",
+     "source": "WELT",
+     "title": "Verkehrssicherheitsrat: Handy am Steuer soll 500 Euro Bußgeld kosten"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:28:22 GMT",
+     "source": "T-Online",
+     "title": "\"Voyager 1\": Nasa-Raumsonde kämpft ums Überleben und steht vor einem Rekord - T-Online"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:32:00 GMT",
+     "source": "ComputerBase",
+     "title": "RAM gehört nicht in PCs?: Sam Altman empfindet Kritik an seiner Aus­sage als „nervig“"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:15:07 GMT",
+     "source": "Golem",
+     "title": "Valve: Entwickler müssen ihre Spiele fünf Minuten selbst über Steam spielen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:08:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Oracle-Aktie etwas höher: Was der geplatzte Tencent-Deal für den KI-Konzern bedeutet"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 11:22:01 GMT",
+     "source": "Golem",
+     "title": "Enorme Preissteigerungen: Eine neue Grafikkarte wird langsam unbezahlbar"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:30:04 GMT",
+     "source": "ifun.de",
+     "title": "KI-Boom: MacBooks stapeln sich in Rechenzentren"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 16:40:00 GMT",
+     "source": "heise online",
+     "title": "Google legt Botnetz lahm, beschuldigt Hersteller von Android-Set-Top-Boxen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:44:16 GMT",
+     "source": "BILD",
+     "title": "Windows 11 schneller: Update für Geräte mit wenig Arbeitsspeicher"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 10:47:01 GMT",
+     "source": "Golem",
+     "title": "Wärmebildkamera fürs Handy reduziert bei Amazon"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:20:00 GMT",
+     "source": "Der Aktionär",
+     "title": "Alphabet-Aktie – warum der Cashflow-Schock täuschen könnte"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:00:01 GMT",
+     "source": "Golem",
+     "title": "MRAM statt DRAM: Neuer KI-Chip soll 98 Prozent weniger Strom verbrauchen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:20:12 GMT",
+     "source": "WELT",
+     "title": "Eine neue iPhone-Ära beginnt – das Ende von Apples Speicher-Trick"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:52:17 GMT",
+     "source": "T-Online",
+     "title": "Drohnen im Visier: Deutschland plant neue Waffentechnik - T-Online"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:30:00 GMT",
+     "source": "heise online",
+     "title": "HyperOS 4.0: Xiaomi verteilt großes Update für über 30 Modelle"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:06:00 GMT",
+     "source": "heise online",
+     "title": "Erstmals geknackt: Calif.io durchbricht iOS-Blockierungsmodus, überlebt Update"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 13:02:01 GMT",
+     "source": "Golem",
+     "title": "IPO: Trade Republic ermöglicht Teilnahme am Anthropic-Börsengang"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:00:00 GMT",
+     "source": "derStandard.de",
+     "title": "Europas größter Batteriespeicher geht in England in Betrieb"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:38:01 GMT",
+     "source": "Golem",
+     "title": "Direkt zum Release von GTA 6: PS5 Slim Disc mit zwei Controllern bei o2 im Tarif für nur 1 € sichern"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+     "source": "ComputerBase",
+     "title": "Extreme Pro (V3) 2 TB im Test: Endlich USB 4 von SanDisk"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 16:00:00 GMT",
+     "source": "Spektrum der Wissenschaft",
+     "title": "Sprachmodelle optimieren Sprachmodelle: KI entschlüsselt die Blackbox der künstlichen Intelligenz"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:12:00 GMT",
+     "source": "ComputerBase",
+     "title": "AMD erzielt Rekordquartal: Datacenter wächst stark, Gaming-Umsatz bricht ein"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:46:15 GMT",
+     "source": "WELT",
+     "title": "„Wer so seine Bewerbung schreibt, braucht sich über Absagen nicht zu wundern“"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 18:16:00 GMT",
+     "source": "ComputerBase",
+     "title": "Monster-Grafikkarte: Viermal Radeon RX 470 auf einem PCB vereint"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:23:00 GMT",
+     "source": "heise online",
+     "title": "Smart Energy 201: Fritz bringt neue smarte Steckdose mit Verbrauchsmessung"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 14:03:00 GMT",
+     "source": "heise online",
+     "title": "3D-Druck: Bambu Lab stellt neues Topmodell H3C offiziell vor"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 14:39:56 GMT",
+     "source": "WEB.DE",
+     "title": "\"Pure Arroganz\": Was hinter dem Rodungs-Skandal um Google steckt"
+    }
+   ],
+   "top": [
+    {
+     "published": "Thu, 05 Nov 2026 00:35:00 GMT",
+     "source": "Tagesspiegel",
+     "title": "Chef der Freien Wähler: Hubert Aiwanger tot in einem Hotel in Berlin aufgefunden"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:20:23 GMT",
+     "source": "Deutschlandfunk",
+     "title": "\"Checks and Balances\" - USA nach den Zwischenwahlen: Welche Folgen hat das Ergebnis für Präsident Trump?"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:21:45 GMT",
+     "source": "n-tv.de",
+     "title": "Erster Auftritt nach Wahl-Pleite: Trump gibt JD Vance \"weitgehend\" recht - würde Iran aber wieder angreifen - n-tv.de"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:26:09 GMT",
+     "source": "DIE ZEIT",
+     "title": "Pflegereform: Bundestag debattiert über Pflegereform"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:32:00 GMT",
+     "source": "NDR.de",
+     "title": "Nach Streit am Gate: Ryanair lässt AfD-Abgeordneten nicht an Bord von Mallorca-Flug"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:26:00 GMT",
+     "source": "STERN.de",
+     "title": "Halloween-Süßigkeiten manipuliert: Erste Fälle aufgeklärt"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:07:15 GMT",
+     "source": "BILD",
+     "title": "Ilse Aigner: CDU in Schleswig-Holstein sieht sie als „Richtige“"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:22:54 GMT",
+     "source": "FAZ",
+     "title": "Karlsruhe verhandelt über Ausschluss aus AfD-Fraktion"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:38:00 GMT",
+     "source": "Tagesspiegel",
+     "title": "Sicherheitskonferenz in Berlin: Verkehrseinschränkungen und Sperrungen noch bis 14 Uhr"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 21:43:37 GMT",
+     "source": "DW.com",
+     "title": "Nach den Frankfurt-Krawallen streitet die Politik über Migration, Gewalt und die Ursachen der Eskalation."
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:10:08 GMT",
+     "source": "WELT",
+     "title": "Westbalkan: Montenegro vor EU-Beitritt – Brüssel peilt Juni 2027 an"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:15:35 GMT",
+     "source": "T-Online",
+     "title": "Ukraine-Krieg: Selenskyj zeichnet Melania Trump mit Orden aus - T-Online"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:01:00 GMT",
+     "source": "n-tv.de",
+     "title": "US-Midterms 2026 im Liveticker: +++ 06:10 Senator Mark Kelly fordert: \"Hegseth muss weg\" +++ - n-tv.de"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 23:10:05 GMT",
+     "source": "DIE ZEIT",
+     "title": "Spanien: Spanischer Verkehrsminister kündigt nach Zugunglück Rücktritt an"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:03:00 GMT",
+     "source": "Finanzen.net",
+     "title": "Wall Street straft Musk ab: Tesla und SpaceX nach Wahldebakel tiefrot – diese Aktien profitieren"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:11:00 GMT",
+     "source": "Finanzen.net",
+     "title": "KI-Blase platzt „mit Sicherheit“? Hedgefonds-Milliardär Ken Griffin schlägt Alarm bei NVIDIA & Co."
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:06:33 GMT",
+     "source": "Yahoo Finanzen Deutschland",
+     "title": "Chinesischer Händler JD.com übernimmt MediaMarkt und Saturn – das passiert jetzt mit den Filialen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:45:00 GMT",
+     "source": "Tagesspiegel",
+     "title": "Überraschende Insolvenz von Partner: Platzt nun die große Vonovia-Neubaustrategie?"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:21:53 GMT",
+     "source": "ifun.de",
+     "title": "GTA VI: Preload ab 10. November und SSD-Rabatt für die PS5"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:50:00 GMT",
+     "source": "Notebookcheck",
+     "title": "Zelda Ocarina of Time für Switch 2 bekommt Day-One-Patch mit diesen Verbesserungen"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:01:00 GMT",
+     "source": "CHIP",
+     "title": "PlayStation startet Black Friday frühzeitig: Bei diesen Spiele-Angeboten zählt das Datum"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+     "source": "Prisma",
+     "title": "\"NANO Doku – Brain Code: Können wir bald Gedanken lesen?\": Kritik zur 3sat-Doku"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:40:36 GMT",
+     "source": "WEB.DE",
+     "title": "Sarah Thonig: \"Marisas Figur lässt sich schwer ersetzen oder kopieren\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:01:07 GMT",
+     "source": "n-tv.de",
+     "title": "Er hat zwei erwachsene Töchter : Drittes Kind: Jamie Foxx soll Vater geworden sein - n-tv.de"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:00:02 GMT",
+     "source": "TAG24",
+     "title": "Von Köln nach München: Deshalb ist Martin Rütter umgezogen"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:34:53 GMT",
+     "source": "RTL.de",
+     "title": "Eric Danes posthume Memoiren: Sein Leben ist zum \"Horrorfilm\" geworden"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:57:00 GMT",
+     "source": "sportschau.de",
+     "title": "Diesmal Karetsas - BVB jubelt auch gegen Betis dank seiner Joker"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:06:17 GMT",
+     "source": "Eurosport",
+     "title": "Champions League - RB Leipzig vs. Manchester City heute live im Ticker: Rote Bullen empfangen Skyblues - Liveticker"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:16:13 GMT",
+     "source": "WEB.DE",
+     "title": "Fabregas-Team Como feiert höchsten Sieg der Champions-League-Geschichte"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:00:19 GMT",
+     "source": "BILD",
+     "title": "BVB: Guirassy: Vorsichtige Entwarnung nach Oberschenkelverletzung"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:59:01 GMT",
+     "source": "Medical Tribune",
+     "title": "Zwei neue ADC für HER2low Mammakarzinome in den Startlöchern"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 13:49:35 GMT",
+     "source": "AOK",
+     "title": "Adipositas: DDG fordert Kostenübernahme für Abnehm-Medikamente"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 13:12:43 GMT",
+     "source": "Deutsches Ärzteblatt",
+     "title": "ADHS könnte Demenzrisiko im Alter erhöhen – News"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:30:22 GMT",
+     "source": "ad-hoc-news.de",
+     "title": "Typ-2-Diabetes: Operation führt bei 58 Prozent zur Remission statt 3 Prozent - ad-hoc-news.de"
+    }
+   ]
+  },
+  "GB": {
+   "business": [
+    {
+     "published": "Thu, 05 Nov 2026 00:00:09 GMT",
+     "source": "BBC",
+     "title": "UK interest rates: Bank of England expected to raise them for first time in over three years"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:39:50 GMT",
+     "source": "Financial Times",
+     "title": "US stocks post best day since August after Democrats sweep midterms"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 00:24:00 GMT",
+     "source": "The Guardian",
+     "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:35:00 GMT",
+     "source": "The Telegraph",
+     "title": "Andy Burnham to make new North Sea drilling illegal"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:00:00 GMT",
+     "source": "Crude Oil Prices Today | OilPrice.com",
+     "title": "Can Cheap Batteries Deliver COP31's 35% Electrification Goal"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:15:23 GMT",
+     "source": "Financial Times",
+     "title": "Oil tumbles below $100 on post-election peace hopes"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:10:00 GMT",
+     "source": "The Times",
+     "title": "Russia-linked hackers ‘behind cyberattacks on supermarkets’"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:39:01 GMT",
+     "source": "This is Money",
+     "title": "Why Labour's surprise pension plan could hand you an income for life"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:35:50 GMT",
+     "source": "BBC",
+     "title": "Pound rises to its highest level since the Brexit referendum"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:32:00 GMT",
+     "source": "The Guardian",
+     "title": "Datacenters were on the ballot. US voters rejected them"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:31:18 GMT",
+     "source": "ITVX",
+     "title": "Exclusive: New bidder promises to save Poundland jobs as MPs summon owner | ITV News"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:00:20 GMT",
+     "source": "Financial Times",
+     "title": "Binance hackers used fake interviews and social media profiles in $6.3bn heist"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:20:58 GMT",
+     "source": "Financial Times",
+     "title": "Gibson Dunn in talks to hire 120 lawyers from Weil as firm dissolves"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 20:36:19 GMT",
+     "source": "The Economist",
+     "title": "Besieged by war, Saudi Aramco continues to gush profits"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:14:52 GMT",
+     "source": "Flightline UK",
+     "title": "AIRSHOW NEWS: Royal International Air Tattoo moves to Boscombe Down"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:14:00 GMT",
+     "source": "The Independent",
+     "title": "Snap and crackle: Kellogg’s Rice Krispies have removed the rice"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:41:00 GMT",
+     "source": "The Telegraph",
+     "title": "ITV takeover sparks fears of White House meddling in news"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:27:00 GMT",
+     "source": "The Guardian",
+     "title": "‘It’s just vape shops, nail shops, charity shops’: can anything save the British high street?"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 16:26:44 GMT",
+     "source": "BBC",
+     "title": "Drax data centre could be among UK's biggest - CEO"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:09:40 GMT",
+     "source": "BBC",
+     "title": "Major Australian retailer David Jones folds after 188 years in operation"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 06:29:28 GMT",
+     "source": "BBC",
+     "title": "Somerset villagers 'horrified' by proposed giant solar farm"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:08:43 GMT",
+     "source": "Construction Enquirer",
+     "title": "Forco is the new name for Mace Construct"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:18:11 GMT",
+     "source": "BBC",
+     "title": "Halfords fined after employee killed during repair"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:31:00 GMT",
+     "source": "Metro.co.uk",
+     "title": "Drunk passenger, 30, who squatted down and exposed herself on packed flight faces jail"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 15:12:35 GMT",
+     "source": "BBC",
+     "title": "Asda hires ex-Morrisons boss in bid to grow firm"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:59:35 GMT",
+     "source": "City AM",
+     "title": "Why Virgin Media O2 is cutting jobs and retreating from fibre"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:50:00 GMT",
+     "source": "The Guardian",
+     "title": "UK interest rates increase expected after services sector activity accelerates"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:59:28 GMT",
+     "source": "BBC",
+     "title": "£200m taxpayer-funded trains sit barely used for three years"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:36:00 GMT",
+     "source": "Reuters",
+     "title": "Novo hikes outlook again as it speeds up Wegovy pill rollout"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:58:00 GMT",
+     "source": "The Telegraph",
+     "title": "Andy Burnham to halt wind and solar subsidies in net zero climbdown"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:41:00 GMT",
+     "source": "Interactive Investor",
+     "title": "How UK shares reacted to US midterm election result"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 00:01:00 GMT",
+     "source": "The Times",
+     "title": "UK house prices set to go two years without rising, says Savills"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:58:38 GMT",
+     "source": "BBC",
+     "title": "Leader denies parking charge hike is 'cash cow'"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 06:27:17 GMT",
+     "source": "BBC",
+     "title": "AI data centres could undermine UK's emissions goals"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:00:00 GMT",
+     "source": "Bristol Live",
+     "title": "Parking permits coming for Bedminster as drivers struggle to find a spot close to home"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 14:53:32 GMT",
+     "source": "Financial Times",
+     "title": "‘The new frontier of finance is built in the United States of America’"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:04:33 GMT",
+     "source": "BBC",
+     "title": "Recycling centre booking system trial set up in Plymouth"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:03:15 GMT",
+     "source": "BBC",
+     "title": "Fans hope Spiders club closure will not be end of an era for Hull"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:00:12 GMT",
+     "source": "BBC",
+     "title": "Bristol schools hack sees 320,000 stolen files published on dark web"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:31:44 GMT",
+     "source": "Construction Enquirer",
+     "title": "United Living wins right to pursue £7.4m London defects claim"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+     "source": "Engadget",
+     "title": "iPad Mini (A20 Pro) Review: Apple's Tiny Tablet Gets A Big Update"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:22:16 GMT",
+     "source": "Video Games Chronicle",
+     "title": "Zelda Ocarina of Time Switch 2 remake review published in Famitsu"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:44:56 GMT",
+     "source": "BIKEPACKING.com",
+     "title": "The COROS DURA 2 Solar is Now Available"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:58:00 GMT",
+     "source": "Forbes",
+     "title": "Galaxy S27: New Upgrades Confirm Samsung’s Release Plans"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:47:02 GMT",
+     "source": "GSMArena.com",
+     "title": "Samsung UK drops prices of Galaxy S26 phones by £250, Z Fold8 price by £100 for Black Friday - GSMArena.com news"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 00:19:12 GMT",
+     "source": "Push Square",
+     "title": "PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:00:00 GMT",
+     "source": "Push Square",
+     "title": "Early Access PS5 Racer Outperforms Every October Release Apart from Call of Duty"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:44:01 GMT",
+     "source": "GSMArena.com",
+     "title": "Apple releases first iOS 27.3 developer beta, here's what's new"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:33:00 GMT",
+     "source": "Pure Xbox",
+     "title": "Xbox Announces Two New Methods To Play Games Through The Cloud"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 16:15:00 GMT",
+     "source": "Digital Foundry",
+     "title": "GTA 6 Pre-Load: Date and Disk Space Requirements Confirmed for PS5 and Xbox Series X/S"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:20:56 GMT",
+     "source": "GamerBraves",
+     "title": "Football Manager 27 Review - A Big Step Forward for the Series, Held Back by Match Engine Problems"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:18:00 GMT",
+     "source": "The Sun",
+     "title": "Jeremy Clarkson's 90s Ferrari that he dubbed the 'greatest car in the world, ever' goes on sale for eye-watering price"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 20:16:54 GMT",
+     "source": "The Verge",
+     "title": "iPhone 18 rumors suggest a bigger battery, higher price next year"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 15:59:25 GMT",
+     "source": "Warhammer Community",
+     "title": "Golden Demon 2026 – SPIEL Essen Finalists, Part One"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:34:57 GMT",
+     "source": "Eurogamer.net",
+     "title": "One of Nintendo's Switch and Switch 2 cartridge manufacturers is exiting the business, which could make physical games more expensive and result in even more controversial Game-Key Cards"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:23:30 GMT",
+     "source": "Forbes",
+     "title": "‘Fortnite’ Clarifies The Odds Of Opening A Pirate Shop Token Chest"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+     "source": "Push Square",
+     "title": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:11:55 GMT",
+     "source": "TechPowerUp",
+     "title": "ASUS Republic of Gamers Announces ROG XG Station 3 With Thunderbolt 5"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 12:13:29 GMT",
+     "source": "What Hi-Fi?",
+     "title": "What Hi-Fi? Awards 2026: Dali and Wharfedale shake things up in this year's floorstanders face-off - What Hi-Fi?"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:53:29 GMT",
+     "source": "My Nintendo News",
+     "title": "Nintendo posts Metroid Ravenous teaser video"
+    },
+    {
+     "published": "Fri, 30 Oct 2026 14:58:52 GMT",
+     "source": "Warhammer Community",
+     "title": "Celebrate Warhammer Day with some suitably scary miniatures"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:00:00 GMT",
+     "source": "Pure Xbox",
+     "title": "Nine Xbox Games Are Releasing Today, Including A New Roguelite FPS On Xbox Game Pass (November 4)"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:30:00 GMT",
+     "source": "Push Square",
+     "title": "Stellar Blade's Eve and Friends Infiltrate Overwatch in All-New Crossover"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 16:22:34 GMT",
+     "source": "IGN",
+     "title": "World of Warcraft Forever Controller Support Enters 'Complete Functional State' Ahead of Release"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:43:47 GMT",
+     "source": "GamesIndustry.biz",
+     "title": "Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:19:17 GMT",
+     "source": "GameSpot",
+     "title": "Steam Is Tightening Its Game Submission Rules As AI Slop Floods The Store"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:59:46 GMT",
+     "source": "Forbes",
+     "title": "$750 Million In ‘GTA 6’ Pre-Sales Will Soon Pass GTA 5’s Entire Launch"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:45:00 GMT",
+     "source": "Nintendo Life",
+     "title": "Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:49:13 GMT",
+     "source": "VideoCardz.com",
+     "title": "AMD Radeon 890M is 18.7% faster in 3DMark graphics test with LPDDR5X-8000 compared to DDR5-5600"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:03:46 GMT",
+     "source": "Eurogamer.net",
+     "title": "Dragon's Dogma 2 gets a timed collaboration with beloved anime and manga series Delicious in Dungeon, and it's out right now on PC, PlayStation and Xbox (but Switch players will have to wait)"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:00:12 GMT",
+     "source": "Monochrome Watches",
+     "title": "Introducing: Audemars Piguet Adds Obsidian and Onyx Dials to the 38mm Code 11.59"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 00:29:00 GMT",
+     "source": "BBC",
+     "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:06:31 GMT",
+     "source": "Pokemon.com",
+     "title": "Pokémon Pokopia Expansion Pass—Part 2: Dazzling Decorations Available 9 December"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 20:15:00 GMT",
+     "source": "Pure Xbox",
+     "title": "Microsoft Is Giving Away The Most Insane Xbox Series X Ever Created"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:17:10 GMT",
+     "source": "GamesIndustry.biz",
+     "title": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 19:10:25 GMT",
+     "source": "AFTVnews",
+     "title": "MECOOL and other certified Android streaming boxes found to have botnet backdoor from the factory"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:00:00 GMT",
+     "source": "Push Square",
+     "title": "Poll: Vote for Your PS5 Game of the Month (October 2026)"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 16:45:39 GMT",
+     "source": "Auto Express",
+     "title": "Porsche 911 gets more power, but only for its infotainment system"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:59:17 GMT",
+     "source": "Eurogamer.net",
+     "title": "Guild Wars gets its first major gameplay update in almost 20 years"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:01:41 GMT",
+     "source": "Fratello Watches",
+     "title": "Over The Moon: Farer Launches The New Stratton II Moonphase Watch"
+    }
+   ],
+   "top": [
+    {
+     "published": "Wed, 04 Nov 2026 11:45:00 GMT",
+     "source": "The Guardian",
+     "title": "Democrats sweep into control of Congress after historic midterm victories | First Thing"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:21:00 GMT",
+     "source": "The Telegraph",
+     "title": "Bosses risk jail if staff use wrong pronouns under trans law"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:58:24 GMT",
+     "source": "Financial Times",
+     "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:17:18 GMT",
+     "source": "BBC",
+     "title": "UK commits to 'time-bound' talks on slavery apology"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:31:18 GMT",
+     "source": "The Times",
+     "title": "Will Trump be impeached? What happens now Democrats have won the midterms"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:55:00 GMT",
+     "source": "The Guardian",
+     "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:42:16 GMT",
+     "source": "Sky News",
+     "title": "British Ebola case 'concerning, but not entirely unexpected', expert says"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:41:46 GMT",
+     "source": "STV News",
+     "title": "Tribute to schoolgirl known for 'bright smile' who died after being hit by bus"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:18:00 GMT",
+     "source": "The Telegraph",
+     "title": "Man ‘killed artist and kept body in freezer for three years’"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:51:18 GMT",
+     "source": "BBC",
+     "title": "Trio jailed after £80m cocaine smuggled in lorry in Northampton"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:01:00 GMT",
+     "source": "The Guardian",
+     "title": "Trump boasts about ‘magnificent’ ballroom day after Republican rout"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:34:00 GMT",
+     "source": "The Independent",
+     "title": "All we know as missing clue may answer cause of Florida Learjet crash"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:41:00 GMT",
+     "source": "The Sun",
+     "title": "Christa Pike's fate may now be sealed after midterms election result"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:50:40 GMT",
+     "source": "BBC",
+     "title": "Mother and daughter die after suspected grizzly bear attack in Canada"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:00:09 GMT",
+     "source": "BBC",
+     "title": "UK interest rates: Bank of England expected to raise them for first time in over three years"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:39:50 GMT",
+     "source": "Financial Times",
+     "title": "US stocks post best day since August after Democrats sweep midterms"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 00:24:00 GMT",
+     "source": "The Guardian",
+     "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:35:00 GMT",
+     "source": "The Telegraph",
+     "title": "Andy Burnham to make new North Sea drilling illegal"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 14:00:00 GMT",
+     "source": "Engadget",
+     "title": "iPad Mini (A20 Pro) Review: Apple's Tiny Tablet Gets A Big Update"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:22:16 GMT",
+     "source": "Video Games Chronicle",
+     "title": "Zelda Ocarina of Time Switch 2 remake review published in Famitsu"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 17:44:56 GMT",
+     "source": "BIKEPACKING.com",
+     "title": "The COROS DURA 2 Solar is Now Available"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:58:00 GMT",
+     "source": "Forbes",
+     "title": "Galaxy S27: New Upgrades Confirm Samsung’s Release Plans"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:00:00 GMT",
+     "source": "The Sun",
+     "title": "From Batman's suit to Indiana Jones' bullwhip, iconic film props up for auction"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:50:00 GMT",
+     "source": "The Sun",
+     "title": "Angry Ginge leaves fans 'sobbing' as he reveals exit from YouTube group Bov Boys"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:57:14 GMT",
+     "source": "Digital Spy",
+     "title": "EastEnders star confirms Sean Slater's huge secrets will be exposed"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:53:33 GMT",
+     "source": "WhatCulture.com",
+     "title": "13 Exact Moments WWE Booked Killers Like Clowns"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:20:37 GMT",
+     "source": "Sky Sports",
+     "title": "Fenerbahce 3-2 Liverpool: Andoni Iraola's side lose two leads in Istanbul as perfect Champions League start ends"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:45:31 GMT",
+     "source": "TNT Sports",
+     "title": "RB Leipzig 2-3 Manchester City - UEFA Champions League result and reaction as Erling Haaland nets the winner in five-goal thriller at Red Bull Arena"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:00:00 GMT",
+     "source": "The Guardian",
+     "title": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:22:21 GMT",
+     "source": "Sky Sports",
+     "title": "Cardiff 3-3 West Ham: Hammers fight back for point in Scott Parker's first game in charge | Football News"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 21:19:00 GMT",
+     "source": "The Guardian",
+     "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:09:34 GMT",
+     "source": "The Economist",
+     "title": "Astronomers are mystified by little red dots in the sky"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 09:50:17 GMT",
+     "source": "The European Magazine",
+     "title": "Scientists close in on mysterious ‘zeptoverse’ after 40-year hunt for ultra-rare particle"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:28:14 GMT",
+     "source": "Nature",
+     "title": "Carbon radical generation by irreversible metal-to-ligand charge transfer"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:30:37 GMT",
+     "source": "BBC",
+     "title": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:31:02 GMT",
+     "source": "Reuters",
+     "title": "Doctors in England launch primary-care trial of blood tests for spotting cancer early"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:07:14 GMT",
+     "source": "Sky News",
+     "title": "Just 13% of UK teenage girls active every day, WHO figures show"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:32:00 GMT",
+     "source": "The Guardian",
+     "title": "Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’"
+    }
+   ]
+  },
+  "JP": {
+   "business": [
+    {
+     "published": "Thu, 05 Nov 2026 04:03:00 GMT",
+     "source": "時事ドットコム",
+     "title": "共和大敗、マスク氏ぼやき 「宇宙レーザー機能せず」―米中間選挙"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:25:44 GMT",
+     "source": "NHKニュース",
+     "title": "NTTドコモ 全国で音声通話やデータ通信など 利用しにくい状況"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:15:00 GMT",
+     "source": "ITmedia",
+     "title": "GMOインターネットの情報漏えい事案で総務省が業界団体に「ブロッキング要請」との報道　NTTは動いた？ - ITmedia Mobile"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:01:02 GMT",
+     "source": "Yahoo!ファイナンス",
+     "title": "トヨタ－後場上げ幅拡大 1兆3000億円に自社株買い枠を拡大 自己株TOB実施(トレーダーズ・ウェブ)"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:03:44 GMT",
+     "source": "日本経済新聞",
+     "title": "東証前引け 日経平均は続落 AI・半導体関連に売り 朝高後に下げる"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+     "source": "Forbes JAPAN",
+     "title": "ザッカーバーグ、マイケル・デルを抜き「世界5位の富豪」に──米中間選挙後の株価変動でデル株急落"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:08:57 GMT",
+     "source": "Reuters",
+     "title": "ＮＹ市場サマリー（4日）ダウ1500ドル超高、ドル下落 利回り低下"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:00:00 GMT",
+     "source": "琉球新報デジタル",
+     "title": "那覇市申請のメアド8万件流出か 琉銀は9万件、配信停止 沖縄"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+     "source": "産経ニュース",
+     "title": "相次ぐサイバー攻撃に政府は危機感強め、長期戦の構え 官民連携で社会機能を守れるか"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:01:27 GMT",
+     "source": "47NEWS",
+     "title": "【速報】損保ジャパン、6万5千件情報漏えいか"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:15:00 GMT",
+     "source": "NHKニュース",
+     "title": "フランスの銀行にサイバー攻撃 資金流出の可能性"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:44:32 GMT",
+     "source": "ITmedia",
+     "title": "e-Taxに「不審な通信」 緊急メンテで利用停止、再開未定 「年末調整できない」悲鳴【復旧】"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:00:00 GMT",
+     "source": "読売新聞",
+     "title": "家庭のＩｏＴ機器１３０万台をサイバー攻撃の中継地点に悪用、指令サーバーを無効化…警察庁・グーグル"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:02:28 GMT",
+     "source": "Reuters",
+     "title": "原油先物8％超下落、米共和党敗北でイラン戦争終結に期待"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:19:59 GMT",
+     "source": "ITmedia",
+     "title": "仏血液センターの冷蔵設備にサイバー攻撃 温度設定を不正変更、血液製剤への被害は回避"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:50:58 GMT",
+     "source": "4Gamer.net",
+     "title": "「勝利の女神：NIKKE」PCランチャー改ざん問題，金銭的被害が及ぶおそれ。9月27日15：41以降に起動したプレイヤーに注意喚起"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:30:20 GMT",
+     "source": "Impress Watch",
+     "title": "無印良品、ネットストアなども情報漏えい 一部カード情報も"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:27:07 GMT",
+     "source": "NHKニュース",
+     "title": "グーグル 学校向け学習サービスのAI機能を制限"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:00:31 GMT",
+     "source": "日本経済新聞",
+     "title": "特殊詐欺の口座、警察が807金融機関と共有 顧客の送金調べ被害防止"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:56:00 GMT",
+     "source": "Forbes JAPAN",
+     "title": "AI黙示録は来るのか 投資家が見落とす「認知資本」という視点"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:00:00 GMT",
+     "source": "琉球新報デジタル",
+     "title": "20市町村でシステム障害 オンライン申請できず 沖縄"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "日銀、物価目標到達の先は「2%死守を」「利上げ速めるべき」"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:00:00 GMT",
+     "source": "ITmedia",
+     "title": "情報漏えいの「おわびメール」が毎日届いてうんざり……漏れた情報別に“最低限やること”をまとめた（1/3 ページ） - ITmedia Mobile"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:04:20 GMT",
+     "source": "日本経済新聞",
+     "title": "韓国株、反落で始まる SKハイニックスやサムスン大幅下落"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "損切り苦手な個人投資家、キオクシアは含み損26% 信用取引データ解剖"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:15:00 GMT",
+     "source": "CNET Japan",
+     "title": "バイナンス、約1兆円流出の侵入経路を公表 「偽の採用面接」が起点"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:52:44 GMT",
+     "source": "AUTOMATON",
+     "title": "AI特需の波に乗るAMD、売上高が過去最高の「2兆円超え」。現実的になってきた“インテル超え”"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:00:00 GMT",
+     "source": "新潟日報",
+     "title": "日本人の出生数、11年ぶり増 増加数トップは東京都、新潟県は？2026年上半期"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:00:00 GMT",
+     "source": "読売新聞",
+     "title": "三菱ＵＦＪのデジタル新銀行、「キャッシュカード」発行せず…ＡＴＭ出入金はスマホアプリで「高い安全性」"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:52:00 GMT",
+     "source": "NHKニュース",
+     "title": "財務省“70歳以上の医療費負担 原則3割に引き上げを”財政審で"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:21:00 GMT",
+     "source": "NHKニュース",
+     "title": "年収3000万円も電気代は8万円？ AI投資・トランプ関税の行方は"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:30:00 GMT",
+     "source": "読売新聞",
+     "title": "１００円の収入得るために９２６０円かかるローカル線も…ＪＲ西日本の極めて利用者が少ない路線、経営状況を公表"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:40:00 GMT",
+     "source": "ファッションプレス",
+     "title": "ハーゲンダッツ冬限定アイスクリーム「じゅわっと苺」果肉入りアイス×濃密苺ソース"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:59:18 GMT",
+     "source": "Impress Watch",
+     "title": "ゆうちょ銀行、松井証券の株式20%取得 きっかけは「創業家の株売却」"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 23:14:00 GMT",
+     "source": "マネクリ",
+     "title": "（朝）米国市場は高安まちまち　3日の米国市場は中間選挙の結果を見極めながら様子見ムードもあり方向感を欠く展開"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+     "source": "読売新聞",
+     "title": "コクヨの定番「キャンパスノート」１５年ぶり刷新、６代目は爽やかな表紙デザインに"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:35:00 GMT",
+     "source": "Gizmodo",
+     "title": "「Amazon Kindle」が40％オフ、久しぶりのセールです"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:00:00 GMT",
+     "source": "ケータイ Watch",
+     "title": "バッファロー、半固体セル採用で5000mAhの薄型モバイルバッテリー発売"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:35:41 GMT",
+     "source": "株探",
+     "title": "★本日の【サプライズ決算】速報 (11月04日)"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:30:00 GMT",
+     "source": "Forbes JAPAN",
+     "title": "トランプ資産が「約180億円」消失、民主党の中間選挙圧勝でトランプ・メディア株が過去最安値"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Thu, 05 Nov 2026 05:11:47 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "フジ 全ドラマに生成AI導入へ"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:57:59 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "NTTドコモ 全国で障害が発生 通話・データ通信が利用しづらい状況（TBS NEWS DIG Powered by JNN）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:35:00 GMT",
+     "source": "ITmedia",
+     "title": "メーカー自身がバックドアを仕込み、犯罪集団に“販売”　乗っ取られたTV用端末130万台超、Googleが遮断　日本の警察庁も参加（1/2 ページ） - ITmedia PC USER"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:39:18 GMT",
+     "source": "株式会社良品計画",
+     "title": "無印良品の公式アプリ「MUJIアプリ」におけるお客さま情報流出の可能性について（第二報）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:15:00 GMT",
+     "source": "Forbes JAPAN",
+     "title": "グーグルが全米の学校に発表、AI禁止ならGoogle検索も利用不可に"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:48:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "【独自】ダンス教室のトイレにカメラ設置し女子児童の下半身撮影か 講師の男を逮捕 「狙ったのは大人の女性」と容疑一部否認"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:46:34 GMT",
+     "source": "Yahoo!ファイナンス",
+     "title": "５日の東京株式市場見通し＝買い戻し先行、ＡＩ関連は一巡後不安定な展開も(ウエルスアドバイザー)"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 05:00:00 GMT",
+     "source": "Forbes JAPAN",
+     "title": "AIエージェントにおけるジェンダー格差、男性設定のほうが「報酬が高い」理由"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 02:00:00 GMT",
+     "source": "Forbes JAPAN",
+     "title": "アンソロピックIPO「AIの安全性のため、Claude全面停止も」──投資家の利益を左右するPBC制度"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:01:26 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "児童のポスター作品に「ＡＩ使っている」とネット中傷拡散、コンクールＨＰでの公開中止に（読売新聞オンライン）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:55:06 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "グーグルのChromeに213件の脆弱性 重大7件、Claude支援の発見14件 今すぐ更新を（ビジネス＋IT）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:55:48 GMT",
+     "source": "テレ朝NEWS",
+     "title": "台湾の観光地で78歳男性が行方不明 妻と一緒に参加のツアーで 防犯カメラには姿"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:00:20 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "“背中で魅せる”ゲーム『勝利の女神：NIKKE』に研究者が重大なリスクを指摘 起動ソフトに改ざんの疑い、マルウェア感染リスクも"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:04:38 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "情報漏えいの「おわびメール」が毎日届いてうんざり……漏れた情報別に“最低限やること”をまとめた（ITmedia Mobile）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:00:01 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正（ギズモード・ジャパン）"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:30:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "「宇宙レーザー不発」と730億円投じたマスク、民主党圧勝にビリオネアら反応 AI・テック投資家は将来悲観"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:40:24 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "女子トイレの個室に小型カメラを設置 のべ約40人の女性を盗撮した罪などに問われている男（26） に対し執行猶予付き判決【香川】（RSK山陽放送）"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:47:50 GMT",
+     "source": "日本経済新聞",
+     "title": "日経平均、一時800円超安 AI・半導体関連に売り膨らむ"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:49:45 GMT",
+     "source": "Reuters",
+     "title": "米国株式市場・序盤＝大幅高、民主勝利で政策転換懸念後退 データセンター株は下落"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:32:21 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "そのＡＩ、効果は出ていますか？ 「期待超えた」日本企業は９％ 成果を分ける要因は 専門家が語る「抜けがちな観点」（47NEWS）"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:20:10 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "GMOインターネットの情報漏えい事案で総務省が業界団体に「ブロッキング要請」との報道 NTTは動いた？（ITmedia Mobile）"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:01:48 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "訂正-米テキサス次期知事、新規データセンター停止公約で業界に波紋（ロイター）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:13:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "カメラが捉えた体長136センチ、体重101キロのオス》放獣したツキノワグマが3日で舞い戻り駆除…秦野市担当者が漏らした本音「なんで戻ってきたのか？」（NEWSポストセブン"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:35:52 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "数独アプリで「世界1位」になった母親 スマホの状態に「見覚えある指紋跡で笑った」（LIMO）"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:56:31 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "ロシア軍のドローンが迫り、兵士たちが一斉射撃…ウクライナ最前線で目撃した「無人戦争」の現実（ニューズウィーク日本版）"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 23:00:00 GMT",
+     "source": "ITmedia",
+     "title": "三井住友FGはなぜ、まだ「何が当たるか分からない」状況で「AI投資1000億円」に踏み切ったのか（1/3 ページ）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 03:42:00 GMT",
+     "source": "PC Watch",
+     "title": "普通のドライブでCD/DVDの記録面に絵を焼く「Disc Image Studio」"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:42:00 GMT",
+     "source": "乗りものニュース",
+     "title": "「冬は注意」!？ドラレコメーカー大手、視界不良による“最悪の事態”を捉えたドラレコ映像を公開 雨の夜道で発生の惨劇"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+     "source": "AV Watch",
+     "title": "【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 22:30:01 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "LINEが使えない?! 今日でLINEアプリ旧バージョンがサポート終了。今すぐアプデを（ギズモード・ジャパン）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:10:01 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "ビル・ゲイツが警告するAI時代「激動の20年」と、その先にある真の豊かさ（海外）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 09:56:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:30:21 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "エンジニアの7割超、選考辞退の「本当の理由」を企業に伝えていなかった その本音とは（＠IT）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:30:26 GMT",
+     "source": "日本経済新聞",
+     "title": "米クラウドストライク、AIの暴走止める「キルスイッチ」の仕組み開発"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:11:13 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "スマホに残されたSNSの陰口画像 北大1年男子学生の自殺で遺族が事実調査と再発防止を要望 北大「学内で必要な対応を行う」"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:00:23 GMT",
+     "source": "AUTOMATON",
+     "title": "Steamの釣りゲーム開発者、作品ページに「なぜか現実で釣った魚を自慢する人」が出没して困惑。場違いリアル釣り人、魚は立派"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 06:20:00 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "「スマホ、お財布、エコバッグ丁度入って◎」 ニトリの“小さめショルダーバッグ”が高評価 「質感や低価格が魅力」「かわいくて一目ぼれ」（ねとらぼ）"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:00:36 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "２億り人の凄腕投資家〉なごちょう氏がズバリ！「生成AIバブル」相場で買うべき隠れ割安3銘柄（集英社オンライン"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:40:20 GMT",
+     "source": "PC Watch",
+     "title": "メモリ発言で物議のSam Altman氏、「Ram Altman」に改名"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 04:12:54 GMT",
+     "source": "日本経済新聞",
+     "title": "バイナンス流出、ハッカーは偽の採用面接で侵入 「高度な攻撃」"
+    }
+   ],
+   "top": [
+    {
+     "published": "Thu, 05 Nov 2026 02:36:00 GMT",
+     "source": "時事ドットコム",
+     "title": "トランプ氏、対イラン作戦正当化 弾劾けん制、中間選挙開票続く"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:53:46 GMT",
+     "source": "毎日新聞",
+     "title": "蔵内氏「ワンヘルスが風評被害受け、残念」 高額事業巡り釈明"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:57:38 GMT",
+     "source": "日本経済新聞",
+     "title": "トランプ氏が国防長官の交代相談か 中間選挙大敗、イラン攻撃の責任"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:11:35 GMT",
+     "source": "tenki.jp",
+     "title": "九州で激しい雨 近畿も夜は広く雨 関東の雨ピークは朝まで 今日5日(木)の天気(気象予報士 日直主任)"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:46:00 GMT",
+     "source": "ウェザーニュース",
+     "title": "明日の関東は25℃近くになり体感一変 服装選びや体調管理に注意"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:56:00 GMT",
+     "source": "読売新聞",
+     "title": "「あなた名義で口座が作られ現金が送金されている」と電話受け、３億円送金しだまし取られる"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:09:28 GMT",
+     "source": "au Webポータル",
+     "title": "海で発見された男児遺体 死因は頭部や腹部への打撃による循環血液量減少性ショックと判明 10月下旬ごろ死亡か 山口・防府市"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:00:00 GMT",
+     "source": "ウェザーニュース",
+     "title": "台風31号(インファ) 速度を上げて北東進 小笠原は強風や高波に注意"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:00:00 GMT",
+     "source": "日本経済新聞",
+     "title": "「書道人口」10年で3割減 無形文化遺産への登録、伝統継承の追い風に"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:58:18 GMT",
+     "source": "産経ニュース",
+     "title": "新名神の6人死亡事故、拘禁7年確定 「ながら運転」の広島の元運転手 判決「誠に軽率」"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+     "source": "JBpress",
+     "title": "米中間選挙で「歴史的大敗」、トランプ政権の弱体化で中国の「戦狼外交」激化か…尖閣諸島に迫るリスク"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:38:00 GMT",
+     "source": "時事ドットコム",
+     "title": "イスラエル総選挙の結果確定、組閣へ協議開始 野党が交渉主導か"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:02:00 GMT",
+     "source": "NHKニュース",
+     "title": "エボラ出血熱 WHO 新たなワクチン2種類の臨床試験へ"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:34:53 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "イラン、米中間選挙大敗のトランプ氏を嘲笑 「政治的敗北もたらしたのはイラン国民」（ＡＦＰ＝時事）"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:03:00 GMT",
+     "source": "時事ドットコム",
+     "title": "共和大敗、マスク氏ぼやき 「宇宙レーザー機能せず」―米中間選挙"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:25:44 GMT",
+     "source": "NHKニュース",
+     "title": "NTTドコモ 全国で音声通話やデータ通信など 利用しにくい状況"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:15:00 GMT",
+     "source": "ITmedia",
+     "title": "GMOインターネットの情報漏えい事案で総務省が業界団体に「ブロッキング要請」との報道　NTTは動いた？ - ITmedia Mobile"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:01:02 GMT",
+     "source": "Yahoo!ファイナンス",
+     "title": "トヨタ－後場上げ幅拡大 1兆3000億円に自社株買い枠を拡大 自己株TOB実施(トレーダーズ・ウェブ)"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:55:00 GMT",
+     "source": "Gizmodo",
+     "title": "Xのブラウザ版、表示めっちゃ速くなるってよ。13倍速になることも"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:55:00 GMT",
+     "source": "ASCII.jp",
+     "title": "『グランド・セフト・オートVI』のプリロードを11月10日より開始！ファイルサイズは最大212GB"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:15:00 GMT",
+     "source": "Gizmodo",
+     "title": "春のiPhone 18、2nmチップと大容量バッテリー搭載の予測。値上がりもするでしょう"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:20:00 GMT",
+     "source": "日本経済新聞",
+     "title": "キヤノン、カメラ操作ソフトを無償提供 映像制作の人手不足に対応"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:50:32 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "「ついにきたぞ」 次回ハッピーセットは……ヒント公開に「今年ないかと思ってた」「娘が喜びます！」「祭はじまる！」【マクドナルド】"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:17:35 GMT",
+     "source": "産経ニュース",
+     "title": "劇作家の芥正彦さん死去、80歳 東大全共闘で三島由紀夫と討論「三島さんは敗退した人」"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:50:00 GMT",
+     "source": "スポーツ報知",
+     "title": "「お久しぶり」加山雄三 ８９歳の姿にフォロワー驚がく「どうして」「すっきり」「スリムに」「お顔を…」"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:50:38 GMT",
+     "source": "ライブドアニュース",
+     "title": "山下智久と生田斗真「偶然いろいろ」ツーショットを公開でファン歓喜 (2026年11月5日掲載)"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:00:00 GMT",
+     "source": "日刊スポーツ",
+     "title": "【広島】坂倉将吾がFA権行使を決断、球団捕手では初のFA宣言でロッテや西武が獲得に興味示す"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:43:55 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "上田綺世がいたら鈴木章斗は招集された？ 日本代表1トップの顔ぶれから探る選外の背景（フットボールチャンネル）"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:22:07 GMT",
+     "source": "Yahoo!ニュース",
+     "title": "織田翔希、2球団目はフィリーズ 横浜高で面談 昨オフ誉高出身、194センチ右腕獲得 大塚虎之介スカウトら訪問 前日はレンジャーズ面談（サンケイスポーツ）"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:15:50 GMT",
+     "source": "フットボールチャンネル",
+     "title": "【U-17女子W杯 トーナメント表】FIFA U-17女子ワールドカップ2026 決勝トーナメント組み合わせ"
+    }
+   ]
+  },
+  "KR": {
+   "business": [
+    {
+     "published": "Thu, 05 Nov 2026 01:19:15 GMT",
+     "source": "MBC 뉴스",
+     "title": "코스피 4% 급락하자 '매도 사이드카' 발동‥5,400선 안팎"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:15:17 GMT",
+     "source": "지디넷코리아",
+     "title": "美 중간선거 후폭풍, AI 데이터센터 강타하나"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:07:04 GMT",
+     "source": "연합인포맥스",
+     "title": "美 중간선거 후 종전 기대감에도…\"이란 에너지 재건은 또 다른 문제\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:04:41 GMT",
+     "source": "KBS 뉴스",
+     "title": "서울 아파트값 3주째 상승폭 축소…강남3구 하락 지속"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:50:11 GMT",
+     "source": "연합인포맥스",
+     "title": "금감원, 금융권 보안 전수점검 내주 착수…체크리스트 배포"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:08:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "미국 중간선거 최대 패배자는 ’일론 머스크’…사업 타격 받을까"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:00:15 GMT",
+     "source": "연합인포맥스",
+     "title": "신현송 한은 총재, BIS 총재회의 참석차 6일 출국"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:59:00 GMT",
+     "source": "인베스트조선",
+     "title": "산은이 한진칼 지분 '경쟁입찰'로 일개 건설사를 도와줄 이유가 있나"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:00:38 GMT",
+     "source": "MBC 뉴스",
+     "title": "9월 경상흑자 614억 달러로 사상 최대‥ 반도체 수출 260% 증가"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:51:00 GMT",
+     "source": "Investing.com 한국어",
+     "title": "SK바이오팜, 3분기 영업익 1163억원…분기 최대 실적 경신 By EBN"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:31:00 GMT",
+     "source": "조선일보",
+     "title": "전기차 수출 경쟁력, 중국에 추월당했다"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:51:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "벽 타고 짐 나르고…산업현장 넘보는 로봇들"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:42:55 GMT",
+     "source": "MBC 뉴스",
+     "title": "마트 냉장고 이어 프랑스 혈액원도 '초고온' 사이버공격"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:24:00 GMT",
+     "source": "의협신문",
+     "title": "AI·웨어러블 데이터로 만성콩팥병 위험 예측"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:18:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "KTX·SRT 통합 60일, 하루 32만명 이용…수서발 이용객 30%↑"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 22:35:16 GMT",
+     "source": "문화일보",
+     "title": "“삼전 19만원·하닉 90만원이 바닥…손절 말라”"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:19:00 GMT",
+     "source": "Investing.com 한국어",
+     "title": "카카오, 플랫폼 성장에 3Q 영업익 7% ↑…\"AI 서비스 확장\" By EBN"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:06:27 GMT",
+     "source": "지디넷코리아",
+     "title": "바이낸스 해킹, 가짜 채용 면접서 시작…北 해커 수개월간 침투"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:39:48 GMT",
+     "source": "대한민국 정책브리핑",
+     "title": "청년 취업지원정책, 놓치지 않겠어! - 전체 | 카드/한컷 | 멀티미디어"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:50:00 GMT",
+     "source": "조선일보",
+     "title": "“생산량 몇 개야?” 모르는 게 없다, 직원 12명 도장공장에 들어온 ‘만능 신입’"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:04:10 GMT",
+     "source": "연합인포맥스",
+     "title": "29곳 투자·원금손실 無…크레센도, 펀딩한파에도 10억弗 펀드 1차 클로징"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:09:00 GMT",
+     "source": "KBS 뉴스",
+     "title": "400포인트 넘게 출렁인 코스피…AI 투자에는 경고등, 관세 압박은 그대로"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:39:25 GMT",
+     "source": "KB Think",
+     "title": "[환율 전망] 미국 블루 웨이브, 2006년 중간선거의 기억"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:58:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "프랑스 은행 해킹에 1,500억원 털려…\"바이낸스 침입과 유사\""
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:49:00 GMT",
+     "source": "한겨레",
+     "title": "초기 자금 1억원대로 ‘내 아파트 마련’…12월 고양창릉서 첫 시작"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:20:00 GMT",
+     "source": "Investing.com 한국어",
+     "title": "삼양사 ’서브큐 잠봉’, 식품기술대상 농식품부장관상…獨 DLG 금상 이어 2관왕 By EBN"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:48:00 GMT",
+     "source": "Investing.com 한국어",
+     "title": "위고비·마운자로는 묶고 에페는 풀고?…비만약 오남용 규제 시험대 By EBN"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 04:41:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "한수원, 미 전력연구원과 청정수소·저탄소 에너지 기술 협력"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:31:00 GMT",
+     "source": "조선일보",
+     "title": "美, 하이닉스 중국 공장에 미국산 장비 반입 제동"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 10:33:23 GMT",
+     "source": "MBC 뉴스",
+     "title": "다우·CJ컨소시엄‥중앙일보 5천2백억 원에 인수"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 04:46:18 GMT",
+     "source": "지디넷코리아",
+     "title": "김범석 쿠팡 \"3분기가 수익성 저점…복귀 회원 구매액 역대 최고\""
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:42:00 GMT",
+     "source": "경향신문",
+     "title": "투자자 울린 ‘홍콩 ELS’ 판매사들, 과징금 3700억 확정"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:17:00 GMT",
+     "source": "한겨레",
+     "title": "김민석 “가상자산 소득 과세 유예, 정부에 공식 제안”"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:00:20 GMT",
+     "source": "매일경제",
+     "title": "고점 대비 반토막 난 삼전닉스…내년 실적 믿고 지금 사도 될까"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 02:19:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "’전세사기 방지’ 전월세 안심신탁 임대인 모집 시작"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:02:27 GMT",
+     "source": "문화일보",
+     "title": "사업 정리했던 노현정 남편 정대선, ‘상조회사’ 차린다…장례식장 647곳과 손잡아"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:51:00 GMT",
+     "source": "Investing.com 한국어",
+     "title": "밸류업 공시 800곳 돌파…상장사 31%가 시총 84% 차지 By EBN"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:51:00 GMT",
+     "source": "Investing.com 한국어",
+     "title": "수능일 19일 증시 오전 10시 개장…넥스트레이드 프리마켓은 휴장 By EBN"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:02:00 GMT",
+     "source": "Investing.com 한국어",
+     "title": "LG AI연구원, 저작권 리스크 분석 AI 개발…국가지식재산위원장상 수상 By EBN"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:26:50 GMT",
+     "source": "지디넷코리아",
+     "title": "삼성·애플, 폴더블폰 '접는 기술' 경쟁 붙었다"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Thu, 05 Nov 2026 00:27:20 GMT",
+     "source": "MBC 뉴스",
+     "title": "[단독] \"'1호기 명단', 보안 업체서 고유 식별값 대신 원본 파일 올려\""
+    },
+    {
+     "published": "Wed, 04 Nov 2026 05:25:32 GMT",
+     "source": "MTN 머니투데이방송",
+     "title": "[단독] '니케' 해킹 사태에 넥슨 전사 보안 공지…\"런처 즉시 삭제\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:49:00 GMT",
+     "source": "조선일보",
+     "title": "코스피 ‘美중간선거 쇼크’... 하닉 -7% 삼전 -5% 직격탄"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:00:00 GMT",
+     "source": "Chosunbiz",
+     "title": "“대안이 없다”… 삼성전자, 中 LCD 패널값 인상에 TV 사업 적자 장기화 우려"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:04:23 GMT",
+     "source": "조선일보",
+     "title": "[단독] 조기 도입한다던 장거리 K 자폭 드론, 내년 예산 0원"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:47:11 GMT",
+     "source": "조선일보",
+     "title": "전력난에 퇴역 항공기 제트엔진까지 끌어왔다…AI 데이터센터 ‘발전기 확보전’"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:54:24 GMT",
+     "source": "한국경제",
+     "title": "\"진짜? 미안해!\"…日 Z세대 입에서 '한국말' 쏟아지는 이유"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:13:11 GMT",
+     "source": "지디넷코리아",
+     "title": "美 중간선거 후폭풍, AI 데이터센터 강타하나"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 23:34:58 GMT",
+     "source": "지디넷코리아",
+     "title": "아이폰 듀오 '크랙게이트' 심상찮네…수리 요청 폭주"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:23:13 GMT",
+     "source": "매일경제",
+     "title": "\"아이돌 리센느 뜨기 전 빠른 투자 … 반년만에 기업가치 67% 뛰었죠\""
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:30:52 GMT",
+     "source": "이데일리",
+     "title": "“최소 2천만원 손해” 중국 아이폰 사들였던 리셀러들 울상[중국나라]"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:11:17 GMT",
+     "source": "토큰포스트",
+     "title": "톰 리, 민주당 입법 추진을 가상자산 상승 원인으로 지목"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:05:27 GMT",
+     "source": "Investing.com 한국어",
+     "title": "’시간당 1000개 하역’ 보스턴다이내믹스, 차세대 물류 로봇 ’스트레치 2’ 공개 By The Guru"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 18:06:05 GMT",
+     "source": "조선일보",
+     "title": "이더리움 창업자 \"주식·채권·코인·부동산 거래 하나의 앱으로\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:29:55 GMT",
+     "source": "AI타임스",
+     "title": "오픈AI, '이미지스 2.6' 공개…챗GPT서 움직이는 GIF 생성 지원"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 02:14:49 GMT",
+     "source": "이데일리",
+     "title": "주가 바닥에 베팅한 안철수, 넉달 만에 88억 잭팟"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:50:40 GMT",
+     "source": "토큰포스트",
+     "title": "암호화폐 지지 하이젠가 의원, 개표 95%서 7000표 넘게 뒤졌다"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:12:29 GMT",
+     "source": "토큰포스트",
+     "title": "비트코인, ‘계속 오른 자산’이라는 창펑 자오 평가"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:55:27 GMT",
+     "source": "머니투데이",
+     "title": "\"110도까지 올라\"...마트 냉장고 이어 프랑스 혈액원도 해킹 피해 - 머니투데이"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:38:31 GMT",
+     "source": "GeekNews",
+     "title": "내가 AI를 쓰는 방식, 2026년 10월"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:38:33 GMT",
+     "source": "디지털투데이",
+     "title": "XRP 소각량 한 달 새 627% 폭증…하루 소각량 1821개, 반등 신호일까"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:05:16 GMT",
+     "source": "조선일보",
+     "title": "트럼프 \"AI 말고 SI 쓰라\" 으름장, 실리콘밸리에서 얼마나 통했을까?"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 01:29:00 GMT",
+     "source": "인베스트조선",
+     "title": "현대차그룹, 국민성장펀드서 GPU 투자금 2조원 조달 추진"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:05:00 GMT",
+     "source": "한겨레",
+     "title": "구글, AI 거부 학교엔 검색도 차단…미국서 ‘AI 끼워팔기’ 논란"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:39:57 GMT",
+     "source": "GeekNews",
+     "title": "AI가 40년간 쌓인 기술 부채를 갚도록 몰아붙이고 있음"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:30:00 GMT",
+     "source": "동아일보",
+     "title": "“北해커, 이직 미끼로 바이낸스 엔지니어 낚아… 5개월간 침투 작전”"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:00:22 GMT",
+     "source": "대한경제",
+     "title": "② 체코에 칼자루 준 한수원...K원전 시공 몫 넘기는 선례 남기나"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 21:00:00 GMT",
+     "source": "경향신문",
+     "title": "“앗 털렸다” 비밀번호보다 먼저 바꿔야 할…개인정보 지키는 6가지 생활 습관"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:04:38 GMT",
+     "source": "토큰포스트",
+     "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 79,375달러, 이더리움 2,397달러"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+     "source": "노컷뉴스",
+     "title": "[단독] 국토부 \"테슬라 FSD 특례 서류 미진\"…승인 장기화 전망[최창민의 국토:AX]"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:05:52 GMT",
+     "source": "한국경제",
+     "title": "6000억원 쏟고도 텍사스 뺏긴 머스크…\"데이터센터, 우주에 짓자\""
+    },
+    {
+     "published": "Tue, 03 Nov 2026 10:29:50 GMT",
+     "source": "전자신문",
+     "title": "반도체 장비, 3년뒤 계약까지 줄섰다"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:22:21 GMT",
+     "source": "보안뉴스",
+     "title": "[더존비즈온 사태] 11월5일 유출 의심 기업 현황... 서울시 육아종합지원센터 유출 가능성"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 23:42:43 GMT",
+     "source": "이데일리",
+     "title": "AMD 리사 수 “내년 매출 80% 넘게 성장”…에이전트 AI 수혜"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:26:40 GMT",
+     "source": "토큰포스트",
+     "title": "리플, RLUSD 확대에도 XRP 중심 전략…\"유동성·활용도 높인다\""
+    },
+    {
+     "published": "Wed, 04 Nov 2026 07:22:11 GMT",
+     "source": "보안뉴스",
+     "title": "빗썸·한양증권 해킹, ‘다우오피스’ 제로데이 공격에 당했다... 접근통제 미흡 취약점이 화근"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 21:00:00 GMT",
+     "source": "Chosunbiz",
+     "title": "[비즈톡톡] 여권형 폴더블폰, 판 커진다… 화웨이·삼성·샤오미·애플 이어 모토로라도 참전"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 07:06:00 GMT",
+     "source": "일간스포츠",
+     "title": "[전문] 헤이지니 “마음 무거워”…‘산재신청 방해 無·근로계약서 존재’ 2차 해명"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+     "source": "인사이드비나",
+     "title": "\"회색지대 8년 끝났다\"...300조 베트남 가상 자산 '5년 실험' 내막 [베트남 가상자산]"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 00:29:04 GMT",
+     "source": "중앙일보",
+     "title": "‘아내 몰래 신혼집에 몰카’나솔 32기 영수…정색 아내에 “민감하네?”"
+    }
+   ],
+   "top": [
+    {
+     "published": "Thu, 05 Nov 2026 04:56:00 GMT",
+     "source": "경향신문",
+     "title": "[미 중간선거]의회 되찾은 민주당 첫 경고 “트럼프 범죄 일가, 조사 최우선 대상···변호사 선임하라”"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:25:00 GMT",
+     "source": "한겨레",
+     "title": "청해부대 임무구역, 호르무즈 해협 인근까지 확대…초계기·잠수정도 투입"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:30:00 GMT",
+     "source": "동아일보",
+     "title": "김민석 ‘신천지 사과’에도, 친청 “정당법 위반 조사” 내분 격화"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:57:00 GMT",
+     "source": "한겨레",
+     "title": "밴스 ‘전쟁이 상원과 맞바꿀 가치 있었나’ 작심 SNS…트럼프와 거리두기"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:22:00 GMT",
+     "source": "한겨레",
+     "title": "윤석열 당선무효형에 “397억 반환, 확정되면 수용” 국힘 박형수 공개발언"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:46:00 GMT",
+     "source": "조선일보",
+     "title": "집에서 부엌칼 들고왔다... ‘세브란스 난동’ 50대女 구속영장 신청 예정"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:59:04 GMT",
+     "source": "MBC 뉴스",
+     "title": "장동혁 \"'공소취소' 특검 강행하면 국민이 정권 취소\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:44:53 GMT",
+     "source": "연합뉴스",
+     "title": "[美중간선거] '한인 2세' 데이브 민, 하원의원 재선…한국계 당선자 3명"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:30:00 GMT",
+     "source": "한겨레",
+     "title": "전국에 가을비…이틀 뒤 최저 영하 4도까지 추워져"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:10:20 GMT",
+     "source": "대한민국 정책브리핑",
+     "title": "이 대통령 \"수도권 주택가격 안정 핵심 과제…도심 정비사업 속도\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:31:13 GMT",
+     "source": "연합뉴스",
+     "title": "네타냐후 거취는…이스라엘 대통령, 정당별 연정 협의 착수"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:06:34 GMT",
+     "source": "서울신문",
+     "title": "“중간선거 참패하더니”… ‘러시아 경유 입항 거부’ 외친 美 민주당의 매운맛 경고 [월드픽]"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:06:02 GMT",
+     "source": "아시아경제",
+     "title": "\"몸에 좋아, 쭉 들이켜\"…임신한 여친에 약 탄 셰이크 먹여 낙태시킨 美 한인 육사생"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:43:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "호텔 간판에 “트럼프 아웃“·’이란에 멱살’ 트럼프…’풍자 밈’ 봇물"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:19:15 GMT",
+     "source": "MBC 뉴스",
+     "title": "코스피 4% 급락하자 '매도 사이드카' 발동‥5,400선 안팎"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:15:17 GMT",
+     "source": "지디넷코리아",
+     "title": "美 중간선거 후폭풍, AI 데이터센터 강타하나"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:07:04 GMT",
+     "source": "연합인포맥스",
+     "title": "美 중간선거 후 종전 기대감에도…\"이란 에너지 재건은 또 다른 문제\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:04:41 GMT",
+     "source": "KBS 뉴스",
+     "title": "서울 아파트값 3주째 상승폭 축소…강남3구 하락 지속"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:19:00 GMT",
+     "source": "이투데이",
+     "title": "‘젤다의 전설 시간의 오카리나’ 오늘 출시"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:04:00 GMT",
+     "source": "시사일보",
+     "title": "미국 스위프트(SWIFT) 우주망원경 4일 저녁 대기권 재진입 예상 한반도 영향 없어"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:26:13 GMT",
+     "source": "녹색경제신문",
+     "title": "락스타게임즈, ‘GTA 6’ 사전예약 매출 1조원 돌파"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:00:00 GMT",
+     "source": "경향신문",
+     "title": "이대로 두면 7년 뒤 추락···NASA “허블망원경 살려줄 사람 없소?” 민간에 ‘SOS’"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:34:00 GMT",
+     "source": "OSEN",
+     "title": "“롯데월드 소풍 갔나?” 차예련 학폭 의혹, ‘폭로문' 팩트체크 요구 [Oh!쎈 이슈]"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:11:00 GMT",
+     "source": "연합뉴스TV",
+     "title": "서인영, 다음달 26일 재혼…\"안 좋은 기억 빼고 스몰 웨딩\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:39:00 GMT",
+     "source": "주간경향",
+     "title": "김혜수 “최불암 선생님, 배웅해주신 모든 분께 감사”"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:09:05 GMT",
+     "source": "한국경제",
+     "title": "리센느, 신보 5곡 모두 톱10 장악…멜론 차트 1위 등극"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:53:30 GMT",
+     "source": "영남일보",
+     "title": "삼성 라이온즈 한국시리즈 2차전 연장 혈투 끝 승리...“수원에서 1승 1패” 박진만 약속 통했다…7이닝 1실점 페덱 역투 앞세워 승부 원점"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:20:00 GMT",
+     "source": "조선일보",
+     "title": "\"몸 상태 100% 아니지만...\" 51연승 안세영, 39분 만에 이긴 뒤 고백 \"마지막까지 출전 고민, 부상 때문에 많이 걱정됐다\""
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:00:00 GMT",
+     "source": "뉴스핌",
+     "title": "[KS2] '수원서 1승 1패' 박진만 감독의 목표 달성…살아난 삼성, 대구서 반격 노린다"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:48:58 GMT",
+     "source": "문화일보",
+     "title": "야구장서 의회로… ‘409 홈런’ 테세이라, 美 하원 당선"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:36:22 GMT",
+     "source": "충청뉴스",
+     "title": "KAIST, 치매 유발 단백질 '독성 뭉침' 막는 치료 원리 규명"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:00:00 GMT",
+     "source": "매경헬스",
+     "title": "뱃살 속 내장지방, 왜 건강에 더 해로울까?"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:02:00 GMT",
+     "source": "히트뉴스",
+     "title": "기억력 깜빡하고 운동도 안 하면…인지기능 저하 위험 3.22배"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 05:23:33 GMT",
+     "source": "이로운넷",
+     "title": "대장암을 부추기는 '수용체'를 찾았다...열쇠는 세포 접합 단백질"
+    }
+   ]
+  },
+  "US": {
+   "business": [
+    {
+     "published": "Thu, 05 Nov 2026 03:01:57 GMT",
+     "source": "CNBC",
+     "title": "Stock futures are little changed after big rally following Democrats' decisive midterm wins"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:32:00 GMT",
+     "source": "The Guardian",
+     "title": "Datacenters were on the ballot. US voters rejected them"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:30:00 GMT",
+     "source": "WSJ",
+     "title": "Inside CVS’s Decision to Break Up a Healthcare Juggernaut"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:08:00 GMT",
+     "source": "NJ.com",
+     "title": "$200K, 2 $50K Powerball tickets bought in N.J. as jackpot soars to $835M"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:33:00 GMT",
+     "source": "Bloomberg.com",
+     "title": "Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:23:00 GMT",
+     "source": "Reuters",
+     "title": "Australia's 188-year-old retailer David Jones enters administration, faces sale"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:15:17 GMT",
+     "source": "Gizmodo",
+     "title": "Google Tries to Walk Back Controversial School AI Policy Following Political Backlash"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:03:25 GMT",
+     "source": "Axios",
+     "title": "Oil prices plunge after Vance post on Iran war"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 22:04:02 GMT",
+     "source": "The Verge",
+     "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:55:00 GMT",
+     "source": "AP News",
+     "title": "McDonald’s plans new value bundles next year after US traffic falls in third quarter"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:55:00 GMT",
+     "source": "New York Post",
+     "title": "Lockheed Martin paying $29.5M settlement after allegedly discriminating against white workers"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:51:00 GMT",
+     "source": "Barron's",
+     "title": "Democrats’ Big Win Sets Up a Debt Ceiling Fight. What the Election Means for Bonds."
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:19:37 GMT",
+     "source": "Yahoo Finance",
+     "title": "Housing stocks rally following midterm elections, Treasury yields dip lower"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:14:00 GMT",
+     "source": "Barron's",
+     "title": "GE Vernova, Vertiv, More Industrial Stocks Fall After Democratic Sweep"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:37:45 GMT",
+     "source": "The New York Times",
+     "title": "Trump Media’s Shares Fall to Record Low After Midterms"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:29:00 GMT",
+     "source": "Fox Business",
+     "title": "Breakfast food giant makes major change to iconic cereal's recipe"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:08:00 GMT",
+     "source": "KTVO",
+     "title": "John Deere officials announce closing of 2 Iowa plants, including Ottumwa"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:17:56 GMT",
+     "source": "CNBC",
+     "title": "What Wall Street billionaires are saying about Democrats' midterm sweep"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:09:17 GMT",
+     "source": "Bloomberg.com",
+     "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:41:34 GMT",
+     "source": "The Texas Tribune",
+     "title": "Under Hinojosa, Texas data center approvals could stay paused"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:30:00 GMT",
+     "source": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
+     "title": "U.S. International Trade in Goods and Services, September 2026 - U.S. Bureau of Economic Analysis (BEA) (.gov)"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:49:19 GMT",
+     "source": "Yahoo Finance",
+     "title": "AMD stock flat following strong Q3 earnings beat, as data center revenue climbs 97%"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:23:00 GMT",
+     "source": "Barron's",
+     "title": "Gold Prices Are Above $4,000 After Democrats Win Big in Midterm Elections"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:10:21 GMT",
+     "source": "Bloomberg.com",
+     "title": "Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:17:59 GMT",
+     "source": "Axios",
+     "title": "Trump can't pack the Fed board with allies now"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:29:00 GMT",
+     "source": "Fox Business",
+     "title": "Private sector added 86,000 jobs in October, above expectations, ADP says"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:12:00 GMT",
+     "source": "New York Post",
+     "title": "Major airline increases its checked bag fees — for the second time this year"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:54:00 GMT",
+     "source": "The Information",
+     "title": "Lumentum Sell-Off After Marvell Offer Raises Chance of Alternate Bid"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:11:00 GMT",
+     "source": "Fox Business",
+     "title": "Caitlin Clark becomes first-ever brand partner for Dick's Sporting Goods and Foot Locker"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 00:39:00 GMT",
+     "source": "WSJ",
+     "title": "3M Announces $7.4 Billion Settlement in ‘Forever Chemicals’ Injuries Case"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:53:00 GMT",
+     "source": "Investor's Business Daily",
+     "title": "Arm Beats Quarterly Targets On Surging Data Center Business. But Arm Stock Falls."
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:38:20 GMT",
+     "source": "The Verge",
+     "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 03:11:04 GMT",
+     "source": "POLITICO.eu",
+     "title": "Supermarket Chain Thaw Massacre: Russia suspected in Europe’s fridge attacks"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:35:07 GMT",
+     "source": "Bloomberg.com",
+     "title": "Uber’s Ride-Hail Bookings, Trips Miss on Overseas Driver Crunch"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:00:01 GMT",
+     "source": "CNBC",
+     "title": "Mortgage rates drop for the third straight week, but homebuyers are still leaving the market"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:38:48 GMT",
+     "source": "Financial Times",
+     "title": "Anthropic is an opportunity to rethink IPO rules"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:18:51 GMT",
+     "source": "Yahoo Finance",
+     "title": "Novo Nordisk shares jump 6% after lifting 2026 outlook on obesity-drug demand"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:02:00 GMT",
+     "source": "The Information",
+     "title": "The Security Companies Trying to Get AI Agents Under Control"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 14:53:32 GMT",
+     "source": "Financial Times",
+     "title": "‘The new frontier of finance is built in the United States of America’"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 12:44:07 GMT",
+     "source": "NBC News",
+     "title": "In top Senate race states, gas and grocery costs rose faster than the national average"
+    }
+   ],
+   "technology": [
+    {
+     "published": "Thu, 05 Nov 2026 00:25:00 GMT",
+     "source": "The Verge",
+     "title": "X says its updated web app is way faster"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:47:51 GMT",
+     "source": "Ars Technica",
+     "title": "Nintendo’s biggest ROM chip supplier is bowing out of the business"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:59:20 GMT",
+     "source": "PhoneArena",
+     "title": "Motorola is apparently working on a surprising product revival with some intriguing specs"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:38:54 GMT",
+     "source": "Nintendo Everything",
+     "title": "The Legend of Zelda Ocarina of Time 1.1.1 update out now, patch notes"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:00:00 GMT",
+     "source": "The Verge",
+     "title": "ChatGPT will now make you animated GIFs"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:40:27 GMT",
+     "source": "MacRumors",
+     "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:55:00 GMT",
+     "source": "9to5Mac",
+     "title": "With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:28:00 GMT",
+     "source": "9to5Mac",
+     "title": "Apple disables Siri AI waitlist in iOS 27, with one exception"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:07:30 GMT",
+     "source": "Mashable",
+     "title": "NYT Strands hints, answers for November 4, 2026"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:07:35 GMT",
+     "source": "Nintendo Everything",
+     "title": "Rumor: Sonic Racing: CrossWorlds datamine leaks Year 2 characters"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:58:00 GMT",
+     "source": "Forbes",
+     "title": "Galaxy S27: New Upgrades Confirm Samsung’s Release Plans"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:33:00 GMT",
+     "source": "9to5Mac",
+     "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 08:00:04 GMT",
+     "source": "The New York Times",
+     "title": "NYT Spelling Bee Answers for November 4, 2026"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:05:33 GMT",
+     "source": "GameSpot",
+     "title": "WoW: Forever May Have Just Sneakily Revealed New Class And Race Combos"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:48:23 GMT",
+     "source": "Forbes",
+     "title": "Despite New Reveal, ‘The Elder Scrolls 6: Sentinel’ Is Years Away, Says Report"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 00:31:00 GMT",
+     "source": "Android Police",
+     "title": "Samsung's sleep apnea upgrade is rolling out to Galaxy Watch 9 and Galaxy Ring"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:30:06 GMT",
+     "source": "Kotaku",
+     "title": "PlayStation’s Massive Black Friday 2026 Sale Is Live Now And Filled With Big Deals On PS5 Games"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:00:00 GMT",
+     "source": "SVG",
+     "title": "GTA 6 Release Time By Region: When You Can Play On November 19"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:26:49 GMT",
+     "source": "Ars Technica",
+     "title": "Hackers exploited iOS and Android flaws to infect phones"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:08:13 GMT",
+     "source": "Wccftech",
+     "title": "ASUS Debuts ROG XG Station 3 Dock With Thunderbolt 5 Interface, Supporting Up To 80 Gbps Of Bandwidth For Modern GPUs"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 13:19:17 GMT",
+     "source": "GameSpot",
+     "title": "Steam Is Tightening Its Game Submission Rules As AI Slop Floods The Store"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 16:46:00 GMT",
+     "source": "9to5Mac",
+     "title": "iPhone 18 will have two upgrades inspired by ‘Pro’ models, per leak"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 15:23:30 GMT",
+     "source": "Forbes",
+     "title": "‘Fortnite’ Clarifies The Odds Of Opening A Pirate Shop Token Chest"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:45:00 GMT",
+     "source": "Nintendo Life",
+     "title": "Reminder: Zelda: Ocarina Of Time - Playable Ocarina Available Now On The Nintendo Store"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:00:00 GMT",
+     "source": "The Verge",
+     "title": "Xbox previews two new ways to control cloud games"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:06:01 GMT",
+     "source": "Game Informer",
+     "title": "God Of War Laufey Delayed To May"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:51:35 GMT",
+     "source": "TechCrunch",
+     "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 03:50:26 GMT",
+     "source": "Hypebeast",
+     "title": "Xbox Debuts the Series X-BITE: A Working Console Swallowed by an Alligator"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:05:37 GMT",
+     "source": "Pokemon.com",
+     "title": "Pokémon Pokopia Expansion Pass—Part 2: Dazzling Decorations Available December 9"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:17:10 GMT",
+     "source": "GamesIndustry.biz",
+     "title": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:59:46 GMT",
+     "source": "Forbes",
+     "title": "$750 Million In ‘GTA 6’ Pre-Sales Will Soon Pass GTA 5’s Entire Launch"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:06:00 GMT",
+     "source": "TechSpot",
+     "title": "Cheap Android TV boxes came with malware, and Google says the manufacturer was behind it"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 18:02:17 GMT",
+     "source": "XBOX Wire",
+     "title": "Coming to XBOX Game Pass: Escape Academy 2: Back 2 School, Thronefall, Warhammer Survivors, and More"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:36:21 GMT",
+     "source": "The Verge",
+     "title": "Anker’s new window-mounted camera monitors the outside of your home from within it"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:00:00 GMT",
+     "source": "Nintendo Life",
+     "title": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 23:24:10 GMT",
+     "source": "IGN",
+     "title": "The Opening Hour of 007 First Light Is Now Free to Play for Select PlayStation Plus Subscribers"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 16:57:34 GMT",
+     "source": "Jalopnik",
+     "title": "SpaceX Starship Will Need To Re-Fuel 22 Times In Space To Make It To The Moon"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:45:00 GMT",
+     "source": "Nintendo Life",
+     "title": "Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 19:40:00 GMT",
+     "source": "MacRumors",
+     "title": "Best Early Black Friday Mac Deals: Save Hundreds on MacBook Air, Mac Mini, and More"
+    },
+    {
+     "published": "Tue, 03 Nov 2026 15:58:48 GMT",
+     "source": "Windows Central",
+     "title": "Buying a gaming handheld for the holidays? Microsoft will throw in 25 Xbox games worth over $500"
+    }
+   ],
+   "top": [
+    {
+     "published": "Thu, 05 Nov 2026 02:58:19 GMT",
+     "source": "The Washington Post",
+     "title": "Vance says voters want to ‘end the war,’ change Israel relationship"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:51:45 GMT",
+     "source": "BBC",
+     "title": "Democrat leads by dozens of votes in surprisingly tight Mississippi Senate race"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:43:44 GMT",
+     "source": "The New York Times",
+     "title": "Trump Emerges After the Midterms: ‘Did You Guys See the Helipad?’"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:12:00 GMT",
+     "source": "Politico",
+     "title": "‘An earthquake’: Nithya Raman’s rise jolts LA’s political establishment"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:57:16 GMT",
+     "source": "NBC News",
+     "title": "Democratic Senate set to thwart Trump’s Supreme Court and judicial appointments"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:33:43 GMT",
+     "source": "The Washington Post",
+     "title": "Column | Trump’s legendary image machine has finally broken down"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:36:07 GMT",
+     "source": "Reuters",
+     "title": "Politics of fear failed to stop El-Sayed's historic US Senate win"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:58:24 GMT",
+     "source": "Financial Times",
+     "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:01:00 GMT",
+     "source": "The Washington Post",
+     "title": "Indiana plans execution using drugs from pharmacy facing state probe, lawyer says"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 20:49:59 GMT",
+     "source": "NPR",
+     "title": "Democratic leaders reflect on midterm results and what's next for the party"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:28:00 GMT",
+     "source": "The Guardian",
+     "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:53:24 GMT",
+     "source": "PBS",
+     "title": "World leaders who sparred with Trump express mix of relief, caution at GOP election rout"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:49:04 GMT",
+     "source": "DW.com",
+     "title": "France: Cyberattack targets blood bank refrigerators"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:17:18 GMT",
+     "source": "BBC",
+     "title": "UK commits to 'time-bound' talks on slavery apology"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 03:01:57 GMT",
+     "source": "CNBC",
+     "title": "Stock futures are little changed after big rally following Democrats' decisive midterm wins"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:32:00 GMT",
+     "source": "The Guardian",
+     "title": "Datacenters were on the ballot. US voters rejected them"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:30:00 GMT",
+     "source": "WSJ",
+     "title": "Inside CVS’s Decision to Break Up a Healthcare Juggernaut"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 17:08:00 GMT",
+     "source": "NJ.com",
+     "title": "$200K, 2 $50K Powerball tickets bought in N.J. as jackpot soars to $835M"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 00:25:00 GMT",
+     "source": "The Verge",
+     "title": "X says its updated web app is way faster"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:47:51 GMT",
+     "source": "Ars Technica",
+     "title": "Nintendo’s biggest ROM chip supplier is bowing out of the business"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 12:59:20 GMT",
+     "source": "PhoneArena",
+     "title": "Motorola is apparently working on a surprising product revival with some intriguing specs"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 11:38:54 GMT",
+     "source": "Nintendo Everything",
+     "title": "The Legend of Zelda Ocarina of Time 1.1.1 update out now, patch notes"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:52:37 GMT",
+     "source": "The Hollywood Reporter",
+     "title": "Hollywood Celebrates Democrats’ Midterm Sweep: “The Trump Regime Is Over”"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:29:22 GMT",
+     "source": "Entertainment Weekly",
+     "title": "‘Secret Lives of Mormon Wives’ star Jen Affleck files for divorce amid pregnancy"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 02:23:00 GMT",
+     "source": "Page Six",
+     "title": "‘Breaking Bad’ star Dean Norris’ secret divorce revealed amid $1M bankruptcy filing"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:56:54 GMT",
+     "source": "Yahoo",
+     "title": "Kellie Pickler Reaches Settlement After Bitter Battle With Late Husband’s Parents Over His Property"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 01:56:00 GMT",
+     "source": "CBS Sports",
+     "title": "Malachi Toney expected to undergo surgery after injuring ankle in practice ahead of showdown with Notre Dame"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:04:00 GMT",
+     "source": "ESPN",
+     "title": "Champions League recap: Fenerbahçe stun Liverpool, Como's 9-1 win makes history"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 18:49:00 GMT",
+     "source": "Defector",
+     "title": "Major League Baseball’s New Salary Cap Proposal Is As Shady As Its Old One"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:29:00 GMT",
+     "source": "The Detroit News",
+     "title": "Lions' Jack Campbell releases statement on progress of neck injury"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 23:27:00 GMT",
+     "source": "Reuters",
+     "title": "NASA's 22-year-old Swift satellite telescope falls from orbit in fiery finale"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:00:00 GMT",
+     "source": "Space",
+     "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 19:27:46 GMT",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "title": "Ozone hole in 2026 is largest in a decade, but long-term recovery remains on track: Report - ABC News"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:59:06 GMT",
+     "source": "CNN",
+     "title": "The Southern Taurid meteor shower will bring rare fireballs tonight"
+    },
+    {
+     "published": "Thu, 05 Nov 2026 04:23:59 GMT",
+     "source": "The Washington Post",
+     "title": "Pennsylvania reports 6th measles-associated death"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 14:03:40 GMT",
+     "source": "The Washington Post",
+     "title": "Many diagnosed with a peanut allergy don’t realize they may not have it anymore"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 21:43:00 GMT",
+     "source": "Channel 3000",
+     "title": "Measles spreads to Columbia County"
+    },
+    {
+     "published": "Wed, 04 Nov 2026 22:31:02 GMT",
+     "source": "Reuters",
+     "title": "Doctors in England launch primary-care trial of blood tests for spotting cancer early"
+    }
+   ]
+  }
+ }
+}
