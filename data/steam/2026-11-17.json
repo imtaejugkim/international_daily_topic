@@ -1,0 +1,1119 @@
+{
+ "collected_at": "2026-11-17T17:38:28+09:00",
+ "date": "2026-11-17",
+ "featured": {
+  "coming_soon": [
+   {
+    "appid": "4699150",
+    "discount": 0,
+    "name": "Astro beasts",
+    "price": 0
+   },
+   {
+    "appid": "5120080",
+    "discount": 0,
+    "name": "Everhex",
+    "price": 0
+   },
+   {
+    "appid": "5628450",
+    "discount": 0,
+    "name": "Ballpeak Demo",
+    "price": 0
+   },
+   {
+    "appid": "5631060",
+    "discount": 0,
+    "name": "Seat of Power Demo",
+    "price": 0
+   },
+   {
+    "appid": "3218350",
+    "discount": 0,
+    "name": "Melvor Idle 2: A RuneScape Adventure",
+    "price": 0
+   },
+   {
+    "appid": "5441620",
+    "discount": 0,
+    "name": "정오의 그림자",
+    "price": 0
+   },
+   {
+    "appid": "5552220",
+    "discount": 0,
+    "name": "Melvor Idle 2: A RuneScape Adventure Soundtrack",
+    "price": 0
+   },
+   {
+    "appid": "4718660",
+    "discount": 0,
+    "name": "Slightly Used Sorcery",
+    "price": 0
+   },
+   {
+    "appid": "5381310",
+    "discount": 0,
+    "name": "デスクトップフレンズ",
+    "price": 0
+   },
+   {
+    "appid": "4071910",
+    "discount": 0,
+    "name": "Death & Deadlines",
+    "price": 0
+   }
+  ],
+  "new_releases": [
+   {
+    "appid": "4903470",
+    "discount": 0,
+    "name": "Butaro's Overtime Office",
+    "price": 440000
+   },
+   {
+    "appid": "5541800",
+    "discount": 0,
+    "name": "Summer, Youth, and Baseball",
+    "price": 0
+   },
+   {
+    "appid": "4748960",
+    "discount": 0,
+    "name": "Cube Fold",
+    "price": 335000
+   },
+   {
+    "appid": "4710560",
+    "discount": 10,
+    "name": "기계의 심장",
+    "price": 504000
+   },
+   {
+    "appid": "4918810",
+    "discount": 20,
+    "name": "Pinata Smash: Incremental Circus",
+    "price": 328000
+   },
+   {
+    "appid": "5486840",
+    "discount": 0,
+    "name": "HEXWING",
+    "price": 560000
+   },
+   {
+    "appid": "5185680",
+    "discount": 15,
+    "name": "終末王座",
+    "price": 557000
+   },
+   {
+    "appid": "5424160",
+    "discount": 40,
+    "name": "DerbiManager",
+    "price": 1020000
+   },
+   {
+    "appid": "5515170",
+    "discount": 0,
+    "name": "Scripts of Power",
+    "price": 110000
+   },
+   {
+    "appid": "5183160",
+    "discount": 10,
+    "name": "Kyle Coral",
+    "price": 990000
+   },
+   {
+    "appid": "5459220",
+    "discount": 0,
+    "name": "ROKUMENSHU",
+    "price": 560000
+   },
+   {
+    "appid": "5533700",
+    "discount": 40,
+    "name": "三国群雄：幸存者",
+    "price": 267000
+   },
+   {
+    "appid": "5330280",
+    "discount": 30,
+    "name": "S.O.I.: Sphere of Influence",
+    "price": 735000
+   },
+   {
+    "appid": "3266730",
+    "discount": 20,
+    "name": "No Alibi",
+    "price": 680000
+   },
+   {
+    "appid": "3721150",
+    "discount": 0,
+    "name": "Sudoku Defense",
+    "price": 1100000
+   },
+   {
+    "appid": "5129310",
+    "discount": 20,
+    "name": "Pocket TD",
+    "price": 880000
+   },
+   {
+    "appid": "5255210",
+    "discount": 0,
+    "name": "Tactics Arena",
+    "price": 0
+   },
+   {
+    "appid": "931210",
+    "discount": 0,
+    "name": "Tabletop Basketball VR",
+    "price": 1700000
+   },
+   {
+    "appid": "5451420",
+    "discount": 0,
+    "name": "Murder Mystery Online",
+    "price": 0
+   },
+   {
+    "appid": "5339560",
+    "discount": 25,
+    "name": "AMIDA Q",
+    "price": 251000
+   },
+   {
+    "appid": "5075260",
+    "discount": 30,
+    "name": "최고의 유부녀 - 한여름 파티",
+    "price": 231000
+   },
+   {
+    "appid": "5013880",
+    "discount": 15,
+    "name": "MythTunes: OST, Lofi & BGM Player",
+    "price": 463000
+   },
+   {
+    "appid": "4729710",
+    "discount": 0,
+    "name": "Cooking Adventure",
+    "price": 0
+   },
+   {
+    "appid": "3938920",
+    "discount": 10,
+    "name": "懒得鸟",
+    "price": 684000
+   },
+   {
+    "appid": "5176420",
+    "discount": 20,
+    "name": "One Million Gallons",
+    "price": 224000
+   },
+   {
+    "appid": "4933680",
+    "discount": 0,
+    "name": "光不归谁",
+    "price": 225000
+   },
+   {
+    "appid": "5197010",
+    "discount": 20,
+    "name": "Pump And Dump",
+    "price": 880000
+   },
+   {
+    "appid": "5174790",
+    "discount": 20,
+    "name": "Don't Panic, Defend!",
+    "price": 448000
+   },
+   {
+    "appid": "4670000",
+    "discount": 0,
+    "name": "Rogue's Cog",
+    "price": 1050000
+   },
+   {
+    "appid": "5418470",
+    "discount": 15,
+    "name": "Streamer Manager",
+    "price": 663000
+   }
+  ],
+  "specials": [
+   {
+    "appid": "3321460",
+    "discount": 20,
+    "name": "붉은사막 Enhanced",
+    "price": 6384000
+   },
+   {
+    "appid": "1687950",
+    "discount": 70,
+    "name": "페르소나 5 더 로열",
+    "price": 2094000
+   },
+   {
+    "appid": "1771300",
+    "discount": 67,
+    "name": "Kingdom Come: Deliverance II",
+    "price": 2006000
+   },
+   {
+    "appid": "4459590",
+    "discount": 10,
+    "name": "슬롯바운드 - Slotbound",
+    "price": 1080000
+   },
+   {
+    "appid": "2406770",
+    "discount": 20,
+    "name": "Bodycam",
+    "price": 3000000
+   },
+   {
+    "appid": "2161700",
+    "discount": 65,
+    "name": "페르소나3 리로드",
+    "price": 2443000
+   },
+   {
+    "appid": "2988580",
+    "discount": 60,
+    "name": "용과 같이0 맹세의 장소 Director's Cut",
+    "price": 2192000
+   },
+   {
+    "appid": "5200620",
+    "discount": 10,
+    "name": "Dungeonbound",
+    "price": 1215000
+   },
+   {
+    "appid": "5458210",
+    "discount": 30,
+    "name": "How They Built the Pyramids",
+    "price": 469000
+   },
+   {
+    "appid": "4618570",
+    "discount": 30,
+    "name": "부스터 팩 히어로즈",
+    "price": 770000
+   }
+  ],
+  "top_sellers": [
+   {
+    "appid": "3321460",
+    "discount": 20,
+    "name": "붉은사막 Enhanced",
+    "price": 6384000
+   },
+   {
+    "appid": "4435490",
+    "discount": 0,
+    "name": "Call of Duty®: Modern Warfare® 4",
+    "price": 8000000
+   },
+   {
+    "appid": "4530370",
+    "discount": 0,
+    "name": "Football Manager 27",
+    "price": 6980000
+   },
+   {
+    "appid": "2868840",
+    "discount": 20,
+    "name": "Slay the Spire 2",
+    "price": 2160000
+   },
+   {
+    "appid": "2161700",
+    "discount": 65,
+    "name": "페르소나3 리로드",
+    "price": 2443000
+   },
+   {
+    "appid": "4115450",
+    "discount": 0,
+    "name": "Phantom Blade Zero",
+    "price": 6980000
+   },
+   {
+    "appid": "5001840",
+    "discount": 0,
+    "name": "붉은사막 Enhanced: 미지의 여정",
+    "price": 2780000
+   },
+   {
+    "appid": "4459590",
+    "discount": 10,
+    "name": "슬롯바운드 - Slotbound",
+    "price": 1080000
+   },
+   {
+    "appid": "1687950",
+    "discount": 70,
+    "name": "페르소나 5 더 로열",
+    "price": 2094000
+   },
+   {
+    "appid": "3809270",
+    "discount": 0,
+    "name": "Euro Truck Simulator 2 - Coaches",
+    "price": 1986000
+   }
+  ]
+ },
+ "players": {
+  "105600": 16855,
+  "1085660": 9206,
+  "108600": 23463,
+  "1086940": 17379,
+  "1091500": 47616,
+  "1142710": 15935,
+  "1172470": 83301,
+  "1174180": 19325,
+  "1203220": 21953,
+  "1203620": 14736,
+  "1222670": 13732,
+  "1245620": 14290,
+  "1281930": 12978,
+  "1329410": 6177,
+  "1364780": 13088,
+  "1366800": 25661,
+  "1449850": 11212,
+  "1623730": 18940,
+  "1665460": 8242,
+  "1687950": 3606,
+  "1771300": 7624,
+  "1808500": 18879,
+  "1867240": 37947,
+  "1905180": 17876,
+  "1938090": 72320,
+  "1942280": 11914,
+  "1973530": 35106,
+  "2073620": 11611,
+  "2073850": 6187,
+  "2161700": 2177,
+  "221100": 19756,
+  "2246340": 9249,
+  "227300": 27464,
+  "2300320": 13166,
+  "230410": 46336,
+  "2357570": 22524,
+  "236390": 36994,
+  "2379780": 4774,
+  "238960": 45802,
+  "2399830": 13895,
+  "2406770": 7626,
+  "244210": 4617,
+  "2483190": 6568,
+  "2507950": 54820,
+  "250900": 23402,
+  "251570": 12522,
+  "252490": 58098,
+  "252950": 6827,
+  "261550": 17285,
+  "271590": 33140,
+  "2767030": 27140,
+  "2807960": 12228,
+  "284160": 11902,
+  "2868840": 88586,
+  "289070": 20443,
+  "291550": 4271,
+  "292030": 14082,
+  "294100": 21208,
+  "2988580": 264,
+  "322170": 21397,
+  "322330": 24242,
+  "3240220": 38008,
+  "3241660": 11083,
+  "3266730": 4,
+  "3321460": 14853,
+  "3393110": 110922,
+  "3405690": 9733,
+  "3419430": 187492,
+  "3513350": 5582,
+  "3527290": 6924,
+  "3557620": 8961,
+  "3564740": 8650,
+  "359550": 26126,
+  "365670": 12657,
+  "3678970": 57513,
+  "3721150": 0,
+  "3809270": 0,
+  "381210": 24052,
+  "3932890": 17398,
+  "3938920": 40,
+  "394360": 22557,
+  "4000": 13104,
+  "4080220": 12561,
+  "4115450": 107016,
+  "4126040": 17333,
+  "413150": 37445,
+  "4162040": 4032,
+  "4262460": 199894,
+  "431960": 74420,
+  "4348910": 69551,
+  "438100": 37221,
+  "440": 89088,
+  "4435490": 0,
+  "4459590": 18619,
+  "4530370": 29189,
+  "4618570": 2244,
+  "4670000": 0,
+  "4710560": 0,
+  "4729710": 2,
+  "4748960": 1,
+  "489830": 18077,
+  "4903470": 0,
+  "4918810": 44,
+  "4933680": 2,
+  "5001840": 0,
+  "5013880": 2,
+  "5075260": 87,
+  "5120080": 0,
+  "5129310": 0,
+  "5174790": 1,
+  "5175310": 6152,
+  "5176420": 0,
+  "5183160": 0,
+  "5185680": 2,
+  "5197010": 0,
+  "5200620": 3430,
+  "5255210": 0,
+  "5330280": 0,
+  "5335510": 13965,
+  "5339560": 3,
+  "5418470": 1,
+  "5424160": 0,
+  "5451420": 3,
+  "5458210": 2070,
+  "5459220": 0,
+  "5486840": 0,
+  "550": 13489,
+  "5515170": 0,
+  "5533700": 12,
+  "553850": 13037,
+  "5541800": 1,
+  "570": 400179,
+  "578080": 294589,
+  "594650": 7849,
+  "714010": 3948,
+  "730": 546638,
+  "739630": 3442,
+  "813780": 10366,
+  "892970": 16190,
+  "931210": 0,
+  "949230": 7511
+ },
+ "top_played": [
+  {
+   "appid": "730",
+   "last_week_rank": 1,
+   "peak_in_game": 1089270,
+   "rank": 1
+  },
+  {
+   "appid": "570",
+   "last_week_rank": 2,
+   "peak_in_game": 774257,
+   "rank": 2
+  },
+  {
+   "appid": "578080",
+   "last_week_rank": 3,
+   "peak_in_game": 707459,
+   "rank": 3
+  },
+  {
+   "appid": "4262460",
+   "last_week_rank": 10,
+   "peak_in_game": 527477,
+   "rank": 4
+  },
+  {
+   "appid": "431960",
+   "last_week_rank": 4,
+   "peak_in_game": 109790,
+   "rank": 5
+  },
+  {
+   "appid": "1422450",
+   "last_week_rank": 6,
+   "peak_in_game": 195219,
+   "rank": 6
+  },
+  {
+   "appid": "2868840",
+   "last_week_rank": 11,
+   "peak_in_game": 164877,
+   "rank": 7
+  },
+  {
+   "appid": "1172470",
+   "last_week_rank": 8,
+   "peak_in_game": 229343,
+   "rank": 8
+  },
+  {
+   "appid": "4115450",
+   "last_week_rank": 5,
+   "peak_in_game": 280692,
+   "rank": 9
+  },
+  {
+   "appid": "1938090",
+   "last_week_rank": 7,
+   "peak_in_game": 144313,
+   "rank": 10
+  },
+  {
+   "appid": "1091500",
+   "last_week_rank": 9,
+   "peak_in_game": 81146,
+   "rank": 11
+  },
+  {
+   "appid": "236390",
+   "last_week_rank": 13,
+   "peak_in_game": 73283,
+   "rank": 12
+  },
+  {
+   "appid": "359550",
+   "last_week_rank": 16,
+   "peak_in_game": 68636,
+   "rank": 13
+  },
+  {
+   "appid": "227300",
+   "last_week_rank": 36,
+   "peak_in_game": 76768,
+   "rank": 14
+  },
+  {
+   "appid": "322170",
+   "last_week_rank": 15,
+   "peak_in_game": 48453,
+   "rank": 15
+  },
+  {
+   "appid": "1867240",
+   "last_week_rank": 25,
+   "peak_in_game": 100267,
+   "rank": 16
+  },
+  {
+   "appid": "230410",
+   "last_week_rank": 17,
+   "peak_in_game": 71411,
+   "rank": 17
+  },
+  {
+   "appid": "1973530",
+   "last_week_rank": 22,
+   "peak_in_game": 52517,
+   "rank": 18
+  },
+  {
+   "appid": "2767030",
+   "last_week_rank": 30,
+   "peak_in_game": 71037,
+   "rank": 19
+  },
+  {
+   "appid": "3393110",
+   "last_week_rank": 14,
+   "peak_in_game": 156636,
+   "rank": 20
+  },
+  {
+   "appid": "4348910",
+   "last_week_rank": 12,
+   "peak_in_game": 121248,
+   "rank": 21
+  },
+  {
+   "appid": "2357570",
+   "last_week_rank": 19,
+   "peak_in_game": 46799,
+   "rank": 22
+  },
+  {
+   "appid": "381210",
+   "last_week_rank": 18,
+   "peak_in_game": 47307,
+   "rank": 23
+  },
+  {
+   "appid": "3240220",
+   "last_week_rank": 26,
+   "peak_in_game": 66446,
+   "rank": 24
+  },
+  {
+   "appid": "250900",
+   "last_week_rank": 21,
+   "peak_in_game": 42311,
+   "rank": 25
+  },
+  {
+   "appid": "413150",
+   "last_week_rank": 24,
+   "peak_in_game": 73858,
+   "rank": 26
+  },
+  {
+   "appid": "252490",
+   "last_week_rank": 20,
+   "peak_in_game": 103211,
+   "rank": 27
+  },
+  {
+   "appid": "440",
+   "last_week_rank": 28,
+   "peak_in_game": 104779,
+   "rank": 28
+  },
+  {
+   "appid": "2507950",
+   "last_week_rank": 29,
+   "peak_in_game": 107172,
+   "rank": 29
+  },
+  {
+   "appid": "3241660",
+   "last_week_rank": 23,
+   "peak_in_game": 35467,
+   "rank": 30
+  },
+  {
+   "appid": "2807960",
+   "last_week_rank": 31,
+   "peak_in_game": 31030,
+   "rank": 31
+  },
+  {
+   "appid": "271590",
+   "last_week_rank": 37,
+   "peak_in_game": 62606,
+   "rank": 32
+  },
+  {
+   "appid": "553850",
+   "last_week_rank": 27,
+   "peak_in_game": 27342,
+   "rank": 33
+  },
+  {
+   "appid": "550",
+   "last_week_rank": 35,
+   "peak_in_game": 32044,
+   "rank": 34
+  },
+  {
+   "appid": "105600",
+   "last_week_rank": 33,
+   "peak_in_game": 32336,
+   "rank": 35
+  },
+  {
+   "appid": "438100",
+   "last_week_rank": 34,
+   "peak_in_game": 55310,
+   "rank": 36
+  },
+  {
+   "appid": "238960",
+   "last_week_rank": 184,
+   "peak_in_game": 98848,
+   "rank": 37
+  },
+  {
+   "appid": "284160",
+   "last_week_rank": 40,
+   "peak_in_game": 29526,
+   "rank": 38
+  },
+  {
+   "appid": "108600",
+   "last_week_rank": 39,
+   "peak_in_game": 41605,
+   "rank": 39
+  },
+  {
+   "appid": "2406770",
+   "last_week_rank": 137,
+   "peak_in_game": 22091,
+   "rank": 40
+  },
+  {
+   "appid": "322330",
+   "last_week_rank": 42,
+   "peak_in_game": 49487,
+   "rank": 41
+  },
+  {
+   "appid": "1808500",
+   "last_week_rank": 32,
+   "peak_in_game": 47382,
+   "rank": 42
+  },
+  {
+   "appid": "892970",
+   "last_week_rank": 38,
+   "peak_in_game": 51300,
+   "rank": 43
+  },
+  {
+   "appid": "1203220",
+   "last_week_rank": 41,
+   "peak_in_game": 58747,
+   "rank": 44
+  },
+  {
+   "appid": "394360",
+   "last_week_rank": 49,
+   "peak_in_game": 41245,
+   "rank": 45
+  },
+  {
+   "appid": "489830",
+   "last_week_rank": 51,
+   "peak_in_game": 37204,
+   "rank": 46
+  },
+  {
+   "appid": "1174180",
+   "last_week_rank": 48,
+   "peak_in_game": 32890,
+   "rank": 47
+  },
+  {
+   "appid": "4080220",
+   "last_week_rank": 44,
+   "peak_in_game": 44988,
+   "rank": 48
+  },
+  {
+   "appid": "1086940",
+   "last_week_rank": 45,
+   "peak_in_game": 39888,
+   "rank": 49
+  },
+  {
+   "appid": "252950",
+   "last_week_rank": 46,
+   "peak_in_game": 26970,
+   "rank": 50
+  },
+  {
+   "appid": "4126040",
+   "last_week_rank": 43,
+   "peak_in_game": 30953,
+   "rank": 51
+  },
+  {
+   "appid": "4530370",
+   "last_week_rank": 82,
+   "peak_in_game": 73875,
+   "rank": 52
+  },
+  {
+   "appid": "3405690",
+   "last_week_rank": 52,
+   "peak_in_game": 23235,
+   "rank": 53
+  },
+  {
+   "appid": "292030",
+   "last_week_rank": 50,
+   "peak_in_game": 31545,
+   "rank": 54
+  },
+  {
+   "appid": "4000",
+   "last_week_rank": 55,
+   "peak_in_game": 27287,
+   "rank": 55
+  },
+  {
+   "appid": "1665460",
+   "last_week_rank": 56,
+   "peak_in_game": 19213,
+   "rank": 56
+  },
+  {
+   "appid": "1449850",
+   "last_week_rank": 53,
+   "peak_in_game": 19825,
+   "rank": 57
+  },
+  {
+   "appid": "1203620",
+   "last_week_rank": 47,
+   "peak_in_game": 44279,
+   "rank": 58
+  },
+  {
+   "appid": "3419430",
+   "last_week_rank": 54,
+   "peak_in_game": 207640,
+   "rank": 59
+  },
+  {
+   "appid": "3527290",
+   "last_week_rank": 59,
+   "peak_in_game": 18483,
+   "rank": 60
+  },
+  {
+   "appid": "1905180",
+   "last_week_rank": 61,
+   "peak_in_game": 30420,
+   "rank": 61
+  },
+  {
+   "appid": "1222670",
+   "last_week_rank": 64,
+   "peak_in_game": 26969,
+   "rank": 62
+  },
+  {
+   "appid": "1366800",
+   "last_week_rank": 60,
+   "peak_in_game": 46584,
+   "rank": 63
+  },
+  {
+   "appid": "1245620",
+   "last_week_rank": 67,
+   "peak_in_game": 25388,
+   "rank": 64
+  },
+  {
+   "appid": "2300320",
+   "last_week_rank": 63,
+   "peak_in_game": 44790,
+   "rank": 65
+  },
+  {
+   "appid": "1364780",
+   "last_week_rank": 68,
+   "peak_in_game": 29289,
+   "rank": 66
+  },
+  {
+   "appid": "1142710",
+   "last_week_rank": 65,
+   "peak_in_game": 29793,
+   "rank": 67
+  },
+  {
+   "appid": "3678970",
+   "last_week_rank": 58,
+   "peak_in_game": 66710,
+   "rank": 68
+  },
+  {
+   "appid": "5335510",
+   "last_week_rank": 57,
+   "peak_in_game": 34165,
+   "rank": 69
+  },
+  {
+   "appid": "1942280",
+   "last_week_rank": 62,
+   "peak_in_game": 22711,
+   "rank": 70
+  },
+  {
+   "appid": "2483190",
+   "last_week_rank": 69,
+   "peak_in_game": 13746,
+   "rank": 71
+  },
+  {
+   "appid": "221100",
+   "last_week_rank": 66,
+   "peak_in_game": 45991,
+   "rank": 72
+  },
+  {
+   "appid": "289070",
+   "last_week_rank": 71,
+   "peak_in_game": 32825,
+   "rank": 73
+  },
+  {
+   "appid": "3513350",
+   "last_week_rank": 72,
+   "peak_in_game": 10363,
+   "rank": 74
+  },
+  {
+   "appid": "291550",
+   "last_week_rank": 79,
+   "peak_in_game": 12221,
+   "rank": 75
+  },
+  {
+   "appid": "1623730",
+   "last_week_rank": 70,
+   "peak_in_game": 33440,
+   "rank": 76
+  },
+  {
+   "appid": "1281930",
+   "last_week_rank": 75,
+   "peak_in_game": 24632,
+   "rank": 77
+  },
+  {
+   "appid": "294100",
+   "last_week_rank": 73,
+   "peak_in_game": 31302,
+   "rank": 78
+  },
+  {
+   "appid": "261550",
+   "last_week_rank": 84,
+   "peak_in_game": 29906,
+   "rank": 79
+  },
+  {
+   "appid": "244210",
+   "last_week_rank": 81,
+   "peak_in_game": 13260,
+   "rank": 80
+  },
+  {
+   "appid": "3321460",
+   "last_week_rank": 74,
+   "peak_in_game": 24199,
+   "rank": 81
+  },
+  {
+   "appid": "813780",
+   "last_week_rank": 76,
+   "peak_in_game": 21130,
+   "rank": 82
+  },
+  {
+   "appid": "2073850",
+   "last_week_rank": 77,
+   "peak_in_game": 16749,
+   "rank": 83
+  },
+  {
+   "appid": "5175310",
+   "last_week_rank": -1,
+   "peak_in_game": 44367,
+   "rank": 84
+  },
+  {
+   "appid": "2073620",
+   "last_week_rank": 78,
+   "peak_in_game": 26357,
+   "rank": 85
+  },
+  {
+   "appid": "1085660",
+   "last_week_rank": 80,
+   "peak_in_game": 22103,
+   "rank": 86
+  },
+  {
+   "appid": "714010",
+   "last_week_rank": 89,
+   "peak_in_game": 5977,
+   "rank": 87
+  },
+  {
+   "appid": "251570",
+   "last_week_rank": 83,
+   "peak_in_game": 24101,
+   "rank": 88
+  },
+  {
+   "appid": "3557620",
+   "last_week_rank": 100,
+   "peak_in_game": 7979,
+   "rank": 89
+  },
+  {
+   "appid": "4162040",
+   "last_week_rank": 87,
+   "peak_in_game": 7076,
+   "rank": 90
+  },
+  {
+   "appid": "739630",
+   "last_week_rank": 88,
+   "peak_in_game": 12628,
+   "rank": 91
+  },
+  {
+   "appid": "2246340",
+   "last_week_rank": 85,
+   "peak_in_game": 20747,
+   "rank": 92
+  },
+  {
+   "appid": "3932890",
+   "last_week_rank": 94,
+   "peak_in_game": 31852,
+   "rank": 93
+  },
+  {
+   "appid": "594650",
+   "last_week_rank": 86,
+   "peak_in_game": 19961,
+   "rank": 94
+  },
+  {
+   "appid": "1329410",
+   "last_week_rank": 104,
+   "peak_in_game": 10864,
+   "rank": 95
+  },
+  {
+   "appid": "949230",
+   "last_week_rank": 149,
+   "peak_in_game": 17256,
+   "rank": 96
+  },
+  {
+   "appid": "2399830",
+   "last_week_rank": 91,
+   "peak_in_game": 23332,
+   "rank": 97
+  },
+  {
+   "appid": "365670",
+   "last_week_rank": 101,
+   "peak_in_game": 16662,
+   "rank": 98
+  },
+  {
+   "appid": "2379780",
+   "last_week_rank": 95,
+   "peak_in_game": 7448,
+   "rank": 99
+  },
+  {
+   "appid": "3564740",
+   "last_week_rank": 124,
+   "peak_in_game": 21771,
+   "rank": 100
+  }
+ ]
+}

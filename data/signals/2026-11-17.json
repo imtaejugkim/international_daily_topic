@@ -1,0 +1,92 @@
+{
+ "climbing": [],
+ "counted": 106,
+ "date": "2026-11-17",
+ "days_of_history": 1,
+ "new_entry": [],
+ "note": "absolute player counts are not a signal - the top of the chart is the same every day. surging / new_entry / climbing are the signal; settled_giants is listed only so it can be ignored.",
+ "recently_released": [
+  {
+   "appid": "4262460",
+   "at_own_peak": true,
+   "climb_streak": 0,
+   "days_since_release": 13,
+   "days_tracked": 1,
+   "featured": false,
+   "genres": [
+    "액션",
+    "대규모 멀티플레이어",
+    "RPG",
+    "시뮬레이션",
+    "무료 플레이",
+    "앞서 해보기"
+   ],
+   "is_free": true,
+   "last_week_rank": 10,
+   "name": "ROB RUN",
+   "pct_change": null,
+   "players": 199894,
+   "players_prev": null,
+   "price": "",
+   "rank": 4,
+   "rank_delta": 6,
+   "release_date": "2026년 11월 4일"
+  },
+  {
+   "appid": "4115450",
+   "at_own_peak": true,
+   "climb_streak": 0,
+   "days_since_release": 20,
+   "days_tracked": 1,
+   "featured": true,
+   "genres": [
+    "액션",
+    "RPG"
+   ],
+   "is_free": false,
+   "last_week_rank": 5,
+   "name": "Phantom Blade Zero",
+   "pct_change": null,
+   "players": 107016,
+   "players_prev": null,
+   "price": "₩ 69,800",
+   "rank": 9,
+   "rank_delta": -4,
+   "release_date": "2026년 10월 28일"
+  },
+  {
+   "appid": "4348910",
+   "at_own_peak": true,
+   "climb_streak": 0,
+   "days_since_release": 20,
+   "days_tracked": 1,
+   "featured": false,
+   "genres": [
+    "인디",
+    "RPG",
+    "시뮬레이션",
+    "전략"
+   ],
+   "is_free": false,
+   "last_week_rank": 12,
+   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+   "pct_change": null,
+   "players": 69551,
+   "players_prev": null,
+   "price": "₩ 19,900",
+   "rank": 21,
+   "rank_delta": -9,
+   "release_date": "2026년 10월 28일"
+  }
+ ],
+ "settled_giants": [],
+ "sinking": [],
+ "surging": [],
+ "thresholds": {
+  "flat_pct": 7.0,
+  "giant_players": 50000,
+  "noise_floor": 500,
+  "surge_pct": 30.0
+ },
+ "window": "2026-11-17 ~ 2026-11-17"
+}

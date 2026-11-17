@@ -1,0 +1,959 @@
+{
+ "105600": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Re-Logic"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "Terraria",
+  "price": "₩ 11,000",
+  "release_date": "2011년 5월 16일"
+ },
+ "108600": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "스크린 공유 및 분할 협동",
+   "공유 및 분할 화면"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "The Indie Stone"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "Project Zomboid",
+  "price": "₩ 26,500",
+  "release_date": "2013년 11월 8일"
+ },
+ "1091500": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드",
+   "텍스트 크기 조정",
+   "카메라 움직임 조정",
+   "색상 대체",
+   "음량 개별 조절"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "CD PROJEKT RED"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "Cyberpunk 2077",
+  "price": "₩ 66,000",
+  "release_date": "2020년 12월 9일"
+ },
+ "1172470": {
+  "categories": [
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Respawn"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Apex 레전드™",
+  "price": "",
+  "release_date": "2020년 11월 4일"
+ },
+ "1422450": {
+  "categories": [
+   "멀티플레이어"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "Valve"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "Deadlock",
+  "price": "",
+  "release_date": "발표 예정"
+ },
+ "1867240": {
+  "categories": [
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드",
+   "카메라 움직임 조정",
+   "음량 개별 조절",
+   "스테레오 사운드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "BULKHEAD"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "인디",
+   "대규모 멀티플레이어",
+   "시뮬레이션",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "WARDOGS",
+  "price": "₩ 47,270",
+  "release_date": "2026년 9월 10일"
+ },
+ "1938090": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Treyarch",
+   "Raven Software",
+   "Beenox",
+   "High Moon Studios",
+   "Sledgehammer Games",
+   "Infinity Ward",
+   "Activision Shanghai",
+   "Demonware"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "콜 오브 듀티®",
+  "price": "",
+  "release_date": "2022년 10월 27일"
+ },
+ "1973530": {
+  "categories": [
+   "싱글 플레이어",
+   "앱 내 구매",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "ProjectMoon"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Limbus Company",
+  "price": "",
+  "release_date": "2023년 2월 26일"
+ },
+ "227300": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드",
+   "Steam 창작마당",
+   "카메라 움직임 조정"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "SCS Software"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "Euro Truck Simulator 2",
+  "price": "₩ 6,750",
+  "release_date": "2012년 10월 12일"
+ },
+ "230410": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Digital Extremes"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "RPG",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Warframe",
+  "price": "",
+  "release_date": "2013년 3월 25일"
+ },
+ "236390": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "MMO",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Gaijin Entertainment"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "대규모 멀티플레이어",
+   "시뮬레이션",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "War Thunder",
+  "price": "",
+  "release_date": "2013년 8월 15일"
+ },
+ "2406770": {
+  "categories": [
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "앱 내 구매",
+   "DualSense 컨트롤러 지원",
+   "Steam Input API 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Reissad"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "인디",
+   "대규모 멀티플레이어",
+   "시뮬레이션",
+   "전략",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "Bodycam",
+  "price": "₩ 30,000",
+  "release_date": "2024년 6월 7일"
+ },
+ "2507950": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "MMO",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Team Jade"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "대규모 멀티플레이어",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Delta Force",
+  "price": "",
+  "release_date": "2024년 12월 4일"
+ },
+ "250900": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "공유 및 분할 화면",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드",
+   "Steam Cloud",
+   "Remote Play TV"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Nicalis, Inc.",
+   "Edmund McMillen"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "The Binding of Isaac: Rebirth",
+  "price": "₩ 15,500",
+  "release_date": "2014년 11월 4일"
+ },
+ "252490": {
+  "categories": [
+   "멀티플레이어",
+   "MMO",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Facepunch Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "대규모 멀티플레이어",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "Rust",
+  "price": "₩ 42,000",
+  "release_date": "2018년 2월 8일"
+ },
+ "271590": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Rockstar North"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "Grand Theft Auto V 레거시",
+  "price": "",
+  "release_date": "2015년 4월 13일"
+ },
+ "2767030": {
+  "categories": [
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "NetEase Games"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "캐주얼",
+   "대규모 멀티플레이어",
+   "레이싱",
+   "RPG",
+   "전략",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "마블 라이벌즈",
+  "price": "",
+  "release_date": "2024년 12월 5일"
+ },
+ "2807960": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "앱 내 구매"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Battlefield Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "Battlefield™ 6",
+  "price": "₩ 80,000",
+  "release_date": "2025년 10월 10일"
+ },
+ "284160": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "스크린 공유 및 분할 협동",
+   "공유 및 분할 화면",
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드",
+   "카메라 움직임 조정"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "BeamNG"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "레이싱",
+   "시뮬레이션",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "BeamNG.drive",
+  "price": "₩ 27,000",
+  "release_date": "2015년 5월 29일"
+ },
+ "2868840": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "컨트롤러 완벽 지원",
+   "음량 개별 조절",
+   "마우스 전용 옵션",
+   "#category_playable_at_your_own_pace"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Mega Crit"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "전략",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "Slay the Spire 2",
+  "price": "₩ 21,600",
+  "release_date": "2026년 3월 5일"
+ },
+ "322170": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드",
+   "컨트롤러 일부 지원",
+   "레벨 에디터 포함",
+   "Remote Play 휴대전화",
+   "Remote Play 태블릿",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "RobTop Games"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "Geometry Dash",
+  "price": "₩ 5,600",
+  "release_date": "2014년 12월 22일"
+ },
+ "3240220": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "앱 내 구매"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Rockstar North"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "레이싱"
+  ],
+  "is_free": false,
+  "name": "Grand Theft Auto V 인핸스드",
+  "price": "₩ 36,790",
+  "release_date": "2025년 3월 4일"
+ },
+ "3241660": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "컨트롤러 완벽 지원",
+   "카메라 움직임 조정",
+   "음량 개별 조절",
+   "퀵타임 이벤트 없이 플레이 가능"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "semiwork"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "R.E.P.O.",
+  "price": "₩ 10,700",
+  "release_date": "2025년 2월 26일"
+ },
+ "359550": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Ubisoft Montreal"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "톰 클랜시의 레인보우식스 시즈",
+  "price": "",
+  "release_date": "2015년 12월 1일"
+ },
+ "381210": {
+  "categories": [
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Behaviour Interactive Inc."
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "Dead by Daylight",
+  "price": "₩ 21,500",
+  "release_date": "2016년 6월 14일"
+ },
+ "4115450": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "텍스트 크기 조정",
+   "음량 개별 조절",
+   "난이도 조정",
+   "게임패드 권장",
+   "DUALSHOCK 컨트롤러 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "S-GAME Studio"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "Phantom Blade Zero",
+  "price": "₩ 69,800",
+  "release_date": "2026년 10월 28일"
+ },
+ "413150": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "LAN 협동",
+   "스크린 공유 및 분할 협동",
+   "공유 및 분할 화면",
+   "Steam 도전 과제"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "ConcernedApe"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "RPG",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "Stardew Valley",
+  "price": "₩ 16,000",
+  "release_date": "2016년 2월 26일"
+ },
+ "4262460": {
+  "categories": [
+   "멀티플레이어",
+   "MMO",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "앱 내 구매",
+   "Steam Cloud"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Kefir"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "대규모 멀티플레이어",
+   "RPG",
+   "시뮬레이션",
+   "무료 플레이",
+   "앞서 해보기"
+  ],
+  "is_free": true,
+  "name": "ROB RUN",
+  "price": "",
+  "release_date": "2026년 11월 4일"
+ },
+ "431960": {
+  "categories": [
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드",
+   "Steam 창작마당",
+   "Steam 창작마당",
+   "레벨 에디터 포함"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Wallpaper Engine Team"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "애니메이션과 모델링",
+   "디자인과 일러스트레이션",
+   "사진 편집",
+   "유틸리티"
+  ],
+  "is_free": false,
+  "name": "Wallpaper Engine",
+  "price": "₩ 5,600",
+  "release_date": "2018년 11월 16일"
+ },
+ "4348910": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "텍스트 크기 조정",
+   "음량 개별 조절",
+   "마우스 전용 옵션",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "스테레오 사운드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Questing Goose Studio"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+  "price": "₩ 19,900",
+  "release_date": "2026년 10월 28일"
+ },
+ "438100": {
+  "categories": [
+   "멀티플레이어",
+   "MMO",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "VRChat Inc."
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "대규모 멀티플레이어",
+   "시뮬레이션",
+   "스포츠",
+   "무료 플레이",
+   "앞서 해보기"
+  ],
+  "is_free": true,
+  "name": "VRChat",
+  "price": "",
+  "release_date": "2017년 2월 1일"
+ },
+ "440": {
+  "categories": [
+   "멀티플레이어",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드",
+   "캡션 이용 가능",
+   "Steam 창작마당",
+   "앱 내 구매",
+   "카메라 움직임 조정"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Valve"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Team Fortress 2",
+  "price": "",
+  "release_date": "2007년 10월 10일"
+ },
+ "550": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Valve"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "Left 4 Dead 2",
+  "price": "₩ 11,000",
+  "release_date": "2009년 11월 16일"
+ },
+ "553850": {
+  "categories": [
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "앱 내 구매",
+   "텍스트 크기 조정",
+   "카메라 움직임 조정",
+   "음성 채팅 텍스트 변환"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Arrowhead Game Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "HELLDIVERS™ 2",
+  "price": "₩ 44,800",
+  "release_date": "2024년 2월 8일"
+ },
+ "570": {
+  "categories": [
+   "멀티플레이어",
+   "협동",
+   "Steam 트레이딩 카드",
+   "Steam 창작마당",
+   "SteamVR 수집품",
+   "앱 내 구매",
+   "카메라 움직임 조정",
+   "색상 대체"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Valve"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "전략",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Dota 2",
+  "price": "",
+  "release_date": "2013년 7월 9일"
+ },
+ "578080": {
+  "categories": [
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "음량 개별 조절",
+   "스테레오 사운드",
+   "서라운드 사운드",
+   "컨트롤러 일부 지원",
+   "통계"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "PUBG Corporation"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "대규모 멀티플레이어",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "PUBG: BATTLEGROUNDS",
+  "price": "",
+  "release_date": "2017년 12월 21일"
+ },
+ "730": {
+  "categories": [
+   "멀티플레이어",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 트레이딩 카드",
+   "Steam 창작마당",
+   "Steam 창작마당",
+   "앱 내 구매",
+   "텍스트 크기 조정",
+   "카메라 움직임 조정"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Valve"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Counter-Strike 2",
+  "price": "",
+  "release_date": "2012년 8월 21일"
+ }
+}
