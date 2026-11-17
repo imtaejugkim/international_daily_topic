@@ -99,4 +99,21 @@ if d:
     for it in items:
         print("   %-40s owners=%s ccu=%s" % (str(it.get("name"))[:40], it.get("owners"), it.get("ccu")))
 
+print("\n" + "=" * 64)
+print("G. 신작을 더 넓게 받을 수 있나 (featured의 30개로는 좁다)")
+print("=" * 64)
+for label, url in [
+    ("search popularnew",
+     "https://store.steampowered.com/search/results/?query&filter=popularnew&cc=kr&l=koreana&json=1"),
+    ("search released desc",
+     "https://store.steampowered.com/search/results/?query&sort_by=Released_DESC&cc=kr&l=koreana&json=1"),
+]:
+    d = get(url, label)
+    if isinstance(d, dict):
+        items = d.get("items") or []
+        print("  총 %s개 중 %d개 반환, 키: %s" % (
+            d.get("total_count", "?"), len(items), sorted(items[0].keys()) if items else "?"))
+        for it in items[:5]:
+            print("     %-46s %s" % (str(it.get("name"))[:46], it.get("logo", "")[-28:]))
+
 print("\n[probe done]")

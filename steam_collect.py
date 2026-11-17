@@ -14,6 +14,7 @@ Standard library only. No API key: every endpoint used here is public.
 
 Environment variables:
   WATCH_LIMIT   max games to poll for player counts (default 220)
+  DETAIL_BUDGET new games to describe per run (default 70)
   DRY_RUN       "1" to print instead of writing the snapshot
 """
 
@@ -118,10 +119,19 @@ def fetch_details(appid):
     }
 
 
-def enrich(known, appids, budget):
-    """Look up only games we have never seen. The budget keeps a day where
-    many new games appear from stretching the run out."""
-    missing = [a for a in appids if a not in known][:budget]
+def enrich(known, appids, budget, counts=None, featured_ids=()):
+    """Look up only games we have never seen.
+
+    The budget keeps a day where many new games appear from stretching the
+    run out, so what it is spent on matters: the first collection described
+    37 of 141 games and left the rest as bare appids. Games with players, and
+    anything Steam is featuring, are described first - an unnamed game with
+    80,000 players is a hole in the brief, an unnamed one with two is not.
+    """
+    missing = [a for a in appids if a not in known]
+    counts = counts or {}
+    missing.sort(key=lambda a: (a not in featured_ids, -counts.get(a, 0)))
+    missing = missing[:budget]
     for i, appid in enumerate(missing, 1):
         try:
             d = fetch_details(appid)
@@ -160,13 +170,15 @@ def main():
     print("[watch] %d games" % len(watch), file=sys.stderr)
 
     counts = player_counts(watch)
+    featured_ids = {i["appid"] for v in feat.values() for i in v}
     if dry:
         # Only the games about to be printed, so the output is readable
         # without spending a full lookup budget.
         top_by_players = [a for a, _ in sorted(counts.items(), key=lambda kv: -kv[1])[:15]]
-        known = enrich(known, top_by_players, budget=15)
+        known = enrich(known, top_by_players, budget=15, counts=counts)
     else:
-        known = enrich(known, watch, budget=40)
+        known = enrich(known, watch, budget=int(os.environ.get("DETAIL_BUDGET", "70")),
+                       counts=counts, featured_ids=featured_ids)
 
     payload = {
         "date": date,
