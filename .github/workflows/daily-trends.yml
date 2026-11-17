@@ -68,9 +68,17 @@ jobs:
             --allowedTools "Read,Write,Glob,Grep,Bash,WebSearch,WebFetch"
             --max-turns 60
 
+      # !cancelled() so a failed brief still lets the day be saved. The run
+      # is still marked failed, which is what makes the breakage visible.
       - name: Send the brief
-        if: ${{ !inputs.dry_run }}
+        if: ${{ !cancelled() && !inputs.dry_run }}
         run: python3 send_brief.py
+
+      # A brief step that fails silently once cost twelve days of collection:
+      # the run went red on GitHub and nothing said so where anyone looks.
+      - name: Say the brief failed
+        if: ${{ failure() && !inputs.dry_run }}
+        run: python3 tools/notify_failure.py
 
       # --- keep ------------------------------------------------------------
       # Committing the daily snapshot is what makes day-over-day signals
@@ -78,7 +86,7 @@ jobs:
       # disabling the schedule after 60 idle days. brief.json is a per-run
       # artifact, not state, so it stays out of the commit.
       - name: Commit today's snapshot
-        if: ${{ !inputs.dry_run }}
+        if: ${{ !cancelled() && !inputs.dry_run }}
         run: |
           if [ -z "$(git status --porcelain data)" ]; then
             echo "no data changes"
