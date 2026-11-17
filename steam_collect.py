@@ -4,18 +4,18 @@
 Three things get recorded, because together they answer "is this genre worth
 a look" rather than "what is popular".
 
-Review counts, per game. Steam publishes no sales figures, and concurrent
-players measure attention right now rather than money - a paid game with
-2,000 players may have sold far better than a free one with 200,000. Review
-totals move with copies sold, so measuring them daily gives the closest
-public read on whether a game is actually selling.
+Per tag, every game SteamSpy knows of, with its review count, owner estimate
+and median playtime. This is the denominator: how many games in a genre
+exist, and how many were noticed at all. Without it a genre that looks busy
+cannot be told from a genre that eats everyone who enters.
 
-Player counts, per game. Cheap, exact, and the only same-day signal.
+It comes from SteamSpy rather than Steam because the store's own review
+endpoint returns a megabyte of HTML for every appid at every pacing - it does
+not serve review queries - and because one SteamSpy request covers a whole
+tag where the store would need one per game.
 
-Per tag, the recent releases and how many reviews each got. This is the
-denominator: how many games in a genre shipped, and how many were noticed at
-all. Without it a genre that looks busy cannot be told from a genre that
-eats everyone who enters.
+Player counts, per game, from Steam. Cheap, exact, and the only same-day
+signal; SteamSpy's own numbers lag and are thin on new releases.
 
 Standard library only. No API key.
 
@@ -23,7 +23,6 @@ Environment variables:
   WATCH_LIMIT     games to poll for player counts (default 200)
   TAG_DEPTH       recent releases to check per tag (default 50)
   TAGS_PER_DAY    tags whose backlog is refreshed each run (default 4)
-  REVIEW_TTL_DAYS how long a cached review count stays usable (default 7)
   DETAIL_BUDGET   new games to describe per run (default 60)
   TIME_BUDGET_SEC stop collecting after this many seconds (default 720)
   DRY_RUN         "1" to print instead of writing
@@ -44,8 +43,6 @@ APPID_IN_URL = steam_tags.APPID_IN_URL
 
 MOST_PLAYED = "https://api.steampowered.com/ISteamChartsService/GetMostPlayedGames/v1/"
 PLAYERS = "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=%s"
-REVIEWS = ("https://store.steampowered.com/appreviews/%s"
-           "?json=1&language=all&purchase_type=all&num_per_page=0")
 FEATURED = "https://store.steampowered.com/api/featuredcategories?cc=kr&l=koreana"
 DETAILS = "https://store.steampowered.com/api/appdetails?appids=%s&l=koreana&cc=kr"
 NEW_RELEASES = ("https://store.steampowered.com/search/results/"
@@ -63,7 +60,6 @@ DETAIL_GAP = 0.6
 # get one attempt and a short timeout and simply skip what does not answer.
 STORE_TIMEOUT = 8
 TIME_BUDGET = int(os.environ.get("TIME_BUDGET_SEC", "720"))
-REVIEW_TTL_DAYS = int(os.environ.get("REVIEW_TTL_DAYS", "7"))
 
 get = steam_tags.get
 
@@ -97,16 +93,6 @@ def featured_sections():
     return out
 
 
-def review_summary(appid):
-    q = (get(REVIEWS % appid, attempts=1, timeout=STORE_TIMEOUT) or {}).get("query_summary") or {}
-    if "total_reviews" not in q:
-        return None
-    return {"total": q.get("total_reviews", 0),
-            "positive": q.get("total_positive", 0),
-            "negative": q.get("total_negative", 0),
-            "score": q.get("review_score_desc", "")}
-
-
 def sweep(appids, fn, label, deadline):
     """Collect what fits in the time left. A partial day is fine; a run that
     never ends is not, and the brief step still needs its slot."""
@@ -129,32 +115,6 @@ def sweep(appids, fn, label, deadline):
     print("[%s] %d collected, %d failed, %d skipped"
           % (label, len(out), failed, skipped), file=sys.stderr)
     return out
-
-
-def load_review_cache():
-    path = os.path.join(DATA, "reviews_cache.json")
-    if os.path.exists(path):
-        try:
-            with open(path, encoding="utf-8") as f:
-                return json.load(f)
-        except (OSError, ValueError):
-            pass
-    return {}
-
-
-def stale(entry, today):
-    """A three-week-old release with four reviews will still have four
-    tomorrow, so the backlog that forms the success-rate denominator does not
-    need re-measuring daily."""
-    seen = (entry or {}).get("date")
-    if not seen:
-        return True
-    try:
-        age = (datetime.strptime(today, "%Y-%m-%d")
-               - datetime.strptime(seen, "%Y-%m-%d")).days
-    except ValueError:
-        return True
-    return age >= REVIEW_TTL_DAYS
 
 
 def player_count(appid):
@@ -263,36 +223,33 @@ def main():
             play_watch.append(appid)
     play_watch = play_watch[:limit]
 
-    # Reviews: everything, including every tag release. This is the set the
-    # success rate is computed over, so the failures have to be in it.
-    review_watch, seen = [], set()
-    for appid in (play_watch + new_ids + up_ids
-                  + [a for ids in tag_releases.values() for a in ids]):
-        if appid not in seen:
-            seen.add(appid)
-            review_watch.append(appid)
-
-    # Reviews are cached: the moving set is re-measured every run, the rest
-    # only once its entry goes stale. Without this the tag backlog alone is
-    # hundreds of store requests a morning, for numbers that barely move.
-    cache = load_review_cache()
-    hot = set(play_watch) | set(new_ids) | set(up_ids)
-    need = [a for a in review_watch if a in hot or stale(cache.get(a), date)]
-    reused = len(review_watch) - len(need)
-    print("[watch] players %d, reviews %d (%d fresh, %d reused from cache)"
-          % (len(play_watch), len(review_watch), len(need), reused), file=sys.stderr)
-
+    print("[watch] players %d" % len(play_watch), file=sys.stderr)
     deadline = time.monotonic() + TIME_BUDGET
     players = sweep(play_watch, player_count, "players", deadline)
-    fresh = sweep(need, review_summary, "reviews", deadline)
 
-    for appid, r in fresh.items():
-        cache[appid] = dict(r, date=date)
-    reviews = {a: {k: v for k, v in cache[a].items() if k != "date"}
-               for a in review_watch if a in cache}
+    # One request per tag, not per game. Everything the success rate needs -
+    # review counts, owner estimates, median playtime - arrives with it.
+    reviews, tag_members = {}, {}
+    for name in names:
+        if time.monotonic() > deadline:
+            print("[spy] time budget reached", file=sys.stderr)
+            break
+        try:
+            games_in_tag = steam_tags.tag_games(name)
+            tag_members[name] = sorted(games_in_tag)
+            reviews.update(games_in_tag)
+            noticed = sum(1 for g in games_in_tag.values()
+                          if g["reviews"] >= steam_tags.NOTICED_REVIEWS)
+            print("[spy] %-24s %4d games, %3d noticed"
+                  % (name, len(games_in_tag), noticed), file=sys.stderr)
+        except Exception as exc:  # noqa: BLE001 - one tag must not stop the run
+            print("[spy] %s failed: %s" % (name, exc), file=sys.stderr)
+        time.sleep(1.0)
+    print("[spy] %d tags, %d games described" % (len(tag_members), len(reviews)),
+          file=sys.stderr)
 
     featured_ids = {i["appid"] for v in feat.values() for i in v}
-    known = enrich(known, review_watch,
+    known = enrich(known, play_watch + new_ids + up_ids,
                    budget=int(os.environ.get("DETAIL_BUDGET", "60")) if not dry else 10,
                    reviews=reviews, featured_ids=featured_ids)
 
@@ -305,6 +262,7 @@ def main():
         "upcoming_ids": up_ids,
         "tag_releases": tag_releases,
         "tag_totals": tag_totals,
+        "tag_members": tag_members,
         "players": players,
         "reviews": reviews,
     }
@@ -325,9 +283,7 @@ def main():
         json.dump(payload, f, ensure_ascii=False, indent=1, sort_keys=True)
     with open(os.path.join(DATA, "games.json"), "w", encoding="utf-8") as f:
         json.dump(known, f, ensure_ascii=False, indent=1, sort_keys=True)
-    with open(os.path.join(DATA, "reviews_cache.json"), "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=1, sort_keys=True)
-    print("[saved] data/steam/%s.json (reviews cached: %d)" % (date, len(cache)),
+    print("[saved] data/steam/%s.json (%d games described)" % (date, len(reviews)),
           file=sys.stderr)
     return 0
 

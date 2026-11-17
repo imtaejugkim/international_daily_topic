@@ -27,6 +27,11 @@ SEARCH = ("https://store.steampowered.com/search/results/"
           "?query&tags=%d&category1=998&sort_by=Released_DESC"
           "&cc=kr&l=koreana&infinite=1&count=%d")
 TAGLIST = "https://store.steampowered.com/tagdata/populartags/english"
+# SteamSpy returns an entire tag in one request, with review counts, owner
+# estimates and median playtime per game. The store's own review endpoint
+# serves a megabyte of HTML for every appid at every pacing, so this is where
+# the per-game numbers come from.
+SPY_TAG = "https://steamspy.com/api.php?request=tag&tag=%s"
 
 # tag name -> tagid. Confirmed against the live tag list.
 TAGS = {
@@ -73,6 +78,30 @@ def get(url, attempts=3, timeout=25):
             if i < attempts - 1:
                 time.sleep(1.5 * (i + 1))
     raise last
+
+
+def tag_games(tag_name):
+    """Every game SteamSpy has under this tag, keyed by appid.
+
+    One request per tag rather than one per game, which is what makes a
+    success rate affordable to compute daily.
+    """
+    import urllib.parse
+    d = get(SPY_TAG % urllib.parse.quote(tag_name), timeout=40)
+    out = {}
+    for appid, g in (d or {}).items():
+        pos, neg = g.get("positive") or 0, g.get("negative") or 0
+        out[str(appid)] = {
+            "name": g.get("name") or "",
+            "reviews": pos + neg,
+            "positive": pos,
+            "owners": g.get("owners") or "",
+            "price_cents": g.get("price"),
+            "median_minutes": g.get("median_forever"),
+            "average_minutes": g.get("average_forever"),
+            "ccu": g.get("ccu"),
+        }
+    return out
 
 
 def recent_releases(tagid, count):

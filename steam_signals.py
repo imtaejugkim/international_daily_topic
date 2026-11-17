@@ -81,15 +81,19 @@ def tag_health(today, reviews, games):
     count, and only the ones with reviews count as having competed.
     """
     out = []
-    for name, appids in (today.get("tag_releases") or {}).items():
+    for name, appids in (today.get("tag_members") or {}).items():
         measured = [a for a in appids if a in reviews]
         if not measured:
             continue
-        alive = [a for a in measured if reviews[a]["total"] >= ALIVE]
-        noticed = [a for a in measured if reviews[a]["total"] >= NOTICED]
-        prices = [games[a]["price_krw"] for a in noticed
-                  if games.get(a, {}).get("price_krw")]
-        free = sum(1 for a in noticed if games.get(a, {}).get("is_free"))
+        alive = [a for a in measured if reviews[a]["reviews"] >= ALIVE]
+        noticed = [a for a in measured if reviews[a]["reviews"] >= NOTICED]
+        prices = [int(reviews[a]["price_cents"]) for a in noticed
+                  if str(reviews[a].get("price_cents") or "").isdigit()
+                  and int(reviews[a]["price_cents"]) > 0]
+        free = sum(1 for a in noticed
+                   if str(reviews[a].get("price_cents") or "") in ("0", ""))
+        playtimes = [reviews[a]["median_minutes"] for a in noticed
+                     if reviews[a].get("median_minutes")]
         out.append({
             "tag": name,
             "store_total": (today.get("tag_totals") or {}).get(name),
@@ -98,12 +102,15 @@ def tag_health(today, reviews, games):
             "noticed": len(noticed),
             "noticed_rate": round(100.0 * len(noticed) / len(measured), 1),
             "alive_rate": round(100.0 * len(alive) / len(measured), 1),
-            "median_price_krw": sorted(prices)[len(prices) // 2] if prices else None,
+            "median_price_cents": sorted(prices)[len(prices) // 2] if prices else None,
+            "median_playtime_minutes": (sorted(playtimes)[len(playtimes) // 2]
+                                        if playtimes else None),
             "free_share": round(100.0 * free / len(noticed), 1) if noticed else None,
             "top": sorted(
-                ({"name": games.get(a, {}).get("name", a),
-                  "reviews": reviews[a]["total"],
-                  "score": reviews[a]["score"]} for a in noticed),
+                ({"name": reviews[a]["name"] or games.get(a, {}).get("name", a),
+                  "reviews": reviews[a]["reviews"],
+                  "owners": reviews[a].get("owners", ""),
+                  "median_minutes": reviews[a].get("median_minutes")} for a in noticed),
                 key=lambda x: -x["reviews"])[:5],
         })
     return sorted(out, key=lambda t: -t["noticed_rate"])
@@ -120,16 +127,16 @@ def game_moves(snapshots, games):
 
     rows = []
     for appid, r in now_r.items():
-        total = r["total"]
+        total = r.get("reviews", 0)
         if total < MIN_REVIEWS:
             continue
-        was = (prev_r.get(appid) or {}).get("total")
+        was = (prev_r.get(appid) or {}).get("reviews")
         gained = (total - was) if was is not None else None
         pct = (gained / was * 100) if was else None
         g = games.get(appid, {})
         rows.append({
             "appid": appid,
-            "name": g.get("name", appid),
+            "name": r.get("name") or g.get("name", appid),
             "genres": g.get("genres", []),
             "price": g.get("price", ""),
             "is_free": g.get("is_free", False),
@@ -137,8 +144,9 @@ def game_moves(snapshots, games):
             "reviews": total,
             "reviews_gained": gained,
             "pct_change": round(pct, 1) if pct is not None else None,
-            "score": r["score"],
-            "positive_rate": round(100.0 * r["positive"] / total, 1) if total else None,
+            "owners": r.get("owners", ""),
+            "median_minutes": r.get("median_minutes"),
+            "positive_rate": round(100.0 * r.get("positive", 0) / total, 1) if total else None,
             "players": players.get(appid),
             "is_new_release": appid in new_ids,
             "store_url": "https://store.steampowered.com/app/%s/" % appid,
