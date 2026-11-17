@@ -1,29 +1,32 @@
 #!/usr/bin/env python3
-"""Probe Steam's public endpoints before building anything on them.
+"""Probe the endpoints a supply-and-demand reading would need.
 
-The question this answers: can we get, without an API key, (a) what is being
-played right now, (b) a number per game we can track day over day to catch a
-surge, and (c) enough metadata and release info to say what kind of game it
-is and when it shipped.
+Concurrent players answer "who is being played right now", which is the wrong
+question for deciding what to build: it only shows games already big enough to
+chart, it is not a sales figure, and by the time a game appears there the
+opportunity is weeks old.
+
+What a developer needs instead is demand against supply - how many people are
+buying a kind of game versus how many such games ship - plus a signal that
+arrives before release, where a four-month build can still be in time. This
+checks whether that is obtainable without an API key.
 """
 
 import json
-import sys
 import time
-import urllib.parse
 import urllib.request
 
-UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36"
-PUBG = 578080
+UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")
 
 
-def get(url, label):
+def get(url, label, raw=False):
     try:
         req = urllib.request.Request(url, headers={"User-Agent": UA})
         with urllib.request.urlopen(req, timeout=25) as r:
-            raw = r.read()
-            print("\n[%s] HTTP %s  %d bytes" % (label, r.status, len(raw)))
-            return json.loads(raw.decode("utf-8"))
+            body = r.read()
+            print("\n[%s] HTTP %s  %d bytes" % (label, r.status, len(body)))
+            return body if raw else json.loads(body.decode("utf-8"))
     except Exception as exc:  # noqa: BLE001 - probing
         print("\n[%s] FAILED: %s" % (label, exc))
         return None
@@ -31,89 +34,65 @@ def get(url, label):
         time.sleep(1)
 
 
-print("=" * 64)
-print("A. 지금 가장 많이 플레이되는 게임 (동시접속 기준, 키 불필요)")
-print("=" * 64)
-d = get("https://api.steampowered.com/ISteamChartsService/GetMostPlayedGames/v1/", "GetMostPlayedGames")
-if d:
-    ranks = (d.get("response") or {}).get("ranks") or []
-    print("  항목 %d개, 키: %s" % (len(ranks), sorted(ranks[0].keys()) if ranks else "?"))
-    for r in ranks[:8]:
-        print("   %2s위 appid=%-8s 동시접속 %-9s 최고 %s" % (
-            r.get("rank"), r.get("appid"), r.get("concurrent_in_game"), r.get("peak_in_game")))
-
-print("\n" + "=" * 64)
-print("B. 특정 게임의 현재 동시접속 (급등 추적의 핵심)")
-print("=" * 64)
-for appid, nm in [(PUBG, "PUBG"), (730, "CS2"), (2767030, "Marvel Rivals?")]:
-    d = get("https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=%d" % appid,
-            "CurrentPlayers %s" % nm)
+print("=" * 66)
+print("1. 리뷰 수 — 판매량 대리지표. 매일 재면 증가 속도가 나온다")
+print("=" * 66)
+for appid, nm in [(3321460, "붉은사막"), (4459590, "슬롯바운드"), (578080, "PUBG")]:
+    d = get("https://store.steampowered.com/appreviews/%d?json=1&language=all&num_per_page=0"
+            % appid, "appreviews %s" % nm)
     if d:
-        print("  →", d.get("response"))
+        q = d.get("query_summary") or {}
+        print("  총 리뷰 %-8s 긍정 %-8s 점수 %s" % (
+            q.get("total_reviews"), q.get("total_positive"), q.get("review_score_desc")))
+        print("  키: %s" % sorted(q.keys()))
 
-print("\n" + "=" * 64)
-print("C. 게임 메타데이터 (장르·출시일·가격·태그)")
-print("=" * 64)
-d = get("https://store.steampowered.com/api/appdetails?appids=%d&l=korean&cc=kr" % PUBG, "appdetails")
+print("\n" + "=" * 66)
+print("2. 신작 전수 — 분모. 죽은 게임까지 세야 생존율이 나온다")
+print("=" * 66)
+d = get("https://store.steampowered.com/search/results/"
+        "?query&sort_by=Released_DESC&category1=998&cc=kr&l=koreana&json=1&count=100",
+        "search Released_DESC")
+if isinstance(d, dict):
+    items = d.get("items") or []
+    print("  전체 %s개 중 %d개 반환" % (d.get("total_count", "?"), len(items)))
+    print("  키: %s" % (sorted(items[0].keys()) if items else "?"))
+    for it in items[:6]:
+        print("     %-50s %s" % (str(it.get("name"))[:50], str(it.get("logo", ""))[-30:]))
+
+print("\n" + "=" * 66)
+print("3. 출시 예정 인기순 — 위시리스트 대리. 유일하게 시차를 이기는 신호")
+print("=" * 66)
+d = get("https://store.steampowered.com/search/results/"
+        "?query&filter=popularcomingsoon&cc=kr&l=koreana&json=1&count=50",
+        "popularcomingsoon")
+if isinstance(d, dict):
+    items = d.get("items") or []
+    print("  전체 %s개 중 %d개 반환" % (d.get("total_count", "?"), len(items)))
+    for it in items[:10]:
+        print("     %s" % str(it.get("name"))[:56])
+
+print("\n" + "=" * 66)
+print("4. 태그 — Steam 장르는 너무 거칠다. 태그라야 장르가 구분된다")
+print("=" * 66)
+for appid, nm in [(4459590, "슬롯바운드"), (646570, "Slay the Spire")]:
+    d = get("https://steamspy.com/api.php?request=appdetails&appid=%d" % appid,
+            "steamspy %s" % nm)
+    if d:
+        tags = d.get("tags") or {}
+        print("  이름: %s" % d.get("name"))
+        print("  소유자: %s  / 가격: %s" % (d.get("owners"), d.get("price")))
+        print("  태그 %d개: %s" % (len(tags), list(tags)[:12] if isinstance(tags, dict) else tags))
+
+print("\n" + "=" * 66)
+print("5. 리뷰 본문 — '빈자리' 트랙의 재료. 뜬 게임의 불만이 곧 기회")
+print("=" * 66)
+d = get("https://store.steampowered.com/appreviews/4459590"
+        "?json=1&language=koreana&filter=recent&num_per_page=5&review_type=negative",
+        "negative reviews")
 if d:
-    body = (d.get(str(PUBG)) or {}).get("data") or {}
-    print("  이름: %s" % body.get("name"))
-    print("  장르: %s" % [g.get("description") for g in body.get("genres") or []])
-    print("  카테고리: %s" % [c.get("description") for c in (body.get("categories") or [])][:6])
-    print("  출시: %s" % (body.get("release_date") or {}))
-    print("  가격: %s" % (body.get("price_overview") or {}).get("final_formatted"))
-    print("  무료: %s  / 개발사: %s" % (body.get("is_free"), body.get("developers")))
-    print("  사용 가능한 키: %s" % sorted(body.keys())[:18])
-
-print("\n" + "=" * 64)
-print("D. 신작 / 출시 예정 / 할인 (무엇이 새로 나왔나)")
-print("=" * 64)
-d = get("https://store.steampowered.com/api/featuredcategories?cc=kr&l=korean", "featuredcategories")
-if d:
-    print("  섹션: %s" % [k for k in d.keys()])
-    for sec in ["new_releases", "coming_soon", "top_sellers", "specials"]:
-        items = (d.get(sec) or {}).get("items") or []
-        if items:
-            print("  [%s] %d개  키: %s" % (sec, len(items), sorted(items[0].keys())[:10]))
-            for it in items[:4]:
-                print("      %-9s %s" % (it.get("id"), (it.get("name") or "")[:44]))
-
-print("\n" + "=" * 64)
-print("E. 월간 최고 신작 (GetTopReleasesPages)")
-print("=" * 64)
-d = get("https://api.steampowered.com/ISteamChartsService/GetTopReleasesPages/v1/", "GetTopReleasesPages")
-if d:
-    pages = (d.get("response") or {}).get("pages") or []
-    print("  페이지 %d개" % len(pages))
-    for p in pages[:3]:
-        ids = p.get("item_ids") or []
-        print("   %s: %d개  %s" % (p.get("name"), len(ids), [i.get("appid") for i in ids[:5]]))
-
-print("\n" + "=" * 64)
-print("F. SteamSpy (보유자 추정 - 보조)")
-print("=" * 64)
-d = get("https://steamspy.com/api.php?request=top100in2weeks", "steamspy")
-if d:
-    items = list(d.values())[:4] if isinstance(d, dict) else []
-    print("  항목 %d개" % (len(d) if isinstance(d, dict) else 0))
-    for it in items:
-        print("   %-40s owners=%s ccu=%s" % (str(it.get("name"))[:40], it.get("owners"), it.get("ccu")))
-
-print("\n" + "=" * 64)
-print("G. 신작을 더 넓게 받을 수 있나 (featured의 30개로는 좁다)")
-print("=" * 64)
-for label, url in [
-    ("search popularnew",
-     "https://store.steampowered.com/search/results/?query&filter=popularnew&cc=kr&l=koreana&json=1"),
-    ("search released desc",
-     "https://store.steampowered.com/search/results/?query&sort_by=Released_DESC&cc=kr&l=koreana&json=1"),
-]:
-    d = get(url, label)
-    if isinstance(d, dict):
-        items = d.get("items") or []
-        print("  총 %s개 중 %d개 반환, 키: %s" % (
-            d.get("total_count", "?"), len(items), sorted(items[0].keys()) if items else "?"))
-        for it in items[:5]:
-            print("     %-46s %s" % (str(it.get("name"))[:46], it.get("logo", "")[-28:]))
+    for rv in (d.get("reviews") or [])[:4]:
+        txt = (rv.get("review") or "").replace("\n", " ")[:90]
+        print("   [추천%s 플레이%s분] %s" % (
+            rv.get("voted_up"), (rv.get("author") or {}).get("playtime_forever"), txt))
 
 print("\n[probe done]")
