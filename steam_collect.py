@@ -1,56 +1,63 @@
 #!/usr/bin/env python3
-"""Take today's Steam snapshot: who is being played, and how many.
+"""Take today's Steam snapshot.
 
-The watchlist is the top 100 by concurrent players, plus whatever Steam is
-featuring as new or upcoming, plus everything seen on earlier days. Featured
-and new games matter more than the top of the chart here - a solo developer
-learns nothing from Counter-Strike holding half a million players, and
-everything from a small game going from two thousand to twenty.
+Three things get recorded, because together they answer "is this genre worth
+a look" rather than "what is popular".
 
-For each game on the list we record the exact concurrent player count, which
-is what makes day-over-day surge detection possible at all.
+Review counts, per game. Steam publishes no sales figures, and concurrent
+players measure attention right now rather than money - a paid game with
+2,000 players may have sold far better than a free one with 200,000. Review
+totals move with copies sold, so measuring them daily gives the closest
+public read on whether a game is actually selling.
 
-Standard library only. No API key: every endpoint used here is public.
+Player counts, per game. Cheap, exact, and the only same-day signal.
+
+Per tag, the recent releases and how many reviews each got. This is the
+denominator: how many games in a genre shipped, and how many were noticed at
+all. Without it a genre that looks busy cannot be told from a genre that
+eats everyone who enters.
+
+Standard library only. No API key.
 
 Environment variables:
-  WATCH_LIMIT   max games to poll for player counts (default 220)
-  DETAIL_BUDGET new games to describe per run (default 70)
-  DRY_RUN       "1" to print instead of writing the snapshot
+  WATCH_LIMIT     games to poll for player counts (default 200)
+  TAG_DEPTH       recent releases to check per tag (default 50)
+  DETAIL_BUDGET   new games to describe per run (default 60)
+  DRY_RUN         "1" to print instead of writing
 """
 
 import json
 import os
+import re
 import sys
 import time
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
-UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-      "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")
+import steam_tags
+
+UA = steam_tags.UA
+APPID_IN_URL = steam_tags.APPID_IN_URL
 
 MOST_PLAYED = "https://api.steampowered.com/ISteamChartsService/GetMostPlayedGames/v1/"
 PLAYERS = "https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=%s"
+REVIEWS = ("https://store.steampowered.com/appreviews/%s"
+           "?json=1&language=all&purchase_type=all&num_per_page=0")
 FEATURED = "https://store.steampowered.com/api/featuredcategories?cc=kr&l=koreana"
 DETAILS = "https://store.steampowered.com/api/appdetails?appids=%s&l=koreana&cc=kr"
+NEW_RELEASES = ("https://store.steampowered.com/search/results/"
+                "?query&category1=998&sort_by=Released_DESC&cc=kr&l=koreana"
+                "&infinite=1&count=100")
+UPCOMING = ("https://store.steampowered.com/search/results/"
+            "?query&category1=998&filter=popularcomingsoon&cc=kr&l=koreana"
+            "&infinite=1&count=50")
 
 DATA = "data"
 KST = timezone(timedelta(hours=9))
-GAP = 0.25          # Steam tolerates this; the player-count endpoint is cheap
-DETAIL_GAP = 0.6    # the store API is stricter
+GAP = 0.22
+DETAIL_GAP = 0.6
 
-
-def get(url, attempts=3, timeout=20):
-    last = None
-    for i in range(attempts):
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=timeout) as r:
-                return json.loads(r.read().decode("utf-8"))
-        except Exception as exc:  # noqa: BLE001 - report and retry
-            last = exc
-            if i < attempts - 1:
-                time.sleep(1.5 * (i + 1))
-    raise last
+get = steam_tags.get
 
 
 def most_played():
@@ -60,38 +67,60 @@ def most_played():
              "peak_in_game": r.get("peak_in_game")} for r in ranks if r.get("appid")]
 
 
-def featured():
-    """New releases and upcoming games - where a small game can still appear."""
+def search_appids(url, label):
+    d = get(url)
+    ids, seen = [], set()
+    for appid in APPID_IN_URL.findall(d.get("results_html") or ""):
+        if appid not in seen:
+            seen.add(appid)
+            ids.append(appid)
+    print("[%s] %d appids (store reports %s total)"
+          % (label, len(ids), d.get("total_count")), file=sys.stderr)
+    return ids, d.get("total_count")
+
+
+def featured_sections():
     data = get(FEATURED)
     out = {}
     for section in ("new_releases", "coming_soon", "top_sellers", "specials"):
         items = (data.get(section) or {}).get("items") or []
-        out[section] = [{"appid": str(i["id"]), "name": i.get("name", ""),
-                         "discount": i.get("discount_percent", 0),
-                         "price": i.get("final_price")}
+        out[section] = [{"appid": str(i["id"]), "name": i.get("name", "")}
                         for i in items if i.get("id")]
     return out
 
 
-def player_counts(appids):
-    counts, failed = {}, 0
+def review_summary(appid):
+    q = (get(REVIEWS % appid, attempts=2, timeout=15) or {}).get("query_summary") or {}
+    if "total_reviews" not in q:
+        return None
+    return {"total": q.get("total_reviews", 0),
+            "positive": q.get("total_positive", 0),
+            "negative": q.get("total_negative", 0),
+            "score": q.get("review_score_desc", "")}
+
+
+def sweep(appids, fn, label):
+    out, failed = {}, 0
     for i, appid in enumerate(appids, 1):
         try:
-            r = get(PLAYERS % appid, attempts=2, timeout=12).get("response") or {}
-            if r.get("result") == 1 and "player_count" in r:
-                counts[appid] = r["player_count"]
+            v = fn(appid)
+            if v is not None:
+                out[appid] = v
         except Exception:  # noqa: BLE001 - one game must not stop the sweep
             failed += 1
-        if i % 50 == 0:
-            print("  ...%d/%d" % (i, len(appids)), file=sys.stderr)
+        if i % 100 == 0:
+            print("  %s ...%d/%d" % (label, i, len(appids)), file=sys.stderr)
         time.sleep(GAP)
-    print("[players] %d counted, %d failed" % (len(counts), failed), file=sys.stderr)
-    return counts
+    print("[%s] %d collected, %d failed" % (label, len(out), failed), file=sys.stderr)
+    return out
+
+
+def player_count(appid):
+    r = get(PLAYERS % appid, attempts=2, timeout=12).get("response") or {}
+    return r.get("player_count") if r.get("result") == 1 else None
 
 
 def load_known():
-    """Names, genres and release dates seen before, so each game is only
-    looked up once rather than every morning."""
     path = os.path.join(DATA, "games.json")
     if os.path.exists(path):
         try:
@@ -106,33 +135,28 @@ def fetch_details(appid):
     body = (get(DETAILS % appid, attempts=2).get(str(appid)) or {}).get("data") or {}
     if not body:
         return None
+    price = body.get("price_overview") or {}
     return {
         "name": body.get("name", ""),
         "genres": [g.get("description") for g in body.get("genres") or []],
-        "categories": [c.get("description") for c in (body.get("categories") or [])][:8],
         "release_date": (body.get("release_date") or {}).get("date", ""),
         "coming_soon": bool((body.get("release_date") or {}).get("coming_soon")),
         "is_free": bool(body.get("is_free")),
-        "price": (body.get("price_overview") or {}).get("final_formatted", ""),
+        "price_krw": price.get("final"),
+        "price": price.get("final_formatted", ""),
         "developers": body.get("developers") or [],
         "fetched": datetime.now(KST).strftime("%Y-%m-%d"),
     }
 
 
-def enrich(known, appids, budget, counts=None, featured_ids=()):
-    """Look up only games we have never seen.
-
-    The budget keeps a day where many new games appear from stretching the
-    run out, so what it is spent on matters: the first collection described
-    37 of 141 games and left the rest as bare appids. Games with players, and
-    anything Steam is featuring, are described first - an unnamed game with
-    80,000 players is a hole in the brief, an unnamed one with two is not.
-    """
+def enrich(known, appids, budget, reviews=None, featured_ids=()):
+    """Describe games we have not seen. Budget goes to the ones a reader
+    would actually ask about: featured first, then by review count."""
+    reviews = reviews or {}
     missing = [a for a in appids if a not in known]
-    counts = counts or {}
-    missing.sort(key=lambda a: (a not in featured_ids, -counts.get(a, 0)))
-    missing = missing[:budget]
-    for i, appid in enumerate(missing, 1):
+    missing.sort(key=lambda a: (a not in featured_ids,
+                                -(reviews.get(a, {}).get("total", 0))))
+    for appid in missing[:budget]:
         try:
             d = fetch_details(appid)
             if d:
@@ -140,60 +164,91 @@ def enrich(known, appids, budget, counts=None, featured_ids=()):
         except Exception as exc:  # noqa: BLE001
             print("[detail] %s failed: %s" % (appid, exc), file=sys.stderr)
         time.sleep(DETAIL_GAP)
-    print("[details] %d new games described (%d unknown remain)"
-          % (len(missing), max(0, len([a for a in appids if a not in known]))), file=sys.stderr)
+    print("[details] +%d described (%d still unnamed)"
+          % (min(budget, len(missing)), max(0, len(missing) - budget)), file=sys.stderr)
     return known
 
 
 def main():
-    limit = int(os.environ.get("WATCH_LIMIT", "220"))
+    limit = int(os.environ.get("WATCH_LIMIT", "200"))
+    depth = int(os.environ.get("TAG_DEPTH", "50"))
     dry = os.environ.get("DRY_RUN") == "1"
     date = datetime.now(KST).strftime("%Y-%m-%d")
 
+    if dry:
+        limit, depth = min(limit, 25), min(depth, 10)
+
     top = most_played()
-    print("[charts] top %d by players" % len(top), file=sys.stderr)
-    feat = featured()
-    for k, v in feat.items():
-        print("[featured] %-13s %d" % (k, len(v)), file=sys.stderr)
+    print("[charts] top %d" % len(top), file=sys.stderr)
+    feat = featured_sections()
+    new_ids, _ = search_appids(NEW_RELEASES, "new releases")
+    up_ids, _ = search_appids(UPCOMING, "popular upcoming")
+
+    tags = steam_tags.verify_tag_ids()
+    tag_releases, tag_totals = {}, {}
+    for name, tagid in (list(tags.items())[:3] if dry else tags.items()):
+        try:
+            total, ids = steam_tags.recent_releases(tagid, depth)
+            tag_releases[name], tag_totals[name] = ids, total
+            print("[tag] %-24s %4s total, %d recent" % (name, total, len(ids)), file=sys.stderr)
+        except Exception as exc:  # noqa: BLE001
+            print("[tag] %s failed: %s" % (name, exc), file=sys.stderr)
+        time.sleep(GAP)
 
     known = load_known()
-    # Keep watching anything seen before, so a game that falls out of the top
-    # 100 still has a number tomorrow and its decline is visible.
-    watch, seen = [], set()
+
+    # Players: only what is plausibly live. Polling every tag release for a
+    # player count would cost thousands of requests for mostly zeros.
+    play_watch, seen = [], set()
     for appid in ([t["appid"] for t in top]
                   + [i["appid"] for v in feat.values() for i in v]
-                  + sorted(known)):
+                  + new_ids + sorted(known)):
         if appid not in seen:
             seen.add(appid)
-            watch.append(appid)
-    watch = watch[:limit]
-    print("[watch] %d games" % len(watch), file=sys.stderr)
+            play_watch.append(appid)
+    play_watch = play_watch[:limit]
 
-    counts = player_counts(watch)
+    # Reviews: everything, including every tag release. This is the set the
+    # success rate is computed over, so the failures have to be in it.
+    review_watch, seen = [], set()
+    for appid in (play_watch + new_ids + up_ids
+                  + [a for ids in tag_releases.values() for a in ids]):
+        if appid not in seen:
+            seen.add(appid)
+            review_watch.append(appid)
+
+    print("[watch] players %d, reviews %d" % (len(play_watch), len(review_watch)),
+          file=sys.stderr)
+    players = sweep(play_watch, player_count, "players")
+    reviews = sweep(review_watch, review_summary, "reviews")
+
     featured_ids = {i["appid"] for v in feat.values() for i in v}
-    if dry:
-        # Only the games about to be printed, so the output is readable
-        # without spending a full lookup budget.
-        top_by_players = [a for a, _ in sorted(counts.items(), key=lambda kv: -kv[1])[:15]]
-        known = enrich(known, top_by_players, budget=15, counts=counts)
-    else:
-        known = enrich(known, watch, budget=int(os.environ.get("DETAIL_BUDGET", "70")),
-                       counts=counts, featured_ids=featured_ids)
+    known = enrich(known, review_watch,
+                   budget=int(os.environ.get("DETAIL_BUDGET", "60")) if not dry else 10,
+                   reviews=reviews, featured_ids=featured_ids)
 
     payload = {
         "date": date,
         "collected_at": datetime.now(KST).isoformat(timespec="seconds"),
         "top_played": top,
         "featured": feat,
-        "players": counts,
+        "new_release_ids": new_ids,
+        "upcoming_ids": up_ids,
+        "tag_releases": tag_releases,
+        "tag_totals": tag_totals,
+        "players": players,
+        "reviews": reviews,
     }
 
     if dry:
         print("\n=== %s ===" % date)
-        named = sorted(counts.items(), key=lambda kv: -kv[1])[:15]
-        for appid, n in named:
-            print("  %9s  %-44s" % ("{:,}".format(n), (known.get(appid, {}).get("name", appid))[:44]))
-        print("\n[dry-run] %d games counted" % len(counts), file=sys.stderr)
+        for appid, r in sorted(reviews.items(), key=lambda kv: -kv[1]["total"])[:12]:
+            g = known.get(appid, {})
+            print("  리뷰 %-7s %-9s %-40s %s" % (
+                "{:,}".format(r["total"]), r["score"][:9],
+                (g.get("name") or appid)[:40], g.get("price", "무료" if g.get("is_free") else "")))
+        print("\n[dry-run] players=%d reviews=%d tags=%d"
+              % (len(players), len(reviews), len(tag_releases)), file=sys.stderr)
         return 0
 
     os.makedirs(os.path.join(DATA, "steam"), exist_ok=True)
@@ -201,7 +256,7 @@ def main():
         json.dump(payload, f, ensure_ascii=False, indent=1, sort_keys=True)
     with open(os.path.join(DATA, "games.json"), "w", encoding="utf-8") as f:
         json.dump(known, f, ensure_ascii=False, indent=1, sort_keys=True)
-    print("[saved] data/steam/%s.json (%d games)" % (date, len(counts)), file=sys.stderr)
+    print("[saved] data/steam/%s.json" % date, file=sys.stderr)
     return 0
 
 

@@ -25,71 +25,59 @@ from datetime import datetime
 
 from discord_post import KST, MAX_DESC, chunk, clip, post
 
-KIND = {
-    "surge":    ("\U0001F680", "급등", 0xE8710A),
-    "new":      ("\U0001F195", "신규", 0x1A73E8),
-    "climbing": ("\U0001F4C8", "상승", 0x34A853),
-    "sinking":  ("\U0001F4C9", "급락", 0x5F6368),
-}
-
-TRACKS = {
-    "ride":  ("\U0001F30A", "흐름에 올라타기", 0x1A73E8),
-    "twist": ("\U0001F300", "비틀기", 0xF9AB00),
-    "gap":   ("\U0001F3AF", "빈자리", 0x9334E6),
+VERDICT = {
+    "open":    ("\U0001F7E2", "열림"),
+    "mill":    ("\U0001F534", "고기 분쇄기"),
+    "unclear": ("\u26AA", "판단 보류"),
 }
 
 
 def build_embeds(brief, date):
     embeds = []
 
-    moved = brief.get("moved") or []
-    if moved:
-        blocks = []
-        for m in moved[:6]:
-            icon, label, _ = KIND.get(m.get("kind", ""), ("\u2022", "", 0))
-            head = "%s **%s**" % (icon, m.get("name", "?"))
-            if m.get("numbers"):
-                head += "  `%s`" % m["numbers"]
-            blocks.append("\n".join(filter(None, [
-                head,
-                m.get("what", ""),
-                "\u00b7 왜 %s" % m["why"] if m.get("why") else "",
-                "\u00b7 %s" % m["age"] if m.get("age") else "",
+    genres = brief.get("genres") or []
+    if genres:
+        rows = []
+        for g in genres[:6]:
+            icon, label = VERDICT.get(g.get("verdict", ""), ("\u26AA", ""))
+            rows.append("\n".join(filter(None, [
+                "%s **%s** — %s" % (icon, g.get("tag", "?"), label),
+                "`%s`" % g["numbers"] if g.get("numbers") else "",
+                "\u00b7 %s" % g["price"] if g.get("price") else "",
+                "\u00b7 %s" % g["note"] if g.get("note") else "",
             ])))
         embeds.append({
-            "title": "\U0001F3AE 오늘 움직인 게임 \u2014 %s" % date,
-            "description": clip("\n\n".join(blocks), MAX_DESC),
+            "title": "\U0001F4CA 장르 판정 \u2014 %s" % date,
+            "description": clip("\n\n".join(rows), MAX_DESC),
+            "color": 0x1A73E8,
+        })
+
+    for w in (brief.get("watch") or [])[:5]:
+        body = "\n\n".join(filter(None, [
+            w.get("what", ""),
+            "**왜 지금** %s" % w["why"] if w.get("why") else "",
+            "**장르 승산** %s" % w["genre_odds"] if w.get("genre_odds") else "",
+            "**정보** %s" % w["facts"] if w.get("facts") else "",
+            w.get("url", ""),
+        ]))
+        embeds.append({
+            "title": clip("\U0001F3AE %s" % w.get("name", "?"), 240),
+            "description": clip(body, MAX_DESC),
             "color": 0xE8710A,
         })
 
-    if brief.get("reading"):
+    if not brief.get("watch"):
         embeds.append({
-            "title": "\U0001F50E 읽히는 흐름",
-            "description": clip(brief["reading"], MAX_DESC),
+            "title": "\U0001F3AE 오늘은 볼 것 없음",
+            "description": "영상을 찾아볼 만한 게임이 나오지 않았습니다.",
+            "color": 0xE8710A,
+        })
+
+    if brief.get("direction"):
+        embeds.append({
+            "title": "\U0001F9ED 데이터가 가리키는 방향",
+            "description": clip(brief["direction"], MAX_DESC),
             "color": 0x34A853,
-        })
-
-    for idea in (brief.get("ideas") or [])[:3]:
-        icon, label, color = TRACKS.get(idea.get("track", ""), ("\U0001F4A1", "아이디어", 0x9334E6))
-        body = "\n\n".join(filter(None, [
-            "_%s_" % idea["one_liner"] if idea.get("one_liner") else "",
-            "**어느 신호에서** %s" % idea["from"] if idea.get("from") else "",
-            "**핵심 루프** %s" % idea["loop"] if idea.get("loop") else "",
-            "**규모** %s" % idea["scope"] if idea.get("scope") else "",
-            "**왜 지금** %s" % idea["why_now"] if idea.get("why_now") else "",
-            "**걸림돌** %s" % idea["risk"] if idea.get("risk") else "",
-        ]))
-        embeds.append({
-            "title": clip("%s %s \u00b7 %s" % (icon, label, idea.get("title", "?")), 240),
-            "description": clip(body, MAX_DESC),
-            "color": color,
-        })
-
-    if not brief.get("ideas"):
-        embeds.append({
-            "title": "\U0001F4A1 오늘은 제안 없음",
-            "description": "신호에서 밀어붙일 만한 게 나오지 않았습니다.",
-            "color": 0x9334E6,
         })
 
     if brief.get("counter"):
@@ -117,8 +105,8 @@ def main():
 
     date = brief.get("date", "") or datetime.now(KST).strftime("%Y-%m-%d")
     embeds = build_embeds(brief, date)
-    print("[brief] moved=%d ideas=%d -> %d embeds"
-          % (len(brief.get("moved") or []), len(brief.get("ideas") or []), len(embeds)),
+    print("[brief] genres=%d watch=%d -> %d embeds"
+          % (len(brief.get("genres") or []), len(brief.get("watch") or []), len(embeds)),
           file=sys.stderr)
 
     # Echo the rendered brief so a run's output is legible in the job log.
@@ -133,7 +121,7 @@ def main():
             json.dump(brief, f, ensure_ascii=False, indent=1, sort_keys=True)
         print("[saved] %s" % archive, file=sys.stderr)
 
-    header = "\U0001F3AE **오늘의 게임 브리프** — 뭐가 떴나 · 왜 떴나 · 뭘 만들까"
+    header = "\U0001F3AE **오늘의 게임 브리프** — 어디가 열려 있나 · 뭘 볼까"
 
     if os.environ.get("DRY_RUN") == "1":
         return 0
