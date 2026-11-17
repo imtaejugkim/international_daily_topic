@@ -54,6 +54,14 @@ NOTICED_REVIEWS = int(os.environ.get("NOTICED_REVIEWS", "50"))
 
 
 def get(url, attempts=3, timeout=25):
+    """Fetch and parse JSON.
+
+    Timeouts are short by default and must stay short: store.steampowered.com
+    throttles by stalling rather than refusing, so a generous timeout times
+    hundreds of requests turns a few minutes of collection into an hour. A
+    sweep over many games should pass attempts=1 and a small timeout and
+    accept the misses.
+    """
     last = None
     for i in range(attempts):
         try:

@@ -22,7 +22,10 @@ Standard library only. No API key.
 Environment variables:
   WATCH_LIMIT     games to poll for player counts (default 200)
   TAG_DEPTH       recent releases to check per tag (default 50)
+  TAGS_PER_DAY    tags whose backlog is refreshed each run (default 4)
+  REVIEW_TTL_DAYS how long a cached review count stays usable (default 7)
   DETAIL_BUDGET   new games to describe per run (default 60)
+  TIME_BUDGET_SEC stop collecting after this many seconds (default 720)
   DRY_RUN         "1" to print instead of writing
 """
 
@@ -56,6 +59,11 @@ DATA = "data"
 KST = timezone(timedelta(hours=9))
 GAP = 0.22
 DETAIL_GAP = 0.6
+# The store stalls rather than refuses when it throttles, so sweeps over it
+# get one attempt and a short timeout and simply skip what does not answer.
+STORE_TIMEOUT = 8
+TIME_BUDGET = int(os.environ.get("TIME_BUDGET_SEC", "720"))
+REVIEW_TTL_DAYS = int(os.environ.get("REVIEW_TTL_DAYS", "7"))
 
 get = steam_tags.get
 
@@ -90,7 +98,7 @@ def featured_sections():
 
 
 def review_summary(appid):
-    q = (get(REVIEWS % appid, attempts=2, timeout=15) or {}).get("query_summary") or {}
+    q = (get(REVIEWS % appid, attempts=1, timeout=STORE_TIMEOUT) or {}).get("query_summary") or {}
     if "total_reviews" not in q:
         return None
     return {"total": q.get("total_reviews", 0),
@@ -99,9 +107,15 @@ def review_summary(appid):
             "score": q.get("review_score_desc", "")}
 
 
-def sweep(appids, fn, label):
-    out, failed = {}, 0
+def sweep(appids, fn, label, deadline):
+    """Collect what fits in the time left. A partial day is fine; a run that
+    never ends is not, and the brief step still needs its slot."""
+    out, failed, skipped = {}, 0, 0
     for i, appid in enumerate(appids, 1):
+        if time.monotonic() > deadline:
+            skipped = len(appids) - i + 1
+            print("[%s] time budget reached, skipping %d" % (label, skipped), file=sys.stderr)
+            break
         try:
             v = fn(appid)
             if v is not None:
@@ -109,10 +123,38 @@ def sweep(appids, fn, label):
         except Exception:  # noqa: BLE001 - one game must not stop the sweep
             failed += 1
         if i % 100 == 0:
-            print("  %s ...%d/%d" % (label, i, len(appids)), file=sys.stderr)
+            print("  %s ...%d/%d (%.0fs left)"
+                  % (label, i, len(appids), deadline - time.monotonic()), file=sys.stderr)
         time.sleep(GAP)
-    print("[%s] %d collected, %d failed" % (label, len(out), failed), file=sys.stderr)
+    print("[%s] %d collected, %d failed, %d skipped"
+          % (label, len(out), failed, skipped), file=sys.stderr)
     return out
+
+
+def load_review_cache():
+    path = os.path.join(DATA, "reviews_cache.json")
+    if os.path.exists(path):
+        try:
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+        except (OSError, ValueError):
+            pass
+    return {}
+
+
+def stale(entry, today):
+    """A three-week-old release with four reviews will still have four
+    tomorrow, so the backlog that forms the success-rate denominator does not
+    need re-measuring daily."""
+    seen = (entry or {}).get("date")
+    if not seen:
+        return True
+    try:
+        age = (datetime.strptime(today, "%Y-%m-%d")
+               - datetime.strptime(seen, "%Y-%m-%d")).days
+    except ValueError:
+        return True
+    return age >= REVIEW_TTL_DAYS
 
 
 def player_count(appid):
@@ -185,8 +227,21 @@ def main():
     up_ids, _ = search_appids(UPCOMING, "popular upcoming")
 
     tags = steam_tags.verify_tag_ids()
+    # Only part of the tag list is refreshed each run; over a few days every
+    # tag comes round. Success rates move slowly, so slightly older backlog
+    # counts are fine and the daily request bill stays bounded.
+    names = sorted(tags)
+    per_day = int(os.environ.get("TAGS_PER_DAY", "4"))
+    if dry:
+        names = names[:2]
+    else:
+        start = datetime.now(KST).timetuple().tm_yday * per_day % max(1, len(names))
+        names = [names[(start + i) % len(names)] for i in range(min(per_day, len(names)))]
+    print("[tags] refreshing today: %s" % ", ".join(names), file=sys.stderr)
+
     tag_releases, tag_totals = {}, {}
-    for name, tagid in (list(tags.items())[:3] if dry else tags.items()):
+    for name in names:
+        tagid = tags[name]
         try:
             total, ids = steam_tags.recent_releases(tagid, depth)
             tag_releases[name], tag_totals[name] = ids, total
@@ -217,10 +272,24 @@ def main():
             seen.add(appid)
             review_watch.append(appid)
 
-    print("[watch] players %d, reviews %d" % (len(play_watch), len(review_watch)),
-          file=sys.stderr)
-    players = sweep(play_watch, player_count, "players")
-    reviews = sweep(review_watch, review_summary, "reviews")
+    # Reviews are cached: the moving set is re-measured every run, the rest
+    # only once its entry goes stale. Without this the tag backlog alone is
+    # hundreds of store requests a morning, for numbers that barely move.
+    cache = load_review_cache()
+    hot = set(play_watch) | set(new_ids) | set(up_ids)
+    need = [a for a in review_watch if a in hot or stale(cache.get(a), date)]
+    reused = len(review_watch) - len(need)
+    print("[watch] players %d, reviews %d (%d fresh, %d reused from cache)"
+          % (len(play_watch), len(review_watch), len(need), reused), file=sys.stderr)
+
+    deadline = time.monotonic() + TIME_BUDGET
+    players = sweep(play_watch, player_count, "players", deadline)
+    fresh = sweep(need, review_summary, "reviews", deadline)
+
+    for appid, r in fresh.items():
+        cache[appid] = dict(r, date=date)
+    reviews = {a: {k: v for k, v in cache[a].items() if k != "date"}
+               for a in review_watch if a in cache}
 
     featured_ids = {i["appid"] for v in feat.values() for i in v}
     known = enrich(known, review_watch,
@@ -256,7 +325,10 @@ def main():
         json.dump(payload, f, ensure_ascii=False, indent=1, sort_keys=True)
     with open(os.path.join(DATA, "games.json"), "w", encoding="utf-8") as f:
         json.dump(known, f, ensure_ascii=False, indent=1, sort_keys=True)
-    print("[saved] data/steam/%s.json" % date, file=sys.stderr)
+    with open(os.path.join(DATA, "reviews_cache.json"), "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=1, sort_keys=True)
+    print("[saved] data/steam/%s.json (reviews cached: %d)" % (date, len(cache)),
+          file=sys.stderr)
     return 0
 
 
