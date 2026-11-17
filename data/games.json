@@ -103,6 +103,86 @@
   "price": "",
   "release_date": "2020년 11월 4일"
  },
+ "1174180": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "앱 내 구매"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Rockstar Games"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "Red Dead Redemption 2",
+  "price": "₩ 73,000",
+  "release_date": "2019년 12월 5일"
+ },
+ "1203220": {
+  "categories": [
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드",
+   "앱 내 구매",
+   "컨트롤러 일부 지원",
+   "HDR 사용 가능"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "24 Entertainment"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "대규모 멀티플레이어",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "NARAKA: BLADEPOINT",
+  "price": "",
+  "release_date": "2021년 8월 11일"
+ },
+ "1366800": {
+  "categories": [
+   "캡션 이용 가능",
+   "Steam 창작마당",
+   "DUALSHOCK 컨트롤러 지원",
+   "DUALSHOCK 컨트롤러 지원",
+   "DualSense 컨트롤러 지원",
+   "DualSense 컨트롤러 지원",
+   "컨트롤러 일부 지원",
+   "Steam Cloud"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "CenterPoint Gaming"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "소프트웨어 교육",
+   "유틸리티"
+  ],
+  "is_free": false,
+  "name": "Crosshair X",
+  "price": "₩ 10,500",
+  "release_date": "2020년 8월 17일"
+ },
  "1422450": {
   "categories": [
    "멀티플레이어"
@@ -119,6 +199,105 @@
   "name": "Deadlock",
   "price": "",
   "release_date": "발표 예정"
+ },
+ "1623730": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Pocketpair"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "Palworld / 팰월드",
+  "price": "₩ 32,000",
+  "release_date": "2026년 7월 9일"
+ },
+ "1687950": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "ATLUS"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "페르소나 5 더 로열",
+  "price": "₩ 20,940",
+  "release_date": "2022년 10월 20일"
+ },
+ "1771300": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드",
+   "음량 개별 조절",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "DUALSHOCK 컨트롤러 지원",
+   "DualSense 컨트롤러 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Warhorse Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "Kingdom Come: Deliverance II",
+  "price": "₩ 20,060",
+  "release_date": "2025년 2월 4일"
+ },
+ "1808500": {
+  "categories": [
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Embark Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "ARC Raiders",
+  "price": "₩ 60,900",
+  "release_date": "2025년 10월 30일"
  },
  "1867240": {
   "categories": [
@@ -147,6 +326,22 @@
   "name": "WARDOGS",
   "price": "₩ 47,270",
   "release_date": "2026년 9월 10일"
+ },
+ "1905180": {
+  "categories": [],
+  "coming_soon": false,
+  "developers": [
+   "OBS Project"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "유틸리티",
+   "동영상 제작"
+  ],
+  "is_free": true,
+  "name": "OBS Studio",
+  "price": "",
+  "release_date": "2022년 3월 21일"
  },
  "1938090": {
   "categories": [
@@ -197,6 +392,58 @@
   "name": "Limbus Company",
   "price": "",
   "release_date": "2023년 2월 26일"
+ },
+ "2161700": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드",
+   "음량 개별 조절",
+   "난이도 조정",
+   "키보드 전용 옵션",
+   "퀵타임 이벤트 없이 플레이 가능"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "ATLUS"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "어드벤처",
+   "RPG",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "페르소나3 리로드",
+  "price": "₩ 24,430",
+  "release_date": "2024년 2월 1일"
+ },
+ "221100": {
+  "categories": [
+   "멀티플레이어",
+   "MMO",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Bohemia Interactive"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "대규모 멀티플레이어"
+  ],
+  "is_free": false,
+  "name": "DayZ",
+  "price": "₩ 59,000",
+  "release_date": "2018년 12월 13일"
  },
  "227300": {
   "categories": [
@@ -385,6 +632,32 @@
   "price": "₩ 42,000",
   "release_date": "2018년 2월 8일"
  },
+ "2536520": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "텍스트 크기 조정"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Blizzard Entertainment, Inc."
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "RPG",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "디아블로 II 레저렉션 - 지옥불 에디션",
+  "price": "₩ 29,180",
+  "release_date": "2026년 2월 11일"
+ },
  "271590": {
   "categories": [
    "싱글 플레이어",
@@ -517,6 +790,106 @@
   "price": "₩ 21,600",
   "release_date": "2026년 3월 5일"
  },
+ "289070": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "LAN PvP",
+   "스크린 공유 및 분할 PvP",
+   "공유 및 분할 화면",
+   "크로스 플랫폼 멀티플레이어"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Firaxis Games",
+   "Aspyr (Mac)",
+   "Aspyr (Linux)"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Sid Meier’s Civilization® VI",
+  "price": "₩ 65,000",
+  "release_date": "2016년 10월 20일"
+ },
+ "294100": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 창작마당",
+   "텍스트 크기 조정",
+   "카메라 움직임 조정",
+   "음량 개별 조절",
+   "난이도 조정",
+   "마우스 전용 옵션",
+   "퀵타임 이벤트 없이 플레이 가능"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Ludeon Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "RimWorld",
+  "price": "₩ 37,500",
+  "release_date": "2018년 10월 17일"
+ },
+ "2988580": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드",
+   "음량 개별 조절"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "RGG Studio"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "용과 같이0 맹세의 장소 Director's Cut",
+  "price": "₩ 21,920",
+  "release_date": "2025년 12월 8일"
+ },
+ "3218350": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "Games by Malcs"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "RPG",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "Melvor Idle 2: A RuneScape Adventure",
+  "price": "",
+  "release_date": "2026년 11월 17일"
+ },
  "322170": {
   "categories": [
    "싱글 플레이어",
@@ -541,6 +914,35 @@
   "name": "Geometry Dash",
   "price": "₩ 5,600",
   "release_date": "2014년 12월 22일"
+ },
+ "322330": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "LAN PvP",
+   "협동",
+   "온라인 협동",
+   "LAN 협동"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Klei Entertainment"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Don't Starve Together",
+  "price": "₩ 15,500",
+  "release_date": "2016년 4월 21일"
  },
  "3240220": {
   "categories": [
@@ -593,6 +995,84 @@
   "price": "₩ 10,700",
   "release_date": "2025년 2월 26일"
  },
+ "3266730": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "카메라 움직임 조정",
+   "음량 개별 조절"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "NECMAS Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "No Alibi",
+  "price": "₩ 6,800",
+  "release_date": "2026년 11월 16일"
+ },
+ "3321460": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "음량 개별 조절",
+   "게임패드 권장",
+   "DualSense 컨트롤러 지원",
+   "수시 저장",
+   "스테레오 사운드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Pearl Abyss"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "붉은사막 Enhanced",
+  "price": "₩ 63,840",
+  "release_date": "2026년 3월 19일"
+ },
+ "3419430": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "DUALSHOCK 컨트롤러 지원",
+   "DUALSHOCK 컨트롤러 지원",
+   "DualSense 컨트롤러 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Irox Games"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "대규모 멀티플레이어",
+   "시뮬레이션",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Bongo Cat",
+  "price": "",
+  "release_date": "2025년 3월 5일"
+ },
  "359550": {
   "categories": [
    "싱글 플레이어",
@@ -618,6 +1098,54 @@
   "price": "",
   "release_date": "2015년 12월 1일"
  },
+ "3678970": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "음량 개별 조절",
+   "마우스 전용 옵션",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "Steam Cloud",
+   "통계"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Nugem Studio",
+   "Tesseract Studio"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "RPG",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "TBH: 태스크바 히어로",
+  "price": "",
+  "release_date": "2026년 5월 27일"
+ },
+ "3721150": {
+  "categories": [
+   "싱글 플레이어",
+   "컨트롤러 일부 지원",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Yak Studios LLC"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Sudoku Defense",
+  "price": "₩ 11,000",
+  "release_date": "2026년 11월 16일"
+ },
  "381210": {
   "categories": [
    "멀티플레이어",
@@ -641,6 +1169,79 @@
   "name": "Dead by Daylight",
   "price": "₩ 21,500",
   "release_date": "2016년 6월 14일"
+ },
+ "3938920": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "음량 개별 조절",
+   "마우스 전용 옵션",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "수시 저장",
+   "Steam Cloud"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "MilkBomb Studio"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "懒得鸟",
+  "price": "₩ 6,840",
+  "release_date": "2026년 11월 16일"
+ },
+ "394360": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "Steam 트레이딩 카드",
+   "Steam 창작마당"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Paradox Development Studio"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Hearts of Iron IV",
+  "price": "₩ 16,500",
+  "release_date": "2016년 6월 6일"
+ },
+ "4071910": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "Deathtrap Games"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Death & Deadlines",
+  "price": "",
+  "release_date": "2026년 11월 17일"
  },
  "4115450": {
   "categories": [
@@ -830,6 +1431,860 @@
   "price": "",
   "release_date": "2007년 10월 10일"
  },
+ "4435490": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Infinity Ward",
+   "Beenox",
+   "Digital Legends",
+   "Activision Shanghai",
+   "Raven Software",
+   "Treyarch",
+   "Sledgehammer Games",
+   "High Moon Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션"
+  ],
+  "is_free": false,
+  "name": "Call of Duty®: Modern Warfare® 4",
+  "price": "₩ 80,000",
+  "release_date": "2026년 10월 22일"
+ },
+ "4459590": {
+  "categories": [
+   "싱글 플레이어",
+   "컨트롤러 완벽 지원",
+   "음량 개별 조절",
+   "난이도 조정",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "DUALSHOCK 컨트롤러 지원",
+   "DUALSHOCK 컨트롤러 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Optima Arch"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "슬롯바운드 - Slotbound",
+  "price": "₩ 10,800",
+  "release_date": "2026년 11월 12일"
+ },
+ "4530370": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "크로스 플랫폼 멀티플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam 트레이딩 카드"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Sports Interactive"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "시뮬레이션",
+   "스포츠",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Football Manager 27",
+  "price": "₩ 69,800",
+  "release_date": "2026년 11월 10일"
+ },
+ "4670000": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "DUALSHOCK 컨트롤러 지원",
+   "DUALSHOCK 컨트롤러 지원",
+   "DualSense 컨트롤러 지원",
+   "DualSense 컨트롤러 지원",
+   "Steam 순위표"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Nestwell Studio LLC"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "Rogue's Cog",
+  "price": "₩ 10,500",
+  "release_date": "2026년 11월 16일"
+ },
+ "4699150": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "가족 공유"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "Well-fed dogs"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "인디",
+   "대규모 멀티플레이어",
+   "RPG",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "Astro beasts",
+  "price": "",
+  "release_date": "출시 예정"
+ },
+ "4710560": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "음량 개별 조절",
+   "수시 저장",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "TBC"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "기계의 심장",
+  "price": "₩ 5,040",
+  "release_date": "2026년 11월 16일"
+ },
+ "4718660": {
+  "categories": [
+   "싱글 플레이어",
+   "가족 공유"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "Vladi Koval"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션",
+   "전략",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "Slightly Used Sorcery",
+  "price": "",
+  "release_date": "2026년 11월 17일"
+ },
+ "4729710": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "BPMG Inc."
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Cooking Adventure",
+  "price": "",
+  "release_date": "2026년 11월 16일"
+ },
+ "4748960": {
+  "categories": [
+   "싱글 플레이어",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Giorgi Gogeishvili"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Cube Fold",
+  "price": "₩ 3,350",
+  "release_date": "2026년 11월 17일"
+ },
+ "489830": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "수시 저장",
+   "스테레오 사운드",
+   "서라운드 사운드",
+   "컨트롤러 일부 지원",
+   "Steam Cloud"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Bethesda Game Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "The Elder Scrolls V: Skyrim Special Edition",
+  "price": "₩ 9,000",
+  "release_date": "2016년 10월 27일"
+ },
+ "4903470": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "카메라 움직임 조정",
+   "색상 대체",
+   "음량 개별 조절",
+   "마우스 전용 옵션",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "BronzeOrange"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "Butaro's Overtime Office",
+  "price": "₩ 4,400",
+  "release_date": "2026년 11월 17일"
+ },
+ "4918810": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Punk Func Games"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "인디",
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Pinata Smash: Incremental Circus",
+  "price": "₩ 3,280",
+  "release_date": "2026년 11월 16일"
+ },
+ "4933680": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Nikaigame"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "光不归谁",
+  "price": "₩ 2,250",
+  "release_date": "2026년 11월 16일"
+ },
+ "5001840": {
+  "categories": [
+   "싱글 플레이어",
+   "다운로드 가능한 콘텐츠",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "음량 개별 조절",
+   "게임패드 권장",
+   "DualSense 컨트롤러 지원",
+   "수시 저장"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Pearl Abyss"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "붉은사막 Enhanced: 미지의 여정",
+  "price": "₩ 27,800",
+  "release_date": "2026년 10월 29일"
+ },
+ "5013880": {
+  "categories": [
+   "Steam 도전 과제",
+   "텍스트 크기 조정",
+   "색상 대체",
+   "음량 개별 조절",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "#category_playable_without_vision",
+   "수시 저장"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Mild Road"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "유틸리티"
+  ],
+  "is_free": false,
+  "name": "MythTunes: OST, Lofi & BGM Player",
+  "price": "₩ 4,630",
+  "release_date": "2026년 11월 16일"
+ },
+ "5075260": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Sugar Rush"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "최고의 유부녀 - 한여름 파티",
+  "price": "₩ 2,310",
+  "release_date": "2026년 11월 16일"
+ },
+ "5120080": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "카메라 움직임 조정",
+   "음량 개별 조절",
+   "난이도 조정",
+   "마우스 전용 옵션",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Klara Code"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Everhex",
+  "price": "₩ 17,000",
+  "release_date": "2026년 11월 17일"
+ },
+ "5129310": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "텍스트 크기 조정",
+   "카메라 움직임 조정",
+   "색상 대체",
+   "#category_contrast_controls",
+   "음량 개별 조절"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "fakewaffle"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Pocket TD",
+  "price": "₩ 8,800",
+  "release_date": "2026년 11월 16일"
+ },
+ "5174790": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Ryan4237"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Don't Panic, Defend!",
+  "price": "₩ 4,480",
+  "release_date": "2026년 11월 16일"
+ },
+ "5176420": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "음량 개별 조절",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Mint Mark Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "One Million Gallons",
+  "price": "₩ 2,240",
+  "release_date": "2026년 11월 16일"
+ },
+ "5183160": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "텍스트 크기 조정",
+   "카메라 움직임 조정",
+   "색상 대체",
+   "#category_contrast_controls",
+   "음량 개별 조절"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Clover Meadow Games"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "Kyle Coral",
+  "price": "₩ 9,900",
+  "release_date": "2026년 11월 16일"
+ },
+ "5185680": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "neineimeow"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "終末王座",
+  "price": "₩ 5,570",
+  "release_date": "2026년 11월 16일"
+ },
+ "5197010": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "카메라 움직임 조정",
+   "색상 대체",
+   "음량 개별 조절",
+   "마우스 전용 옵션",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Stratton Oakmont"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "Pump And Dump",
+  "price": "₩ 8,800",
+  "release_date": "2026년 11월 16일"
+ },
+ "5200620": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "louidev"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "어드벤처",
+   "인디",
+   "RPG",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Dungeonbound",
+  "price": "₩ 12,150",
+  "release_date": "2026년 11월 16일"
+ },
+ "5255210": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "크로스 플랫폼 멀티플레이어",
+   "앱 내 구매",
+   "음량 개별 조절",
+   "난이도 조정"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Xyzygy"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "전략",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Tactics Arena",
+  "price": "",
+  "release_date": "2026년 11월 16일"
+ },
+ "5330280": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "음량 개별 조절",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "DoubleShotWorks"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "S.O.I.: Sphere of Influence",
+  "price": "₩ 7,350",
+  "release_date": "2026년 11월 16일"
+ },
+ "5339560": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "Steam 창작마당",
+   "카메라 움직임 조정",
+   "음량 개별 조절",
+   "마우스 전용 옵션",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "AnzuTekno"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "AMIDA Q",
+  "price": "₩ 2,510",
+  "release_date": "2026년 11월 16일"
+ },
+ "5381310": {
+  "categories": [
+   "싱글 플레이어",
+   "앱 내 구매",
+   "가족 공유"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "nonbirinon223"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "デスクトップフレンズ",
+  "price": "",
+  "release_date": "2026년 11월 17일"
+ },
+ "5418470": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "Steam 창작마당",
+   "음량 개별 조절",
+   "난이도 조정",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "수시 저장"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Hankan Game"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "Streamer Manager",
+  "price": "₩ 6,630",
+  "release_date": "2026년 11월 16일"
+ },
+ "5424160": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "텍스트 크기 조정",
+   "카메라 움직임 조정",
+   "색상 대체",
+   "난이도 조정",
+   "키보드 전용 옵션",
+   "마우스 전용 옵션"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Dafty Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "시뮬레이션",
+   "스포츠",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "DerbiManager",
+  "price": "₩ 10,200",
+  "release_date": "2026년 11월 16일"
+ },
+ "5441620": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "음량 개별 조절",
+   "마우스 전용 옵션",
+   "#category_playable_at_your_own_pace",
+   "퀵타임 이벤트 없이 플레이 가능",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "NN STUDIO"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "어드벤처",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "정오의 그림자",
+  "price": "",
+  "release_date": "2026년 11월 17일"
+ },
+ "5451420": {
+  "categories": [
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "텍스트 크기 조정",
+   "음량 개별 조절",
+   "스테레오 사운드",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Metal Pig"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "어드벤처",
+   "인디",
+   "시뮬레이션",
+   "전략",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Murder Mystery Online",
+  "price": "",
+  "release_date": "2026년 11월 16일"
+ },
+ "5458210": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "협동",
+   "온라인 협동",
+   "Steam 도전 과제",
+   "텍스트 크기 조정",
+   "카메라 움직임 조정",
+   "음량 개별 조절"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Pattez Games"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "How They Built the Pyramids",
+  "price": "₩ 4,690",
+  "release_date": "2026년 11월 13일"
+ },
+ "5459220": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Bayfront Software"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "RPG",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "ROKUMENSHU",
+  "price": "₩ 5,600",
+  "release_date": "2026년 11월 16일"
+ },
+ "5486840": {
+  "categories": [
+   "싱글 플레이어",
+   "컨트롤러 완벽 지원",
+   "Steam Cloud",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "SAKRUL"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "HEXWING",
+  "price": "₩ 5,600",
+  "release_date": "2026년 11월 16일"
+ },
  "550": {
   "categories": [
    "싱글 플레이어",
@@ -854,6 +2309,52 @@
   "price": "₩ 11,000",
   "release_date": "2009년 11월 16일"
  },
+ "5515170": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Morass"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Scripts of Power",
+  "price": "₩ 1,100",
+  "release_date": "2026년 11월 16일"
+ },
+ "5533700": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "난이도 조정",
+   "수시 저장",
+   "통계",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "程序员小灰"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "인디",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "三国群雄：幸存者",
+  "price": "₩ 2,670",
+  "release_date": "2026년 11월 16일"
+ },
  "553850": {
   "categories": [
    "멀티플레이어",
@@ -877,6 +2378,89 @@
   "name": "HELLDIVERS™ 2",
   "price": "₩ 44,800",
   "release_date": "2024년 2월 8일"
+ },
+ "5541800": {
+  "categories": [
+   "싱글 플레이어",
+   "Steam 도전 과제",
+   "가족 공유"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "Natsuyo"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "스포츠",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Summer, Youth, and Baseball",
+  "price": "",
+  "release_date": "2026년 11월 17일"
+ },
+ "5552220": {
+  "categories": [
+   "추가적인 고품질 오디오"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "Games by Malcs"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [],
+  "is_free": false,
+  "name": "Melvor Idle 2: A RuneScape Adventure Soundtrack",
+  "price": "",
+  "release_date": "2026년 11월 17일"
+ },
+ "5628450": {
+  "categories": [
+   "싱글 플레이어",
+   "게임 체험판",
+   "Steam 도전 과제",
+   "컨트롤러 완벽 지원"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "RawiGames"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": true,
+  "name": "Ballpeak Demo",
+  "price": "",
+  "release_date": "2026년 11월 17일"
+ },
+ "5631060": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "협동",
+   "온라인 협동",
+   "게임 체험판",
+   "Steam 도전 과제"
+  ],
+  "coming_soon": true,
+  "developers": [
+   "Boomer Studios"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "캐주얼",
+   "전략"
+  ],
+  "is_free": true,
+  "name": "Seat of Power Demo",
+  "price": "",
+  "release_date": "2026년 11월 17일"
  },
  "570": {
   "categories": [
@@ -955,5 +2539,31 @@
   "name": "Counter-Strike 2",
   "price": "",
   "release_date": "2012년 8월 21일"
+ },
+ "931210": {
+  "categories": [
+   "싱글 플레이어",
+   "멀티플레이어",
+   "PvP",
+   "온라인 PvP",
+   "Steam 도전 과제",
+   "추적되는 컨트롤러 지원",
+   "VR 전용",
+   "Steam 순위표"
+  ],
+  "coming_soon": false,
+  "developers": [
+   "RedZone Studios LLC"
+  ],
+  "fetched": "2026-11-17",
+  "genres": [
+   "인디",
+   "시뮬레이션",
+   "스포츠"
+  ],
+  "is_free": false,
+  "name": "Tabletop Basketball VR",
+  "price": "₩ 17,000",
+  "release_date": "2026년 11월 16일"
  }
 }
