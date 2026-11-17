@@ -1,184 +1,303 @@
 {
- "climbing": [],
- "counted": 106,
+ "compared_against": null,
+ "counted": 417,
  "date": "2026-11-17",
  "days_of_history": 1,
- "new_entry": [],
- "note": "absolute player counts are not a signal - the top of the chart is the same every day. surging / new_entry / climbing are the signal; settled_giants is listed only so it can be ignored.",
- "recently_released": [
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
   {
-   "appid": "4262460",
-   "at_own_peak": true,
-   "climb_streak": 0,
-   "days_since_release": 13,
-   "days_tracked": 1,
-   "featured": false,
-   "genres": [
-    "액션",
-    "대규모 멀티플레이어",
-    "RPG",
-    "시뮬레이션",
-    "무료 플레이",
-    "앞서 해보기"
-   ],
-   "is_free": true,
-   "last_week_rank": 10,
-   "name": "ROB RUN",
+   "name": "PUBG: BATTLEGROUNDS",
    "pct_change": null,
-   "players": 202899,
-   "players_prev": null,
-   "price": "",
-   "rank": 4,
-   "rank_delta": 6,
-   "release_date": "2026년 11월 4일"
+   "reviews": 2746000
   },
   {
-   "appid": "4115450",
-   "at_own_peak": true,
-   "climb_streak": 0,
-   "days_since_release": 20,
-   "days_tracked": 1,
-   "featured": true,
+   "name": "Terraria",
+   "pct_change": null,
+   "reviews": 1251183
+  },
+  {
+   "name": "Rust",
+   "pct_change": null,
+   "reviews": 1181739
+  },
+  {
+   "name": "Apex Legends",
+   "pct_change": null,
+   "reviews": 1078328
+  },
+  {
+   "name": "Wallpaper Engine",
+   "pct_change": null,
+   "reviews": 956438
+  },
+  {
+   "name": "Left 4 Dead 2",
+   "pct_change": null,
+   "reviews": 826512
+  },
+  {
+   "name": "Dead by Daylight",
+   "pct_change": null,
+   "reviews": 689123
+  },
+  {
+   "name": "ARK: Survival Evolved",
+   "pct_change": null,
+   "reviews": 589823
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 2,
+   "alive_rate": 100.0,
+   "free_share": 0.0,
+   "median_playtime_minutes": 593,
+   "median_price_cents": 999,
+   "noticed": 2,
+   "noticed_rate": 100.0,
+   "recent_measured": 2,
+   "store_total": 9326,
+   "tag": "Roguelite",
+   "top": [
+    {
+     "median_minutes": 593,
+     "name": "Grand Theft Auto IV: The Complete Edition",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 185249
+    },
+    {
+     "median_minutes": 127,
+     "name": "FlatOut 2",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 19754
+    }
+   ]
+  },
+  {
+   "alive": 370,
+   "alive_rate": 94.6,
+   "free_share": 16.2,
+   "median_playtime_minutes": 395,
+   "median_price_cents": 1999,
+   "noticed": 352,
+   "noticed_rate": 90.0,
+   "recent_measured": 391,
+   "store_total": 9968,
+   "tag": "Survival",
+   "top": [
+    {
+     "median_minutes": 6279,
+     "name": "PUBG: BATTLEGROUNDS",
+     "owners": "100,000,000 .. 200,000,000",
+     "reviews": 2746000
+    },
+    {
+     "median_minutes": 2527,
+     "name": "Terraria",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 1251183
+    },
+    {
+     "median_minutes": 3087,
+     "name": "Rust",
+     "owners": "50,000,000 .. 100,000,000",
+     "reviews": 1181739
+    },
+    {
+     "median_minutes": 1081,
+     "name": "Apex Legends",
+     "owners": "100,000,000 .. 200,000,000",
+     "reviews": 1078328
+    },
+    {
+     "median_minutes": 1061,
+     "name": "Wallpaper Engine",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 956438
+    }
+   ]
+  },
+  {
+   "alive": 42,
+   "alive_rate": 57.5,
+   "free_share": 2.8,
+   "median_playtime_minutes": 525,
+   "median_price_cents": 1099,
+   "noticed": 36,
+   "noticed_rate": 49.3,
+   "recent_measured": 73,
+   "store_total": 3920,
+   "tag": "Time Management",
+   "top": [
+    {
+     "median_minutes": 757,
+     "name": "Lethal Company",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 412317
+    },
+    {
+     "median_minutes": 190,
+     "name": "Content Warning",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 73369
+    },
+    {
+     "median_minutes": 543,
+     "name": "Volcano Princess",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 45478
+    },
+    {
+     "median_minutes": 2803,
+     "name": "Farming Simulator 25",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 42011
+    },
+    {
+     "median_minutes": 713,
+     "name": "Loop Hero",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 33939
+    }
+   ]
+  },
+  {
+   "alive": 19,
+   "alive_rate": 54.3,
+   "free_share": 8.3,
+   "median_playtime_minutes": 699,
+   "median_price_cents": 2499,
+   "noticed": 12,
+   "noticed_rate": 34.3,
+   "recent_measured": 35,
+   "store_total": 1094,
+   "tag": "Roguelike Deckbuilder",
+   "top": [
+    {
+     "median_minutes": 1745,
+     "name": "Slay the Spire",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 193514
+    },
+    {
+     "median_minutes": 1252,
+     "name": "Balatro",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 163194
+    },
+    {
+     "median_minutes": 298,
+     "name": "ROUNDS",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 36233
+    },
+    {
+     "median_minutes": 699,
+     "name": "Monster Train",
+     "owners": "500,000 .. 1,000,000",
+     "reviews": 19999
+    },
+    {
+     "median_minutes": 859,
+     "name": "Backpack Battles",
+     "owners": "500,000 .. 1,000,000",
+     "reviews": 19131
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "4259360",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4259360/"
+  },
+  {
+   "name": "3224600",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3224600/"
+  },
+  {
+   "name": "4450600",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4450600/"
+  },
+  {
+   "name": "5117550",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5117550/"
+  },
+  {
+   "name": "3739580",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3739580/"
+  },
+  {
+   "name": "1447650",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/1447650/"
+  },
+  {
+   "name": "4150720",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4150720/"
+  },
+  {
+   "name": "5189950",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5189950/"
+  },
+  {
+   "name": "4877420",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4877420/"
+  },
+  {
+   "name": "4009490",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4009490/"
+  },
+  {
+   "name": "5275590",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5275590/"
+  },
+  {
+   "name": "5527800",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5527800/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-17",
+ "young_and_noticed": [
+  {
+   "appid": "1203620",
+   "days_since_release": 33,
    "genres": [
     "액션",
+    "어드벤처",
+    "인디",
     "RPG"
    ],
    "is_free": false,
-   "last_week_rank": 5,
-   "name": "Phantom Blade Zero",
+   "is_new_release": false,
+   "median_minutes": 1036,
+   "name": "Enshrouded",
+   "owners": "2,000,000 .. 5,000,000",
    "pct_change": null,
-   "players": 109120,
-   "players_prev": null,
-   "price": "₩ 69,800",
-   "rank": 9,
-   "rank_delta": -4,
-   "release_date": "2026년 10월 28일"
-  },
-  {
-   "appid": "4348910",
-   "at_own_peak": true,
-   "climb_streak": 0,
-   "days_since_release": 20,
-   "days_tracked": 1,
-   "featured": false,
-   "genres": [
-    "인디",
-    "RPG",
-    "시뮬레이션",
-    "전략"
-   ],
-   "is_free": false,
-   "last_week_rank": 12,
-   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-   "pct_change": null,
-   "players": 70938,
-   "players_prev": null,
-   "price": "₩ 19,900",
-   "rank": 21,
-   "rank_delta": -9,
-   "release_date": "2026년 10월 28일"
-  },
-  {
-   "appid": "4530370",
-   "at_own_peak": true,
-   "climb_streak": 0,
-   "days_since_release": 7,
-   "days_tracked": 1,
-   "featured": true,
-   "genres": [
-    "시뮬레이션",
-    "스포츠",
-    "전략"
-   ],
-   "is_free": false,
-   "last_week_rank": 82,
-   "name": "Football Manager 27",
-   "pct_change": null,
-   "players": 30383,
-   "players_prev": null,
-   "price": "₩ 69,800",
-   "rank": 52,
-   "rank_delta": 30,
-   "release_date": "2026년 11월 10일"
-  },
-  {
-   "appid": "4459590",
-   "at_own_peak": true,
-   "climb_streak": 0,
-   "days_since_release": 5,
-   "days_tracked": 1,
-   "featured": true,
-   "genres": [
-    "인디",
-    "전략"
-   ],
-   "is_free": false,
-   "last_week_rank": null,
-   "name": "슬롯바운드 - Slotbound",
-   "pct_change": null,
-   "players": 18931,
-   "players_prev": null,
-   "price": "₩ 10,800",
-   "rank": null,
-   "rank_delta": null,
-   "release_date": "2026년 11월 12일"
-  },
-  {
-   "appid": "5200620",
-   "at_own_peak": true,
-   "climb_streak": 0,
-   "days_since_release": 1,
-   "days_tracked": 1,
-   "featured": true,
-   "genres": [
-    "어드벤처",
-    "인디",
-    "RPG",
-    "전략"
-   ],
-   "is_free": false,
-   "last_week_rank": null,
-   "name": "Dungeonbound",
-   "pct_change": null,
-   "players": 3434,
-   "players_prev": null,
-   "price": "₩ 12,150",
-   "rank": null,
-   "rank_delta": null,
-   "release_date": "2026년 11월 16일"
-  },
-  {
-   "appid": "5458210",
-   "at_own_peak": true,
-   "climb_streak": 0,
-   "days_since_release": 4,
-   "days_tracked": 1,
-   "featured": true,
-   "genres": [
-    "캐주얼",
-    "인디",
-    "시뮬레이션"
-   ],
-   "is_free": false,
-   "last_week_rank": null,
-   "name": "How They Built the Pyramids",
-   "pct_change": null,
-   "players": 2086,
-   "players_prev": null,
-   "price": "₩ 4,690",
-   "rank": null,
-   "rank_delta": null,
-   "release_date": "2026년 11월 13일"
+   "players": 16369,
+   "positive_rate": 86.0,
+   "price": "₩ 42,900",
+   "reviews": 100763,
+   "reviews_gained": null,
+   "store_url": "https://store.steampowered.com/app/1203620/"
   }
- ],
- "settled_giants": [],
- "sinking": [],
- "surging": [],
- "thresholds": {
-  "flat_pct": 7.0,
-  "giant_players": 50000,
-  "noise_floor": 500,
-  "surge_pct": 30.0
- },
- "window": "2026-11-17 ~ 2026-11-17"
+ ]
 }
