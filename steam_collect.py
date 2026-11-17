@@ -160,7 +160,13 @@ def main():
     print("[watch] %d games" % len(watch), file=sys.stderr)
 
     counts = player_counts(watch)
-    known = enrich(known, watch, budget=40 if not dry else 3)
+    if dry:
+        # Only the games about to be printed, so the output is readable
+        # without spending a full lookup budget.
+        top_by_players = [a for a, _ in sorted(counts.items(), key=lambda kv: -kv[1])[:15]]
+        known = enrich(known, top_by_players, budget=15)
+    else:
+        known = enrich(known, watch, budget=40)
 
     payload = {
         "date": date,

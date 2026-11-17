@@ -182,8 +182,12 @@ def classify(snapshots, games):
 def main():
     snaps = load_snapshots()
     if not snaps:
-        print("no steam snapshots yet - run steam_collect.py first", file=sys.stderr)
-        return 1
+        # The first day, and every dry run, legitimately has nothing stored
+        # yet. That is not a failure: exiting non-zero here would abort the
+        # run and lose the day's collection.
+        print("no steam snapshots stored yet - nothing to compare against",
+              file=sys.stderr)
+        return 0
     out = classify(snaps, load_games())
 
     if os.environ.get("DRY_RUN") == "1":
