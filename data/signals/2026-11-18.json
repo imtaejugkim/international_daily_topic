@@ -1,0 +1,298 @@
+{
+ "compared_against": "2026-11-17",
+ "counted": 172,
+ "date": "2026-11-18",
+ "days_of_history": 2,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "Dota 2",
+   "pct_change": null,
+   "reviews": 2817853
+  },
+  {
+   "name": "The Binding of Isaac: Rebirth",
+   "pct_change": null,
+   "reviews": 426770
+  },
+  {
+   "name": "Bloons TD 6",
+   "pct_change": null,
+   "reviews": 353126
+  },
+  {
+   "name": "R.E.P.O.",
+   "pct_change": 0.0,
+   "reviews": 351400
+  },
+  {
+   "name": "Hades",
+   "pct_change": null,
+   "reviews": 288037
+  },
+  {
+   "name": "7 Days to Die",
+   "pct_change": 0.0,
+   "reviews": 275428
+  },
+  {
+   "name": "Vampire Survivors",
+   "pct_change": null,
+   "reviews": 253002
+  },
+  {
+   "name": "Counter-Strike",
+   "pct_change": 0.0,
+   "reviews": 170713
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 68,
+   "alive_rate": 76.4,
+   "free_share": 7.9,
+   "median_playtime_minutes": 553,
+   "median_price_cents": 1999,
+   "noticed": 63,
+   "noticed_rate": 70.8,
+   "recent_measured": 89,
+   "store_total": 6057,
+   "tag": "Turn-Based Tactics",
+   "top": [
+    {
+     "median_minutes": 345,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90959
+    },
+    {
+     "median_minutes": 1352,
+     "name": "XCOM 2",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 80612
+    },
+    {
+     "median_minutes": 248,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65346
+    },
+    {
+     "median_minutes": 2525,
+     "name": "Total War: ROME II - Emperor Edition",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 55065
+    },
+    {
+     "median_minutes": 1327,
+     "name": "Sid Meier's Civilization VII",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 45779
+    }
+   ]
+  },
+  {
+   "alive": 59,
+   "alive_rate": 72.0,
+   "free_share": 3.8,
+   "median_playtime_minutes": 537,
+   "median_price_cents": 1499,
+   "noticed": 53,
+   "noticed_rate": 64.6,
+   "recent_measured": 82,
+   "store_total": 6922,
+   "tag": "Action Roguelike",
+   "top": [
+    {
+     "median_minutes": 1798,
+     "name": "The Binding of Isaac: Rebirth",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 426770
+    },
+    {
+     "median_minutes": 656,
+     "name": "R.E.P.O.",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 351400
+    },
+    {
+     "median_minutes": 1014,
+     "name": "Hades",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 288037
+    },
+    {
+     "median_minutes": 1139,
+     "name": "Vampire Survivors",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 253002
+    },
+    {
+     "median_minutes": 1619,
+     "name": "Hades II",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 115891
+    }
+   ]
+  },
+  {
+   "alive": 55,
+   "alive_rate": 82.1,
+   "free_share": 9.3,
+   "median_playtime_minutes": 358,
+   "median_price_cents": 999,
+   "noticed": 43,
+   "noticed_rate": 64.2,
+   "recent_measured": 67,
+   "store_total": 3523,
+   "tag": "Tower Defense",
+   "top": [
+    {
+     "median_minutes": 2006,
+     "name": "Dota 2",
+     "owners": "200,000,000 .. 500,000,000",
+     "reviews": 2817853
+    },
+    {
+     "median_minutes": 1101,
+     "name": "Bloons TD 6",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 353126
+    },
+    {
+     "median_minutes": 1754,
+     "name": "7 Days to Die",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 275428
+    },
+    {
+     "median_minutes": 169,
+     "name": "Counter-Strike",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 170713
+    },
+    {
+     "median_minutes": 623,
+     "name": "Plants vs. Zombies GOTY Edition",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 145007
+    }
+   ]
+  },
+  {
+   "alive": 24,
+   "alive_rate": 51.1,
+   "free_share": 38.5,
+   "median_playtime_minutes": 399,
+   "median_price_cents": 699,
+   "noticed": 13,
+   "noticed_rate": 27.7,
+   "recent_measured": 47,
+   "store_total": 1907,
+   "tag": "Auto Battler",
+   "top": [
+    {
+     "median_minutes": 1139,
+     "name": "Vampire Survivors",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 253002
+    },
+    {
+     "median_minutes": 345,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90959
+    },
+    {
+     "median_minutes": 2819,
+     "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 70589
+    },
+    {
+     "median_minutes": 248,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65346
+    },
+    {
+     "median_minutes": 358,
+     "name": "Thronefall",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 23370
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "5395920",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5395920/"
+  },
+  {
+   "name": "1752080",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/1752080/"
+  },
+  {
+   "name": "4156500",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4156500/"
+  },
+  {
+   "name": "4150720",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4150720/"
+  },
+  {
+   "name": "4450600",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4450600/"
+  },
+  {
+   "name": "1447650",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/1447650/"
+  },
+  {
+   "name": "5196330",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5196330/"
+  },
+  {
+   "name": "2870790",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2870790/"
+  },
+  {
+   "name": "4416390",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4416390/"
+  },
+  {
+   "name": "4018330",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4018330/"
+  },
+  {
+   "name": "5277000",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5277000/"
+  },
+  {
+   "name": "4954970",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4954970/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-18",
+ "young_and_noticed": []
+}
