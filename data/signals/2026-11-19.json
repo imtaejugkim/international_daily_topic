@@ -1,0 +1,254 @@
+{
+ "compared_against": "2026-11-18",
+ "counted": 113,
+ "date": "2026-11-19",
+ "days_of_history": 3,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "Vampire Survivors",
+   "pct_change": 0.0,
+   "reviews": 253029
+  },
+  {
+   "name": "Risk of Rain 2",
+   "pct_change": null,
+   "reviews": 243001
+  },
+  {
+   "name": "Cuphead",
+   "pct_change": null,
+   "reviews": 201391
+  },
+  {
+   "name": "Slay the Spire",
+   "pct_change": null,
+   "reviews": 193531
+  },
+  {
+   "name": "Balatro",
+   "pct_change": null,
+   "reviews": 163275
+  },
+  {
+   "name": "Inscryption",
+   "pct_change": null,
+   "reviews": 136559
+  },
+  {
+   "name": "NieR:Automata",
+   "pct_change": null,
+   "reviews": 116530
+  },
+  {
+   "name": "Brotato",
+   "pct_change": 0.1,
+   "reviews": 114078
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 63,
+   "alive_rate": 80.8,
+   "free_share": 4.3,
+   "median_playtime_minutes": 343,
+   "median_price_cents": 999,
+   "noticed": 46,
+   "noticed_rate": 59.0,
+   "recent_measured": 78,
+   "store_total": 6154,
+   "tag": "Bullet Hell",
+   "top": [
+    {
+     "median_minutes": 1084,
+     "name": "Vampire Survivors",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 253029
+    },
+    {
+     "median_minutes": 1414,
+     "name": "Risk of Rain 2",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 243001
+    },
+    {
+     "median_minutes": 390,
+     "name": "Cuphead",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 201391
+    },
+    {
+     "median_minutes": 755,
+     "name": "NieR:Automata",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 116530
+    },
+    {
+     "median_minutes": 926,
+     "name": "Brotato",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 114078
+    }
+   ]
+  },
+  {
+   "alive": 58,
+   "alive_rate": 71.6,
+   "free_share": 29.8,
+   "median_playtime_minutes": 409,
+   "median_price_cents": 1999,
+   "noticed": 47,
+   "noticed_rate": 58.0,
+   "recent_measured": 81,
+   "store_total": 4667,
+   "tag": "Card Game",
+   "top": [
+    {
+     "median_minutes": 1499,
+     "name": "Slay the Spire",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 193531
+    },
+    {
+     "median_minutes": 1078,
+     "name": "Balatro",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 163275
+    },
+    {
+     "median_minutes": 660,
+     "name": "Inscryption",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 136559
+    },
+    {
+     "median_minutes": 337,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90965
+    },
+    {
+     "median_minutes": 228,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65346
+    }
+   ]
+  },
+  {
+   "alive": 45,
+   "alive_rate": 75.0,
+   "free_share": 29.4,
+   "median_playtime_minutes": 621,
+   "median_price_cents": 1999,
+   "noticed": 34,
+   "noticed_rate": 56.7,
+   "recent_measured": 60,
+   "store_total": 3312,
+   "tag": "Deckbuilding",
+   "top": [
+    {
+     "median_minutes": 1499,
+     "name": "Slay the Spire",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 193531
+    },
+    {
+     "median_minutes": 1078,
+     "name": "Balatro",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 163275
+    },
+    {
+     "median_minutes": 660,
+     "name": "Inscryption",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 136559
+    },
+    {
+     "median_minutes": 337,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90965
+    },
+    {
+     "median_minutes": 228,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65346
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "3333850",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3333850/"
+  },
+  {
+   "name": "2608610",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2608610/"
+  },
+  {
+   "name": "4954970",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4954970/"
+  },
+  {
+   "name": "371640",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/371640/"
+  },
+  {
+   "name": "5189950",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5189950/"
+  },
+  {
+   "name": "4178540",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4178540/"
+  },
+  {
+   "name": "4102120",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4102120/"
+  },
+  {
+   "name": "2870790",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2870790/"
+  },
+  {
+   "name": "4877420",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4877420/"
+  },
+  {
+   "name": "4986050",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4986050/"
+  },
+  {
+   "name": "4928450",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4928450/"
+  },
+  {
+   "name": "4834810",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4834810/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-19",
+ "young_and_noticed": []
+}
