@@ -1,0 +1,249 @@
+{
+ "compared_against": "2026-11-19",
+ "counted": 96,
+ "date": "2026-11-20",
+ "days_of_history": 4,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "Slay the Spire",
+   "pct_change": 0.0,
+   "reviews": 193557
+  },
+  {
+   "name": "Balatro",
+   "pct_change": 0.0,
+   "reviews": 163310
+  },
+  {
+   "name": "Cookie Clicker",
+   "pct_change": null,
+   "reviews": 89338
+  },
+  {
+   "name": "Clicker Heroes",
+   "pct_change": null,
+   "reviews": 62229
+  },
+  {
+   "name": "AdVenture Capitalist",
+   "pct_change": null,
+   "reviews": 60569
+  },
+  {
+   "name": "WEBFISHING",
+   "pct_change": null,
+   "reviews": 57431
+  },
+  {
+   "name": "WorldBox - God Simulator",
+   "pct_change": null,
+   "reviews": 52251
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 19,
+   "alive_rate": 55.9,
+   "free_share": 9.1,
+   "median_playtime_minutes": 799,
+   "median_price_cents": 1999,
+   "noticed": 11,
+   "noticed_rate": 32.4,
+   "recent_measured": 34,
+   "store_total": 1116,
+   "tag": "Roguelike Deckbuilder",
+   "top": [
+    {
+     "median_minutes": 1493,
+     "name": "Slay the Spire",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 193557
+    },
+    {
+     "median_minutes": 1008,
+     "name": "Balatro",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 163310
+    },
+    {
+     "median_minutes": 338,
+     "name": "ROUNDS",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 36247
+    },
+    {
+     "median_minutes": 834,
+     "name": "Monster Train",
+     "owners": "500,000 .. 1,000,000",
+     "reviews": 20002
+    },
+    {
+     "median_minutes": 629,
+     "name": "Backpack Battles",
+     "owners": "500,000 .. 1,000,000",
+     "reviews": 19153
+    }
+   ]
+  },
+  {
+   "alive": 73,
+   "alive_rate": 56.6,
+   "free_share": 46.3,
+   "median_playtime_minutes": 535,
+   "median_price_cents": 594,
+   "noticed": 41,
+   "noticed_rate": 31.8,
+   "recent_measured": 129,
+   "store_total": 4933,
+   "tag": "Idler",
+   "top": [
+    {
+     "median_minutes": 4680,
+     "name": "Cookie Clicker",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 89338
+    },
+    {
+     "median_minutes": 553,
+     "name": "Clicker Heroes",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 62229
+    },
+    {
+     "median_minutes": 422,
+     "name": "AdVenture Capitalist",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 60569
+    },
+    {
+     "median_minutes": 513,
+     "name": "WEBFISHING",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 57431
+    },
+    {
+     "median_minutes": 769,
+     "name": "WorldBox - God Simulator",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 52251
+    }
+   ]
+  },
+  {
+   "alive": 89,
+   "alive_rate": 56.3,
+   "free_share": 40.4,
+   "median_playtime_minutes": 370,
+   "median_price_cents": 599,
+   "noticed": 47,
+   "noticed_rate": 29.7,
+   "recent_measured": 158,
+   "store_total": 6244,
+   "tag": "Incremental",
+   "top": [
+    {
+     "median_minutes": 4680,
+     "name": "Cookie Clicker",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 89338
+    },
+    {
+     "median_minutes": 553,
+     "name": "Clicker Heroes",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 62229
+    },
+    {
+     "median_minutes": 422,
+     "name": "AdVenture Capitalist",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 60569
+    },
+    {
+     "median_minutes": 569,
+     "name": "Shakes and Fidget",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 36874
+    },
+    {
+     "median_minutes": 230,
+     "name": "Legends of IdleOn - Idle MMO",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 30299
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "5117550",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5117550/"
+  },
+  {
+   "name": "3333850",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3333850/"
+  },
+  {
+   "name": "4824220",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4824220/"
+  },
+  {
+   "name": "4972050",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4972050/"
+  },
+  {
+   "name": "5111930",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5111930/"
+  },
+  {
+   "name": "5472200",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5472200/"
+  },
+  {
+   "name": "4933500",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4933500/"
+  },
+  {
+   "name": "4776500",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4776500/"
+  },
+  {
+   "name": "4653750",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4653750/"
+  },
+  {
+   "name": "4762560",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4762560/"
+  },
+  {
+   "name": "4635290",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4635290/"
+  },
+  {
+   "name": "5249670",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5249670/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-20",
+ "young_and_noticed": []
+}
