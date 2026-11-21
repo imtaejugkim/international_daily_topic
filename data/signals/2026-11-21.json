@@ -1,0 +1,80 @@
+{
+ "compared_against": "2026-11-20",
+ "counted": 0,
+ "date": "2026-11-21",
+ "days_of_history": 5,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [],
+ "surging": [],
+ "tag_health": [],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "4990940",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4990940/"
+  },
+  {
+   "name": "4013270",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4013270/"
+  },
+  {
+   "name": "4635290",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4635290/"
+  },
+  {
+   "name": "4264000",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4264000/"
+  },
+  {
+   "name": "5189950",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5189950/"
+  },
+  {
+   "name": "2272360",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2272360/"
+  },
+  {
+   "name": "5427110",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5427110/"
+  },
+  {
+   "name": "4370210",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4370210/"
+  },
+  {
+   "name": "4738100",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4738100/"
+  },
+  {
+   "name": "2870790",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2870790/"
+  },
+  {
+   "name": "4933500",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4933500/"
+  },
+  {
+   "name": "4009490",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4009490/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-21",
+ "young_and_noticed": []
+}
