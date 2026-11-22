@@ -1,0 +1,319 @@
+{
+ "compared_against": "2026-11-21",
+ "counted": 242,
+ "date": "2026-11-22",
+ "days_of_history": 6,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "The Binding of Isaac: Rebirth",
+   "pct_change": null,
+   "reviews": 427870
+  },
+  {
+   "name": "Palworld",
+   "pct_change": null,
+   "reviews": 418515
+  },
+  {
+   "name": "Deep Rock Galactic",
+   "pct_change": null,
+   "reviews": 304752
+  },
+  {
+   "name": "Hades",
+   "pct_change": null,
+   "reviews": 288138
+  },
+  {
+   "name": "Vampire Survivors",
+   "pct_change": null,
+   "reviews": 253088
+  },
+  {
+   "name": "Risk of Rain 2",
+   "pct_change": null,
+   "reviews": 243067
+  },
+  {
+   "name": "Satisfactory",
+   "pct_change": null,
+   "reviews": 237876
+  },
+  {
+   "name": "Factorio",
+   "pct_change": null,
+   "reviews": 194019
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 101,
+   "alive_rate": 84.9,
+   "free_share": 10.6,
+   "median_playtime_minutes": 453,
+   "median_price_cents": 1999,
+   "noticed": 85,
+   "noticed_rate": 71.4,
+   "recent_measured": 119,
+   "store_total": 6092,
+   "tag": "Turn-Based Tactics",
+   "top": [
+    {
+     "median_minutes": 2279,
+     "name": "Divinity: Original Sin 2 - Definitive Edition",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 182170
+    },
+    {
+     "median_minutes": 379,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90966
+    },
+    {
+     "median_minutes": 1164,
+     "name": "XCOM 2",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 80627
+    },
+    {
+     "median_minutes": 165,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65351
+    },
+    {
+     "median_minutes": 1914,
+     "name": "Total War: ROME II - Emperor Edition",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 55090
+    }
+   ]
+  },
+  {
+   "alive": 102,
+   "alive_rate": 78.5,
+   "free_share": 3.6,
+   "median_playtime_minutes": 454,
+   "median_price_cents": 1499,
+   "noticed": 84,
+   "noticed_rate": 64.6,
+   "recent_measured": 130,
+   "store_total": 6963,
+   "tag": "Action Roguelike",
+   "top": [
+    {
+     "median_minutes": 2836,
+     "name": "The Binding of Isaac: Rebirth",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 427870
+    },
+    {
+     "median_minutes": 879,
+     "name": "Deep Rock Galactic",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 304752
+    },
+    {
+     "median_minutes": 1176,
+     "name": "Hades",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 288138
+    },
+    {
+     "median_minutes": 1130,
+     "name": "Vampire Survivors",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 253088
+    },
+    {
+     "median_minutes": 1207,
+     "name": "Risk of Rain 2",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 243067
+    }
+   ]
+  },
+  {
+   "alive": 56,
+   "alive_rate": 68.3,
+   "free_share": 5.1,
+   "median_playtime_minutes": 630,
+   "median_price_cents": 1999,
+   "noticed": 39,
+   "noticed_rate": 47.6,
+   "recent_measured": 82,
+   "store_total": 2602,
+   "tag": "Automation",
+   "top": [
+    {
+     "median_minutes": 2438,
+     "name": "Palworld",
+     "owners": "50,000,000 .. 100,000,000",
+     "reviews": 418515
+    },
+    {
+     "median_minutes": 2830,
+     "name": "Satisfactory",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 237876
+    },
+    {
+     "median_minutes": 3002,
+     "name": "Factorio",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 194019
+    },
+    {
+     "median_minutes": 1069,
+     "name": "ASTRONEER",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 119381
+    },
+    {
+     "median_minutes": 379,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90966
+    }
+   ]
+  },
+  {
+   "alive": 35,
+   "alive_rate": 71.4,
+   "free_share": 13.6,
+   "median_playtime_minutes": 380,
+   "median_price_cents": 987,
+   "noticed": 22,
+   "noticed_rate": 44.9,
+   "recent_measured": 49,
+   "store_total": 1927,
+   "tag": "Auto Battler",
+   "top": [
+    {
+     "median_minutes": 1130,
+     "name": "Vampire Survivors",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 253088
+    },
+    {
+     "median_minutes": 379,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90966
+    },
+    {
+     "median_minutes": 3200,
+     "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 70612
+    },
+    {
+     "median_minutes": 165,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65351
+    },
+    {
+     "median_minutes": 284,
+     "name": "Thronefall",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 23418
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "4156500",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4156500/"
+  },
+  {
+   "name": "4253570",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4253570/"
+  },
+  {
+   "name": "4534960",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4534960/"
+  },
+  {
+   "name": "5057800",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5057800/"
+  },
+  {
+   "name": "4776500",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4776500/"
+  },
+  {
+   "name": "4954970",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4954970/"
+  },
+  {
+   "name": "3109590",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3109590/"
+  },
+  {
+   "name": "4255780",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4255780/"
+  },
+  {
+   "name": "5513420",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5513420/"
+  },
+  {
+   "name": "3509380",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3509380/"
+  },
+  {
+   "name": "4504970",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4504970/"
+  },
+  {
+   "name": "4370210",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4370210/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-22",
+ "young_and_noticed": [
+  {
+   "appid": "4459590",
+   "days_since_release": 10,
+   "genres": [
+    "인디",
+    "전략"
+   ],
+   "is_free": false,
+   "is_new_release": false,
+   "median_minutes": 738,
+   "name": "Slotbound",
+   "owners": "100,000 .. 200,000",
+   "pct_change": null,
+   "players": 20594,
+   "positive_rate": 78.6,
+   "price": "₩ 10,800",
+   "reviews": 1658,
+   "reviews_gained": null,
+   "store_url": "https://store.steampowered.com/app/4459590/"
+  }
+ ]
+}
