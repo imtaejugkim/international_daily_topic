@@ -1,0 +1,3896 @@
+{
+ "collected_at": "2026-11-23T14:58:16+09:00",
+ "date": "2026-11-23",
+ "featured": {
+  "coming_soon": [
+   {
+    "appid": "5528200",
+    "name": "IcerKid"
+   },
+   {
+    "appid": "5543980",
+    "name": "Token Club: AI Desktop Pet"
+   },
+   {
+    "appid": "5548320",
+    "name": "Party Home: Tidy Up Together"
+   },
+   {
+    "appid": "5561120",
+    "name": "한 줄 한 목숨 Single File"
+   },
+   {
+    "appid": "5475700",
+    "name": "공기: 쉬는 시간"
+   },
+   {
+    "appid": "4463480",
+    "name": "ArcaneBound"
+   },
+   {
+    "appid": "5026590",
+    "name": "Goblin Island"
+   },
+   {
+    "appid": "5425700",
+    "name": "Bouture"
+   },
+   {
+    "appid": "4940860",
+    "name": "Dice"
+   },
+   {
+    "appid": "4790660",
+    "name": "Moose Builders"
+   }
+  ],
+  "new_releases": [
+   {
+    "appid": "4026430",
+    "name": "Pop Corner"
+   },
+   {
+    "appid": "5308970",
+    "name": "Lot Lot Lot Lot"
+   },
+   {
+    "appid": "5514250",
+    "name": "DeepBreaker"
+   },
+   {
+    "appid": "5390670",
+    "name": "Deeper..."
+   },
+   {
+    "appid": "4937320",
+    "name": "KAREI - ENDLESS DEATH MATCH"
+   },
+   {
+    "appid": "5519340",
+    "name": "Jumping Cow"
+   },
+   {
+    "appid": "5388370",
+    "name": "Femme Fury(Pure Classic Simple Action Game)"
+   },
+   {
+    "appid": "5014420",
+    "name": "にゃんこサバイバー"
+   },
+   {
+    "appid": "5546670",
+    "name": "쌓고 번영하라"
+   },
+   {
+    "appid": "4885580",
+    "name": "Heya! Sumo Manager"
+   },
+   {
+    "appid": "5507320",
+    "name": "Ancient Moves: Hnefatafl (Viking Chess)"
+   },
+   {
+    "appid": "4920640",
+    "name": "プレア・チェスト"
+   },
+   {
+    "appid": "4538150",
+    "name": "After Hue"
+   },
+   {
+    "appid": "5498600",
+    "name": "2 birds 1 stone"
+   },
+   {
+    "appid": "5426410",
+    "name": "Ranch Attack: Farmer on the Run"
+   },
+   {
+    "appid": "5328980",
+    "name": "Cosmos Knights - Abyss Survivors"
+   },
+   {
+    "appid": "4845700",
+    "name": "Football Commissioner"
+   },
+   {
+    "appid": "1419970",
+    "name": "ZULMARASH: Echoes of Zaltar"
+   },
+   {
+    "appid": "3953900",
+    "name": "Egg Souls"
+   },
+   {
+    "appid": "5537490",
+    "name": "Darts Player Simulator"
+   },
+   {
+    "appid": "5492690",
+    "name": "Night Wash: GE-418-NK"
+   },
+   {
+    "appid": "5394410",
+    "name": "Titheborn"
+   },
+   {
+    "appid": "5337610",
+    "name": "Map the World"
+   },
+   {
+    "appid": "4845070",
+    "name": "Ravenhill: Initiation"
+   },
+   {
+    "appid": "5557520",
+    "name": "Midnight Shift 2: Last Rental"
+   },
+   {
+    "appid": "4761730",
+    "name": "Nano Reef"
+   },
+   {
+    "appid": "5220580",
+    "name": "Pixireels"
+   },
+   {
+    "appid": "5521500",
+    "name": "Colección de Juegos de Mesa : Clasicos en familia"
+   },
+   {
+    "appid": "5353330",
+    "name": "Cairn & Carat"
+   },
+   {
+    "appid": "5158540",
+    "name": "Keep The Ammo Flowing"
+   }
+  ],
+  "specials": [
+   {
+    "appid": "2215430",
+    "name": "Ghost of Tsushima 디렉터스 컷"
+   },
+   {
+    "appid": "1426210",
+    "name": "It Takes Two"
+   },
+   {
+    "appid": "3321460",
+    "name": "붉은사막 Enhanced"
+   },
+   {
+    "appid": "1817070",
+    "name": "Marvel’s Spider-Man Remastered"
+   },
+   {
+    "appid": "2483190",
+    "name": "Forza Horizon 6"
+   },
+   {
+    "appid": "2651280",
+    "name": "마블 스파이더맨 2"
+   },
+   {
+    "appid": "2909400",
+    "name": "FINAL FANTASY VII REBIRTH"
+   },
+   {
+    "appid": "4459590",
+    "name": "슬롯바운드 - Slotbound"
+   },
+   {
+    "appid": "1462040",
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE"
+   },
+   {
+    "appid": "1144200",
+    "name": "Ready or Not"
+   }
+  ],
+  "top_sellers": [
+   {
+    "appid": "4435490",
+    "name": "Call of Duty®: Modern Warfare® 4"
+   },
+   {
+    "appid": "3321460",
+    "name": "붉은사막 Enhanced"
+   },
+   {
+    "appid": "4530370",
+    "name": "Football Manager 27"
+   },
+   {
+    "appid": "4459590",
+    "name": "슬롯바운드 - Slotbound"
+   },
+   {
+    "appid": "4080220",
+    "name": "EA SPORTS FC™ 27"
+   },
+   {
+    "appid": "2215430",
+    "name": "Ghost of Tsushima 디렉터스 컷"
+   },
+   {
+    "appid": "2651280",
+    "name": "마블 스파이더맨 2"
+   },
+   {
+    "appid": "4885910",
+    "name": "멋진 남자 육성법"
+   },
+   {
+    "appid": "2868840",
+    "name": "Slay the Spire 2"
+   },
+   {
+    "appid": "2483190",
+    "name": "Forza Horizon 6"
+   }
+  ]
+ },
+ "new_release_ids": [
+  "5424590",
+  "4026430",
+  "5308970",
+  "5519000",
+  "5514250",
+  "5390670",
+  "5384360",
+  "5325990",
+  "4937320",
+  "5519340",
+  "5388370",
+  "5014420",
+  "5508320",
+  "5546670",
+  "4885580",
+  "5507320",
+  "4920640",
+  "4538150",
+  "5498600",
+  "5426410",
+  "5555440",
+  "5328980",
+  "4845700",
+  "1419970",
+  "3953900",
+  "5537490",
+  "5088420",
+  "5482330",
+  "5492690",
+  "5394410",
+  "5337610",
+  "4845070",
+  "5557520",
+  "4761730",
+  "5177510",
+  "5220580",
+  "5521500",
+  "5353330",
+  "4816560",
+  "5391450",
+  "5158540",
+  "4777080",
+  "5001650",
+  "5179700",
+  "5469940",
+  "4993370",
+  "5511850",
+  "4298260",
+  "5194780",
+  "5277480",
+  "5503670",
+  "5542420",
+  "5348720",
+  "5542640",
+  "5499750",
+  "5081270",
+  "4659360",
+  "5550020",
+  "4859890",
+  "5544230",
+  "2542400",
+  "4924650",
+  "5052060",
+  "5191120",
+  "5518650",
+  "5377120",
+  "5457890",
+  "5208650",
+  "5043620",
+  "5093110",
+  "5458370",
+  "3776750",
+  "5379430",
+  "5283120",
+  "5010870",
+  "5029710",
+  "5248030",
+  "3360160",
+  "2890810",
+  "5111020",
+  "5506620",
+  "5043790",
+  "4947000",
+  "5386950",
+  "5463810",
+  "5358460",
+  "5049210",
+  "5305100",
+  "5534460",
+  "3955780",
+  "5551910",
+  "3990350",
+  "5371390",
+  "5529590",
+  "5442160",
+  "5374580",
+  "5550890",
+  "4682120",
+  "4288310",
+  "5536720"
+ ],
+ "players": {
+  "105600": 18020,
+  "1085660": 16764,
+  "108600": 25346,
+  "1086940": 23552,
+  "1091500": 51827,
+  "1142710": 15661,
+  "1144200": 4208,
+  "1158310": 16235,
+  "1172470": 82898,
+  "1174180": 29917,
+  "1203220": 18473,
+  "1203620": 16164,
+  "12210": 5057,
+  "1222670": 18594,
+  "1238840": 4961,
+  "1245620": 15973,
+  "1281930": 13007,
+  "1329410": 8231,
+  "1364780": 13696,
+  "1366800": 26489,
+  "1419970": 0,
+  "1426210": 8566,
+  "1449850": 11128,
+  "1462040": 4488,
+  "1551360": 5104,
+  "1623730": 20377,
+  "1665460": 8932,
+  "1771300": 11430,
+  "1808500": 23340,
+  "1817070": 3208,
+  "1867240": 35151,
+  "1905180": 15955,
+  "1938090": 68089,
+  "1942280": 9473,
+  "1973530": 33851,
+  "2073620": 10263,
+  "2073850": 8879,
+  "221100": 16678,
+  "2215430": 3905,
+  "2246340": 11948,
+  "227300": 14508,
+  "2300320": 9487,
+  "230410": 51312,
+  "2357570": 36371,
+  "236390": 30518,
+  "238960": 33185,
+  "2406770": 5392,
+  "244210": 4254,
+  "2483190": 7879,
+  "2507950": 37547,
+  "250900": 22379,
+  "251570": 14938,
+  "252490": 45037,
+  "252950": 10641,
+  "2542400": 1,
+  "261550": 14828,
+  "2651280": 1879,
+  "271590": 32616,
+  "2767030": 41267,
+  "2807960": 15940,
+  "284160": 9979,
+  "2868840": 83543,
+  "289070": 20663,
+  "2890810": 0,
+  "2909400": 3006,
+  "291550": 6925,
+  "292030": 11867,
+  "294100": 21289,
+  "322170": 23779,
+  "322330": 19625,
+  "3240220": 56970,
+  "3241660": 15009,
+  "3321460": 15698,
+  "3360160": 0,
+  "3393110": 87407,
+  "3405690": 8970,
+  "3419430": 144338,
+  "3513350": 6650,
+  "3527290": 8764,
+  "359550": 38421,
+  "3678970": 55269,
+  "3776750": 0,
+  "381210": 28779,
+  "394360": 20777,
+  "3953900": 0,
+  "4000": 14387,
+  "4026430": 0,
+  "4080220": 16326,
+  "4115450": 61536,
+  "4126040": 15021,
+  "413150": 38138,
+  "4162040": 5612,
+  "4262460": 188621,
+  "4298260": 0,
+  "431960": 67480,
+  "4348910": 45861,
+  "438100": 50091,
+  "440": 86796,
+  "4435490": 0,
+  "4459590": 15996,
+  "4530370": 20494,
+  "4538150": 0,
+  "4659360": 0,
+  "4761730": 4,
+  "4777080": 0,
+  "4816560": 0,
+  "4845070": 0,
+  "4845700": 1,
+  "4859890": 0,
+  "4885580": 13,
+  "4885910": 36,
+  "489830": 21484,
+  "4920640": 4,
+  "4924650": 0,
+  "4937320": 0,
+  "4993370": 0,
+  "5001650": 0,
+  "5010870": 29,
+  "5014420": 0,
+  "5029710": 0,
+  "5043620": 1,
+  "5043790": 1,
+  "5052060": 0,
+  "5081270": 0,
+  "5088420": 0,
+  "5093110": 0,
+  "5111020": 0,
+  "5158540": 2,
+  "5175310": 3319,
+  "5177510": 0,
+  "5179700": 3,
+  "5191120": 5,
+  "5194780": 0,
+  "5208650": 0,
+  "5220580": 0,
+  "5248030": 11,
+  "5277480": 0,
+  "5283120": 0,
+  "5308970": 2,
+  "5325990": 0,
+  "5328980": 0,
+  "5335510": 12432,
+  "5337610": 0,
+  "5348720": 0,
+  "5353330": 0,
+  "5377120": 0,
+  "5379430": 0,
+  "5384360": 0,
+  "5388370": 0,
+  "5390670": 4,
+  "5391450": 0,
+  "5394410": 1,
+  "5424590": 2,
+  "5426410": 0,
+  "5457890": 0,
+  "5458370": 0,
+  "5469940": 0,
+  "5482330": 2,
+  "5492690": 1,
+  "5498600": 3,
+  "5499750": 0,
+  "550": 19258,
+  "5503670": 2,
+  "5506620": 0,
+  "5507320": 0,
+  "5508320": 0,
+  "5511850": 2,
+  "5514250": 1,
+  "5518650": 0,
+  "5519000": 0,
+  "5519340": 0,
+  "5521500": 0,
+  "5537490": 9,
+  "553850": 16922,
+  "5542420": 2,
+  "5542640": 0,
+  "5544230": 0,
+  "5546670": 0,
+  "5550020": 0,
+  "5555440": 0,
+  "5557520": 1,
+  "570": 423979,
+  "578080": 229946,
+  "594650": 6918,
+  "714010": 3384,
+  "730": 432042,
+  "739630": 5277,
+  "813780": 11633,
+  "892970": 20491
+ },
+ "reviews": {
+  "1046930": {
+   "average_minutes": 2165,
+   "ccu": 1059,
+   "median_minutes": 417,
+   "name": "Dota Underlords",
+   "owners": "10,000,000 .. 20,000,000",
+   "positive": 74800,
+   "price_cents": "0",
+   "reviews": 90967
+  },
+  "1092790": {
+   "average_minutes": 1024,
+   "ccu": 1415,
+   "median_minutes": 680,
+   "name": "Inscryption",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 132314,
+   "price_cents": "1999",
+   "reviews": 136669
+  },
+  "1102190": {
+   "average_minutes": 1793,
+   "ccu": 163,
+   "median_minutes": 849,
+   "name": "Monster Train",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 19195,
+   "price_cents": "2499",
+   "reviews": 20004
+  },
+  "1113560": {
+   "average_minutes": 1889,
+   "ccu": 374,
+   "median_minutes": 1148,
+   "name": "NieR Replicant ver.1.22474487139...",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 19190,
+   "price_cents": "2399",
+   "reviews": 21790
+  },
+  "113200": {
+   "average_minutes": 1389,
+   "ccu": 244,
+   "median_minutes": 376,
+   "name": "The Binding of Isaac",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 46659,
+   "price_cents": "249",
+   "reviews": 49397
+  },
+  "1145350": {
+   "average_minutes": 2694,
+   "ccu": 3536,
+   "median_minutes": 1635,
+   "name": "Hades II",
+   "owners": "5,000,000 .. 10,000,000",
+   "positive": 110986,
+   "price_cents": "2999",
+   "reviews": 115996
+  },
+  "1145360": {
+   "average_minutes": 2121,
+   "ccu": 3759,
+   "median_minutes": 1230,
+   "name": "Hades",
+   "owners": "5,000,000 .. 10,000,000",
+   "positive": 282346,
+   "price_cents": "2499",
+   "reviews": 288165
+  },
+  "1171690": {
+   "average_minutes": 2065,
+   "ccu": 63,
+   "median_minutes": 541,
+   "name": "Wayfinder",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 15185,
+   "price_cents": "2499",
+   "reviews": 25184
+  },
+  "1184370": {
+   "average_minutes": 4555,
+   "ccu": 3691,
+   "median_minutes": 1639,
+   "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 28882,
+   "price_cents": "1999",
+   "reviews": 34807
+  },
+  "1188930": {
+   "average_minutes": 962,
+   "ccu": 104,
+   "median_minutes": 580,
+   "name": "Chrono Ark",
+   "owners": "200,000 .. 500,000",
+   "positive": 11528,
+   "price_cents": "2499",
+   "reviews": 12722
+  },
+  "1189490": {
+   "average_minutes": 2416,
+   "ccu": 1791,
+   "median_minutes": 811,
+   "name": "觅长生",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 25413,
+   "price_cents": "1499",
+   "reviews": 27281
+  },
+  "1217060": {
+   "average_minutes": 3035,
+   "ccu": 1265,
+   "median_minutes": 1523,
+   "name": "Gunfire Reborn",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 82580,
+   "price_cents": "1999",
+   "reviews": 88708
+  },
+  "1229380": {
+   "average_minutes": 450,
+   "ccu": 3,
+   "median_minutes": 314,
+   "name": "Everhood",
+   "owners": "200,000 .. 500,000",
+   "positive": 10963,
+   "price_cents": "999",
+   "reviews": 11473
+  },
+  "1256670": {
+   "average_minutes": 3126,
+   "ccu": 3565,
+   "median_minutes": 851,
+   "name": "Library Of Ruina",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 39701,
+   "price_cents": "2999",
+   "reviews": 41935
+  },
+  "1282730": {
+   "average_minutes": 1530,
+   "ccu": 197,
+   "median_minutes": 838,
+   "name": "Loop Hero",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 31464,
+   "price_cents": "1499",
+   "reviews": 33946
+  },
+  "1284210": {
+   "average_minutes": 2059,
+   "ccu": 4651,
+   "median_minutes": 208,
+   "name": "Guild Wars 2",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 26841,
+   "price_cents": "0",
+   "reviews": 30412
+  },
+  "1284410": {
+   "average_minutes": 1161,
+   "ccu": 720,
+   "median_minutes": 155,
+   "name": "GWENT: The Witcher Card Game",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 23944,
+   "price_cents": "0",
+   "reviews": 27932
+  },
+  "1296610": {
+   "average_minutes": 1660,
+   "ccu": 226,
+   "median_minutes": 713,
+   "name": "Peglin",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 13968,
+   "price_cents": "1999",
+   "reviews": 16767
+  },
+  "1296830": {
+   "average_minutes": 1973,
+   "ccu": 853,
+   "median_minutes": 1280,
+   "name": "暖雪 Warm Snow",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 32885,
+   "price_cents": "1799",
+   "reviews": 35402
+  },
+  "1313140": {
+   "average_minutes": 1110,
+   "ccu": 2708,
+   "median_minutes": 688,
+   "name": "Cult of the Lamb",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 108959,
+   "price_cents": "2499",
+   "reviews": 113736
+  },
+  "1336490": {
+   "average_minutes": 1544,
+   "ccu": 1841,
+   "median_minutes": 254,
+   "name": "Against the Storm",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 31942,
+   "price_cents": "599",
+   "reviews": 33730
+  },
+  "1533420": {
+   "average_minutes": 862,
+   "ccu": 88,
+   "median_minutes": 746,
+   "name": "Neon White",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 17119,
+   "price_cents": "999",
+   "reviews": 17469
+  },
+  "1557740": {
+   "average_minutes": 654,
+   "ccu": 803,
+   "median_minutes": 292,
+   "name": "ROUNDS",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 34623,
+   "price_cents": "299",
+   "reviews": 36271
+  },
+  "1621690": {
+   "average_minutes": 2125,
+   "ccu": 5767,
+   "median_minutes": 905,
+   "name": "Core Keeper",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 47694,
+   "price_cents": "1999",
+   "reviews": 51350
+  },
+  "1637320": {
+   "average_minutes": 712,
+   "ccu": 578,
+   "median_minutes": 319,
+   "name": "Dome Keeper",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 17937,
+   "price_cents": "1799",
+   "reviews": 19397
+  },
+  "1672970": {
+   "average_minutes": 1274,
+   "ccu": 707,
+   "median_minutes": 703,
+   "name": "Minecraft Dungeons",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 17060,
+   "price_cents": "1999",
+   "reviews": 18931
+  },
+  "200210": {
+   "average_minutes": 2519,
+   "ccu": 1019,
+   "median_minutes": 137,
+   "name": "Realm of the Mad God Exalt",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 39651,
+   "price_cents": "0",
+   "reviews": 47876
+  },
+  "200710": {
+   "average_minutes": 1227,
+   "ccu": 562,
+   "median_minutes": 641,
+   "name": "Torchlight II",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 30845,
+   "price_cents": "1999",
+   "reviews": 33408
+  },
+  "219990": {
+   "average_minutes": 4487,
+   "ccu": 5353,
+   "median_minutes": 1111,
+   "name": "Grim Dawn",
+   "owners": "10,000,000 .. 20,000,000",
+   "positive": 87575,
+   "price_cents": "499",
+   "reviews": 93860
+  },
+  "221640": {
+   "average_minutes": 401,
+   "ccu": 22,
+   "median_minutes": 88,
+   "name": "Super Hexagon",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 17954,
+   "price_cents": "299",
+   "reviews": 18463
+  },
+  "238960": {
+   "average_minutes": 11094,
+   "ccu": 83040,
+   "median_minutes": 497,
+   "name": "Path of Exile",
+   "owners": "20,000,000 .. 50,000,000",
+   "positive": 223596,
+   "price_cents": "0",
+   "reviews": 251132
+  },
+  "242680": {
+   "average_minutes": 550,
+   "ccu": 107,
+   "median_minutes": 239,
+   "name": "Nuclear Throne",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 14606,
+   "price_cents": "1199",
+   "reviews": 15140
+  },
+  "247080": {
+   "average_minutes": 680,
+   "ccu": 127,
+   "median_minutes": 242,
+   "name": "Crypt of the NecroDancer",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 22572,
+   "price_cents": "1499",
+   "reviews": 23671
+  },
+  "250900": {
+   "average_minutes": 10870,
+   "ccu": 46661,
+   "median_minutes": 3192,
+   "name": "The Binding of Isaac: Rebirth",
+   "owners": "10,000,000 .. 20,000,000",
+   "positive": 414070,
+   "price_cents": "1199",
+   "reviews": 428391
+  },
+  "262060": {
+   "average_minutes": 2417,
+   "ccu": 4902,
+   "median_minutes": 646,
+   "name": "Darkest Dungeon",
+   "owners": "5,000,000 .. 10,000,000",
+   "positive": 130039,
+   "price_cents": "2499",
+   "reviews": 142082
+  },
+  "268910": {
+   "average_minutes": 926,
+   "ccu": 2522,
+   "median_minutes": 381,
+   "name": "Cuphead",
+   "owners": "5,000,000 .. 10,000,000",
+   "positive": 193999,
+   "price_cents": "1999",
+   "reviews": 201524
+  },
+  "269210": {
+   "average_minutes": 1325,
+   "ccu": 527,
+   "median_minutes": 289,
+   "name": "Hero Siege",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 24887,
+   "price_cents": "799",
+   "reviews": 37020
+  },
+  "2784470": {
+   "average_minutes": 798,
+   "ccu": 4109,
+   "median_minutes": 423,
+   "name": "9 Kings",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 20901,
+   "price_cents": "999",
+   "reviews": 22671
+  },
+  "282800": {
+   "average_minutes": 1239,
+   "ccu": 144,
+   "median_minutes": 217,
+   "name": "100% Orange Juice",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 13819,
+   "price_cents": "699",
+   "reviews": 14827
+  },
+  "286160": {
+   "average_minutes": 2042,
+   "ccu": 9082,
+   "median_minutes": 474,
+   "name": "Tabletop Simulator",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 45390,
+   "price_cents": "1999",
+   "reviews": 47323
+  },
+  "2881650": {
+   "average_minutes": 310,
+   "ccu": 1097,
+   "median_minutes": 184,
+   "name": "Content Warning",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 68270,
+   "price_cents": "495",
+   "reviews": 73443
+  },
+  "304050": {
+   "average_minutes": 2437,
+   "ccu": 498,
+   "median_minutes": 181,
+   "name": "Trove",
+   "owners": "10,000,000 .. 20,000,000",
+   "positive": 74048,
+   "price_cents": "0",
+   "reviews": 92819
+  },
+  "3070070": {
+   "average_minutes": 1412,
+   "ccu": 3073,
+   "median_minutes": 911,
+   "name": "TCG Card Shop Simulator",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 46914,
+   "price_cents": "1999",
+   "reviews": 48730
+  },
+  "311690": {
+   "average_minutes": 1818,
+   "ccu": 851,
+   "median_minutes": 335,
+   "name": "Enter the Gungeon",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 75887,
+   "price_cents": "1499",
+   "reviews": 79750
+  },
+  "3117820": {
+   "average_minutes": 1706,
+   "ccu": 1669,
+   "median_minutes": 868,
+   "name": "Sultan's Game",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 23816,
+   "price_cents": "2499",
+   "reviews": 25409
+  },
+  "322500": {
+   "average_minutes": 309,
+   "ccu": 68,
+   "median_minutes": 184,
+   "name": "SUPERHOT",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 25696,
+   "price_cents": "2499",
+   "reviews": 27922
+  },
+  "330020": {
+   "average_minutes": 493,
+   "ccu": 187,
+   "median_minutes": 260,
+   "name": "Children of Morta",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 16513,
+   "price_cents": "2199",
+   "reviews": 18621
+  },
+  "362490": {
+   "average_minutes": 2014,
+   "ccu": 88,
+   "median_minutes": 689,
+   "name": "Exanima",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 10308,
+   "price_cents": "1499",
+   "reviews": 12825
+  },
+  "368260": {
+   "average_minutes": 2452,
+   "ccu": 368,
+   "median_minutes": 485,
+   "name": "Marvel's Midnight Suns",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 14234,
+   "price_cents": "5999",
+   "reviews": 17313
+  },
+  "371970": {
+   "average_minutes": 872,
+   "ccu": 738,
+   "median_minutes": 338,
+   "name": "Barony",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 11925,
+   "price_cents": "1999",
+   "reviews": 13087
+  },
+  "374040": {
+   "average_minutes": 1417,
+   "ccu": 220,
+   "median_minutes": 534,
+   "name": "Portal Knights",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 14205,
+   "price_cents": "299",
+   "reviews": 16943
+  },
+  "391540": {
+   "average_minutes": 606,
+   "ccu": 1727,
+   "median_minutes": 269,
+   "name": "Undertale",
+   "owners": "5,000,000 .. 10,000,000",
+   "positive": 303643,
+   "price_cents": "999",
+   "reviews": 314313
+  },
+  "400910": {
+   "average_minutes": 1193,
+   "ccu": 18,
+   "median_minutes": 1103,
+   "name": "Rabi-Ribi",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 10260,
+   "price_cents": "1799",
+   "reviews": 10779
+  },
+  "423230": {
+   "average_minutes": 440,
+   "ccu": 20,
+   "median_minutes": 263,
+   "name": "Furi",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 10223,
+   "price_cents": "1999",
+   "reviews": 11315
+  },
+  "424370": {
+   "average_minutes": 2153,
+   "ccu": 68,
+   "median_minutes": 1499,
+   "name": "Wolcen: Lords of Mayhem",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 34544,
+   "price_cents": "1999",
+   "reviews": 61888
+  },
+  "434650": {
+   "average_minutes": 1076,
+   "ccu": 33,
+   "median_minutes": 534,
+   "name": "Lost Castle / 失落城堡",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 16074,
+   "price_cents": "999",
+   "reviews": 18487
+  },
+  "4385930": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Satarichi: Heroes De Caelum",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "1399",
+   "reviews": 0
+  },
+  "445980": {
+   "average_minutes": 918,
+   "ccu": 68,
+   "median_minutes": 253,
+   "name": "Wizard of Legend",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 15833,
+   "price_cents": "1599",
+   "reviews": 17365
+  },
+  "4559960": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Subsomnia",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "699",
+   "reviews": 1
+  },
+  "4646190": {
+   "average_minutes": 306,
+   "ccu": 51,
+   "median_minutes": 306,
+   "name": "Just Dying",
+   "owners": "0 .. 20,000",
+   "positive": 55,
+   "price_cents": "899",
+   "reviews": 64
+  },
+  "4657020": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Turnflower",
+   "owners": "0 .. 20,000",
+   "positive": 12,
+   "price_cents": "399",
+   "reviews": 14
+  },
+  "4660470": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Near Mint",
+   "owners": "0 .. 20,000",
+   "positive": 29,
+   "price_cents": "1349",
+   "reviews": 30
+  },
+  "4661070": {
+   "average_minutes": 158,
+   "ccu": 170,
+   "median_minutes": 158,
+   "name": "HANDS OVER",
+   "owners": "0 .. 20,000",
+   "positive": 207,
+   "price_cents": "254",
+   "reviews": 248
+  },
+  "4669130": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Wizard’s Path: Palette of Spells",
+   "owners": "0 .. 20,000",
+   "positive": 7,
+   "price_cents": "299",
+   "reviews": 7
+  },
+  "4683860": {
+   "average_minutes": 329,
+   "ccu": 32,
+   "median_minutes": 329,
+   "name": "Calmaria: Wild Growth",
+   "owners": "0 .. 20,000",
+   "positive": 27,
+   "price_cents": "1199",
+   "reviews": 29
+  },
+  "4696920": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Bumper & Thumper",
+   "owners": "0 .. 20,000",
+   "positive": 10,
+   "price_cents": "499",
+   "reviews": 10
+  },
+  "470220": {
+   "average_minutes": 368,
+   "ccu": 258,
+   "median_minutes": 221,
+   "name": "UNO",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 29474,
+   "price_cents": "999",
+   "reviews": 42180
+  },
+  "4709490": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Minatro",
+   "owners": "0 .. 20,000",
+   "positive": 4,
+   "price_cents": "350",
+   "reviews": 4
+  },
+  "4710800": {
+   "average_minutes": 0,
+   "ccu": 22,
+   "median_minutes": 0,
+   "name": "Endless Void: Idle Tower Defence",
+   "owners": "0 .. 20,000",
+   "positive": 8,
+   "price_cents": "499",
+   "reviews": 10
+  },
+  "4715950": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Pucked Up",
+   "owners": "0 .. 20,000",
+   "positive": 6,
+   "price_cents": "799",
+   "reviews": 7
+  },
+  "4716880": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Balingo",
+   "owners": "0 .. 20,000",
+   "positive": 14,
+   "price_cents": "999",
+   "reviews": 14
+  },
+  "4739500": {
+   "average_minutes": 0,
+   "ccu": 118,
+   "median_minutes": 0,
+   "name": "JOHN GLEEP",
+   "owners": "20,000 .. 50,000",
+   "positive": 694,
+   "price_cents": "959",
+   "reviews": 702
+  },
+  "4747260": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Unrivaled",
+   "owners": "0 .. 20,000",
+   "positive": 6,
+   "price_cents": "499",
+   "reviews": 6
+  },
+  "475150": {
+   "average_minutes": 1024,
+   "ccu": 945,
+   "median_minutes": 215,
+   "name": "Titan Quest Anniversary Edition",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 23667,
+   "price_cents": "1999",
+   "reviews": 26001
+  },
+  "4754460": {
+   "average_minutes": 0,
+   "ccu": 2,
+   "median_minutes": 0,
+   "name": "Crystalyn",
+   "owners": "0 .. 20,000",
+   "positive": 26,
+   "price_cents": "799",
+   "reviews": 29
+  },
+  "4768630": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "LARVIS",
+   "owners": "0 .. 20,000",
+   "positive": 3,
+   "price_cents": "799",
+   "reviews": 3
+  },
+  "4769780": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Night Cart: The Immortal Plague",
+   "owners": "0 .. 20,000",
+   "positive": 17,
+   "price_cents": "999",
+   "reviews": 17
+  },
+  "4774030": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Conquer the Labyrinth",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "1999",
+   "reviews": 0
+  },
+  "4780870": {
+   "average_minutes": 0,
+   "ccu": 417,
+   "median_minutes": 0,
+   "name": "Aleef: Desktop Pet Collector",
+   "owners": "0 .. 20,000",
+   "positive": 63,
+   "price_cents": "629",
+   "reviews": 86
+  },
+  "4793910": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Speed Card Eatery",
+   "owners": "0 .. 20,000",
+   "positive": 5,
+   "price_cents": "539",
+   "reviews": 8
+  },
+  "4798730": {
+   "average_minutes": 0,
+   "ccu": 7,
+   "median_minutes": 0,
+   "name": "Grove of the Seven Stones",
+   "owners": "0 .. 20,000",
+   "positive": 5,
+   "price_cents": "2499",
+   "reviews": 7
+  },
+  "4809000": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "SYSTEM_REBOOT",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "799",
+   "reviews": 1
+  },
+  "4810500": {
+   "average_minutes": 0,
+   "ccu": 2,
+   "median_minutes": 0,
+   "name": "Swarm Harvest",
+   "owners": "0 .. 20,000",
+   "positive": 25,
+   "price_cents": "699",
+   "reviews": 27
+  },
+  "4811700": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Mancalero",
+   "owners": "0 .. 20,000",
+   "positive": 3,
+   "price_cents": "1299",
+   "reviews": 3
+  },
+  "4834760": {
+   "average_minutes": 9,
+   "ccu": 97,
+   "median_minutes": 9,
+   "name": "Pool of Radiance: Ruins of Myth Drannor",
+   "owners": "0 .. 20,000",
+   "positive": 57,
+   "price_cents": "1999",
+   "reviews": 77
+  },
+  "4835780": {
+   "average_minutes": 0,
+   "ccu": 3,
+   "median_minutes": 0,
+   "name": "Endless Hunter",
+   "owners": "0 .. 20,000",
+   "positive": 4,
+   "price_cents": "1999",
+   "reviews": 4
+  },
+  "4836460": {
+   "average_minutes": 0,
+   "ccu": 14,
+   "median_minutes": 0,
+   "name": "Portentum",
+   "owners": "0 .. 20,000",
+   "positive": 54,
+   "price_cents": "0",
+   "reviews": 63
+  },
+  "4838130": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Edge of the Blade",
+   "owners": "0 .. 20,000",
+   "positive": 52,
+   "price_cents": "1699",
+   "reviews": 57
+  },
+  "4841590": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Dungebra",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "339",
+   "reviews": 1
+  },
+  "4842090": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Grab Your Deck",
+   "owners": "0 .. 20,000",
+   "positive": 3,
+   "price_cents": "599",
+   "reviews": 3
+  },
+  "4843460": {
+   "average_minutes": 0,
+   "ccu": 215,
+   "median_minutes": 0,
+   "name": "Aethyr Idle",
+   "owners": "20,000 .. 50,000",
+   "positive": 59,
+   "price_cents": "0",
+   "reviews": 78
+  },
+  "4866860": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Curatio",
+   "owners": "0 .. 20,000",
+   "positive": 3,
+   "price_cents": "449",
+   "reviews": 3
+  },
+  "4878220": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "DashBreaker",
+   "owners": "0 .. 20,000",
+   "positive": 13,
+   "price_cents": "299",
+   "reviews": 13
+  },
+  "4878420": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "GloomDelve",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "479",
+   "reviews": 1
+  },
+  "4880210": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Hammered Heroes",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "844",
+   "reviews": 0
+  },
+  "4881270": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Mahjong Rush",
+   "owners": "0 .. 20,000",
+   "positive": 19,
+   "price_cents": "599",
+   "reviews": 19
+  },
+  "4888150": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Masters of the Universe: Legends Unite",
+   "owners": "0 .. 20,000",
+   "positive": 4,
+   "price_cents": "1999",
+   "reviews": 5
+  },
+  "4889030": {
+   "average_minutes": 0,
+   "ccu": 3,
+   "median_minutes": 0,
+   "name": "Grombo Card Shop Tycoon",
+   "owners": "0 .. 20,000",
+   "positive": 36,
+   "price_cents": "999",
+   "reviews": 36
+  },
+  "4890840": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "IVAN (Iter Vehemens ad Necem)",
+   "owners": "0 .. 20,000",
+   "positive": 8,
+   "price_cents": "0",
+   "reviews": 10
+  },
+  "4894800": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "NeoRunners",
+   "owners": "0 .. 20,000",
+   "positive": 5,
+   "price_cents": "1599",
+   "reviews": 5
+  },
+  "489520": {
+   "average_minutes": 2298,
+   "ccu": 331,
+   "median_minutes": 209,
+   "name": "Minion Masters",
+   "owners": "5,000,000 .. 10,000,000",
+   "positive": 58411,
+   "price_cents": "0",
+   "reviews": 65353
+  },
+  "4898080": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Manala: Equinox War",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "1399",
+   "reviews": 1
+  },
+  "4901160": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Hollow",
+   "owners": "0 .. 20,000",
+   "positive": 5,
+   "price_cents": "1499",
+   "reviews": 10
+  },
+  "4904740": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Chako",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "449",
+   "reviews": 2
+  },
+  "4911350": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Gods of the Grid",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "699",
+   "reviews": 0
+  },
+  "4911780": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "SLYTHE",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "299",
+   "reviews": 1
+  },
+  "4916010": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Shorted",
+   "owners": "0 .. 20,000",
+   "positive": 8,
+   "price_cents": "699",
+   "reviews": 8
+  },
+  "4916560": {
+   "average_minutes": 0,
+   "ccu": 2,
+   "median_minutes": 0,
+   "name": "Mini Mart Survivors",
+   "owners": "0 .. 20,000",
+   "positive": 28,
+   "price_cents": "594",
+   "reviews": 29
+  },
+  "4917630": {
+   "average_minutes": 0,
+   "ccu": 2,
+   "median_minutes": 0,
+   "name": "ERLIK",
+   "owners": "0 .. 20,000",
+   "positive": 34,
+   "price_cents": "599",
+   "reviews": 35
+  },
+  "4919460": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "THE UNREMEMBERED",
+   "owners": "0 .. 20,000",
+   "positive": 2,
+   "price_cents": "599",
+   "reviews": 3
+  },
+  "4919930": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Willy and Charlie: Solitaire",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "299",
+   "reviews": 0
+  },
+  "4919950": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "EpicSelectly",
+   "owners": "0 .. 20,000",
+   "positive": 9,
+   "price_cents": "1099",
+   "reviews": 9
+  },
+  "4922230": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "DEADLINE DINNER",
+   "owners": "0 .. 20,000",
+   "positive": 7,
+   "price_cents": "499",
+   "reviews": 9
+  },
+  "4926310": {
+   "average_minutes": 0,
+   "ccu": 87,
+   "median_minutes": 0,
+   "name": "Berserk Heroes Online",
+   "owners": "20,000 .. 50,000",
+   "positive": 129,
+   "price_cents": "0",
+   "reviews": 231
+  },
+  "4933450": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "CLAWSTROPHOBIA",
+   "owners": "0 .. 20,000",
+   "positive": 12,
+   "price_cents": "999",
+   "reviews": 19
+  },
+  "4933810": {
+   "average_minutes": 0,
+   "ccu": 2,
+   "median_minutes": 0,
+   "name": "Akuro and Bahaku VS Pollution Monsters",
+   "owners": "0 .. 20,000",
+   "positive": 27,
+   "price_cents": "1499",
+   "reviews": 34
+  },
+  "4934590": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Maiden Covenant: The Infernal Citadel",
+   "owners": "0 .. 20,000",
+   "positive": 19,
+   "price_cents": "1199",
+   "reviews": 24
+  },
+  "493900": {
+   "average_minutes": 561,
+   "ccu": 41,
+   "median_minutes": 245,
+   "name": "Dungeons 3",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 11890,
+   "price_cents": "2999",
+   "reviews": 12673
+  },
+  "4944200": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Diamonds and Spades",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "799",
+   "reviews": 1
+  },
+  "4945980": {
+   "average_minutes": 0,
+   "ccu": 3,
+   "median_minutes": 0,
+   "name": "Grimoire of Blanks",
+   "owners": "0 .. 20,000",
+   "positive": 12,
+   "price_cents": "1299",
+   "reviews": 13
+  },
+  "4947930": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Glow up Hero",
+   "owners": "0 .. 20,000",
+   "positive": 15,
+   "price_cents": "999",
+   "reviews": 16
+  },
+  "4950410": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Pit Purge",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "999",
+   "reviews": 1
+  },
+  "4951060": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Graveyard Shift: A Sage's Last Stand",
+   "owners": "0 .. 20,000",
+   "positive": 5,
+   "price_cents": "1499",
+   "reviews": 5
+  },
+  "4952090": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "SOLITAIRE.EXE: A Roguelike on the Night Shift",
+   "owners": "0 .. 20,000",
+   "positive": 3,
+   "price_cents": "1299",
+   "reviews": 3
+  },
+  "4958460": {
+   "average_minutes": 31,
+   "ccu": 0,
+   "median_minutes": 31,
+   "name": "Touhou Bansho Cards",
+   "owners": "0 .. 20,000",
+   "positive": 41,
+   "price_cents": "899",
+   "reviews": 49
+  },
+  "4962610": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Crowd Favorites",
+   "owners": "0 .. 20,000",
+   "positive": 6,
+   "price_cents": "499",
+   "reviews": 7
+  },
+  "4964640": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Infested DX",
+   "owners": "0 .. 20,000",
+   "positive": 17,
+   "price_cents": "999",
+   "reviews": 17
+  },
+  "4967370": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Glyphforge",
+   "owners": "0 .. 20,000",
+   "positive": 2,
+   "price_cents": "0",
+   "reviews": 3
+  },
+  "4967490": {
+   "average_minutes": 0,
+   "ccu": 5,
+   "median_minutes": 0,
+   "name": "Catalyst Core",
+   "owners": "0 .. 20,000",
+   "positive": 24,
+   "price_cents": "639",
+   "reviews": 25
+  },
+  "4968160": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Kleromancy",
+   "owners": "0 .. 20,000",
+   "positive": 13,
+   "price_cents": "799",
+   "reviews": 13
+  },
+  "4975050": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Campus Clash",
+   "owners": "0 .. 20,000",
+   "positive": 2,
+   "price_cents": "0",
+   "reviews": 3
+  },
+  "4982850": {
+   "average_minutes": 0,
+   "ccu": 2,
+   "median_minutes": 0,
+   "name": "Captive 3000",
+   "owners": "0 .. 20,000",
+   "positive": 7,
+   "price_cents": "1599",
+   "reviews": 9
+  },
+  "4982990": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Nova Survivors",
+   "owners": "0 .. 20,000",
+   "positive": 4,
+   "price_cents": "499",
+   "reviews": 4
+  },
+  "4983460": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "The Rouge Casino",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "799",
+   "reviews": 1
+  },
+  "4994750": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Nick vs the Brick of Ick from space",
+   "owners": "0 .. 20,000",
+   "positive": 8,
+   "price_cents": "594",
+   "reviews": 8
+  },
+  "4995080": {
+   "average_minutes": 0,
+   "ccu": 10,
+   "median_minutes": 0,
+   "name": "Procession Engine",
+   "owners": "0 .. 20,000",
+   "positive": 10,
+   "price_cents": "1699",
+   "reviews": 10
+  },
+  "5000980": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Gunship Incremental",
+   "owners": "0 .. 20,000",
+   "positive": 3,
+   "price_cents": "499",
+   "reviews": 6
+  },
+  "5004380": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "DelveWright",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "799",
+   "reviews": 0
+  },
+  "5004590": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Darcnia Monster",
+   "owners": "0 .. 20,000",
+   "positive": 2,
+   "price_cents": "0",
+   "reviews": 6
+  },
+  "5005140": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Undermoon",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "899",
+   "reviews": 2
+  },
+  "5006790": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "PopFarm Slime",
+   "owners": "0 .. 20,000",
+   "positive": 2,
+   "price_cents": "319",
+   "reviews": 2
+  },
+  "5014710": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Idle Survivor",
+   "owners": "0 .. 20,000",
+   "positive": 2,
+   "price_cents": "499",
+   "reviews": 6
+  },
+  "5016250": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Lucky Hell",
+   "owners": "0 .. 20,000",
+   "positive": 7,
+   "price_cents": "899",
+   "reviews": 7
+  },
+  "5017820": {
+   "average_minutes": 0,
+   "ccu": 13,
+   "median_minutes": 0,
+   "name": "Sir Loot-a-Lot",
+   "owners": "0 .. 20,000",
+   "positive": 18,
+   "price_cents": "799",
+   "reviews": 26
+  },
+  "5028910": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "PlayCard Football",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "1999",
+   "reviews": 2
+  },
+  "5035250": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Card Slay",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "1499",
+   "reviews": 1
+  },
+  "5038620": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Duelyst: Legends",
+   "owners": "0 .. 20,000",
+   "positive": 12,
+   "price_cents": "0",
+   "reviews": 12
+  },
+  "5038720": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Iron Void : Silent Space",
+   "owners": "0 .. 20,000",
+   "positive": 5,
+   "price_cents": "249",
+   "reviews": 5
+  },
+  "5044970": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Evoruption",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "800",
+   "reviews": 1
+  },
+  "5048140": {
+   "average_minutes": 0,
+   "ccu": 5,
+   "median_minutes": 0,
+   "name": "EinStein",
+   "owners": "0 .. 20,000",
+   "positive": 45,
+   "price_cents": "399",
+   "reviews": 49
+  },
+  "5048870": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Scopa Sweep",
+   "owners": "0 .. 20,000",
+   "positive": 20,
+   "price_cents": "999",
+   "reviews": 20
+  },
+  "5048900": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "BEAM Inc.",
+   "owners": "0 .. 20,000",
+   "positive": 5,
+   "price_cents": "699",
+   "reviews": 5
+  },
+  "5054650": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Neon Breaker: Endless Arcade",
+   "owners": "0 .. 20,000",
+   "positive": 6,
+   "price_cents": "599",
+   "reviews": 6
+  },
+  "5055340": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Lord of the Grind",
+   "owners": "0 .. 20,000",
+   "positive": 20,
+   "price_cents": "699",
+   "reviews": 20
+  },
+  "5060780": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Twin-stick Japanese",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "599",
+   "reviews": 0
+  },
+  "5062730": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Card Harts Reborn",
+   "owners": "0 .. 20,000",
+   "positive": 2,
+   "price_cents": "0",
+   "reviews": 5
+  },
+  "5062910": {
+   "average_minutes": 0,
+   "ccu": 9,
+   "median_minutes": 0,
+   "name": "Life Is a Dungeon: Lean into It.",
+   "owners": "0 .. 20,000",
+   "positive": 43,
+   "price_cents": "1000",
+   "reviews": 49
+  },
+  "5062950": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Guild of the Tower",
+   "owners": "0 .. 20,000",
+   "positive": 11,
+   "price_cents": "999",
+   "reviews": 12
+  },
+  "5064170": {
+   "average_minutes": 0,
+   "ccu": 397,
+   "median_minutes": 0,
+   "name": "Go Next!",
+   "owners": "0 .. 20,000",
+   "positive": 218,
+   "price_cents": "1274",
+   "reviews": 252
+  },
+  "5065500": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Vinculum",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "499",
+   "reviews": 1
+  },
+  "5071700": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Bankshot!",
+   "owners": "0 .. 20,000",
+   "positive": 0,
+   "price_cents": "999",
+   "reviews": 0
+  },
+  "5073820": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Keepwatch: Idle Kingdom RPG",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "699",
+   "reviews": 3
+  },
+  "5074450": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Wanxiang Corridor: Elements",
+   "owners": "0 .. 20,000",
+   "positive": 4,
+   "price_cents": "0",
+   "reviews": 4
+  },
+  "5074470": {
+   "average_minutes": 0,
+   "ccu": 4,
+   "median_minutes": 0,
+   "name": "Stellar Embers: United Fleet",
+   "owners": "0 .. 20,000",
+   "positive": 49,
+   "price_cents": "499",
+   "reviews": 52
+  },
+  "5074650": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Memento Resonance",
+   "owners": "0 .. 20,000",
+   "positive": 10,
+   "price_cents": "719",
+   "reviews": 11
+  },
+  "5076510": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Monmusu Rush",
+   "owners": "0 .. 20,000",
+   "positive": 2,
+   "price_cents": "699",
+   "reviews": 2
+  },
+  "5085590": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Bot Survivors",
+   "owners": "0 .. 20,000",
+   "positive": 1,
+   "price_cents": "499",
+   "reviews": 1
+  },
+  "524220": {
+   "average_minutes": 1454,
+   "ccu": 1902,
+   "median_minutes": 813,
+   "name": "NieR:Automata",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 103060,
+   "price_cents": "1599",
+   "reviews": 116642
+  },
+  "531510": {
+   "average_minutes": 294,
+   "ccu": 82,
+   "median_minutes": 208,
+   "name": "Just Shapes & Beats",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 23736,
+   "price_cents": "1999",
+   "reviews": 24315
+  },
+  "544810": {
+   "average_minutes": 2222,
+   "ccu": 5684,
+   "median_minutes": 99,
+   "name": "KARDS - The WWII Card Game",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 35760,
+   "price_cents": "0",
+   "reviews": 52712
+  },
+  "583950": {
+   "average_minutes": 3833,
+   "ccu": 9044,
+   "median_minutes": 599,
+   "name": "Artifact",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 11666,
+   "price_cents": "0",
+   "reviews": 24754
+  },
+  "601510": {
+   "average_minutes": 6284,
+   "ccu": 1780,
+   "median_minutes": 246,
+   "name": "Yu-Gi-Oh! Duel Links",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 37382,
+   "price_cents": "0",
+   "reviews": 45140
+  },
+  "601840": {
+   "average_minutes": 835,
+   "ccu": 47,
+   "median_minutes": 547,
+   "name": "Griftlands",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 12646,
+   "price_cents": "1999",
+   "reviews": 13498
+  },
+  "606150": {
+   "average_minutes": 342,
+   "ccu": 338,
+   "median_minutes": 183,
+   "name": "Moonlighter",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 14373,
+   "price_cents": "1999",
+   "reviews": 17427
+  },
+  "625960": {
+   "average_minutes": 2604,
+   "ccu": 1481,
+   "median_minutes": 866,
+   "name": "Stoneshard",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 25890,
+   "price_cents": "2499",
+   "reviews": 34635
+  },
+  "627690": {
+   "average_minutes": 20023,
+   "ccu": 1888,
+   "median_minutes": 222,
+   "name": "Idle Champions of the Forgotten Realms",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 11618,
+   "price_cents": "0",
+   "reviews": 15110
+  },
+  "632360": {
+   "average_minutes": 3164,
+   "ccu": 9075,
+   "median_minutes": 1135,
+   "name": "Risk of Rain 2",
+   "owners": "5,000,000 .. 10,000,000",
+   "positive": 228298,
+   "price_cents": "2499",
+   "reviews": 243100
+  },
+  "646570": {
+   "average_minutes": 4856,
+   "ccu": 8409,
+   "median_minutes": 1635,
+   "name": "Slay the Spire",
+   "owners": "5,000,000 .. 10,000,000",
+   "positive": 188658,
+   "price_cents": "2499",
+   "reviews": 193637
+  },
+  "652050": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "The Labyrinth",
+   "owners": "20,000 .. 50,000",
+   "positive": 41,
+   "price_cents": "0",
+   "reviews": 48
+  },
+  "654100": {
+   "average_minutes": 35,
+   "ccu": 0,
+   "median_minutes": 35,
+   "name": "Rival Megagun",
+   "owners": "0 .. 20,000",
+   "positive": 58,
+   "price_cents": "1499",
+   "reviews": 64
+  },
+  "654250": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Catacombs 1: Demon War",
+   "owners": "0 .. 20,000",
+   "positive": 15,
+   "price_cents": "499",
+   "reviews": 24
+  },
+  "654300": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Darkest Hunters",
+   "owners": "20,000 .. 50,000",
+   "positive": 40,
+   "price_cents": "599",
+   "reviews": 79
+  },
+  "654500": {
+   "average_minutes": 8,
+   "ccu": 0,
+   "median_minutes": 8,
+   "name": "Super XYX",
+   "owners": "20,000 .. 50,000",
+   "positive": 107,
+   "price_cents": "999",
+   "reviews": 123
+  },
+  "655480": {
+   "average_minutes": 62,
+   "ccu": 2,
+   "median_minutes": 62,
+   "name": "Solar Settlers",
+   "owners": "20,000 .. 50,000",
+   "positive": 283,
+   "price_cents": "999",
+   "reviews": 298
+  },
+  "655740": {
+   "average_minutes": 29,
+   "ccu": 3,
+   "median_minutes": 29,
+   "name": "Tallowmere 2: Curse of the Kittens",
+   "owners": "20,000 .. 50,000",
+   "positive": 254,
+   "price_cents": "999",
+   "reviews": 318
+  },
+  "655910": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "BULLET PARTY",
+   "owners": "20,000 .. 50,000",
+   "positive": 70,
+   "price_cents": "99",
+   "reviews": 73
+  },
+  "656350": {
+   "average_minutes": 1284,
+   "ccu": 51,
+   "median_minutes": 561,
+   "name": "UnderMine",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 8398,
+   "price_cents": "1999",
+   "reviews": 9321
+  },
+  "656460": {
+   "average_minutes": 388,
+   "ccu": 0,
+   "median_minutes": 388,
+   "name": "Vostok Inc.",
+   "owners": "100,000 .. 200,000",
+   "positive": 59,
+   "price_cents": "1499",
+   "reviews": 97
+  },
+  "657000": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "Rising Hell",
+   "owners": "20,000 .. 50,000",
+   "positive": 199,
+   "price_cents": "999",
+   "reviews": 225
+  },
+  "657090": {
+   "average_minutes": 76,
+   "ccu": 0,
+   "median_minutes": 76,
+   "name": "Robothorium",
+   "owners": "50,000 .. 100,000",
+   "positive": 163,
+   "price_cents": "1499",
+   "reviews": 249
+  },
+  "658830": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Artificer: Science of Magic",
+   "owners": "0 .. 20,000",
+   "positive": 48,
+   "price_cents": "999",
+   "reviews": 80
+  },
+  "658970": {
+   "average_minutes": 39,
+   "ccu": 7,
+   "median_minutes": 39,
+   "name": "CasinoRPG",
+   "owners": "100,000 .. 200,000",
+   "positive": 203,
+   "price_cents": "0",
+   "reviews": 319
+  },
+  "661280": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Dresden Files Cooperative Card Game",
+   "owners": "20,000 .. 50,000",
+   "positive": 93,
+   "price_cents": "1699",
+   "reviews": 115
+  },
+  "662230": {
+   "average_minutes": 0,
+   "ccu": 3,
+   "median_minutes": 0,
+   "name": "Trendpoker 3D: Texas Hold'em Poker",
+   "owners": "0 .. 20,000",
+   "positive": 77,
+   "price_cents": "999",
+   "reviews": 103
+  },
+  "663130": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Game Tengoku CruisinMix Special",
+   "owners": "0 .. 20,000",
+   "positive": 74,
+   "price_cents": "2999",
+   "reviews": 95
+  },
+  "663300": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Enlightenment",
+   "owners": "20,000 .. 50,000",
+   "positive": 225,
+   "price_cents": "119",
+   "reviews": 379
+  },
+  "663390": {
+   "average_minutes": 491,
+   "ccu": 66,
+   "median_minutes": 254,
+   "name": "Rento Fortune: Online Dice Board Game (大富翁)",
+   "owners": "200,000 .. 500,000",
+   "positive": 1559,
+   "price_cents": "499",
+   "reviews": 3083
+  },
+  "664340": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Indeep | The casual dungeon crawler",
+   "owners": "0 .. 20,000",
+   "positive": 24,
+   "price_cents": "0",
+   "reviews": 39
+  },
+  "665270": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "弹幕音乐绘 ～风雷幻奏曲～ / Barrage Musical  ~A Fantasy of Tempest~",
+   "owners": "20,000 .. 50,000",
+   "positive": 313,
+   "price_cents": "999",
+   "reviews": 329
+  },
+  "666860": {
+   "average_minutes": 1936,
+   "ccu": 184,
+   "median_minutes": 235,
+   "name": "Bit Heroes Quest",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 2680,
+   "price_cents": "0",
+   "reviews": 3339
+  },
+  "667600": {
+   "average_minutes": 185,
+   "ccu": 34,
+   "median_minutes": 175,
+   "name": "Sky Force Reloaded",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 2523,
+   "price_cents": "999",
+   "reviews": 2717
+  },
+  "668610": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Lords of War",
+   "owners": "0 .. 20,000",
+   "positive": 31,
+   "price_cents": "0",
+   "reviews": 48
+  },
+  "673880": {
+   "average_minutes": 1014,
+   "ccu": 134,
+   "median_minutes": 206,
+   "name": "Warhammer 40,000: Mechanicus",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 10558,
+   "price_cents": "2999",
+   "reviews": 11556
+  },
+  "674930": {
+   "average_minutes": 468,
+   "ccu": 5,
+   "median_minutes": 468,
+   "name": "Boyfriend Dungeon",
+   "owners": "100,000 .. 200,000",
+   "positive": 1943,
+   "price_cents": "1999",
+   "reviews": 2117
+  },
+  "677120": {
+   "average_minutes": 1091,
+   "ccu": 117,
+   "median_minutes": 490,
+   "name": "Heroes of Hammerwatch",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 6577,
+   "price_cents": "299",
+   "reviews": 7530
+  },
+  "679820": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Solitaire Mystery: Stolen Power",
+   "owners": "0 .. 20,000",
+   "positive": 14,
+   "price_cents": "699",
+   "reviews": 26
+  },
+  "680030": {
+   "average_minutes": 0,
+   "ccu": 0,
+   "median_minutes": 0,
+   "name": "Gone Viral",
+   "owners": "0 .. 20,000",
+   "positive": 24,
+   "price_cents": "1999",
+   "reviews": 35
+  },
+  "680360": {
+   "average_minutes": 100,
+   "ccu": 4,
+   "median_minutes": 60,
+   "name": "Regions Of Ruin",
+   "owners": "100,000 .. 200,000",
+   "positive": 1677,
+   "price_cents": "1199",
+   "reviews": 1976
+  },
+  "681530": {
+   "average_minutes": 0,
+   "ccu": 1,
+   "median_minutes": 0,
+   "name": "NOISZ",
+   "owners": "0 .. 20,000",
+   "positive": 112,
+   "price_cents": "1999",
+   "reviews": 117
+  },
+  "681730": {
+   "average_minutes": 283,
+   "ccu": 5,
+   "median_minutes": 74,
+   "name": "Nowhere Prophet",
+   "owners": "50,000 .. 100,000",
+   "positive": 560,
+   "price_cents": "2499",
+   "reviews": 722
+  },
+  "692890": {
+   "average_minutes": 963,
+   "ccu": 245,
+   "median_minutes": 564,
+   "name": "Roboquest",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 18446,
+   "price_cents": "2499",
+   "reviews": 19365
+  },
+  "774801": {
+   "average_minutes": 1683,
+   "ccu": 1663,
+   "median_minutes": 658,
+   "name": "Crab Champions",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 26400,
+   "price_cents": "999",
+   "reviews": 26971
+  },
+  "780290": {
+   "average_minutes": 2940,
+   "ccu": 271,
+   "median_minutes": 567,
+   "name": "Gloomhaven",
+   "owners": "1,000,000 .. 2,000,000",
+   "positive": 11303,
+   "price_cents": "3499",
+   "reviews": 13732
+  },
+  "788100": {
+   "average_minutes": 1545,
+   "ccu": 33,
+   "median_minutes": 841,
+   "name": "Neon Abyss",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 17004,
+   "price_cents": "1999",
+   "reviews": 19737
+  },
+  "851100": {
+   "average_minutes": 436,
+   "ccu": 10,
+   "median_minutes": 370,
+   "name": "Touhou Luna Nights",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 13488,
+   "price_cents": "1799",
+   "reviews": 13868
+  },
+  "858210": {
+   "average_minutes": 1651,
+   "ccu": 53,
+   "median_minutes": 751,
+   "name": "Nova Drift",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 12496,
+   "price_cents": "1799",
+   "reviews": 13061
+  },
+  "973760": {
+   "average_minutes": 819,
+   "ccu": 112,
+   "median_minutes": 225,
+   "name": "Thronebreaker: The Witcher Tales",
+   "owners": "500,000 .. 1,000,000",
+   "positive": 14158,
+   "price_cents": "1999",
+   "reviews": 15769
+  },
+  "99900": {
+   "average_minutes": 447,
+   "ccu": 291,
+   "median_minutes": 99,
+   "name": "Spiral Knights",
+   "owners": "2,000,000 .. 5,000,000",
+   "positive": 20354,
+   "price_cents": "0",
+   "reviews": 24279
+  }
+ },
+ "tag_members": {
+  "Bullet Hell": [
+   "1113560",
+   "113200",
+   "1229380",
+   "200210",
+   "221640",
+   "242680",
+   "268910",
+   "269210",
+   "311690",
+   "322500",
+   "330020",
+   "391540",
+   "400910",
+   "423230",
+   "4657020",
+   "4669130",
+   "4696920",
+   "470220",
+   "4710800",
+   "4754460",
+   "4809000",
+   "4810500",
+   "4878220",
+   "4904740",
+   "4911780",
+   "4916560",
+   "4917630",
+   "4919950",
+   "4967370",
+   "4982990",
+   "5000980",
+   "5014710",
+   "5038720",
+   "5048900",
+   "5054650",
+   "5060780",
+   "5064170",
+   "5074450",
+   "5074470",
+   "5085590",
+   "524220",
+   "531510",
+   "632360",
+   "654100",
+   "654500",
+   "655910",
+   "656460",
+   "657000",
+   "663130",
+   "665270",
+   "667600",
+   "677120",
+   "680030",
+   "681530",
+   "692890",
+   "774801",
+   "788100",
+   "851100",
+   "858210"
+  ],
+  "Card Game": [
+   "1046930",
+   "1092790",
+   "1102190",
+   "1188930",
+   "1189490",
+   "1256670",
+   "1282730",
+   "1284410",
+   "1336490",
+   "1533420",
+   "1557740",
+   "2784470",
+   "282800",
+   "286160",
+   "3070070",
+   "3117820",
+   "368260",
+   "4646190",
+   "4660470",
+   "4661070",
+   "470220",
+   "4715950",
+   "4716880",
+   "4747260",
+   "4768630",
+   "4793910",
+   "4836460",
+   "4841590",
+   "4842090",
+   "4866860",
+   "4881270",
+   "4888150",
+   "4889030",
+   "489520",
+   "4898080",
+   "4919460",
+   "4919930",
+   "4922230",
+   "4926310",
+   "4934590",
+   "4944200",
+   "4945980",
+   "4947930",
+   "4951060",
+   "4952090",
+   "4958460",
+   "4962610",
+   "4968160",
+   "4983460",
+   "4994750",
+   "4995080",
+   "5004590",
+   "5017820",
+   "5028910",
+   "5035250",
+   "5038620",
+   "5044970",
+   "5048870",
+   "5062730",
+   "5065500",
+   "5076510",
+   "544810",
+   "583950",
+   "601510",
+   "601840",
+   "646570",
+   "654300",
+   "655480",
+   "658970",
+   "661280",
+   "662230",
+   "663390",
+   "668610",
+   "679820",
+   "681730",
+   "780290",
+   "973760"
+  ],
+  "Deckbuilding": [
+   "1046930",
+   "1092790",
+   "1102190",
+   "1188930",
+   "1189490",
+   "1256670",
+   "1282730",
+   "1284210",
+   "1284410",
+   "1296610",
+   "1296830",
+   "1557740",
+   "2784470",
+   "368260",
+   "4646190",
+   "4660470",
+   "4709490",
+   "4715950",
+   "4716880",
+   "4739500",
+   "4747260",
+   "4780870",
+   "4811700",
+   "4836460",
+   "4838130",
+   "4842090",
+   "4888150",
+   "4894800",
+   "489520",
+   "4898080",
+   "4916010",
+   "4922230",
+   "4926310",
+   "4933450",
+   "4933810",
+   "4934590",
+   "4944200",
+   "4945980",
+   "4947930",
+   "4951060",
+   "4952090",
+   "4958460",
+   "4962610",
+   "4967490",
+   "4968160",
+   "4975050",
+   "4983460",
+   "4994750",
+   "4995080",
+   "5004590",
+   "5006790",
+   "5014710",
+   "5016250",
+   "5028910",
+   "5035250",
+   "5038620",
+   "5044970",
+   "5048140",
+   "5048870",
+   "5062730",
+   "5065500",
+   "5071700",
+   "5074650",
+   "5076510",
+   "544810",
+   "583950",
+   "601510",
+   "601840",
+   "646570",
+   "655910",
+   "681730",
+   "780290",
+   "973760"
+  ],
+  "Dungeon Crawler": [
+   "113200",
+   "1145350",
+   "1145360",
+   "1171690",
+   "1184370",
+   "1217060",
+   "1313140",
+   "1621690",
+   "1637320",
+   "1672970",
+   "200710",
+   "219990",
+   "238960",
+   "247080",
+   "250900",
+   "262060",
+   "2784470",
+   "2881650",
+   "304050",
+   "311690",
+   "330020",
+   "362490",
+   "371970",
+   "374040",
+   "424370",
+   "434650",
+   "4385930",
+   "445980",
+   "4559960",
+   "4660470",
+   "4683860",
+   "475150",
+   "4754460",
+   "4769780",
+   "4774030",
+   "4798730",
+   "4834760",
+   "4835780",
+   "4843460",
+   "4878420",
+   "4880210",
+   "4890840",
+   "4894800",
+   "4898080",
+   "4901160",
+   "4904740",
+   "4911350",
+   "493900",
+   "4950410",
+   "4964640",
+   "4982850",
+   "5004380",
+   "5005140",
+   "5055340",
+   "5062910",
+   "5062950",
+   "5073820",
+   "606150",
+   "625960",
+   "627690",
+   "646570",
+   "652050",
+   "654250",
+   "655740",
+   "656350",
+   "657090",
+   "658830",
+   "663300",
+   "664340",
+   "666860",
+   "673880",
+   "674930",
+   "677120",
+   "680030",
+   "680360",
+   "780290",
+   "788100",
+   "99900"
+  ]
+ },
+ "tag_releases": {
+  "Bullet Hell": [
+   "5328980",
+   "4298260",
+   "5518650",
+   "4623890",
+   "5135820",
+   "4737320",
+   "3517360",
+   "4621530",
+   "2173300",
+   "5281600",
+   "3654490",
+   "4494800",
+   "4552580",
+   "5384470",
+   "5361610",
+   "5105470",
+   "4901680",
+   "5433530",
+   "5429530",
+   "4609040",
+   "3585880",
+   "5546500",
+   "1712640",
+   "2930250",
+   "4941820",
+   "5039540",
+   "3208040",
+   "5389820",
+   "5146260",
+   "4396640",
+   "5041960",
+   "2854620",
+   "5461630",
+   "5015320",
+   "4969000",
+   "5461360",
+   "4971410",
+   "5226670",
+   "2396130",
+   "4076840",
+   "4699150",
+   "5028240",
+   "5486840",
+   "4875660",
+   "5453270",
+   "4986510",
+   "5492180",
+   "4531360",
+   "3595710",
+   "5510800"
+  ],
+  "Card Game": [
+   "5546670",
+   "5503670",
+   "3776750",
+   "5043790",
+   "5410190",
+   "5087470",
+   "2114500",
+   "4939030",
+   "5244700",
+   "4924900",
+   "5480110",
+   "5502020",
+   "4956350",
+   "4362370",
+   "4724840",
+   "5515770",
+   "5227720",
+   "5385500",
+   "5306130",
+   "5359810",
+   "5534910",
+   "4313840",
+   "5087750",
+   "3842950",
+   "5498870",
+   "5021760",
+   "5352370",
+   "4847350",
+   "5036910",
+   "4857380",
+   "5305760",
+   "5285500",
+   "3839890",
+   "5302070",
+   "5006590",
+   "5460590",
+   "5059840",
+   "5077820",
+   "4884790",
+   "5322700",
+   "3810590",
+   "5381550",
+   "2464640",
+   "4437450",
+   "5491990",
+   "3249730",
+   "1331880",
+   "5423090",
+   "4994180",
+   "3779980"
+  ],
+  "Deckbuilding": [
+   "5550020",
+   "5043790",
+   "2114500",
+   "5244700",
+   "5534020",
+   "4362370",
+   "4724840",
+   "4438110",
+   "5515770",
+   "4889630",
+   "3008180",
+   "5160370",
+   "3842950",
+   "5021760",
+   "2163340",
+   "4621680",
+   "5352370",
+   "5036910",
+   "5546940",
+   "4228600",
+   "5184410",
+   "3839890",
+   "5330470",
+   "4135380",
+   "5383550",
+   "5292900",
+   "3103620",
+   "5302070",
+   "5006590",
+   "5059840",
+   "5077820",
+   "4884790",
+   "5322700",
+   "3810590",
+   "5381550",
+   "2464640",
+   "3832200",
+   "4437450",
+   "5071360",
+   "5027890",
+   "3249730",
+   "5297610",
+   "4076840",
+   "4791910",
+   "5509420",
+   "3779980",
+   "3113480",
+   "3174460",
+   "4137380",
+   "5348230"
+  ],
+  "Dungeon Crawler": [
+   "1419970",
+   "5394410",
+   "5503670",
+   "5111020",
+   "2894950",
+   "5244700",
+   "5447640",
+   "3920400",
+   "3984000",
+   "4928450",
+   "3842950",
+   "5504270",
+   "5021760",
+   "3379780",
+   "4756260",
+   "5546940",
+   "5285500",
+   "5424890",
+   "5006590",
+   "4884790",
+   "2464640",
+   "5480960",
+   "5417020",
+   "5461060",
+   "5516180",
+   "5461360",
+   "5461270",
+   "3692030",
+   "4193010",
+   "5503840",
+   "5127720",
+   "5037500",
+   "1170230",
+   "5028240",
+   "5226330",
+   "3738090",
+   "3506150",
+   "5036970",
+   "4779990",
+   "3282820",
+   "4540520",
+   "3301490",
+   "4170680",
+   "5007910",
+   "4984370",
+   "5200620",
+   "4988260",
+   "4823460",
+   "4144630",
+   "4673230"
+  ]
+ },
+ "tag_totals": {
+  "Bullet Hell": 6174,
+  "Card Game": 4700,
+  "Deckbuilding": 3335,
+  "Dungeon Crawler": 4745
+ },
+ "top_played": [
+  {
+   "appid": "730",
+   "last_week_rank": 1,
+   "peak_in_game": 1226352,
+   "rank": 1
+  },
+  {
+   "appid": "578080",
+   "last_week_rank": 3,
+   "peak_in_game": 771537,
+   "rank": 2
+  },
+  {
+   "appid": "570",
+   "last_week_rank": 2,
+   "peak_in_game": 888569,
+   "rank": 3
+  },
+  {
+   "appid": "431960",
+   "last_week_rank": 4,
+   "peak_in_game": 117152,
+   "rank": 4
+  },
+  {
+   "appid": "4262460",
+   "last_week_rank": 5,
+   "peak_in_game": 532443,
+   "rank": 5
+  },
+  {
+   "appid": "1422450",
+   "last_week_rank": 6,
+   "peak_in_game": 212357,
+   "rank": 6
+  },
+  {
+   "appid": "1172470",
+   "last_week_rank": 7,
+   "peak_in_game": 236642,
+   "rank": 7
+  },
+  {
+   "appid": "2868840",
+   "last_week_rank": 9,
+   "peak_in_game": 151859,
+   "rank": 8
+  },
+  {
+   "appid": "4115450",
+   "last_week_rank": 8,
+   "peak_in_game": 204080,
+   "rank": 9
+  },
+  {
+   "appid": "3240220",
+   "last_week_rank": 19,
+   "peak_in_game": 137993,
+   "rank": 10
+  },
+  {
+   "appid": "1938090",
+   "last_week_rank": 10,
+   "peak_in_game": 119344,
+   "rank": 11
+  },
+  {
+   "appid": "1091500",
+   "last_week_rank": 11,
+   "peak_in_game": 101307,
+   "rank": 12
+  },
+  {
+   "appid": "236390",
+   "last_week_rank": 13,
+   "peak_in_game": 86674,
+   "rank": 13
+  },
+  {
+   "appid": "271590",
+   "last_week_rank": 33,
+   "peak_in_game": 101616,
+   "rank": 14
+  },
+  {
+   "appid": "322170",
+   "last_week_rank": 16,
+   "peak_in_game": 59046,
+   "rank": 15
+  },
+  {
+   "appid": "359550",
+   "last_week_rank": 14,
+   "peak_in_game": 70890,
+   "rank": 16
+  },
+  {
+   "appid": "227300",
+   "last_week_rank": 12,
+   "peak_in_game": 72603,
+   "rank": 17
+  },
+  {
+   "appid": "1973530",
+   "last_week_rank": 18,
+   "peak_in_game": 55600,
+   "rank": 18
+  },
+  {
+   "appid": "2767030",
+   "last_week_rank": 17,
+   "peak_in_game": 58690,
+   "rank": 19
+  },
+  {
+   "appid": "250900",
+   "last_week_rank": 26,
+   "peak_in_game": 46675,
+   "rank": 20
+  },
+  {
+   "appid": "413150",
+   "last_week_rank": 25,
+   "peak_in_game": 85719,
+   "rank": 21
+  },
+  {
+   "appid": "381210",
+   "last_week_rank": 20,
+   "peak_in_game": 56553,
+   "rank": 22
+  },
+  {
+   "appid": "2357570",
+   "last_week_rank": 21,
+   "peak_in_game": 52641,
+   "rank": 23
+  },
+  {
+   "appid": "1174180",
+   "last_week_rank": 45,
+   "peak_in_game": 69766,
+   "rank": 24
+  },
+  {
+   "appid": "230410",
+   "last_week_rank": 22,
+   "peak_in_game": 80582,
+   "rank": 25
+  },
+  {
+   "appid": "1867240",
+   "last_week_rank": 15,
+   "peak_in_game": 84490,
+   "rank": 26
+  },
+  {
+   "appid": "3393110",
+   "last_week_rank": 24,
+   "peak_in_game": 147386,
+   "rank": 27
+  },
+  {
+   "appid": "3241660",
+   "last_week_rank": 27,
+   "peak_in_game": 43702,
+   "rank": 28
+  },
+  {
+   "appid": "440",
+   "last_week_rank": 31,
+   "peak_in_game": 106915,
+   "rank": 29
+  },
+  {
+   "appid": "105600",
+   "last_week_rank": 34,
+   "peak_in_game": 38655,
+   "rank": 30
+  },
+  {
+   "appid": "252490",
+   "last_week_rank": 28,
+   "peak_in_game": 108041,
+   "rank": 31
+  },
+  {
+   "appid": "2807960",
+   "last_week_rank": 29,
+   "peak_in_game": 40480,
+   "rank": 32
+  },
+  {
+   "appid": "550",
+   "last_week_rank": 35,
+   "peak_in_game": 35136,
+   "rank": 33
+  },
+  {
+   "appid": "553850",
+   "last_week_rank": 32,
+   "peak_in_game": 34859,
+   "rank": 34
+  },
+  {
+   "appid": "4348910",
+   "last_week_rank": 23,
+   "peak_in_game": 92060,
+   "rank": 35
+  },
+  {
+   "appid": "438100",
+   "last_week_rank": 36,
+   "peak_in_game": 63991,
+   "rank": 36
+  },
+  {
+   "appid": "2507950",
+   "last_week_rank": 30,
+   "peak_in_game": 100563,
+   "rank": 37
+  },
+  {
+   "appid": "394360",
+   "last_week_rank": 41,
+   "peak_in_game": 53077,
+   "rank": 38
+  },
+  {
+   "appid": "4080220",
+   "last_week_rank": 49,
+   "peak_in_game": 59844,
+   "rank": 39
+  },
+  {
+   "appid": "322330",
+   "last_week_rank": 44,
+   "peak_in_game": 53556,
+   "rank": 40
+  },
+  {
+   "appid": "284160",
+   "last_week_rank": 37,
+   "peak_in_game": 30466,
+   "rank": 41
+  },
+  {
+   "appid": "1203220",
+   "last_week_rank": 48,
+   "peak_in_game": 62274,
+   "rank": 42
+  },
+  {
+   "appid": "108600",
+   "last_week_rank": 39,
+   "peak_in_game": 48912,
+   "rank": 43
+  },
+  {
+   "appid": "1086940",
+   "last_week_rank": 47,
+   "peak_in_game": 52023,
+   "rank": 44
+  },
+  {
+   "appid": "892970",
+   "last_week_rank": 40,
+   "peak_in_game": 59844,
+   "rank": 45
+  },
+  {
+   "appid": "1808500",
+   "last_week_rank": 43,
+   "peak_in_game": 51201,
+   "rank": 46
+  },
+  {
+   "appid": "489830",
+   "last_week_rank": 46,
+   "peak_in_game": 43105,
+   "rank": 47
+  },
+  {
+   "appid": "238960",
+   "last_week_rank": 42,
+   "peak_in_game": 83151,
+   "rank": 48
+  },
+  {
+   "appid": "4000",
+   "last_week_rank": 51,
+   "peak_in_game": 33172,
+   "rank": 49
+  },
+  {
+   "appid": "1222670",
+   "last_week_rank": 58,
+   "peak_in_game": 39214,
+   "rank": 50
+  },
+  {
+   "appid": "292030",
+   "last_week_rank": 50,
+   "peak_in_game": 42581,
+   "rank": 51
+  },
+  {
+   "appid": "3405690",
+   "last_week_rank": 53,
+   "peak_in_game": 26491,
+   "rank": 52
+  },
+  {
+   "appid": "1426210",
+   "last_week_rank": 154,
+   "peak_in_game": 51199,
+   "rank": 53
+  },
+  {
+   "appid": "252950",
+   "last_week_rank": 54,
+   "peak_in_game": 26325,
+   "rank": 54
+  },
+  {
+   "appid": "1665460",
+   "last_week_rank": 59,
+   "peak_in_game": 20901,
+   "rank": 55
+  },
+  {
+   "appid": "3527290",
+   "last_week_rank": 52,
+   "peak_in_game": 20249,
+   "rank": 56
+  },
+  {
+   "appid": "1905180",
+   "last_week_rank": 63,
+   "peak_in_game": 34628,
+   "rank": 57
+  },
+  {
+   "appid": "4126040",
+   "last_week_rank": 56,
+   "peak_in_game": 27259,
+   "rank": 58
+  },
+  {
+   "appid": "2483190",
+   "last_week_rank": 65,
+   "peak_in_game": 20412,
+   "rank": 59
+  },
+  {
+   "appid": "1245620",
+   "last_week_rank": 64,
+   "peak_in_game": 32657,
+   "rank": 60
+  },
+  {
+   "appid": "1203620",
+   "last_week_rank": 55,
+   "peak_in_game": 49853,
+   "rank": 61
+  },
+  {
+   "appid": "4530370",
+   "last_week_rank": 57,
+   "peak_in_game": 66450,
+   "rank": 62
+  },
+  {
+   "appid": "1449850",
+   "last_week_rank": 61,
+   "peak_in_game": 16605,
+   "rank": 63
+  },
+  {
+   "appid": "289070",
+   "last_week_rank": 68,
+   "peak_in_game": 42169,
+   "rank": 64
+  },
+  {
+   "appid": "1142710",
+   "last_week_rank": 66,
+   "peak_in_game": 39027,
+   "rank": 65
+  },
+  {
+   "appid": "2300320",
+   "last_week_rank": 60,
+   "peak_in_game": 49109,
+   "rank": 66
+  },
+  {
+   "appid": "3419430",
+   "last_week_rank": 67,
+   "peak_in_game": 184308,
+   "rank": 67
+  },
+  {
+   "appid": "1281930",
+   "last_week_rank": 74,
+   "peak_in_game": 30109,
+   "rank": 68
+  },
+  {
+   "appid": "1158310",
+   "last_week_rank": 99,
+   "peak_in_game": 35168,
+   "rank": 69
+  },
+  {
+   "appid": "1364780",
+   "last_week_rank": 71,
+   "peak_in_game": 27660,
+   "rank": 70
+  },
+  {
+   "appid": "1623730",
+   "last_week_rank": 70,
+   "peak_in_game": 40657,
+   "rank": 71
+  },
+  {
+   "appid": "291550",
+   "last_week_rank": 81,
+   "peak_in_game": 15419,
+   "rank": 72
+  },
+  {
+   "appid": "1366800",
+   "last_week_rank": 62,
+   "peak_in_game": 47156,
+   "rank": 73
+  },
+  {
+   "appid": "1329410",
+   "last_week_rank": 101,
+   "peak_in_game": 17247,
+   "rank": 74
+  },
+  {
+   "appid": "2406770",
+   "last_week_rank": 38,
+   "peak_in_game": 11849,
+   "rank": 75
+  },
+  {
+   "appid": "5175310",
+   "last_week_rank": 83,
+   "peak_in_game": 47434,
+   "rank": 76
+  },
+  {
+   "appid": "1942280",
+   "last_week_rank": 73,
+   "peak_in_game": 22791,
+   "rank": 77
+  },
+  {
+   "appid": "244210",
+   "last_week_rank": 76,
+   "peak_in_game": 15737,
+   "rank": 78
+  },
+  {
+   "appid": "3321460",
+   "last_week_rank": 82,
+   "peak_in_game": 36299,
+   "rank": 79
+  },
+  {
+   "appid": "3513350",
+   "last_week_rank": 78,
+   "peak_in_game": 11839,
+   "rank": 80
+  },
+  {
+   "appid": "813780",
+   "last_week_rank": 80,
+   "peak_in_game": 25771,
+   "rank": 81
+  },
+  {
+   "appid": "221100",
+   "last_week_rank": 72,
+   "peak_in_game": 49010,
+   "rank": 82
+  },
+  {
+   "appid": "261550",
+   "last_week_rank": 77,
+   "peak_in_game": 34926,
+   "rank": 83
+  },
+  {
+   "appid": "3678970",
+   "last_week_rank": 75,
+   "peak_in_game": 65554,
+   "rank": 84
+  },
+  {
+   "appid": "294100",
+   "last_week_rank": 79,
+   "peak_in_game": 35552,
+   "rank": 85
+  },
+  {
+   "appid": "251570",
+   "last_week_rank": 84,
+   "peak_in_game": 33513,
+   "rank": 86
+  },
+  {
+   "appid": "1085660",
+   "last_week_rank": 87,
+   "peak_in_game": 25109,
+   "rank": 87
+  },
+  {
+   "appid": "594650",
+   "last_week_rank": 91,
+   "peak_in_game": 26758,
+   "rank": 88
+  },
+  {
+   "appid": "2073620",
+   "last_week_rank": 88,
+   "peak_in_game": 29051,
+   "rank": 89
+  },
+  {
+   "appid": "4162040",
+   "last_week_rank": 93,
+   "peak_in_game": 9336,
+   "rank": 90
+  },
+  {
+   "appid": "2073850",
+   "last_week_rank": 85,
+   "peak_in_game": 17592,
+   "rank": 91
+  },
+  {
+   "appid": "714010",
+   "last_week_rank": 92,
+   "peak_in_game": 5947,
+   "rank": 92
+  },
+  {
+   "appid": "2246340",
+   "last_week_rank": 90,
+   "peak_in_game": 23855,
+   "rank": 93
+  },
+  {
+   "appid": "5335510",
+   "last_week_rank": 69,
+   "peak_in_game": 26163,
+   "rank": 94
+  },
+  {
+   "appid": "12210",
+   "last_week_rank": 136,
+   "peak_in_game": 14457,
+   "rank": 95
+  },
+  {
+   "appid": "1551360",
+   "last_week_rank": 130,
+   "peak_in_game": 14902,
+   "rank": 96
+  },
+  {
+   "appid": "739630",
+   "last_week_rank": 89,
+   "peak_in_game": 13182,
+   "rank": 97
+  },
+  {
+   "appid": "1771300",
+   "last_week_rank": 145,
+   "peak_in_game": 29021,
+   "rank": 98
+  },
+  {
+   "appid": "4459590",
+   "last_week_rank": 183,
+   "peak_in_game": 27149,
+   "rank": 99
+  },
+  {
+   "appid": "1238840",
+   "last_week_rank": 160,
+   "peak_in_game": 14848,
+   "rank": 100
+  }
+ ],
+ "upcoming_ids": [
+  "5527800",
+  "3224600",
+  "4954970",
+  "5189950",
+  "5275590",
+  "4009490",
+  "5472080",
+  "4150720",
+  "4877420",
+  "3161310",
+  "2870790",
+  "2272360",
+  "4990940",
+  "4253570",
+  "4416390",
+  "4738100",
+  "1752080",
+  "5427110",
+  "4156500",
+  "5268810",
+  "4139890",
+  "4653750",
+  "4607420",
+  "4704000",
+  "4933500",
+  "4776500",
+  "4264000",
+  "4534960",
+  "5513420",
+  "4255780",
+  "5169710",
+  "4504970",
+  "5246700",
+  "3333850",
+  "3509380",
+  "3300570",
+  "4941160",
+  "4013270",
+  "1209970",
+  "5057800",
+  "2988120",
+  "4635290",
+  "3384600",
+  "3681610",
+  "1737370",
+  "4370210",
+  "3109590",
+  "5279840",
+  "5117550",
+  "4224490"
+ ]
+}
