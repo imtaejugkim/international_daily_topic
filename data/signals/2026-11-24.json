@@ -1,0 +1,275 @@
+{
+ "compared_against": "2026-11-23",
+ "counted": 85,
+ "date": "2026-11-24",
+ "days_of_history": 8,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "Slay the Spire",
+   "pct_change": 0.0,
+   "reviews": 193660
+  },
+  {
+   "name": "Grand Theft Auto IV: The Complete Edition",
+   "pct_change": null,
+   "reviews": 186520
+  },
+  {
+   "name": "Balatro",
+   "pct_change": null,
+   "reviews": 163419
+  },
+  {
+   "name": "Clicker Heroes",
+   "pct_change": null,
+   "reviews": 62230
+  },
+  {
+   "name": "AdVenture Capitalist",
+   "pct_change": null,
+   "reviews": 60575
+  },
+  {
+   "name": "WEBFISHING",
+   "pct_change": null,
+   "reviews": 57431
+  },
+  {
+   "name": "WorldBox - God Simulator",
+   "pct_change": null,
+   "reviews": 52311
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 2,
+   "alive_rate": 100.0,
+   "free_share": 0.0,
+   "median_playtime_minutes": 773,
+   "median_price_cents": 1999,
+   "noticed": 2,
+   "noticed_rate": 100.0,
+   "recent_measured": 2,
+   "store_total": 9461,
+   "tag": "Roguelite",
+   "top": [
+    {
+     "median_minutes": 773,
+     "name": "Grand Theft Auto IV: The Complete Edition",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 186520
+    },
+    {
+     "median_minutes": 76,
+     "name": "FlatOut 2",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 19775
+    }
+   ]
+  },
+  {
+   "alive": 12,
+   "alive_rate": 57.1,
+   "free_share": 0.0,
+   "median_playtime_minutes": 622,
+   "median_price_cents": 1999,
+   "noticed": 9,
+   "noticed_rate": 42.9,
+   "recent_measured": 21,
+   "store_total": 1124,
+   "tag": "Roguelike Deckbuilder",
+   "top": [
+    {
+     "median_minutes": 1627,
+     "name": "Slay the Spire",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 193660
+    },
+    {
+     "median_minutes": 1169,
+     "name": "Balatro",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 163419
+    },
+    {
+     "median_minutes": 360,
+     "name": "9 Kings",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 23092
+    },
+    {
+     "median_minutes": 853,
+     "name": "Monster Train",
+     "owners": "500,000 .. 1,000,000",
+     "reviews": 20005
+    },
+    {
+     "median_minutes": 695,
+     "name": "Backpack Battles",
+     "owners": "500,000 .. 1,000,000",
+     "reviews": 19167
+    }
+   ]
+  },
+  {
+   "alive": 67,
+   "alive_rate": 58.8,
+   "free_share": 50.0,
+   "median_playtime_minutes": 291,
+   "median_price_cents": 499,
+   "noticed": 40,
+   "noticed_rate": 35.1,
+   "recent_measured": 114,
+   "store_total": 4979,
+   "tag": "Idler",
+   "top": [
+    {
+     "median_minutes": 667,
+     "name": "Clicker Heroes",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 62230
+    },
+    {
+     "median_minutes": 274,
+     "name": "AdVenture Capitalist",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 60575
+    },
+    {
+     "median_minutes": 517,
+     "name": "WEBFISHING",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 57431
+    },
+    {
+     "median_minutes": 476,
+     "name": "WorldBox - God Simulator",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 52311
+    },
+    {
+     "median_minutes": 310,
+     "name": "Cell to Singularity - Evolution Never Ends",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 28725
+    }
+   ]
+  },
+  {
+   "alive": 69,
+   "alive_rate": 50.7,
+   "free_share": 51.5,
+   "median_playtime_minutes": 235,
+   "median_price_cents": 499,
+   "noticed": 33,
+   "noticed_rate": 24.3,
+   "recent_measured": 136,
+   "store_total": 6309,
+   "tag": "Incremental",
+   "top": [
+    {
+     "median_minutes": 667,
+     "name": "Clicker Heroes",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 62230
+    },
+    {
+     "median_minutes": 274,
+     "name": "AdVenture Capitalist",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 60575
+    },
+    {
+     "median_minutes": 448,
+     "name": "Shakes and Fidget",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 36881
+    },
+    {
+     "median_minutes": 310,
+     "name": "Cell to Singularity - Evolution Never Ends",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 28725
+    },
+    {
+     "median_minutes": 234,
+     "name": "Crush Crush",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 28668
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "4084710",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4084710/"
+  },
+  {
+   "name": "5427110",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5427110/"
+  },
+  {
+   "name": "4635290",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4635290/"
+  },
+  {
+   "name": "3509380",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3509380/"
+  },
+  {
+   "name": "5165390",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5165390/"
+  },
+  {
+   "name": "4264000",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4264000/"
+  },
+  {
+   "name": "4954970",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4954970/"
+  },
+  {
+   "name": "1209970",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/1209970/"
+  },
+  {
+   "name": "3333850",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3333850/"
+  },
+  {
+   "name": "5268810",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5268810/"
+  },
+  {
+   "name": "5275590",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5275590/"
+  },
+  {
+   "name": "4653750",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4653750/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-24",
+ "young_and_noticed": []
+}

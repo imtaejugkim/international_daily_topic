@@ -275,6 +275,22 @@
   "price_krw": 2440000,
   "release_date": "2020년 3월 24일"
  },
+ "1222140": {
+  "coming_soon": false,
+  "developers": [
+   "Quantic Dream"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "Detroit: Become Human",
+  "price": "₩ 4,550",
+  "price_krw": 455000,
+  "release_date": "2020년 6월 18일"
+ },
  "1222670": {
   "coming_soon": false,
   "developers": [
@@ -789,6 +805,22 @@
   "price": "",
   "release_date": "2023년 2월 26일"
  },
+ "2001120": {
+  "coming_soon": false,
+  "developers": [
+   "Hazelight Studios"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "Split Fiction",
+  "price": "₩ 33,600",
+  "price_krw": 3360000,
+  "release_date": "2025년 3월 6일"
+ },
  "2073620": {
   "coming_soon": false,
   "developers": [
@@ -991,6 +1023,23 @@
   "name": "Warframe",
   "price": "",
   "release_date": "2013년 3월 25일"
+ },
+ "2307150": {
+  "coming_soon": false,
+  "developers": [
+   "logicalbeat Co., Ltd."
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "스포츠"
+  ],
+  "is_free": false,
+  "name": "BOM BOM BOMBIAN  ～ ボン ボン ボンビアン ～",
+  "price": "₩ 11,000",
+  "price_krw": 1100000,
+  "release_date": "2026년 11월 23일"
  },
  "236390": {
   "categories": [
@@ -1262,6 +1311,22 @@
   "price": "₩ 42,080",
   "price_krw": 4208000,
   "release_date": "2025년 1월 30일"
+ },
+ "2669450": {
+  "coming_soon": true,
+  "developers": [
+   "Sarepta Studio"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "My Child New Beginnings",
+  "price": "",
+  "price_krw": null,
+  "release_date": "출시 예정"
  },
  "2680010": {
   "coming_soon": false,
@@ -1688,6 +1753,39 @@
   "price_krw": 716000,
   "release_date": "2026년 11월 19일"
  },
+ "3010690": {
+  "coming_soon": false,
+  "developers": [
+   "ForgeSparks"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Abyssal Station",
+  "price": "₩ 15,300",
+  "price_krw": 1530000,
+  "release_date": "2026년 11월 23일"
+ },
+ "3084560": {
+  "coming_soon": false,
+  "developers": [
+   "Rudrac Games"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "TWIN FLAMES",
+  "price": "₩ 8,800",
+  "price_krw": 880000,
+  "release_date": "2026년 11월 23일"
+ },
  "3155390": {
   "coming_soon": false,
   "developers": [
@@ -1959,6 +2057,25 @@
   "price": "",
   "release_date": "2025년 3월 5일"
  },
+ "3441590": {
+  "coming_soon": false,
+  "developers": [
+   "starmarineplay"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "HinterGald",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
+ },
  "3489700": {
   "coming_soon": false,
   "developers": [
@@ -2166,6 +2283,22 @@
   "name": "Sudoku Defense",
   "price": "₩ 11,000",
   "release_date": "2026년 11월 16일"
+ },
+ "3768760": {
+  "coming_soon": false,
+  "developers": [
+   "IO Interactive A/S"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "007 퍼스트 라이트",
+  "price": "₩ 39,500",
+  "price_krw": 3950000,
+  "release_date": "2026년 5월 26일"
  },
  "381210": {
   "categories": [
@@ -2677,6 +2810,22 @@
   "price_krw": 184000,
   "release_date": "2026년 11월 17일"
  },
+ "4256130": {
+  "coming_soon": false,
+  "developers": [
+   "toastycedes"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "어드벤처",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "Late Night Duty",
+  "price": "₩ 5,690",
+  "price_krw": 569000,
+  "release_date": "2026년 11월 23일"
+ },
  "4262460": {
   "categories": [
    "멀티플레이어",
@@ -2770,6 +2919,22 @@
   "price_krw": null,
   "release_date": "2026년 11월 17일"
  },
+ "4297050": {
+  "coming_soon": false,
+  "developers": [
+   "Radioactive Elephant"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "VacBot Simulator",
+  "price": "₩ 9,200",
+  "price_krw": 920000,
+  "release_date": "2026년 11월 23일"
+ },
  "431960": {
   "categories": [
    "Steam 도전 과제",
@@ -2795,6 +2960,23 @@
   "name": "Wallpaper Engine",
   "price": "₩ 5,600",
   "release_date": "2018년 11월 16일"
+ },
+ "4346860": {
+  "coming_soon": false,
+  "developers": [
+   "ForindGames"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "앨리스와 꽃집: Lo-Fi",
+  "price": "₩ 4,480",
+  "price_krw": 448000,
+  "release_date": "2026년 11월 23일"
  },
  "4348910": {
   "categories": [
@@ -2871,6 +3053,38 @@
   "price": "",
   "release_date": "2017년 2월 1일"
  },
+ "4385070": {
+  "coming_soon": false,
+  "developers": [
+   "James Ronald Walter"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "어드벤처"
+  ],
+  "is_free": false,
+  "name": "MORIBREATH",
+  "price": "₩ 3,350",
+  "price_krw": 335000,
+  "release_date": "2026년 11월 23일"
+ },
+ "4391160": {
+  "coming_soon": false,
+  "developers": [
+   "Worrall Studios"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "Choom",
+  "price": "₩ 5,600",
+  "price_krw": 560000,
+  "release_date": "2026년 11월 23일"
+ },
  "4398690": {
   "coming_soon": false,
   "developers": [
@@ -2931,6 +3145,24 @@
   "price": "",
   "price_krw": null,
   "release_date": "2026년 11월 17일"
+ },
+ "4416390": {
+  "coming_soon": false,
+  "developers": [
+   "Longplay Studios"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "터미너스: 데이 제로",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
  },
  "4435490": {
   "categories": [
@@ -3077,6 +3309,25 @@
   "price": "₩ 4,750",
   "price_krw": 475000,
   "release_date": "2026년 11월 20일"
+ },
+ "4498140": {
+  "coming_soon": false,
+  "developers": [
+   "浙江华智数媒传媒股份有限公司",
+   "Liquid Meow"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "어드벤처",
+   "인디",
+   "RPG",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "天坑追匪",
+  "price": "₩ 12,400",
+  "price_krw": 1240000,
+  "release_date": "2026년 11월 23일"
  },
  "4530370": {
   "categories": [
@@ -3240,6 +3491,23 @@
   "price_krw": null,
   "release_date": "2026년 11월 18일"
  },
+ "4609470": {
+  "coming_soon": false,
+  "developers": [
+   "Branno"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "Your party died again",
+  "price": "₩ 6,030",
+  "price_krw": 603000,
+  "release_date": "2026년 11월 23일"
+ },
  "4612690": {
   "coming_soon": false,
   "developers": [
@@ -3366,6 +3634,22 @@
   "price": "₩ 5,460",
   "price_krw": 546000,
   "release_date": "2026년 11월 21일"
+ },
+ "4698540": {
+  "coming_soon": false,
+  "developers": [
+   "Arcana Code Inc."
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "Doorstep Days",
+  "price": "₩ 2,850",
+  "price_krw": 285000,
+  "release_date": "2026년 11월 23일"
  },
  "4699150": {
   "categories": [
@@ -3585,6 +3869,54 @@
   "price_krw": 436000,
   "release_date": "2026년 11월 17일"
  },
+ "4771370": {
+  "coming_soon": true,
+  "developers": [
+   "Tomas13TO"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Cities: Skylines - Content Creator Pack: Holiday Getaways",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 24일"
+ },
+ "4771380": {
+  "coming_soon": true,
+  "developers": [
+   "Feindbold"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Cities: Skylines - Content Creator Pack: Mansions & Manors",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 24일"
+ },
+ "4771390": {
+  "coming_soon": true,
+  "developers": [
+   "Paradox Interactive"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Cities: Skylines - Blueprint Beats",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 24일"
+ },
  "4787650": {
   "coming_soon": false,
   "developers": [
@@ -3603,6 +3935,23 @@
   "price": "₩ 3,340",
   "price_krw": 334000,
   "release_date": "2026년 11월 17일"
+ },
+ "4789870": {
+  "coming_soon": false,
+  "developers": [
+   "MOEDOKI"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "RPG",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Muv-Luv Girls Garden",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
  },
  "4790660": {
   "coming_soon": true,
@@ -3837,6 +4186,23 @@
   "price": "₩ 4,400",
   "release_date": "2026년 11월 17일"
  },
+ "4906740": {
+  "coming_soon": false,
+  "developers": [
+   "calme"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "KARAKARA3",
+  "price": "₩ 9,900",
+  "price_krw": 990000,
+  "release_date": "2026년 11월 23일"
+ },
  "4917760": {
   "coming_soon": false,
   "developers": [
@@ -4063,6 +4429,23 @@
   "price": "",
   "price_krw": null,
   "release_date": "2026년 11월 17일"
+ },
+ "4971710": {
+  "coming_soon": true,
+  "developers": [
+   "MetaMata"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "과일 가게 시뮬레이터",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 24일"
  },
  "4972120": {
   "coming_soon": false,
@@ -4328,6 +4711,23 @@
   "price_krw": 330000,
   "release_date": "2026년 11월 20일"
  },
+ "5046790": {
+  "coming_soon": true,
+  "developers": [
+   "AnotherBuild"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "인디",
+   "전략",
+   "앞서 해보기"
+  ],
+  "is_free": false,
+  "name": "Rally Point: 3030",
+  "price": "",
+  "price_krw": null,
+  "release_date": "출시 예정"
+ },
  "5049210": {
   "coming_soon": false,
   "developers": [
@@ -4415,6 +4815,24 @@
   "price": "",
   "price_krw": null,
   "release_date": "2026년 11월 21일"
+ },
+ "5119770": {
+  "coming_soon": false,
+  "developers": [
+   "Fantasy Tree"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "어드벤처",
+   "캐주얼",
+   "인디",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "Loot Nook",
+  "price": "₩ 2,020",
+  "price_krw": 202000,
+  "release_date": "2026년 11월 23일"
  },
  "5120080": {
   "categories": [
@@ -4738,6 +5156,40 @@
   "price": "₩ 5,570",
   "release_date": "2026년 11월 16일"
  },
+ "5189040": {
+  "coming_soon": false,
+  "developers": [
+   "BPMG Inc."
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Cooking Adventure : Hotel Street 01",
+  "price": "₩ 5,570",
+  "price_krw": 557000,
+  "release_date": "2026년 11월 23일"
+ },
+ "5189470": {
+  "coming_soon": false,
+  "developers": [
+   "BPMG Inc."
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "시뮬레이션",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Cooking Adventure : Norma Style Pack 01",
+  "price": "₩ 4,630",
+  "price_krw": 463000,
+  "release_date": "2026년 11월 23일"
+ },
  "5194360": {
   "coming_soon": false,
   "developers": [
@@ -4959,6 +5411,23 @@
   "price_krw": 1792000,
   "release_date": "2017년 3월 17일"
  },
+ "5247980": {
+  "coming_soon": false,
+  "developers": [
+   "Murosan"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Backgammon GO!",
+  "price": "₩ 2,230",
+  "price_krw": 223000,
+  "release_date": "2026년 11월 23일"
+ },
  "5251630": {
   "coming_soon": false,
   "developers": [
@@ -5170,6 +5639,24 @@
   "price_krw": 301000,
   "release_date": "2026년 11월 21일"
  },
+ "5305200": {
+  "coming_soon": false,
+  "developers": [
+   "Generative Works LLC"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "무료 플레이",
+   "애니메이션과 모델링",
+   "디자인과 일러스트레이션",
+   "동영상 제작"
+  ],
+  "is_free": true,
+  "name": "AI Park",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
+ },
  "5306710": {
   "coming_soon": false,
   "developers": [
@@ -5219,6 +5706,25 @@
   "price": "₩ 9,000",
   "price_krw": 900000,
   "release_date": "2026년 11월 22일"
+ },
+ "5326680": {
+  "coming_soon": false,
+  "developers": [
+   "Turn Games"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션",
+   "스포츠",
+   "전략"
+  ],
+  "is_free": false,
+  "name": "Career Manager 27",
+  "price": "₩ 13,500",
+  "price_krw": 1350000,
+  "release_date": "2026년 11월 23일"
  },
  "5328980": {
   "coming_soon": false,
@@ -5353,6 +5859,22 @@
   "price": "₩ 2,510",
   "release_date": "2026년 11월 16일"
  },
+ "5345650": {
+  "coming_soon": false,
+  "developers": [
+   "KCREW"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "ASCENT: MASKLINGS",
+  "price": "₩ 11,000",
+  "price_krw": 1100000,
+  "release_date": "2026년 11월 23일"
+ },
  "5353330": {
   "coming_soon": false,
   "developers": [
@@ -5369,6 +5891,24 @@
   "price": "₩ 4,360",
   "price_krw": 436000,
   "release_date": "2026년 11월 22일"
+ },
+ "5354090": {
+  "coming_soon": false,
+  "developers": [
+   "JustAI"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "인디",
+   "레이싱",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Clash of Boats",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
  },
  "5359810": {
   "coming_soon": true,
@@ -5570,6 +6110,23 @@
   "name": "デスクトップフレンズ",
   "price": "",
   "release_date": "2026년 11월 17일"
+ },
+ "5381360": {
+  "coming_soon": true,
+  "developers": [
+   "Tiny Victories"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "Tool Tidy",
+  "price": "",
+  "price_krw": null,
+  "release_date": "출시 예정"
  },
  "5383550": {
   "coming_soon": false,
@@ -6123,6 +6680,25 @@
   "price_krw": 670000,
   "release_date": "2026년 11월 17일"
  },
+ "5453830": {
+  "coming_soon": false,
+  "developers": [
+   "SIHAN"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "어드벤처",
+   "인디",
+   "RPG",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "Conspiracy at Headquarters",
+  "price": "₩ 30,150",
+  "price_krw": 3015000,
+  "release_date": "2026년 11월 23일"
+ },
  "5458210": {
   "categories": [
    "싱글 플레이어",
@@ -6502,6 +7078,24 @@
   "price_krw": 800000,
   "release_date": "2026년 11월 17일"
  },
+ "5504190": {
+  "coming_soon": false,
+  "developers": [
+   "veta",
+   "Wombex Games"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "시뮬레이션",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Zero Mass",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
+ },
  "5506620": {
   "coming_soon": false,
   "developers": [
@@ -6535,6 +7129,22 @@
   "price": "₩ 5,040",
   "price_krw": 504000,
   "release_date": "2026년 11월 22일"
+ },
+ "5508060": {
+  "coming_soon": false,
+  "developers": [
+   "Shorepause Studio"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "再来亿竿 One Last Cast",
+  "price": "₩ 3,920",
+  "price_krw": 392000,
+  "release_date": "2026년 11월 23일"
  },
  "5514250": {
   "coming_soon": false,
@@ -6752,6 +7362,22 @@
   "price_krw": 1800000,
   "release_date": "2026년 11월 20일"
  },
+ "5526860": {
+  "coming_soon": false,
+  "developers": [
+   "Lost Letter LLC"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "시뮬레이션"
+  ],
+  "is_free": false,
+  "name": "Nine Lives Below",
+  "price": "₩ 4,190",
+  "price_krw": 419000,
+  "release_date": "2026년 11월 24일"
+ },
  "5527840": {
   "coming_soon": false,
   "developers": [
@@ -6834,6 +7460,25 @@
   "price": "",
   "price_krw": null,
   "release_date": "2026년 11월 17일"
+ },
+ "5533560": {
+  "coming_soon": false,
+  "developers": [
+   "KaXuSaMa"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "RPG",
+   "시뮬레이션",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "NAILONG BATTLE",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
  },
  "5533700": {
   "categories": [
@@ -7056,6 +7701,24 @@
   "price": "",
   "release_date": "2026년 11월 17일"
  },
+ "5543070": {
+  "coming_soon": false,
+  "developers": [
+   "StarMatrix Labs"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "인디",
+   "RPG"
+  ],
+  "is_free": false,
+  "name": "修仙除魔传",
+  "price": "₩ 6,030",
+  "price_krw": 603000,
+  "release_date": "2026년 11월 23일"
+ },
  "5543980": {
   "coming_soon": true,
   "developers": [
@@ -7226,6 +7889,24 @@
   "price_krw": 335000,
   "release_date": "2026년 11월 22일"
  },
+ "5559200": {
+  "coming_soon": false,
+  "developers": [
+   "Kuso Game Studio"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "액션",
+   "캐주얼",
+   "인디",
+   "무료 플레이"
+  ],
+  "is_free": true,
+  "name": "Dice Survivors",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
+ },
  "5561120": {
   "coming_soon": true,
   "developers": [
@@ -7255,6 +7936,55 @@
   "price": "",
   "price_krw": null,
   "release_date": "2026년 11월 19일"
+ },
+ "5593120": {
+  "coming_soon": true,
+  "developers": [
+   "钟夏游戏（ZHONGXIA GAMES）"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "어드벤처",
+   "인디"
+  ],
+  "is_free": false,
+  "name": "차이나 지뢰녀: 교연 후일담 - 꽃과 매미의 겨울과 여름",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 24일"
+ },
+ "5620270": {
+  "coming_soon": false,
+  "developers": [
+   "RealSub Studio"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "무료 플레이",
+   "유틸리티"
+  ],
+  "is_free": true,
+  "name": "RealSub Local Translation Model – Also Available in EU, UK & Korea",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 23일"
+ },
+ "5626830": {
+  "coming_soon": true,
+  "developers": [
+   "jincycle"
+  ],
+  "fetched": "2026-11-24",
+  "genres": [
+   "캐주얼",
+   "인디",
+   "전략"
+  ],
+  "is_free": true,
+  "name": "폭증! 플래그 전기 체험판",
+  "price": "",
+  "price_krw": null,
+  "release_date": "2026년 11월 24일"
  },
  "5628450": {
   "categories": [
