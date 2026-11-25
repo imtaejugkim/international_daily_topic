@@ -1,0 +1,343 @@
+{
+ "compared_against": "2026-11-24",
+ "counted": 512,
+ "date": "2026-11-25",
+ "days_of_history": 9,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "Dota 2",
+   "pct_change": null,
+   "reviews": 2824106
+  },
+  {
+   "name": "PUBG: BATTLEGROUNDS",
+   "pct_change": null,
+   "reviews": 2744251
+  },
+  {
+   "name": "Terraria",
+   "pct_change": null,
+   "reviews": 1252159
+  },
+  {
+   "name": "Rust",
+   "pct_change": null,
+   "reviews": 1183558
+  },
+  {
+   "name": "Wallpaper Engine",
+   "pct_change": null,
+   "reviews": 957801
+  },
+  {
+   "name": "Left 4 Dead 2",
+   "pct_change": null,
+   "reviews": 827435
+  },
+  {
+   "name": "Dead by Daylight",
+   "pct_change": null,
+   "reviews": 687149
+  },
+  {
+   "name": "Among Us",
+   "pct_change": null,
+   "reviews": 664623
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 401,
+   "alive_rate": 94.8,
+   "free_share": 17.9,
+   "median_playtime_minutes": 415,
+   "median_price_cents": 1999,
+   "noticed": 379,
+   "noticed_rate": 89.6,
+   "recent_measured": 423,
+   "store_total": 10059,
+   "tag": "Survival",
+   "top": [
+    {
+     "median_minutes": 5215,
+     "name": "PUBG: BATTLEGROUNDS",
+     "owners": "100,000,000 .. 200,000,000",
+     "reviews": 2744251
+    },
+    {
+     "median_minutes": 1947,
+     "name": "Terraria",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 1252159
+    },
+    {
+     "median_minutes": 2908,
+     "name": "Rust",
+     "owners": "50,000,000 .. 100,000,000",
+     "reviews": 1183558
+    },
+    {
+     "median_minutes": 974,
+     "name": "Wallpaper Engine",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 957801
+    },
+    {
+     "median_minutes": 523,
+     "name": "Left 4 Dead 2",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 827435
+    }
+   ]
+  },
+  {
+   "alive": 53,
+   "alive_rate": 80.3,
+   "free_share": 17.4,
+   "median_playtime_minutes": 425,
+   "median_price_cents": 1299,
+   "noticed": 46,
+   "noticed_rate": 69.7,
+   "recent_measured": 66,
+   "store_total": 3554,
+   "tag": "Tower Defense",
+   "top": [
+    {
+     "median_minutes": 2757,
+     "name": "Dota 2",
+     "owners": "200,000,000 .. 500,000,000",
+     "reviews": 2824106
+    },
+    {
+     "median_minutes": 1392,
+     "name": "Bloons TD 6",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 354027
+    },
+    {
+     "median_minutes": 1455,
+     "name": "7 Days to Die",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 275775
+    },
+    {
+     "median_minutes": 3135,
+     "name": "Factorio",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 194210
+    },
+    {
+     "median_minutes": 172,
+     "name": "Counter-Strike",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 170879
+    }
+   ]
+  },
+  {
+   "alive": 75,
+   "alive_rate": 82.4,
+   "free_share": 7.3,
+   "median_playtime_minutes": 499,
+   "median_price_cents": 1499,
+   "noticed": 55,
+   "noticed_rate": 60.4,
+   "recent_measured": 91,
+   "store_total": 6116,
+   "tag": "Turn-Based Tactics",
+   "top": [
+    {
+     "median_minutes": 1981,
+     "name": "Divinity: Original Sin 2 - Definitive Edition",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 182232
+    },
+    {
+     "median_minutes": 400,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90967
+    },
+    {
+     "median_minutes": 1007,
+     "name": "XCOM 2",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 80645
+    },
+    {
+     "median_minutes": 181,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65363
+    },
+    {
+     "median_minutes": 954,
+     "name": "Mewgenics",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 58066
+    }
+   ]
+  },
+  {
+   "alive": 55,
+   "alive_rate": 77.5,
+   "free_share": 7.1,
+   "median_playtime_minutes": 386,
+   "median_price_cents": 1099,
+   "noticed": 42,
+   "noticed_rate": 59.2,
+   "recent_measured": 71,
+   "store_total": 3967,
+   "tag": "Time Management",
+   "top": [
+    {
+     "median_minutes": 681,
+     "name": "Lethal Company",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 412419
+    },
+    {
+     "median_minutes": 193,
+     "name": "Content Warning",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 73475
+    },
+    {
+     "median_minutes": 643,
+     "name": "Volcano Princess",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 45527
+    },
+    {
+     "median_minutes": 3679,
+     "name": "Farming Simulator 25",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 42291
+    },
+    {
+     "median_minutes": 130,
+     "name": "Pacify",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 33010
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "4088520",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4088520/"
+  },
+  {
+   "name": "4150720",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4150720/"
+  },
+  {
+   "name": "4941160",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4941160/"
+  },
+  {
+   "name": "3384600",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3384600/"
+  },
+  {
+   "name": "4009490",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4009490/"
+  },
+  {
+   "name": "3734220",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3734220/"
+  },
+  {
+   "name": "2715880",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2715880/"
+  },
+  {
+   "name": "3161310",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3161310/"
+  },
+  {
+   "name": "4139890",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4139890/"
+  },
+  {
+   "name": "2431590",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2431590/"
+  },
+  {
+   "name": "5165390",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5165390/"
+  },
+  {
+   "name": "4635290",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4635290/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-25",
+ "young_and_noticed": [
+  {
+   "appid": "4262460",
+   "days_since_release": 21,
+   "genres": [
+    "액션",
+    "대규모 멀티플레이어",
+    "RPG",
+    "시뮬레이션",
+    "무료 플레이",
+    "앞서 해보기"
+   ],
+   "is_free": true,
+   "is_new_release": false,
+   "median_minutes": 438,
+   "name": "ROB RUN",
+   "owners": "10,000,000 .. 20,000,000",
+   "pct_change": null,
+   "players": 158188,
+   "positive_rate": 48.5,
+   "price": "",
+   "reviews": 97931,
+   "reviews_gained": null,
+   "store_url": "https://store.steampowered.com/app/4262460/"
+  },
+  {
+   "appid": "4459590",
+   "days_since_release": 13,
+   "genres": [
+    "인디",
+    "전략"
+   ],
+   "is_free": false,
+   "is_new_release": false,
+   "median_minutes": 369,
+   "name": "Slotbound",
+   "owners": "100,000 .. 200,000",
+   "pct_change": null,
+   "players": 13382,
+   "positive_rate": 80.1,
+   "price": "₩ 10,800",
+   "reviews": 2269,
+   "reviews_gained": null,
+   "store_url": "https://store.steampowered.com/app/4459590/"
+  }
+ ]
+}
