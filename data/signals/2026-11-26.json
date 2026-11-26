@@ -1,0 +1,298 @@
+{
+ "compared_against": "2026-11-25",
+ "counted": 164,
+ "date": "2026-11-26",
+ "days_of_history": 10,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "The Binding of Isaac: Rebirth",
+   "pct_change": null,
+   "reviews": 429805
+  },
+  {
+   "name": "Palworld",
+   "pct_change": 1.0,
+   "reviews": 424179
+  },
+  {
+   "name": "R.E.P.O.",
+   "pct_change": 0.5,
+   "reviews": 355136
+  },
+  {
+   "name": "Undertale",
+   "pct_change": null,
+   "reviews": 314569
+  },
+  {
+   "name": "Deep Rock Galactic",
+   "pct_change": 0.2,
+   "reviews": 306256
+  },
+  {
+   "name": "Schedule I",
+   "pct_change": null,
+   "reviews": 295532
+  },
+  {
+   "name": "Hades",
+   "pct_change": null,
+   "reviews": 288280
+  },
+  {
+   "name": "Vampire Survivors",
+   "pct_change": null,
+   "reviews": 253804
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 50,
+   "alive_rate": 72.5,
+   "free_share": 7.3,
+   "median_playtime_minutes": 526,
+   "median_price_cents": 999,
+   "noticed": 41,
+   "noticed_rate": 59.4,
+   "recent_measured": 69,
+   "store_total": 6195,
+   "tag": "Bullet Hell",
+   "top": [
+    {
+     "median_minutes": 347,
+     "name": "Undertale",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 314569
+    },
+    {
+     "median_minutes": 1102,
+     "name": "Vampire Survivors",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 253804
+    },
+    {
+     "median_minutes": 1270,
+     "name": "Risk of Rain 2",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 243268
+    },
+    {
+     "median_minutes": 414,
+     "name": "Cuphead",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 201660
+    },
+    {
+     "median_minutes": 802,
+     "name": "NieR:Automata",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 116772
+    }
+   ]
+  },
+  {
+   "alive": 82,
+   "alive_rate": 76.6,
+   "free_share": 4.8,
+   "median_playtime_minutes": 542,
+   "median_price_cents": 1199,
+   "noticed": 63,
+   "noticed_rate": 58.9,
+   "recent_measured": 107,
+   "store_total": 7002,
+   "tag": "Action Roguelike",
+   "top": [
+    {
+     "median_minutes": 1809,
+     "name": "The Binding of Isaac: Rebirth",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 429805
+    },
+    {
+     "median_minutes": 625,
+     "name": "R.E.P.O.",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 355136
+    },
+    {
+     "median_minutes": 747,
+     "name": "Deep Rock Galactic",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 306256
+    },
+    {
+     "median_minutes": 1139,
+     "name": "Hades",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 288280
+    },
+    {
+     "median_minutes": 1102,
+     "name": "Vampire Survivors",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 253804
+    }
+   ]
+  },
+  {
+   "alive": 65,
+   "alive_rate": 69.1,
+   "free_share": 5.0,
+   "median_playtime_minutes": 636,
+   "median_price_cents": 1499,
+   "noticed": 40,
+   "noticed_rate": 42.6,
+   "recent_measured": 94,
+   "store_total": 2649,
+   "tag": "Automation",
+   "top": [
+    {
+     "median_minutes": 2948,
+     "name": "Palworld",
+     "owners": "50,000,000 .. 100,000,000",
+     "reviews": 424179
+    },
+    {
+     "median_minutes": 1282,
+     "name": "Schedule I",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 295532
+    },
+    {
+     "median_minutes": 2272,
+     "name": "Satisfactory",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 239004
+    },
+    {
+     "median_minutes": 3387,
+     "name": "Factorio",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 194320
+    },
+    {
+     "median_minutes": 898,
+     "name": "ASTRONEER",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 119523
+    }
+   ]
+  },
+  {
+   "alive": 37,
+   "alive_rate": 64.9,
+   "free_share": 21.7,
+   "median_playtime_minutes": 744,
+   "median_price_cents": 749,
+   "noticed": 23,
+   "noticed_rate": 40.4,
+   "recent_measured": 57,
+   "store_total": 1954,
+   "tag": "Auto Battler",
+   "top": [
+    {
+     "median_minutes": 1102,
+     "name": "Vampire Survivors",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 253804
+    },
+    {
+     "median_minutes": 5093,
+     "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 70658
+    },
+    {
+     "median_minutes": 115,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65368
+    },
+    {
+     "median_minutes": 512,
+     "name": "9 Kings",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 23827
+    },
+    {
+     "median_minutes": 289,
+     "name": "Thronefall",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 23463
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "2272360",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2272360/"
+  },
+  {
+   "name": "5117550",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5117550/"
+  },
+  {
+   "name": "2870790",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2870790/"
+  },
+  {
+   "name": "4088520",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4088520/"
+  },
+  {
+   "name": "4414620",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4414620/"
+  },
+  {
+   "name": "4787480",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4787480/"
+  },
+  {
+   "name": "4504970",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4504970/"
+  },
+  {
+   "name": "3224600",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3224600/"
+  },
+  {
+   "name": "1752080",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/1752080/"
+  },
+  {
+   "name": "5165390",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5165390/"
+  },
+  {
+   "name": "3788110",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3788110/"
+  },
+  {
+   "name": "5275590",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5275590/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-26",
+ "young_and_noticed": []
+}
