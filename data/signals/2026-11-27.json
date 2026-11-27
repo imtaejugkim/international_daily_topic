@@ -1,0 +1,298 @@
+{
+ "compared_against": "2026-11-26",
+ "counted": 166,
+ "date": "2026-11-27",
+ "days_of_history": 11,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "The Binding of Isaac: Rebirth",
+   "pct_change": 0.1,
+   "reviews": 430241
+  },
+  {
+   "name": "Lethal Company",
+   "pct_change": null,
+   "reviews": 412453
+  },
+  {
+   "name": "Hades",
+   "pct_change": 0.0,
+   "reviews": 288280
+  },
+  {
+   "name": "Path of Exile",
+   "pct_change": null,
+   "reviews": 251438
+  },
+  {
+   "name": "Slay the Spire",
+   "pct_change": null,
+   "reviews": 193789
+  },
+  {
+   "name": "Balatro",
+   "pct_change": null,
+   "reviews": 163582
+  },
+  {
+   "name": "Darkest Dungeon",
+   "pct_change": null,
+   "reviews": 142578
+  },
+  {
+   "name": "Escape the Backrooms",
+   "pct_change": null,
+   "reviews": 142099
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 80,
+   "alive_rate": 88.9,
+   "free_share": 9.1,
+   "median_playtime_minutes": 560,
+   "median_price_cents": 1999,
+   "noticed": 66,
+   "noticed_rate": 73.3,
+   "recent_measured": 90,
+   "store_total": 4770,
+   "tag": "Dungeon Crawler",
+   "top": [
+    {
+     "median_minutes": 1820,
+     "name": "The Binding of Isaac: Rebirth",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 430241
+    },
+    {
+     "median_minutes": 662,
+     "name": "Lethal Company",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 412453
+    },
+    {
+     "median_minutes": 1053,
+     "name": "Hades",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 288280
+    },
+    {
+     "median_minutes": 473,
+     "name": "Path of Exile",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 251438
+    },
+    {
+     "median_minutes": 1825,
+     "name": "Slay the Spire",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 193789
+    }
+   ]
+  },
+  {
+   "alive": 46,
+   "alive_rate": 78.0,
+   "free_share": 23.7,
+   "median_playtime_minutes": 614,
+   "median_price_cents": 1799,
+   "noticed": 38,
+   "noticed_rate": 64.4,
+   "recent_measured": 59,
+   "store_total": 3363,
+   "tag": "Deckbuilding",
+   "top": [
+    {
+     "median_minutes": 1825,
+     "name": "Slay the Spire",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 193789
+    },
+    {
+     "median_minutes": 1211,
+     "name": "Balatro",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 163582
+    },
+    {
+     "median_minutes": 635,
+     "name": "Inscryption",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 136730
+    },
+    {
+     "median_minutes": 354,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90967
+    },
+    {
+     "median_minutes": 87,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65371
+    }
+   ]
+  },
+  {
+   "alive": 63,
+   "alive_rate": 74.1,
+   "free_share": 26.5,
+   "median_playtime_minutes": 597,
+   "median_price_cents": 1699,
+   "noticed": 49,
+   "noticed_rate": 57.6,
+   "recent_measured": 85,
+   "store_total": 4735,
+   "tag": "Card Game",
+   "top": [
+    {
+     "median_minutes": 1825,
+     "name": "Slay the Spire",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 193789
+    },
+    {
+     "median_minutes": 1211,
+     "name": "Balatro",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 163582
+    },
+    {
+     "median_minutes": 635,
+     "name": "Inscryption",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 136730
+    },
+    {
+     "median_minutes": 354,
+     "name": "Dota Underlords",
+     "owners": "10,000,000 .. 20,000,000",
+     "reviews": 90967
+    },
+    {
+     "median_minutes": 87,
+     "name": "Minion Masters",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 65371
+    }
+   ]
+  },
+  {
+   "alive": 53,
+   "alive_rate": 63.1,
+   "free_share": 48.6,
+   "median_playtime_minutes": 299,
+   "median_price_cents": 499,
+   "noticed": 35,
+   "noticed_rate": 41.7,
+   "recent_measured": 84,
+   "store_total": 5039,
+   "tag": "Idler",
+   "top": [
+    {
+     "median_minutes": 4772,
+     "name": "Cookie Clicker",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 89445
+    },
+    {
+     "median_minutes": 898,
+     "name": "Clicker Heroes",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 62235
+    },
+    {
+     "median_minutes": 299,
+     "name": "AdVenture Capitalist",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 60580
+    },
+    {
+     "median_minutes": 491,
+     "name": "WEBFISHING",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 57431
+    },
+    {
+     "median_minutes": 392,
+     "name": "WorldBox - God Simulator",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 52350
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "2938980",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2938980/"
+  },
+  {
+   "name": "4264000",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4264000/"
+  },
+  {
+   "name": "2870790",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2870790/"
+  },
+  {
+   "name": "3788110",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3788110/"
+  },
+  {
+   "name": "2849750",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2849750/"
+  },
+  {
+   "name": "5117550",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5117550/"
+  },
+  {
+   "name": "5275590",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5275590/"
+  },
+  {
+   "name": "4824220",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4824220/"
+  },
+  {
+   "name": "4139890",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4139890/"
+  },
+  {
+   "name": "5164110",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5164110/"
+  },
+  {
+   "name": "2738170",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2738170/"
+  },
+  {
+   "name": "5066090",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5066090/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-27",
+ "young_and_noticed": []
+}
