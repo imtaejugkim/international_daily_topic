@@ -1,0 +1,36 @@
+{
+ "counter": "데이터가 12일치뿐이고 surging이 비어 있다(전일 대비 비교 불가). 태그 4개 중 Survival·Roguelite는 거인과 구작이 섞여 성공률이 부풀려졌다. 신작 목록(young_and_noticed)은 ROB RUN(무료, 긍정률 49.5%)과 Enshrouded(대형 EA 타이틀)뿐이라 비교 사례로 부적합해 뺐다. upcoming_watch는 대부분 이름이 앱ID로만 나와 확인 불가. 확신 가는 게임이 없어 빈 목록으로 둔다.",
+ "date": "2026-11-28",
+ "direction": "",
+ "genres": [
+  {
+   "note": "수치가 너무 높고 상위 목록이 Apex·Wallpaper Engine 같은 거인이라 태그 표본이 오염된 것으로 보임. 믿지 말 것",
+   "numbers": "최근 측정 404개 중 359개가 리뷰 50개 돌파 (88.9%)",
+   "price": "중앙 $19.99 · 중앙 플레이 7시간 · 무료 17%",
+   "tag": "Survival",
+   "verdict": "unclear"
+  },
+  {
+   "note": "이번 4개 태그 중 표본이 가장 믿을 만한 편. 절반 가까이 주목받는다는 건 자리가 있다는 쪽이지만 12일치 데이터라 단정 못 함",
+   "numbers": "최근 35개 중 16개가 리뷰 50개 돌파 (45.7%)",
+   "price": "중앙 $14.99 · 중앙 플레이 13.7시간",
+   "tag": "Roguelike Deckbuilder",
+   "verdict": "unclear"
+  },
+  {
+   "note": "표본은 큰 편. 무료가 40%라 유료로 들어가면 불리. 셋 중 가장 확실하게 '붐비는 쪽'",
+   "numbers": "최근 146개 중 48개가 리뷰 50개 돌파 (32.9%)",
+   "price": "중앙 $7.99 · 중앙 플레이 6.6시간 · 무료 39.6%",
+   "tag": "Incremental",
+   "verdict": "mill"
+  },
+  {
+   "note": "표본 3개, 그것도 GTA IV·FlatOut 2 같은 구작이 섞임. 판정 불가",
+   "numbers": "최근 측정 3개 (3개 모두 돌파)",
+   "price": "중앙 $9.99 · 중앙 플레이 11시간",
+   "tag": "Roguelite",
+   "verdict": "unclear"
+  }
+ ],
+ "watch": []
+}

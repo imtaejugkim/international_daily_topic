@@ -1,0 +1,333 @@
+{
+ "compared_against": "2026-11-27",
+ "counted": 461,
+ "date": "2026-11-28",
+ "days_of_history": 12,
+ "note": "noticed_rate 는 그 태그로 최근 출시된 게임 중 리뷰 50개를 넘긴 비율이다. 낮을수록 들어가기 어려운 시장이다. store_total 은 유저가 단 태그라 스팸이 섞여 있으니 분모로 쓰지 마라.",
+ "settled_giants": [
+  {
+   "name": "Terraria",
+   "pct_change": null,
+   "reviews": 1252872
+  },
+  {
+   "name": "Rust",
+   "pct_change": null,
+   "reviews": 1185903
+  },
+  {
+   "name": "Apex Legends",
+   "pct_change": null,
+   "reviews": 1081923
+  },
+  {
+   "name": "Wallpaper Engine",
+   "pct_change": null,
+   "reviews": 958367
+  },
+  {
+   "name": "Left 4 Dead 2",
+   "pct_change": null,
+   "reviews": 827956
+  },
+  {
+   "name": "Dead by Daylight",
+   "pct_change": null,
+   "reviews": 684961
+  },
+  {
+   "name": "Among Us",
+   "pct_change": null,
+   "reviews": 665198
+  },
+  {
+   "name": "ARK: Survival Evolved",
+   "pct_change": null,
+   "reviews": 590327
+  }
+ ],
+ "surging": [],
+ "tag_health": [
+  {
+   "alive": 3,
+   "alive_rate": 100.0,
+   "free_share": 0.0,
+   "median_playtime_minutes": 664,
+   "median_price_cents": 999,
+   "noticed": 3,
+   "noticed_rate": 100.0,
+   "recent_measured": 3,
+   "store_total": 9540,
+   "tag": "Roguelite",
+   "top": [
+    {
+     "median_minutes": 664,
+     "name": "Grand Theft Auto IV: The Complete Edition",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 187445
+    },
+    {
+     "median_minutes": 190,
+     "name": "FlatOut 2",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 19811
+    },
+    {
+     "median_minutes": 0,
+     "name": "HyperBowl",
+     "owners": "0 .. 20,000",
+     "reviews": 73
+    }
+   ]
+  },
+  {
+   "alive": 382,
+   "alive_rate": 94.6,
+   "free_share": 17.0,
+   "median_playtime_minutes": 418,
+   "median_price_cents": 1999,
+   "noticed": 359,
+   "noticed_rate": 88.9,
+   "recent_measured": 404,
+   "store_total": 10088,
+   "tag": "Survival",
+   "top": [
+    {
+     "median_minutes": 1957,
+     "name": "Terraria",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 1252872
+    },
+    {
+     "median_minutes": 3236,
+     "name": "Rust",
+     "owners": "50,000,000 .. 100,000,000",
+     "reviews": 1185903
+    },
+    {
+     "median_minutes": 764,
+     "name": "Apex Legends",
+     "owners": "100,000,000 .. 200,000,000",
+     "reviews": 1081923
+    },
+    {
+     "median_minutes": 1104,
+     "name": "Wallpaper Engine",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 958367
+    },
+    {
+     "median_minutes": 569,
+     "name": "Left 4 Dead 2",
+     "owners": "20,000,000 .. 50,000,000",
+     "reviews": 827956
+    }
+   ]
+  },
+  {
+   "alive": 25,
+   "alive_rate": 71.4,
+   "free_share": 6.2,
+   "median_playtime_minutes": 822,
+   "median_price_cents": 1499,
+   "noticed": 16,
+   "noticed_rate": 45.7,
+   "recent_measured": 35,
+   "store_total": 1140,
+   "tag": "Roguelike Deckbuilder",
+   "top": [
+    {
+     "median_minutes": 1118,
+     "name": "Balatro",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 163622
+    },
+    {
+     "median_minutes": 286,
+     "name": "ROUNDS",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 36291
+    },
+    {
+     "median_minutes": 637,
+     "name": "9 Kings",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 24443
+    },
+    {
+     "median_minutes": 848,
+     "name": "Monster Train",
+     "owners": "500,000 .. 1,000,000",
+     "reviews": 20007
+    },
+    {
+     "median_minutes": 1407,
+     "name": "Backpack Battles",
+     "owners": "500,000 .. 1,000,000",
+     "reviews": 19255
+    }
+   ]
+  },
+  {
+   "alive": 104,
+   "alive_rate": 71.2,
+   "free_share": 39.6,
+   "median_playtime_minutes": 397,
+   "median_price_cents": 799,
+   "noticed": 48,
+   "noticed_rate": 32.9,
+   "recent_measured": 146,
+   "store_total": 6396,
+   "tag": "Incremental",
+   "top": [
+    {
+     "median_minutes": 5134,
+     "name": "Cookie Clicker",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 89465
+    },
+    {
+     "median_minutes": 542,
+     "name": "Clicker Heroes",
+     "owners": "5,000,000 .. 10,000,000",
+     "reviews": 62237
+    },
+    {
+     "median_minutes": 297,
+     "name": "AdVenture Capitalist",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 60582
+    },
+    {
+     "median_minutes": 352,
+     "name": "Shakes and Fidget",
+     "owners": "1,000,000 .. 2,000,000",
+     "reviews": 36965
+    },
+    {
+     "median_minutes": 227,
+     "name": "Legends of IdleOn - Idle MMO",
+     "owners": "2,000,000 .. 5,000,000",
+     "reviews": 30449
+    }
+   ]
+  }
+ ],
+ "thresholds": {
+  "alive_reviews": 10,
+  "min_reviews": 20,
+  "noticed_reviews": 50,
+  "surge_pct": 25.0
+ },
+ "upcoming_watch": [
+  {
+   "name": "2870790",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/2870790/"
+  },
+  {
+   "name": "5152560",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5152560/"
+  },
+  {
+   "name": "4314170",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4314170/"
+  },
+  {
+   "name": "4150720",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4150720/"
+  },
+  {
+   "name": "1752080",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/1752080/"
+  },
+  {
+   "name": "桜降る代に決闘を〜絢爛競演〜",
+   "release_date": "2026년 11월 29일",
+   "store_url": "https://store.steampowered.com/app/3446770/"
+  },
+  {
+   "name": "5427110",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5427110/"
+  },
+  {
+   "name": "5275590",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5275590/"
+  },
+  {
+   "name": "3681610",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/3681610/"
+  },
+  {
+   "name": "5535320",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/5535320/"
+  },
+  {
+   "name": "4139890",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4139890/"
+  },
+  {
+   "name": "4461460",
+   "release_date": "",
+   "store_url": "https://store.steampowered.com/app/4461460/"
+  }
+ ],
+ "window": "2026-11-17 ~ 2026-11-28",
+ "young_and_noticed": [
+  {
+   "appid": "4262460",
+   "days_since_release": 24,
+   "genres": [
+    "액션",
+    "대규모 멀티플레이어",
+    "RPG",
+    "시뮬레이션",
+    "무료 플레이",
+    "앞서 해보기"
+   ],
+   "is_free": true,
+   "is_new_release": false,
+   "median_minutes": 426,
+   "name": "ROB RUN",
+   "owners": "10,000,000 .. 20,000,000",
+   "pct_change": null,
+   "players": 188820,
+   "positive_rate": 49.5,
+   "price": "",
+   "reviews": 125399,
+   "reviews_gained": null,
+   "store_url": "https://store.steampowered.com/app/4262460/"
+  },
+  {
+   "appid": "1203620",
+   "days_since_release": 44,
+   "genres": [
+    "액션",
+    "어드벤처",
+    "인디",
+    "RPG"
+   ],
+   "is_free": false,
+   "is_new_release": false,
+   "median_minutes": 1148,
+   "name": "Enshrouded",
+   "owners": "2,000,000 .. 5,000,000",
+   "pct_change": null,
+   "players": 18736,
+   "positive_rate": 86.6,
+   "price": "₩ 42,900",
+   "reviews": 105636,
+   "reviews_gained": null,
+   "store_url": "https://store.steampowered.com/app/1203620/"
+  }
+ ]
+}
